@@ -1,0 +1,119 @@
+[
+  {
+    "locale": "zh"
+  },
+  {
+    "key": "cos",
+    "mappings": {
+      "default": {
+        "default": "余弦"
+      }
+    }
+  },
+  {
+    "key": "cot",
+    "mappings": {
+      "default": {
+        "default": "余切"
+      }
+    }
+  },
+  {
+    "key": "csc",
+    "mappings": {
+      "default": {
+        "default": "余割"
+      }
+    }
+  },
+  {
+    "key": "sec",
+    "mappings": {
+      "default": {
+        "default": "正割"
+      }
+    }
+  },
+  {
+    "key": "sin",
+    "mappings": {
+      "default": {
+        "default": "正弦"
+      }
+    }
+  },
+  {
+    "key": "tan",
+    "mappings": {
+      "default": {
+        "default": "正切"
+      }
+    }
+  },
+  {
+    "key": "arccos",
+    "mappings": {
+      "default": {
+        "default": "反余弦"
+      },
+      "clearspeak": {
+        "Trig_TrigInverse": "余弦的反函数"
+      }
+    }
+  },
+  {
+    "key": "arccot",
+    "mappings": {
+      "default": {
+        "default": "反余切"
+      },
+      "clearspeak": {
+        "Trig_TrigInverse": "余切的反函数"
+      }
+    }
+  },
+  {
+    "key": "arccsc",
+    "mappings": {
+      "default": {
+        "default": "反余割"
+      },
+      "clearspeak": {
+        "Trig_TrigInverse": "余割的反函数"
+      }
+    }
+  },
+  {
+    "key": "arcsec",
+    "mappings": {
+      "default": {
+        "default": "反正割"
+      },
+      "clearspeak": {
+        "Trig_TrigInverse": "正割的反函数"
+      }
+    }
+  },
+  {
+    "key": "arcsin",
+    "mappings": {
+      "default": {
+        "default": "反正弦"
+      },
+      "clearspeak": {
+        "Trig_TrigInverse": "正弦的反函数"
+      }
+    }
+  },
+  {
+    "key": "arctan",
+    "mappings": {
+      "default": {
+        "default": "反正切"
+      },
+      "clearspeak": {
+        "Trig_TrigInverse": "正切的反函数"
+      }
+    }
+  }
+]

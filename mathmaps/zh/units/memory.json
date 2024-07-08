@@ -1,0 +1,29 @@
+[
+  {
+    "locale": "zh"
+  },
+  {
+    "key": "b",
+    "mappings": {
+      "default": {
+        "default": "比特"
+      }
+    }
+  },
+  {
+    "key": "B",
+    "mappings": {
+      "default": {
+        "default": "字节"
+      }
+    }
+  },
+  {
+    "key": "KB",
+    "mappings": {
+      "default": {
+        "default": "千字节"
+      }
+    }
+  }
+]

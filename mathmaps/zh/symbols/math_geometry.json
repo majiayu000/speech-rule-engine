@@ -1,0 +1,2373 @@
+[
+  {
+    "locale": "zh"
+  },
+  {
+    "key": "2500",
+    "mappings": {
+      "default": {
+        "default": "箱线细水平线"
+      }
+    }
+  },
+  {
+    "key": "2501",
+    "mappings": {
+      "default": {
+        "default": "箱线粗水平线"
+      }
+    }
+  },
+  {
+    "key": "2502",
+    "mappings": {
+      "default": {
+        "default": "箱线细竖线"
+      }
+    }
+  },
+  {
+    "key": "2503",
+    "mappings": {
+      "default": {
+        "default": "箱线粗竖线"
+      }
+    }
+  },
+  {
+    "key": "2504",
+    "mappings": {
+      "default": {
+        "default": "箱线细三横线"
+      }
+    }
+  },
+  {
+    "key": "2505",
+    "mappings": {
+      "default": {
+        "default": "箱线粗三横线"
+      }
+    }
+  },
+  {
+    "key": "2506",
+    "mappings": {
+      "default": {
+        "default": "箱线细三竖线"
+      }
+    }
+  },
+  {
+    "key": "2507",
+    "mappings": {
+      "default": {
+        "default": "箱线粗三竖线"
+      }
+    }
+  },
+  {
+    "key": "2508",
+    "mappings": {
+      "default": {
+        "default": "箱线细四横线"
+      }
+    }
+  },
+  {
+    "key": "2509",
+    "mappings": {
+      "default": {
+        "default": "箱线粗四横线"
+      }
+    }
+  },
+  {
+    "key": "250A",
+    "mappings": {
+      "default": {
+        "default": "箱线细四竖线"
+      }
+    }
+  },
+  {
+    "key": "250B",
+    "mappings": {
+      "default": {
+        "default": "箱线粗四竖线"
+      }
+    }
+  },
+  {
+    "key": "250C",
+    "mappings": {
+      "default": {
+        "default": "箱线细左下斜线"
+      }
+    }
+  },
+  {
+    "key": "250D",
+    "mappings": {
+      "default": {
+        "default": "箱线细左粗右下斜线"
+      }
+    }
+  },
+  {
+    "key": "250E",
+    "mappings": {
+      "default": {
+        "default": "箱线粗左细右下斜线"
+      }
+    }
+  },
+  {
+    "key": "250F",
+    "mappings": {
+      "default": {
+        "default": "箱线粗左下斜线"
+      }
+    }
+  },
+  {
+    "key": "2510",
+    "mappings": {
+      "default": {
+        "default": "箱线细右下斜线"
+      }
+    }
+  },
+  {
+    "key": "2511",
+    "mappings": {
+      "default": {
+        "default": "箱线细右粗左下斜线"
+      }
+    }
+  },
+  {
+    "key": "2512",
+    "mappings": {
+      "default": {
+        "default": "箱线粗右细左下斜线"
+      }
+    }
+  },
+  {
+    "key": "2513",
+    "mappings": {
+      "default": {
+        "default": "箱线粗右下斜线"
+      }
+    }
+  },
+  {
+    "key": "2514",
+    "mappings": {
+      "default": {
+        "default": "箱线细左上斜线"
+      }
+    }
+  },
+  {
+    "key": "2515",
+    "mappings": {
+      "default": {
+        "default": "箱线细左粗右上斜线"
+      }
+    }
+  },
+  {
+    "key": "2516",
+    "mappings": {
+      "default": {
+        "default": "箱线粗左细右上斜线"
+      }
+    }
+  },
+  {
+    "key": "2517",
+    "mappings": {
+      "default": {
+        "default": "箱线粗左上斜线"
+      }
+    }
+  },
+  {
+    "key": "2518",
+    "mappings": {
+      "default": {
+        "default": "箱线细右上斜线"
+      }
+    }
+  },
+  {
+    "key": "2519",
+    "mappings": {
+      "default": {
+        "default": "箱线细右粗左上斜线"
+      }
+    }
+  },
+  {
+    "key": "251A",
+    "mappings": {
+      "default": {
+        "default": "箱线粗右细左上斜线"
+      }
+    }
+  },
+  {
+    "key": "251B",
+    "mappings": {
+      "default": {
+        "default": "箱线粗右上斜线"
+      }
+    }
+  },
+  {
+    "key": "251C",
+    "mappings": {
+      "default": {
+        "default": "箱线细竖右斜线"
+      }
+    }
+  },
+  {
+    "key": "251D",
+    "mappings": {
+      "default": {
+        "default": "箱线细竖粗右斜线"
+      }
+    }
+  },
+  {
+    "key": "251E",
+    "mappings": {
+      "default": {
+        "default": "箱线粗上细下右斜线"
+      }
+    }
+  },
+  {
+    "key": "251F",
+    "mappings": {
+      "default": {
+        "default": "箱线粗下细上右斜线"
+      }
+    }
+  },
+  {
+    "key": "2520",
+    "mappings": {
+      "default": {
+        "default": "箱线粗竖细右斜线"
+      }
+    }
+  },
+  {
+    "key": "2521",
+    "mappings": {
+      "default": {
+        "default": "箱线细下粗上右斜线"
+      }
+    }
+  },
+  {
+    "key": "2522",
+    "mappings": {
+      "default": {
+        "default": "箱线细上粗下右斜线"
+      }
+    }
+  },
+  {
+    "key": "2523",
+    "mappings": {
+      "default": {
+        "default": "箱线粗竖粗右斜线"
+      }
+    }
+  },
+  {
+    "key": "2524",
+    "mappings": {
+      "default": {
+        "default": "箱线细竖左斜线"
+      }
+    }
+  },
+  {
+    "key": "2525",
+    "mappings": {
+      "default": {
+        "default": "箱线细竖粗左斜线"
+      }
+    }
+  },
+  {
+    "key": "2526",
+    "mappings": {
+      "default": {
+        "default": "箱线粗上细下左斜线"
+      }
+    }
+  },
+  {
+    "key": "2527",
+    "mappings": {
+      "default": {
+        "default": "箱线粗下细上左斜线"
+      }
+    }
+  },
+  {
+    "key": "2528",
+    "mappings": {
+      "default": {
+        "default": "箱线粗竖细左斜线"
+      }
+    }
+  },
+  {
+    "key": "2529",
+    "mappings": {
+      "default": {
+        "default": "箱线细下粗上左斜线"
+      }
+    }
+  },
+  {
+    "key": "252A",
+    "mappings": {
+      "default": {
+        "default": "箱线细上粗下左斜线"
+      }
+    }
+  },
+  {
+    "key": "252B",
+    "mappings": {
+      "default": {
+        "default": "箱线粗竖粗左斜线"
+      }
+    }
+  },
+  {
+    "key": "252C",
+    "mappings": {
+      "default": {
+        "default": "箱线细下横线"
+      }
+    }
+  },
+  {
+    "key": "252D",
+    "mappings": {
+      "default": {
+        "default": "箱线粗左细右下横线"
+      }
+    }
+  },
+  {
+    "key": "252E",
+    "mappings": {
+      "default": {
+        "default": "箱线粗右细左下横线"
+      }
+    }
+  },
+  {
+    "key": "252F",
+    "mappings": {
+      "default": {
+        "default": "箱线细下粗横线"
+      }
+    }
+  },
+  {
+    "key": "2530",
+    "mappings": {
+      "default": {
+        "default": "箱线粗下细横线"
+      }
+    }
+  },
+  {
+    "key": "2531",
+    "mappings": {
+      "default": {
+        "default": "箱线细右粗左下横线"
+      }
+    }
+  },
+  {
+    "key": "2532",
+    "mappings": {
+      "default": {
+        "default": "箱线细左粗右下横线"
+      }
+    }
+  },
+  {
+    "key": "2533",
+    "mappings": {
+      "default": {
+        "default": "箱线粗下粗横线"
+      }
+    }
+  },
+  {
+    "key": "2534",
+    "mappings": {
+      "default": {
+        "default": "箱线细上横线"
+      }
+    }
+  },
+  {
+    "key": "2535",
+    "mappings": {
+      "default": {
+        "default": "箱线粗左细右上横线"
+      }
+    }
+  },
+  {
+    "key": "2536",
+    "mappings": {
+      "default": {
+        "default": "箱线粗右细左上横线"
+      }
+    }
+  },
+  {
+    "key": "2537",
+    "mappings": {
+      "default": {
+        "default": "箱线细上粗横线"
+      }
+    }
+  },
+  {
+    "key": "2538",
+    "mappings": {
+      "default": {
+        "default": "箱线粗上细横线"
+      }
+    }
+  },
+  {
+    "key": "2539",
+    "mappings": {
+      "default": {
+        "default": "箱线细右粗左上横线"
+      }
+    }
+  },
+  {
+    "key": "253A",
+    "mappings": {
+      "default": {
+        "default": "箱线细左粗右上横线"
+      }
+    }
+  },
+  {
+    "key": "253B",
+    "mappings": {
+      "default": {
+        "default": "箱线粗上粗横线"
+      }
+    }
+  },
+  {
+    "key": "253C",
+    "mappings": {
+      "default": {
+        "default": "箱线细竖横线"
+      }
+    }
+  },
+  {
+    "key": "253D",
+    "mappings": {
+      "default": {
+        "default": "箱线粗左细竖右横线"
+      }
+    }
+  },
+  {
+    "key": "253E",
+    "mappings": {
+      "default": {
+        "default": "箱线粗右细竖左横线"
+      }
+    }
+  },
+  {
+    "key": "253F",
+    "mappings": {
+      "default": {
+        "default": "箱线细竖粗横线"
+      }
+    }
+  },
+  {
+    "key": "2540",
+    "mappings": {
+      "default": {
+        "default": "箱线粗上细下横线"
+      }
+    }
+  },
+  {
+    "key": "2541",
+    "mappings": {
+      "default": {
+        "default": "箱线粗下细上横线"
+      }
+    }
+  },
+  {
+    "key": "2542",
+    "mappings": {
+      "default": {
+        "default": "箱线粗竖细横线"
+      }
+    }
+  },
+  {
+    "key": "2543",
+    "mappings": {
+      "default": {
+        "default": "箱线粗左上细右下斜线"
+      }
+    }
+  },
+  {
+    "key": "2544",
+    "mappings": {
+      "default": {
+        "default": "箱线粗右上细左下斜线"
+      }
+    }
+  },
+  {
+    "key": "2545",
+    "mappings": {
+      "default": {
+        "default": "箱线粗左下细右上斜线"
+      }
+    }
+  },
+  {
+    "key": "2546",
+    "mappings": {
+      "default": {
+        "default": "箱线粗右下细左上斜线"
+      }
+    }
+  },
+  {
+    "key": "2547",
+    "mappings": {
+      "default": {
+        "default": "箱线细下粗上横线"
+      }
+    }
+  },
+  {
+    "key": "2548",
+    "mappings": {
+      "default": {
+        "default": "箱线细上粗下横线"
+      }
+    }
+  },
+  {
+    "key": "2549",
+    "mappings": {
+      "default": {
+        "default": "箱线细右粗左竖线"
+      }
+    }
+  },
+  {
+    "key": "254A",
+    "mappings": {
+      "default": {
+        "default": "箱线细左粗右竖线"
+      }
+    }
+  },
+  {
+    "key": "254B",
+    "mappings": {
+      "default": {
+        "default": "箱线粗竖粗横线"
+      }
+    }
+  },
+  {
+    "key": "254C",
+    "mappings": {
+      "default": {
+        "default": "箱线细双横线"
+      }
+    }
+  },
+  {
+    "key": "254D",
+    "mappings": {
+      "default": {
+        "default": "箱线粗双横线"
+      }
+    }
+  },
+  {
+    "key": "254E",
+    "mappings": {
+      "default": {
+        "default": "箱线细双竖线"
+      }
+    }
+  },
+  {
+    "key": "254F",
+    "mappings": {
+      "default": {
+        "default": "箱线粗双竖线"
+      }
+    }
+  },
+  {
+    "key": "2550",
+    "mappings": {
+      "default": {
+        "default": "箱线双横线"
+      }
+    }
+  },
+  {
+    "key": "2551",
+    "mappings": {
+      "default": {
+        "default": "箱线双竖线"
+      }
+    }
+  },
+  {
+    "key": "2552",
+    "mappings": {
+      "default": {
+        "default": "箱线单下双右斜线"
+      }
+    }
+  },
+  {
+    "key": "2553",
+    "mappings": {
+      "default": {
+        "default": "箱线双下单右斜线"
+      }
+    }
+  },
+  {
+    "key": "2554",
+    "mappings": {
+      "default": {
+        "default": "箱线双下双右斜线"
+      }
+    }
+  },
+  {
+    "key": "2555",
+    "mappings": {
+      "default": {
+        "default": "箱线单下双左斜线"
+      }
+    }
+  },
+  {
+    "key": "2556",
+    "mappings": {
+      "default": {
+        "default": "箱线双下单左斜线"
+      }
+    }
+  },
+  {
+    "key": "2557",
+    "mappings": {
+      "default": {
+        "default": "箱线双下双左斜线"
+      }
+    }
+  },
+  {
+    "key": "2558",
+    "mappings": {
+      "default": {
+        "default": "箱线单上双右斜线"
+      }
+    }
+  },
+  {
+    "key": "2559",
+    "mappings": {
+      "default": {
+        "default": "箱线双上单右斜线"
+      }
+    }
+  },
+  {
+    "key": "255A",
+    "mappings": {
+      "default": {
+        "default": "箱线双上双右斜线"
+      }
+    }
+  },
+  {
+    "key": "255B",
+    "mappings": {
+      "default": {
+        "default": "箱线单上双左斜线"
+      }
+    }
+  },
+  {
+    "key": "255C",
+    "mappings": {
+      "default": {
+        "default": "箱线双上单左斜线"
+      }
+    }
+  },
+  {
+    "key": "255D",
+    "mappings": {
+      "default": {
+        "default": "箱线双上双左斜线"
+      }
+    }
+  },
+  {
+    "key": "255E",
+    "mappings": {
+      "default": {
+        "default": "箱线单竖双右斜线"
+      }
+    }
+  },
+  {
+    "key": "255F",
+    "mappings": {
+      "default": {
+        "default": "箱线双竖单右斜线"
+      }
+    }
+  },
+  {
+    "key": "2560",
+    "mappings": {
+      "default": {
+        "default": "箱线双竖双右斜线"
+      }
+    }
+  },
+  {
+    "key": "2561",
+    "mappings": {
+      "default": {
+        "default": "箱线单竖双左斜线"
+      }
+    }
+  },
+  {
+    "key": "2562",
+    "mappings": {
+      "default": {
+        "default": "箱线双竖单左斜线"
+      }
+    }
+  },
+  {
+    "key": "2563",
+    "mappings": {
+      "default": {
+        "default": "箱线双竖双左斜线"
+      }
+    }
+  },
+  {
+    "key": "2564",
+    "mappings": {
+      "default": {
+        "default": "箱线单下双横线"
+      }
+    }
+  },
+  {
+    "key": "2565",
+    "mappings": {
+      "default": {
+        "default": "箱线双下单横线"
+      }
+    }
+  },
+  {
+    "key": "2566",
+    "mappings": {
+      "default": {
+        "default": "箱线双下双横线"
+      }
+    }
+  },
+  {
+    "key": "2567",
+    "mappings": {
+      "default": {
+        "default": "箱线单上双横线"
+      }
+    }
+  },
+  {
+    "key": "2568",
+    "mappings": {
+      "default": {
+        "default": "箱线双上单横线"
+      }
+    }
+  },
+  {
+    "key": "2569",
+    "mappings": {
+      "default": {
+        "default": "箱线双上双横线"
+      }
+    }
+  },
+  {
+    "key": "256A",
+    "mappings": {
+      "default": {
+        "default": "箱线单竖双横线"
+      }
+    }
+  },
+  {
+    "key": "256B",
+    "mappings": {
+      "default": {
+        "default": "箱线双竖单横线"
+      }
+    }
+  },
+  {
+    "key": "256C",
+    "mappings": {
+      "default": {
+        "default": "箱线双竖双横线"
+      }
+    }
+  },
+  {
+    "key": "256D",
+    "mappings": {
+      "default": {
+        "default": "箱线细左下弧线"
+      }
+    }
+  },
+  {
+    "key": "256E",
+    "mappings": {
+      "default": {
+        "default": "箱线细右下弧线"
+      }
+    }
+  },
+  {
+    "key": "256F",
+    "mappings": {
+      "default": {
+        "default": "箱线细左上弧线"
+      }
+    }
+  },
+  {
+    "key": "2570",
+    "mappings": {
+      "default": {
+        "default": "箱线细右上弧线"
+      }
+    }
+  },
+  {
+    "key": "2571",
+    "mappings": {
+      "default": {
+        "default": "箱线细右上左下斜线"
+      }
+    }
+  },
+  {
+    "key": "2572",
+    "mappings": {
+      "default": {
+        "default": "箱线细左上右下斜线"
+      }
+    }
+  },
+  {
+    "key": "2573",
+    "mappings": {
+      "default": {
+        "default": "箱线细十字斜线"
+      }
+    }
+  },
+  {
+    "key": "2574",
+    "mappings": {
+      "default": {
+        "default": "箱线细左线"
+      }
+    }
+  },
+  {
+    "key": "2575",
+    "mappings": {
+      "default": {
+        "default": "箱线细上线"
+      }
+    }
+  },
+  {
+    "key": "2576",
+    "mappings": {
+      "default": {
+        "default": "箱线细右线"
+      }
+    }
+  },
+  {
+    "key": "2577",
+    "mappings": {
+      "default": {
+        "default": "箱线细下线"
+      }
+    }
+  },
+  {
+    "key": "2578",
+    "mappings": {
+      "default": {
+        "default": "箱线粗左线"
+      }
+    }
+  },
+  {
+    "key": "2579",
+    "mappings": {
+      "default": {
+        "default": "箱线粗上线"
+      }
+    }
+  },
+  {
+    "key": "257A",
+    "mappings": {
+      "default": {
+        "default": "箱线粗右线"
+      }
+    }
+  },
+  {
+    "key": "257B",
+    "mappings": {
+      "default": {
+        "default": "箱线粗下线"
+      }
+    }
+  },
+  {
+    "key": "257C",
+    "mappings": {
+      "default": {
+        "default": "箱线细左粗右线"
+      }
+    }
+  },
+  {
+    "key": "257D",
+    "mappings": {
+      "default": {
+        "default": "箱线细上粗下线"
+      }
+    }
+  },
+  {
+    "key": "257E",
+    "mappings": {
+      "default": {
+        "default": "箱线粗左细右线"
+      }
+    }
+  },
+  {
+    "key": "257F",
+    "mappings": {
+      "default": {
+        "default": "箱线粗上细下线"
+      }
+    }
+  },
+  {
+    "key": "2580",
+    "mappings": {
+      "default": {
+        "default": "上半块"
+      }
+    }
+  },
+  {
+    "key": "2581",
+    "mappings": {
+      "default": {
+        "default": "下八分之一块"
+      }
+    }
+  },
+  {
+    "key": "2582",
+    "mappings": {
+      "default": {
+        "default": "下四分之一块"
+      }
+    }
+  },
+  {
+    "key": "2583",
+    "mappings": {
+      "default": {
+        "default": "下三八分之一块"
+      }
+    }
+  },
+  {
+    "key": "2584",
+    "mappings": {
+      "default": {
+        "default": "下半块"
+      }
+    }
+  },
+  {
+    "key": "2585",
+    "mappings": {
+      "default": {
+        "default": "下五八分之一块"
+      }
+    }
+  },
+  {
+    "key": "2586",
+    "mappings": {
+      "default": {
+        "default": "下三四分之一块"
+      }
+    }
+  },
+  {
+    "key": "2587",
+    "mappings": {
+      "default": {
+        "default": "下七八分之一块"
+      }
+    }
+  },
+  {
+    "key": "2588",
+    "mappings": {
+      "default": {
+        "default": "全块"
+      }
+    }
+  },
+  {
+    "key": "2589",
+    "mappings": {
+      "default": {
+        "default": "左七八分之一块"
+      }
+    }
+  },
+  {
+    "key": "258A",
+    "mappings": {
+      "default": {
+        "default": "左三四分之一块"
+      }
+    }
+  },
+  {
+    "key": "258B",
+    "mappings": {
+      "default": {
+        "default": "左五八分之一块"
+      }
+    }
+  },
+  {
+    "key": "258C",
+    "mappings": {
+      "default": {
+        "default": "左半块"
+      }
+    }
+  },
+  {
+    "key": "258D",
+    "mappings": {
+      "default": {
+        "default": "左三八分之一块"
+      }
+    }
+  },
+  {
+    "key": "258E",
+    "mappings": {
+      "default": {
+        "default": "左四分之一块"
+      }
+    }
+  },
+  {
+    "key": "258F",
+    "mappings": {
+      "default": {
+        "default": "左八分之一块"
+      }
+    }
+  },
+  {
+    "key": "2590",
+    "mappings": {
+      "default": {
+        "default": "右半块"
+      }
+    }
+  },
+  {
+    "key": "2591",
+    "mappings": {
+      "default": {
+        "default": "浅灰色"
+      }
+    }
+  },
+  {
+    "key": "2592",
+    "mappings": {
+      "default": {
+        "default": "中等阴影"
+      }
+    }
+  },
+  {
+    "key": "2593",
+    "mappings": {
+      "default": {
+        "default": "深阴影"
+      }
+    }
+  },
+  {
+    "key": "2594",
+    "mappings": {
+      "default": {
+        "default": "上八分之一块"
+      }
+    }
+  },
+  {
+    "key": "2595",
+    "mappings": {
+      "default": {
+        "default": "右八分之一块"
+      }
+    }
+  },
+  {
+    "key": "2596",
+    "mappings": {
+      "default": {
+        "default": "左下象限"
+      }
+    }
+  },
+  {
+    "key": "2597",
+    "mappings": {
+      "default": {
+        "default": "右下象限"
+      }
+    }
+  },
+  {
+    "key": "2598",
+    "mappings": {
+      "default": {
+        "default": "左上象限"
+      }
+    }
+  },
+  {
+    "key": "2599",
+    "mappings": {
+      "default": {
+        "default": "左上、左下及右下象限"
+      }
+    }
+  },
+  {
+    "key": "259A",
+    "mappings": {
+      "default": {
+        "default": "左上及右下象限"
+      }
+    }
+  },
+  {
+    "key": "259B",
+    "mappings": {
+      "default": {
+        "default": "左上、右上及左下象限"
+      }
+    }
+  },
+  {
+    "key": "259C",
+    "mappings": {
+      "default": {
+        "default": "左上、右上及右下象限"
+      }
+    }
+  },
+  {
+    "key": "259D",
+    "mappings": {
+      "default": {
+        "default": "右上象限"
+      }
+    }
+  },
+  {
+    "key": "259E",
+    "mappings": {
+      "default": {
+        "default": "右上及左下象限"
+      }
+    }
+  },
+  {
+    "key": "259F",
+    "mappings": {
+      "default": {
+        "default": "右上、左下及右下象限"
+      }
+    }
+  },
+  {
+    "key": "25A0",
+    "mappings": {
+      "default": {
+        "default": "黑正方形"
+      }
+    }
+  },
+  {
+    "key": "25A1",
+    "mappings": {
+      "default": {
+        "default": "白正方形"
+      }
+    }
+  },
+  {
+    "key": "25A2",
+    "mappings": {
+      "default": {
+        "default": "白圆角方形"
+      }
+    }
+  },
+  {
+    "key": "25A3",
+    "mappings": {
+      "default": {
+        "default": "白方形中黑小方形"
+      }
+    }
+  },
+  {
+    "key": "25A4",
+    "mappings": {
+      "default": {
+        "default": "水平填充方形"
+      }
+    }
+  },
+  {
+    "key": "25A5",
+    "mappings": {
+      "default": {
+        "default": "垂直填充方形"
+      }
+    }
+  },
+  {
+    "key": "25A6",
+    "mappings": {
+      "default": {
+        "default": "正交填充方形"
+      }
+    }
+  },
+  {
+    "key": "25A7",
+    "mappings": {
+      "default": {
+        "default": "左上右下阴影方形"
+      }
+    }
+  },
+  {
+    "key": "25A8",
+    "mappings": {
+      "default": {
+        "default": "右上左下阴影方形"
+      }
+    }
+  },
+  {
+    "key": "25A9",
+    "mappings": {
+      "default": {
+        "default": "对角阴影方形"
+      }
+    }
+  },
+  {
+    "key": "25AA",
+    "mappings": {
+      "default": {
+        "default": "黑小方形"
+      }
+    }
+  },
+  {
+    "key": "25AB",
+    "mappings": {
+      "default": {
+        "default": "白小方形"
+      }
+    }
+  },
+  {
+    "key": "25AC",
+    "mappings": {
+      "default": {
+        "default": "黑长方形"
+      }
+    }
+  },
+  {
+    "key": "25AD",
+    "mappings": {
+      "default": {
+        "default": "白长方形"
+      }
+    }
+  },
+  {
+    "key": "25AE",
+    "mappings": {
+      "default": {
+        "default": "黑竖长方形"
+      }
+    }
+  },
+  {
+    "key": "25AF",
+    "mappings": {
+      "default": {
+        "default": "白竖长方形"
+      }
+    }
+  },
+  {
+    "key": "25B0",
+    "mappings": {
+      "default": {
+        "default": "黑平行四边形"
+      }
+    }
+  },
+  {
+    "key": "25B1",
+    "mappings": {
+      "default": {
+        "default": "白平行四边形"
+      }
+    }
+  },
+  {
+    "key": "25B2",
+    "mappings": {
+      "default": {
+        "default": "黑上三角"
+      }
+    }
+  },
+  {
+    "key": "25B3",
+    "mappings": {
+      "default": {
+        "default": "白上三角"
+      }
+    }
+  },
+  {
+    "key": "25B4",
+    "mappings": {
+      "default": {
+        "default": "黑小上三角"
+      }
+    }
+  },
+  {
+    "key": "25B5",
+    "mappings": {
+      "default": {
+        "default": "白小上三角"
+      }
+    }
+  },
+  {
+    "key": "25B6",
+    "mappings": {
+      "default": {
+        "default": "黑右三角"
+      }
+    }
+  },
+  {
+    "key": "25B7",
+    "mappings": {
+      "default": {
+        "default": "白右三角"
+      }
+    }
+  },
+  {
+    "key": "25B8",
+    "mappings": {
+      "default": {
+        "default": "黑小右三角"
+      }
+    }
+  },
+  {
+    "key": "25B9",
+    "mappings": {
+      "default": {
+        "default": "白小右三角"
+      }
+    }
+  },
+  {
+    "key": "25BA",
+    "mappings": {
+      "default": {
+        "default": "黑右箭头"
+      }
+    }
+  },
+  {
+    "key": "25BB",
+    "mappings": {
+      "default": {
+        "default": "白右箭头"
+      }
+    }
+  },
+  {
+    "key": "25BC",
+    "mappings": {
+      "default": {
+        "default": "黑下三角"
+      }
+    }
+  },
+  {
+    "key": "25BD",
+    "mappings": {
+      "default": {
+        "default": "白下三角"
+      }
+    }
+  },
+  {
+    "key": "25BE",
+    "mappings": {
+      "default": {
+        "default": "黑小下三角"
+      }
+    }
+  },
+  {
+    "key": "25BF",
+    "mappings": {
+      "default": {
+        "default": "白小下三角"
+      }
+    }
+  },
+  {
+    "key": "25C0",
+    "mappings": {
+      "default": {
+        "default": "黑左三角"
+      }
+    }
+  },
+  {
+    "key": "25C1",
+    "mappings": {
+      "default": {
+        "default": "白左三角"
+      }
+    }
+  },
+  {
+    "key": "25C2",
+    "mappings": {
+      "default": {
+        "default": "黑小左三角"
+      }
+    }
+  },
+  {
+    "key": "25C3",
+    "mappings": {
+      "default": {
+        "default": "白小左三角"
+      }
+    }
+  },
+  {
+    "key": "25C4",
+    "mappings": {
+      "default": {
+        "default": "黑左箭头"
+      }
+    }
+  },
+  {
+    "key": "25C5",
+    "mappings": {
+      "default": {
+        "default": "白左箭头"
+      }
+    }
+  },
+  {
+    "key": "25C6",
+    "mappings": {
+      "default": {
+        "default": "黑菱形"
+      }
+    }
+  },
+  {
+    "key": "25C7",
+    "mappings": {
+      "default": {
+        "default": "白菱形"
+      }
+    }
+  },
+  {
+    "key": "25C8",
+    "mappings": {
+      "default": {
+        "default": "白菱形中黑小菱形"
+      }
+    }
+  },
+  {
+    "key": "25C9",
+    "mappings": {
+      "default": {
+        "default": "鱼眼"
+      }
+    }
+  },
+  {
+    "key": "25CA",
+    "mappings": {
+      "default": {
+        "default": "横菱形"
+      }
+    }
+  },
+  {
+    "key": "25CB",
+    "mappings": {
+      "default": {
+        "default": "白圆"
+      }
+    }
+  },
+  {
+    "key": "25CC",
+    "mappings": {
+      "default": {
+        "default": "圆点圆"
+      }
+    }
+  },
+  {
+    "key": "25CD",
+    "mappings": {
+      "default": {
+        "default": "竖线填充圆"
+      }
+    }
+  },
+  {
+    "key": "25CE",
+    "mappings": {
+      "default": {
+        "default": "射击靶心"
+      }
+    }
+  },
+  {
+    "key": "25CF",
+    "mappings": {
+      "default": {
+        "default": "黑圆"
+      }
+    }
+  },
+  {
+    "key": "25D0",
+    "mappings": {
+      "default": {
+        "default": "左半黑圆"
+      }
+    }
+  },
+  {
+    "key": "25D1",
+    "mappings": {
+      "default": {
+        "default": "右半黑圆"
+      }
+    }
+  },
+  {
+    "key": "25D2",
+    "mappings": {
+      "default": {
+        "default": "下半黑圆"
+      }
+    }
+  },
+  {
+    "key": "25D3",
+    "mappings": {
+      "default": {
+        "default": "上半黑圆"
+      }
+    }
+  },
+  {
+    "key": "25D4",
+    "mappings": {
+      "default": {
+        "default": "右上象限黑圆"
+      }
+    }
+  },
+  {
+    "key": "25D5",
+    "mappings": {
+      "default": {
+        "default": "左上象限白圆"
+      }
+    }
+  },
+  {
+    "key": "25D6",
+    "mappings": {
+      "default": {
+        "default": "左半黑圆"
+      }
+    }
+  },
+  {
+    "key": "25D7",
+    "mappings": {
+      "default": {
+        "default": "右半黑圆"
+      }
+    }
+  },
+  {
+    "key": "25D8",
+    "mappings": {
+      "default": {
+        "default": "反向实心圆"
+      }
+    }
+  },
+  {
+    "key": "25D9",
+    "mappings": {
+      "default": {
+        "default": "反向白圆"
+      }
+    }
+  },
+  {
+    "key": "25DA",
+    "mappings": {
+      "default": {
+        "default": "上半反向白圆"
+      }
+    }
+  },
+  {
+    "key": "25DB",
+    "mappings": {
+      "default": {
+        "default": "下半反向白圆"
+      }
+    }
+  },
+  {
+    "key": "25DC",
+    "mappings": {
+      "default": {
+        "default": "左上圆弧"
+      }
+    }
+  },
+  {
+    "key": "25DD",
+    "mappings": {
+      "default": {
+        "default": "右上圆弧"
+      }
+    }
+  },
+  {
+    "key": "25DE",
+    "mappings": {
+      "default": {
+        "default": "右下圆弧"
+      }
+    }
+  },
+  {
+    "key": "25DF",
+    "mappings": {
+      "default": {
+        "default": "左下圆弧"
+      }
+    }
+  },
+  {
+    "key": "25E0",
+    "mappings": {
+      "default": {
+        "default": "上半圆"
+      }
+    }
+  },
+  {
+    "key": "25E1",
+    "mappings": {
+      "default": {
+        "default": "下半圆"
+      }
+    }
+  },
+  {
+    "key": "25E2",
+    "mappings": {
+      "default": {
+        "default": "黑右下三角"
+      }
+    }
+  },
+  {
+    "key": "25E3",
+    "mappings": {
+      "default": {
+        "default": "黑左下三角"
+      }
+    }
+  },
+  {
+    "key": "25E4",
+    "mappings": {
+      "default": {
+        "default": "黑左上三角"
+      }
+    }
+  },
+  {
+    "key": "25E5",
+    "mappings": {
+      "default": {
+        "default": "黑右上三角"
+      }
+    }
+  },
+  {
+    "key": "25E6",
+    "mappings": {
+      "default": {
+        "default": "白实心圆"
+      }
+    }
+  },
+  {
+    "key": "25E7",
+    "mappings": {
+      "default": {
+        "default": "左半黑方"
+      }
+    }
+  },
+  {
+    "key": "25E8",
+    "mappings": {
+      "default": {
+        "default": "右半黑方"
+      }
+    }
+  },
+  {
+    "key": "25E9",
+    "mappings": {
+      "default": {
+        "default": "左上对角黑方"
+      }
+    }
+  },
+  {
+    "key": "25EA",
+    "mappings": {
+      "default": {
+        "default": "右下对角黑方"
+      }
+    }
+  },
+  {
+    "key": "25EB",
+    "mappings": {
+      "default": {
+        "default": "白垂直分半方"
+      }
+    }
+  },
+  {
+    "key": "25EC",
+    "mappings": {
+      "default": {
+        "default": "白上点三角"
+      }
+    }
+  },
+  {
+    "key": "25ED",
+    "mappings": {
+      "default": {
+        "default": "左半黑上三角"
+      }
+    }
+  },
+  {
+    "key": "25EE",
+    "mappings": {
+      "default": {
+        "default": "右半黑上三角"
+      }
+    }
+  },
+  {
+    "key": "25EF",
+    "mappings": {
+      "default": {
+        "default": "大圆"
+      }
+    }
+  },
+  {
+    "key": "25F0",
+    "mappings": {
+      "default": {
+        "default": "白左上象限方"
+      }
+    }
+  },
+  {
+    "key": "25F1",
+    "mappings": {
+      "default": {
+        "default": "白左下象限方"
+      }
+    }
+  },
+  {
+    "key": "25F2",
+    "mappings": {
+      "default": {
+        "default": "白右下象限方"
+      }
+    }
+  },
+  {
+    "key": "25F3",
+    "mappings": {
+      "default": {
+        "default": "白右上象限方"
+      }
+    }
+  },
+  {
+    "key": "25F4",
+    "mappings": {
+      "default": {
+        "default": "白左上象限圆"
+      }
+    }
+  },
+  {
+    "key": "25F5",
+    "mappings": {
+      "default": {
+        "default": "白左下象限圆"
+      }
+    }
+  },
+  {
+    "key": "25F6",
+    "mappings": {
+      "default": {
+        "default": "白右下象限圆"
+      }
+    }
+  },
+  {
+    "key": "25F7",
+    "mappings": {
+      "default": {
+        "default": "白右上象限圆"
+      }
+    }
+  },
+  {
+    "key": "25F8",
+    "mappings": {
+      "default": {
+        "default": "左上三角"
+      }
+    }
+  },
+  {
+    "key": "25F9",
+    "mappings": {
+      "default": {
+        "default": "右上三角"
+      }
+    }
+  },
+  {
+    "key": "25FA",
+    "mappings": {
+      "default": {
+        "default": "左下三角"
+      }
+    }
+  },
+  {
+    "key": "25FB",
+    "mappings": {
+      "default": {
+        "default": "白中方"
+      }
+    }
+  },
+  {
+    "key": "25FC",
+    "mappings": {
+      "default": {
+        "default": "黑中方"
+      }
+    }
+  },
+  {
+    "key": "25FD",
+    "mappings": {
+      "default": {
+        "default": "白小方"
+      }
+    }
+  },
+  {
+    "key": "25FE",
+    "mappings": {
+      "default": {
+        "default": "黑小方"
+      }
+    }
+  },
+  {
+    "key": "25FF",
+    "mappings": {
+      "default": {
+        "default": "右下三角"
+      }
+    }
+  },
+  {
+    "key": "2B12",
+    "mappings": {
+      "default": {
+        "default": "上半黑方"
+      }
+    }
+  },
+  {
+    "key": "2B13",
+    "mappings": {
+      "default": {
+        "default": "下半黑方"
+      }
+    }
+  },
+  {
+    "key": "2B14",
+    "mappings": {
+      "default": {
+        "default": "右上对角黑方"
+      }
+    }
+  },
+  {
+    "key": "2B15",
+    "mappings": {
+      "default": {
+        "default": "左下对角黑方"
+      }
+    }
+  },
+  {
+    "key": "2B16",
+    "mappings": {
+      "default": {
+        "default": "左半黑菱形"
+      }
+    }
+  },
+  {
+    "key": "2B17",
+    "mappings": {
+      "default": {
+        "default": "右半黑菱形"
+      }
+    }
+  },
+  {
+    "key": "2B18",
+    "mappings": {
+      "default": {
+        "default": "上半黑菱形"
+      }
+    }
+  },
+  {
+    "key": "2B19",
+    "mappings": {
+      "default": {
+        "default": "下半黑菱形"
+      }
+    }
+  },
+  {
+    "key": "2B1A",
+    "mappings": {
+      "default": {
+        "default": "圆点方"
+      }
+    }
+  },
+  {
+    "key": "2B1B",
+    "mappings": {
+      "default": {
+        "default": "黑大方"
+      }
+    }
+  },
+  {
+    "key": "2B1C",
+    "mappings": {
+      "default": {
+        "default": "白大方"
+      }
+    }
+  },
+  {
+    "key": "2B1D",
+    "mappings": {
+      "default": {
+        "default": "黑很小方"
+      }
+    }
+  },
+  {
+    "key": "2B1E",
+    "mappings": {
+      "default": {
+        "default": "白很小方"
+      }
+    }
+  },
+  {
+    "key": "2B1F",
+    "mappings": {
+      "default": {
+        "default": "黑五角形"
+      }
+    }
+  },
+  {
+    "key": "2B20",
+    "mappings": {
+      "default": {
+        "default": "白五角形"
+      }
+    }
+  },
+  {
+    "key": "2B21",
+    "mappings": {
+      "default": {
+        "default": "白六角形"
+      }
+    }
+  },
+  {
+    "key": "2B22",
+    "mappings": {
+      "default": {
+        "default": "黑六角形"
+      }
+    }
+  },
+  {
+    "key": "2B23",
+    "mappings": {
+      "default": {
+        "default": "横置黑六角形"
+      }
+    }
+  },
+  {
+    "key": "2B24",
+    "mappings": {
+      "default": {
+        "default": "黑大圆"
+      }
+    }
+  },
+  {
+    "key": "2B25",
+    "mappings": {
+      "default": {
+        "default": "黑中菱形"
+      }
+    }
+  },
+  {
+    "key": "2B26",
+    "mappings": {
+      "default": {
+        "default": "白中菱形"
+      }
+    }
+  },
+  {
+    "key": "2B27",
+    "mappings": {
+      "default": {
+        "default": "黑中横菱形"
+      }
+    }
+  },
+  {
+    "key": "2B28",
+    "mappings": {
+      "default": {
+        "default": "白中横菱形"
+      }
+    }
+  },
+  {
+    "key": "2B29",
+    "mappings": {
+      "default": {
+        "default": "黑小菱形"
+      }
+    }
+  },
+  {
+    "key": "2B2A",
+    "mappings": {
+      "default": {
+        "default": "黑小横菱形"
+      }
+    }
+  },
+  {
+    "key": "2B2B",
+    "mappings": {
+      "default": {
+        "default": "白小横菱形"
+      }
+    }
+  },
+  {
+    "key": "2B2C",
+    "mappings": {
+      "default": {
+        "default": "黑横椭圆"
+      }
+    }
+  },
+  {
+    "key": "2B2D",
+    "mappings": {
+      "default": {
+        "default": "白横椭圆"
+      }
+    }
+  },
+  {
+    "key": "2B2E",
+    "mappings": {
+      "default": {
+        "default": "黑竖椭圆"
+      }
+    }
+  },
+  {
+    "key": "2B2F",
+    "mappings": {
+      "default": {
+        "default": "白竖椭圆"
+      }
+    }
+  },
+  {
+    "key": "2B50",
+    "mappings": {
+      "default": {
+        "default": "白中星形"
+      }
+    }
+  },
+  {
+    "key": "2B51",
+    "mappings": {
+      "default": {
+        "default": "黑小星形"
+      }
+    }
+  },
+  {
+    "key": "2B52",
+    "mappings": {
+      "default": {
+        "default": "白小星形"
+      }
+    }
+  },
+  {
+    "key": "2B53",
+    "mappings": {
+      "default": {
+        "default": "黑右五角形"
+      }
+    }
+  },
+  {
+    "key": "2B54",
+    "mappings": {
+      "default": {
+        "default": "白右五角形"
+      }
+    }
+  },
+  {
+    "key": "2B55",
+    "mappings": {
+      "default": {
+        "default": "粗大圆"
+      }
+    }
+  },
+  {
+    "key": "2B56",
+    "mappings": {
+      "default": {
+        "default": "粗内橢圆外橢圆"
+      }
+    }
+  },
+  {
+    "key": "2B57",
+    "mappings": {
+      "default": {
+        "default": "粗内圆外圆"
+      }
+    }
+  },
+  {
+    "key": "2B58",
+    "mappings": {
+      "default": {
+        "default": "粗圆"
+      }
+    }
+  },
+  {
+    "key": "2B59",
+    "mappings": {
+      "default": {
+        "default": "粗圆斩十字"
+      }
+    }
+  }
+]

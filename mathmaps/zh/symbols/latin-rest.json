@@ -1,0 +1,505 @@
+[
+  {
+    "locale": "zh"
+  },
+  {
+    "key": "210E",
+    "mappings": {
+      "default": {
+        "default": "斜体h",
+        "physics": "普朗克常数"
+      }
+    }
+  },
+  {
+    "key": "0363",
+    "mappings": {
+      "default": {
+        "default": "组合a"
+      }
+    }
+  },
+  {
+    "key": "0364",
+    "mappings": {
+      "default": {
+        "default": "组合e"
+      }
+    }
+  },
+  {
+    "key": "0365",
+    "mappings": {
+      "default": {
+        "default": "组合i"
+      }
+    }
+  },
+  {
+    "key": "0366",
+    "mappings": {
+      "default": {
+        "default": "组合o"
+      }
+    }
+  },
+  {
+    "key": "0367",
+    "mappings": {
+      "default": {
+        "default": "组合u"
+      }
+    }
+  },
+  {
+    "key": "0368",
+    "mappings": {
+      "default": {
+        "default": "组合c"
+      }
+    }
+  },
+  {
+    "key": "0369",
+    "mappings": {
+      "default": {
+        "default": "组合d"
+      }
+    }
+  },
+  {
+    "key": "036A",
+    "mappings": {
+      "default": {
+        "default": "组合h"
+      }
+    }
+  },
+  {
+    "key": "036B",
+    "mappings": {
+      "default": {
+        "default": "组合m"
+      }
+    }
+  },
+  {
+    "key": "036C",
+    "mappings": {
+      "default": {
+        "default": "组合r"
+      }
+    }
+  },
+  {
+    "key": "036D",
+    "mappings": {
+      "default": {
+        "default": "组合t"
+      }
+    }
+  },
+  {
+    "key": "036E",
+    "mappings": {
+      "default": {
+        "default": "组合v"
+      }
+    }
+  },
+  {
+    "key": "036F",
+    "mappings": {
+      "default": {
+        "default": "组合x"
+      }
+    }
+  },
+  {
+    "key": "1D62",
+    "mappings": {
+      "default": {
+        "default": "下标i"
+      }
+    }
+  },
+  {
+    "key": "1D63",
+    "mappings": {
+      "default": {
+        "default": "下标r"
+      }
+    }
+  },
+  {
+    "key": "1D64",
+    "mappings": {
+      "default": {
+        "default": "下标u"
+      }
+    }
+  },
+  {
+    "key": "1D65",
+    "mappings": {
+      "default": {
+        "default": "下标v"
+      }
+    }
+  },
+  {
+    "key": "1DCA",
+    "mappings": {
+      "default": {
+        "default": "下标组合r"
+      }
+    }
+  },
+  {
+    "key": "1DD3",
+    "mappings": {
+      "default": {
+        "default": "上标扁平化的开放a"
+      }
+    }
+  },
+  {
+    "key": "1DD4",
+    "mappings": {
+      "default": {
+        "default": "组合ae"
+      }
+    }
+  },
+  {
+    "key": "1DD5",
+    "mappings": {
+      "default": {
+        "default": "组合ao"
+      }
+    }
+  },
+  {
+    "key": "1DD6",
+    "mappings": {
+      "default": {
+        "default": "组合av"
+      }
+    }
+  },
+  {
+    "key": "1DD7",
+    "mappings": {
+      "default": {
+        "default": "组合带有下加符c"
+      }
+    }
+  },
+  {
+    "key": "1DD8",
+    "mappings": {
+      "default": {
+        "default": "组合岛状d"
+      }
+    }
+  },
+  {
+    "key": "1DD9",
+    "mappings": {
+      "default": {
+        "default": "组合eth"
+      }
+    }
+  },
+  {
+    "key": "1DDA",
+    "mappings": {
+      "default": {
+        "default": "组合g"
+      }
+    }
+  },
+  {
+    "key": "1DDB",
+    "mappings": {
+      "default": {
+        "default": "组合小型G",
+        "mathspeak": {
+          "default": "组合小写G"
+        }
+      }
+    }
+  },
+  {
+    "key": "1DDC",
+    "mappings": {
+      "default": {
+        "default": "组合k"
+      }
+    }
+  },
+  {
+    "key": "1DDD",
+    "mappings": {
+      "default": {
+        "default": "组合l"
+      }
+    }
+  },
+  {
+    "key": "1DDE",
+    "mappings": {
+      "default": {
+        "default": "组合小型L",
+        "mathspeak": {
+          "default": "组合小写L"
+        }
+      }
+    }
+  },
+  {
+    "key": "1DDF",
+    "mappings": {
+      "default": {
+        "default": "组合小型M",
+        "mathspeak": {
+          "default": "组合小写M"
+        }
+      }
+    }
+  },
+  {
+    "key": "1DE0",
+    "mappings": {
+      "default": {
+        "default": "组合n"
+      }
+    }
+  },
+  {
+    "key": "1DE1",
+    "mappings": {
+      "default": {
+        "default": "组合小型N",
+        "mathspeak": {
+          "default": "组合小写N"
+        }
+      }
+    }
+  },
+  {
+    "key": "1DE2",
+    "mappings": {
+      "default": {
+        "default": "组合小型R",
+        "mathspeak": {
+          "default": "组合小写R"
+        }
+      }
+    }
+  },
+  {
+    "key": "1DE3",
+    "mappings": {
+      "default": {
+        "default": "组合旋转的r"
+      }
+    }
+  },
+  {
+    "key": "1DE4",
+    "mappings": {
+      "default": {
+        "default": "组合s"
+      }
+    }
+  },
+  {
+    "key": "1DE5",
+    "mappings": {
+      "default": {
+        "default": "组合长s"
+      }
+    }
+  },
+  {
+    "key": "1DE6",
+    "mappings": {
+      "default": {
+        "default": "组合z"
+      }
+    }
+  },
+  {
+    "key": "2071",
+    "mappings": {
+      "default": {
+        "default": "上标i"
+      }
+    }
+  },
+  {
+    "key": "207F",
+    "mappings": {
+      "default": {
+        "default": "上标n"
+      }
+    }
+  },
+  {
+    "key": "2090",
+    "mappings": {
+      "default": {
+        "default": "下标a"
+      }
+    }
+  },
+  {
+    "key": "2091",
+    "mappings": {
+      "default": {
+        "default": "下标e"
+      }
+    }
+  },
+  {
+    "key": "2092",
+    "mappings": {
+      "default": {
+        "default": "下标o"
+      }
+    }
+  },
+  {
+    "key": "2093",
+    "mappings": {
+      "default": {
+        "default": "下标x"
+      }
+    }
+  },
+  {
+    "key": "2094",
+    "mappings": {
+      "default": {
+        "default": "下标央音"
+      }
+    }
+  },
+  {
+    "key": "2095",
+    "mappings": {
+      "default": {
+        "default": "下标h"
+      }
+    }
+  },
+  {
+    "key": "2096",
+    "mappings": {
+      "default": {
+        "default": "下标k"
+      }
+    }
+  },
+  {
+    "key": "2097",
+    "mappings": {
+      "default": {
+        "default": "下标l"
+      }
+    }
+  },
+  {
+    "key": "2098",
+    "mappings": {
+      "default": {
+        "default": "下标m"
+      }
+    }
+  },
+  {
+    "key": "2099",
+    "mappings": {
+      "default": {
+        "default": "下标n"
+      }
+    }
+  },
+  {
+    "key": "209A",
+    "mappings": {
+      "default": {
+        "default": "下标p"
+      }
+    }
+  },
+  {
+    "key": "209B",
+    "mappings": {
+      "default": {
+        "default": "下标s"
+      }
+    }
+  },
+  {
+    "key": "209C",
+    "mappings": {
+      "default": {
+        "default": "下标t"
+      }
+    }
+  },
+  {
+    "key": "2C7C",
+    "mappings": {
+      "default": {
+        "default": "下标j"
+      }
+    }
+  },
+  {
+    "key": "1F12A",
+    "mappings": {
+      "default": {
+        "default": "龟壳括号大写S",
+        "mathspeak": {
+          "default": "龟壳括号大写S"
+        }
+      }
+    }
+  },
+  {
+    "key": "1F12B",
+    "mappings": {
+      "default": {
+        "default": "圆圈斜体大写C",
+        "mathspeak": {
+          "default": "圆圈斜体大写C"
+        }
+      }
+    }
+  },
+  {
+    "key": "1F12C",
+    "mappings": {
+      "default": {
+        "default": "圆圈斜体大写R",
+        "mathspeak": {
+          "default": "圆圈斜体大写R"
+        }
+      }
+    }
+  },
+  {
+    "key": "1F18A",
+    "mappings": {
+      "default": {
+        "default": "交叉阴性方框大写P",
+        "mathspeak": {
+          "default": "交叉阴性方框大写P"
+        }
+      }
+    }
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "locale": "zh"
+  },
+  {
+    "key": "deg",
+    "mappings": {
+      "default": {
+        "default": "度"
+      }
+    }
+  },
+  {
+    "key": "det",
+    "mappings": {
+      "default": {
+        "default": "行列式"
+      },
+      "mathspeak": {
+        "default": "行列式"
+      }
+    }
+  },
+  {
+    "key": "dim",
+    "mappings": {
+      "default": {
+        "default": "维数"
+      }
+    }
+  },
+  {
+    "key": "hom",
+    "mappings": {
+      "default": {
+        "default": "同态"
+      },
+      "mathspeak": {
+        "default": "同态"
+      },
+      "clearspeak": {
+        "default": "同态"
+      }
+    }
+  },
+  {
+    "key": "ker",
+    "mappings": {
+      "default": {
+        "default": "核"
+      }
+    }
+  },
+  {
+    "key": "Tr",
+    "mappings": {
+      "default": {
+        "default": "迹"
+      }
+    }
+  }
+]

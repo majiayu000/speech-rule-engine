@@ -1,0 +1,472 @@
+[
+  {
+    "locale": "zh"
+  },
+  {
+    "key": "23E8",
+    "mappings": {
+      "default": {
+        "default": "十进制指数符号"
+      }
+    }
+  },
+  {
+    "key": "2605",
+    "mappings": {
+      "default": {
+        "default": "黑星"
+      }
+    }
+  },
+  {
+    "key": "2606",
+    "mappings": {
+      "default": {
+        "default": "白星"
+      }
+    }
+  },
+  {
+    "key": "26AA",
+    "mappings": {
+      "default": {
+        "default": "白色圆圈",
+        "alternative": "中等白色圆圈"
+      }
+    }
+  },
+  {
+    "key": "26AB",
+    "mappings": {
+      "default": {
+        "default": "黑色圆圈",
+        "alternative": "中等黑色圆圈"
+      }
+    }
+  },
+  {
+    "key": "2705",
+    "mappings": {
+      "default": {
+        "default": "白色勾号",
+        "alternative": "白色重勾号"
+      }
+    }
+  },
+  {
+    "key": "2713",
+    "mappings": {
+      "default": {
+        "default": "勾号"
+      }
+    }
+  },
+  {
+    "key": "2714",
+    "mappings": {
+      "default": {
+        "default": "重勾号"
+      }
+    }
+  },
+  {
+    "key": "2715",
+    "mappings": {
+      "default": {
+        "default": "乘号"
+      }
+    }
+  },
+  {
+    "key": "2716",
+    "mappings": {
+      "default": {
+        "default": "重乘号"
+      }
+    }
+  },
+  {
+    "key": "2717",
+    "mappings": {
+      "default": {
+        "default": "选票叉号"
+      }
+    }
+  },
+  {
+    "key": "2718",
+    "mappings": {
+      "default": {
+        "default": "重选票叉号"
+      }
+    }
+  },
+  {
+    "key": "271B",
+    "mappings": {
+      "default": {
+        "default": "开中心十字"
+      }
+    }
+  },
+  {
+    "key": "271C",
+    "mappings": {
+      "default": {
+        "default": "重开中心十字"
+      }
+    }
+  },
+  {
+    "key": "2720",
+    "mappings": {
+      "default": {
+        "default": "马耳他十字"
+      }
+    }
+  },
+  {
+    "key": "2721",
+    "mappings": {
+      "default": {
+        "default": "大卫星"
+      }
+    }
+  },
+  {
+    "key": "2722",
+    "mappings": {
+      "default": {
+        "default": "四滴泪辐条星号"
+      }
+    }
+  },
+  {
+    "key": "2723",
+    "mappings": {
+      "default": {
+        "default": "四气球辐条星号"
+      }
+    }
+  },
+  {
+    "key": "2724",
+    "mappings": {
+      "default": {
+        "default": "重四气球辐条星号"
+      }
+    }
+  },
+  {
+    "key": "2725",
+    "mappings": {
+      "default": {
+        "default": "四梅花辐条星号"
+      }
+    }
+  },
+  {
+    "key": "2726",
+    "mappings": {
+      "default": {
+        "default": "黑色四尖星"
+      }
+    }
+  },
+  {
+    "key": "2727",
+    "mappings": {
+      "default": {
+        "default": "白色四尖星"
+      }
+    }
+  },
+  {
+    "key": "2728",
+    "mappings": {
+      "default": {
+        "default": "火花"
+      }
+    }
+  },
+  {
+    "key": "2729",
+    "mappings": {
+      "default": {
+        "default": "压力轮廓白星"
+      }
+    }
+  },
+  {
+    "key": "272A",
+    "mappings": {
+      "default": {
+        "default": "带圈白星"
+      }
+    }
+  },
+  {
+    "key": "272B",
+    "mappings": {
+      "default": {
+        "default": "开中心黑星"
+      }
+    }
+  },
+  {
+    "key": "272C",
+    "mappings": {
+      "default": {
+        "default": "黑中心白星"
+      }
+    }
+  },
+  {
+    "key": "272D",
+    "mappings": {
+      "default": {
+        "default": "轮廓黑星"
+      }
+    }
+  },
+  {
+    "key": "272E",
+    "mappings": {
+      "default": {
+        "default": "重轮廓黑星"
+      }
+    }
+  },
+  {
+    "key": "272F",
+    "mappings": {
+      "default": {
+        "default": "风车星"
+      }
+    }
+  },
+  {
+    "key": "2730",
+    "mappings": {
+      "default": {
+        "default": "有阴影的白星"
+      }
+    }
+  },
+  {
+    "key": "2731",
+    "mappings": {
+      "default": {
+        "default": "重星号"
+      }
+    }
+  },
+  {
+    "key": "2732",
+    "mappings": {
+      "default": {
+        "default": "开中心星号"
+      }
+    }
+  },
+  {
+    "key": "2733",
+    "mappings": {
+      "default": {
+        "default": "八辐条星号"
+      }
+    }
+  },
+  {
+    "key": "2734",
+    "mappings": {
+      "default": {
+        "default": "八尖黑星"
+      }
+    }
+  },
+  {
+    "key": "2735",
+    "mappings": {
+      "default": {
+        "default": "八尖风车星"
+      }
+    }
+  },
+  {
+    "key": "2736",
+    "mappings": {
+      "default": {
+        "default": "六尖黑星"
+      }
+    }
+  },
+  {
+    "key": "2739",
+    "mappings": {
+      "default": {
+        "default": "十二尖黑星"
+      }
+    }
+  },
+  {
+    "key": "273A",
+    "mappings": {
+      "default": {
+        "default": "十六尖星号"
+      }
+    }
+  },
+  {
+    "key": "273B",
+    "mappings": {
+      "default": {
+        "default": "泪滴辐条星号"
+      }
+    }
+  },
+  {
+    "key": "273C",
+    "mappings": {
+      "default": {
+        "default": "开中心泪滴辐条星号"
+      }
+    }
+  },
+  {
+    "key": "273D",
+    "mappings": {
+      "default": {
+        "default": "重泪滴辐条星号"
+      }
+    }
+  },
+  {
+    "key": "273E",
+    "mappings": {
+      "default": {
+        "default": "黑白六瓣花"
+      }
+    }
+  },
+  {
+    "key": "273F",
+    "mappings": {
+      "default": {
+        "default": "黑色花"
+      }
+    }
+  },
+  {
+    "key": "2740",
+    "mappings": {
+      "default": {
+        "default": "白色花"
+      }
+    }
+  },
+  {
+    "key": "2741",
+    "mappings": {
+      "default": {
+        "default": "八瓣轮廓黑花"
+      }
+    }
+  },
+  {
+    "key": "2742",
+    "mappings": {
+      "default": {
+        "default": "带圈开中心八尖星"
+      }
+    }
+  },
+  {
+    "key": "2743",
+    "mappings": {
+      "default": {
+        "default": "重泪滴辐条风车星号"
+      }
+    }
+  },
+  {
+    "key": "2744",
+    "mappings": {
+      "default": {
+        "default": "雪花"
+      }
+    }
+  },
+  {
+    "key": "2745",
+    "mappings": {
+      "default": {
+        "default": "紧三叶雪花"
+      }
+    }
+  },
+  {
+    "key": "2746",
+    "mappings": {
+      "default": {
+        "default": "重人字形雪花"
+      }
+    }
+  },
+  {
+    "key": "2747",
+    "mappings": {
+      "default": {
+        "default": "光辉"
+      }
+    }
+  },
+  {
+    "key": "2748",
+    "mappings": {
+      "default": {
+        "default": "重光辉"
+      }
+    }
+  },
+  {
+    "key": "2749",
+    "mappings": {
+      "default": {
+        "default": "气球辐条星号"
+      }
+    }
+  },
+  {
+    "key": "274A",
+    "mappings": {
+      "default": {
+        "default": "八泪滴辐条螺旋星号"
+      }
+    }
+  },
+  {
+    "key": "274B",
+    "mappings": {
+      "default": {
+        "default": "重八泪滴辐条螺旋星号"
+      }
+    }
+  },
+  {
+    "key": "274C",
+    "mappings": {
+      "default": {
+        "default": "叉号"
+      }
+    }
+  },
+  {
+    "key": "274D",
+    "mappings": {
+      "default": {
+        "default": "有阴影的白色圆圈"
+      }
+    }
+  }
+]

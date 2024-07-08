@@ -189,6 +189,7 @@ export class MathStore extends BaseRuleStore {
       return descs;
     }
     // Case of numbers with whitespace for separation.
+    console.log("evaluateString: start  match")
     let num = this.matchNumber(str);
     if (num && num.length === str.length) {
       descs.push(this.evaluateCharacter(num.number));
@@ -232,8 +233,10 @@ export class MathStore extends BaseRuleStore {
    * @override
    */
   public parse(ruleSet: RulesJson) {
+    console.log("start parse")
     super.parse(ruleSet);
     this.annotators = ruleSet['annotators'] || ([] as string[]);
+    console.log("parse success")
   }
 
   /**
@@ -261,6 +264,8 @@ export class MathStore extends BaseRuleStore {
     DIGIT_GROUP: ','
   };
 
+
+
   /**
    * Matches a number with respect to locale. If it discovers it is a number in
    * English writing, it will attempt to translate it.
@@ -269,6 +274,35 @@ export class MathStore extends BaseRuleStore {
    * @returns The number and its length.
    */
   protected matchNumber(str: string): { number: string; length: number } | null {
+    console.log(`matchNumber: start num is ${str}`)
+    console.log(`matchNumber: start num is ${LOCALE.MESSAGES.regexp}`)
+    const messageEntries = Object.entries(LOCALE.MESSAGES.regexp);
+
+    console.log(JSON.stringify(LOCALE.MESSAGES.regexp, null, 2));
+
+    function logNestedObject(obj: any, prefix = '') {
+      for (const key in obj) {
+        if (typeof obj[key] === 'object' && obj[key] !== null) {
+          logNestedObject(obj[key], `${prefix}${key}.`);
+        } else {
+          console.log(`${prefix}${key}: ${obj[key]}`);
+        }
+      }
+    }
+    logNestedObject(LOCALE.MESSAGES.regexp);
+
+    messageEntries.forEach(([key, value]) => {
+      console.log(`Key: ${key}, Value: ${value}`);
+    });
+
+    // Object.entries(LOCALE.MESSAGES.regexp).forEach(([key, value]) => {
+    //   console.log(`Key: ${key}, Value: ${value}`);
+    // });
+
+
+    console.log(`matchNumber: start num is ${LOCALE.MESSAGES.regexp.NUMBER}`)
+    console.log(`matchNumber: start num is ${MathStore.regexp.NUMBER}`)
+    console.log(`LOCALE is ${LOCALE}`)
     const locNum = str.match(new RegExp('^' + LOCALE.MESSAGES.regexp.NUMBER));
     const enNum = str.match(new RegExp('^' + MathStore.regexp.NUMBER));
     if (!locNum && !enNum) {
@@ -279,6 +313,17 @@ export class MathStore extends BaseRuleStore {
     if (isLoc) {
       return locNum ? { number: locNum[0], length: locNum[0].length } : null;
     }
+    console.log(`matchNumber: num is ${enNum}`)
+
+    console.log(`matchNumber: num 0  is ${enNum[0]}`)
+
+
+
+    console.log(`matchNumber: rule 1  is ${MathStore.regexp.DIGIT_GROUP}`)
+    console.log(`matchNumber: rule 1  is ${MathStore.regexp.DECIMAL_MARK}`)
+    console.log(`matchNumber: rule 1  is ${LOCALE.MESSAGES.regexp.DECIMAL_MARK}`)
+    console.log(`matchNumber: rule 1  is ${LOCALE.MESSAGES.regexp.DIGIT_GROUP}`)
+
     const num = enNum[0]
       .replace(new RegExp(MathStore.regexp.DIGIT_GROUP, 'g'), 'X')
       .replace(

@@ -92,10 +92,17 @@ export function merge(strs: (Span | string)[]) {
  * @override
  */
 export function finalize(str: string) {
+  console.log(`finalize, ${str}`)
   const renderer = renderers.get(Engine.getInstance().markup);
   if (!renderer) {
     return str;
   }
+
+  console.log('Renderer found. Full renderer object:');
+  console.dir(renderer, { depth: null });  // 打印整个 renderer 对象，depth: null 确保打印所有嵌套层级
+
+
+  console.log(`finalize, ${renderer}`)
   return renderer.finalize(str);
 }
 

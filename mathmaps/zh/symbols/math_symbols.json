@@ -1,0 +1,7096 @@
+[
+  {
+    "locale": "zh"
+  },
+  {
+    "key": "0021",
+    "mappings": {
+      "default": {
+        "default": "感叹号"
+      }
+    }
+  },
+  {
+    "key": "0022",
+    "mappings": {
+      "default": {
+        "default": "引号"
+      }
+    }
+  },
+  {
+    "key": "0023",
+    "mappings": {
+      "default": {
+        "default": "井号",
+        "alternative": "哈希"
+      },
+      "mathspeak": {
+        "brief": "井号",
+        "sbrief": "井号"
+      }
+    }
+  },
+  {
+    "key": "0024",
+    "mappings": {
+      "default": {
+        "default": "美元符号"
+      }
+    }
+  },
+  {
+    "key": "0025",
+    "mappings": {
+      "default": {
+        "default": "百分号"
+      }
+    }
+  },
+  {
+    "key": "0026",
+    "mappings": {
+      "default": {
+        "default": "和号"
+      }
+    }
+  },
+  {
+    "key": "0027",
+    "mappings": {
+      "default": {
+        "default": "撇号"
+      }
+    }
+  },
+  {
+    "key": "002A",
+    "mappings": {
+      "default": {
+        "default": "星号"
+      }
+    }
+  },
+  {
+    "key": "002B",
+    "mappings": {
+      "default": {
+        "default": "加号"
+      }
+    }
+  },
+  {
+    "key": "002C",
+    "mappings": {
+      "default": {
+        "default": "逗号"
+      }
+    }
+  },
+  {
+    "key": "002D",
+    "mappings": {
+      "default": {
+        "default": "减号",
+        "literary": "连字符"
+      }
+    }
+  },
+  {
+    "key": "002E",
+    "mappings": {
+      "default": {
+        "default": "句号"
+      }
+    }
+  },
+  {
+    "key": "002F",
+    "mappings": {
+      "default": {
+        "default": "斜杠",
+        "alternative": "斜线"
+      },
+      "emacspeak": {
+        "default": "斜杠"
+      }
+    }
+  },
+  {
+    "key": "003A",
+    "mappings": {
+      "default": {
+        "default": "冒号"
+      }
+    }
+  },
+  {
+    "key": "003B",
+    "mappings": {
+      "default": {
+        "default": "分号"
+      }
+    }
+  },
+  {
+    "key": "003C",
+    "mappings": {
+      "default": {
+        "default": "小于"
+      },
+      "clearspeak": {
+        "default": "小于"
+      }
+    }
+  },
+  {
+    "key": "003D",
+    "mappings": {
+      "default": {
+        "default": "等于"
+      }
+    }
+  },
+  {
+    "key": "003E",
+    "mappings": {
+      "default": {
+        "default": "大于"
+      },
+      "clearspeak": {
+        "default": "大于"
+      }
+    }
+  },
+  {
+    "key": "003F",
+    "mappings": {
+      "default": {
+        "default": "问号"
+      }
+    }
+  },
+  {
+    "key": "0040",
+    "mappings": {
+      "default": {
+        "default": "艾特"
+      }
+    }
+  },
+  {
+    "key": "005C",
+    "mappings": {
+      "default": {
+        "default": "反斜杠"
+      }
+    }
+  },
+  {
+    "key": "005E",
+    "mappings": {
+      "default": {
+        "default": "帽子"
+      },
+      "mathspeak": {
+        "default": "插入符号"
+      }
+    }
+  },
+  {
+    "key": "005F",
+    "mappings": {
+      "default": {
+        "default": "下划线",
+        "alternative": "下划线符号"
+      }
+    }
+  },
+  {
+    "key": "0060",
+    "mappings": {
+      "default": {
+        "default": "重音符"
+      },
+      "mathspeak": {
+        "default": "重音符"
+      }
+    }
+  },
+  {
+    "key": "007C",
+    "mappings": {
+      "default": {
+        "default": "竖线"
+      }
+    }
+  },
+  {
+    "key": "007E",
+    "mappings": {
+      "default": {
+        "default": "波浪号"
+      }
+    }
+  },
+  {
+    "key": "00A1",
+    "mappings": {
+      "default": {
+        "default": "倒感叹号"
+      }
+    }
+  },
+  {
+    "key": "00A2",
+    "mappings": {
+      "default": {
+        "default": "分币符号"
+      }
+    }
+  },
+  {
+    "key": "00A3",
+    "mappings": {
+      "default": {
+        "default": "英镑符号"
+      }
+    }
+  },
+  {
+    "key": "00A4",
+    "mappings": {
+      "default": {
+        "default": "货币符号"
+      }
+    }
+  },
+  {
+    "key": "00A5",
+    "mappings": {
+      "default": {
+        "default": "日元符号"
+      }
+    }
+  },
+  {
+    "key": "00A6",
+    "mappings": {
+      "default": {
+        "default": "断竖线"
+      }
+    }
+  },
+  {
+    "key": "00A7",
+    "mappings": {
+      "default": {
+        "default": "节号"
+      }
+    }
+  },
+  {
+    "key": "00A8",
+    "mappings": {
+      "default": {
+        "default": "双点"
+      }
+    }
+  },
+  {
+    "key": "00A9",
+    "mappings": {
+      "default": {
+        "default": "版权符号"
+      }
+    }
+  },
+  {
+    "key": "00AA",
+    "mappings": {
+      "default": {
+        "default": "阴性序数符号"
+      }
+    }
+  },
+  {
+    "key": "00AB",
+    "mappings": {
+      "default": {
+        "default": "左尖引号"
+      }
+    }
+  },
+  {
+    "key": "00AC",
+    "mappings": {
+      "default": {
+        "default": "非符号"
+      }
+    }
+  },
+  {
+    "key": "00AE",
+    "mappings": {
+      "default": {
+        "default": "注册商标"
+      },
+      "mathspeak": {
+        "default": "注册商标符号"
+      },
+      "clearspeak": {
+        "default": "商标符号"
+      }
+    }
+  },
+  {
+    "key": "00AF",
+    "mappings": {
+      "default": {
+        "default": "上横线"
+      }
+    }
+  },
+  {
+    "key": "00B0",
+    "mappings": {
+      "default": {
+        "default": "度"
+      },
+      "clearspeak": {
+        "default": "度"
+      }
+    }
+  },
+  {
+    "key": "00B1",
+    "mappings": {
+      "default": {
+        "default": "正负号"
+      }
+    }
+  },
+  {
+    "key": "00B4",
+    "mappings": {
+      "default": {
+        "default": "尖音符"
+      }
+    }
+  },
+  {
+    "key": "00B5",
+    "mappings": {
+      "default": {
+        "default": "微符号"
+      }
+    }
+  },
+  {
+    "key": "00B6",
+    "mappings": {
+      "default": {
+        "default": "段落符号"
+      }
+    }
+  },
+  {
+    "key": "00B7",
+    "mappings": {
+      "default": {
+        "default": "点"
+      },
+      "clearspeak": {
+        "default": "乘"
+      }
+    }
+  },
+  {
+    "key": "00B8",
+    "mappings": {
+      "default": {
+        "default": "软音符"
+      }
+    }
+  },
+  {
+    "key": "00BA",
+    "mappings": {
+      "default": {
+        "default": "阳性序数符号"
+      }
+    }
+  },
+  {
+    "key": "00BB",
+    "mappings": {
+      "default": {
+        "default": "右尖引号"
+      }
+    }
+  },
+  {
+    "key": "00BF",
+    "mappings": {
+      "default": {
+        "default": "倒问号"
+      }
+    }
+  },
+  {
+    "key": "00D7",
+    "mappings": {
+      "default": {
+        "default": "乘号"
+      },
+      "clearspeak": {
+        "MultsymbolX_By": "乘以",
+        "MultsymbolX_Cross": "交叉"
+      }
+    }
+  },
+  {
+    "key": "00F7",
+    "mappings": {
+      "default": {
+        "default": "除号"
+      }
+    }
+  },
+  {
+    "key": "02D8",
+    "mappings": {
+      "default": {
+        "default": "短音符"
+      }
+    }
+  },
+  {
+    "key": "02B9",
+    "mappings": {
+      "default": {
+        "default": "质数符号"
+      }
+    }
+  },
+  {
+    "key": "02BA",
+    "mappings": {
+      "default": {
+        "default": "双质数符号"
+      }
+    }
+  },
+  {
+    "key": "02D9",
+    "mappings": {
+      "default": {
+        "default": "上点"
+      },
+      "mathspeak": {
+        "default": "点"
+      }
+    }
+  },
+  {
+    "key": "02DA",
+    "mappings": {
+      "default": {
+        "default": "上圈"
+      }
+    }
+  },
+  {
+    "key": "02DB",
+    "mappings": {
+      "default": {
+        "default": "尾音符"
+      }
+    }
+  },
+  {
+    "key": "02DC",
+    "mappings": {
+      "default": {
+        "default": "波浪符"
+      }
+    }
+  },
+  {
+    "key": "02DD",
+    "mappings": {
+      "default": {
+        "default": "双尖音符"
+      }
+    }
+  },
+  {
+    "key": "2010",
+    "mappings": {
+      "default": {
+        "default": "连字符"
+      }
+    }
+  },
+  {
+    "key": "2011",
+    "mappings": {
+      "default": {
+        "default": "不间断连字符"
+      }
+    }
+  },
+  {
+    "key": "2012",
+    "mappings": {
+      "default": {
+        "default": "数字破折号"
+      }
+    }
+  },
+  {
+    "key": "2013",
+    "mappings": {
+      "default": {
+        "default": "短破折号"
+      }
+    }
+  },
+  {
+    "key": "2014",
+    "mappings": {
+      "default": {
+        "default": "长破折号"
+      }
+    }
+  },
+  {
+    "key": "2015",
+    "mappings": {
+      "default": {
+        "default": "水平条"
+      },
+      "mathspeak": {
+        "default": "引用破折号"
+      }
+    }
+  },
+  {
+    "key": "2016",
+    "mappings": {
+      "default": {
+        "default": "双竖线"
+      }
+    }
+  },
+  {
+    "key": "2017",
+    "mappings": {
+      "default": {
+        "default": "双下划线"
+      }
+    }
+  },
+  {
+    "key": "2018",
+    "mappings": {
+      "default": {
+        "default": "左单引号"
+      }
+    }
+  },
+  {
+    "key": "2019",
+    "mappings": {
+      "default": {
+        "default": "右单引号"
+      }
+    }
+  },
+  {
+    "key": "201A",
+    "mappings": {
+      "default": {
+        "default": "低右单引号"
+      }
+    }
+  },
+  {
+    "key": "201B",
+    "mappings": {
+      "default": {
+        "default": "左反转单引号"
+      }
+    }
+  },
+  {
+    "key": "201C",
+    "mappings": {
+      "default": {
+        "default": "左双引号"
+      }
+    }
+  },
+  {
+    "key": "201D",
+    "mappings": {
+      "default": {
+        "default": "右双引号"
+      }
+    }
+  },
+  {
+    "key": "201E",
+    "mappings": {
+      "default": {
+        "default": "低右双引号"
+      }
+    }
+  },
+  {
+    "key": "201F",
+    "mappings": {
+      "default": {
+        "default": "左反转双引号"
+      }
+    }
+  },
+  {
+    "key": "2020",
+    "mappings": {
+      "default": {
+        "default": "短剑符号"
+      }
+    }
+  },
+  {
+    "key": "2021",
+    "mappings": {
+      "default": {
+        "default": "双短剑符号"
+      }
+    }
+  },
+  {
+    "key": "2022",
+    "mappings": {
+      "default": {
+        "default": "项目符号"
+      }
+    }
+  },
+  {
+    "key": "2023",
+    "mappings": {
+      "default": {
+        "default": "三角项目符号"
+      }
+    }
+  },
+  {
+    "key": "2024",
+    "mappings": {
+      "default": {
+        "default": "单点引导符"
+      }
+    }
+  },
+  {
+    "key": "2025",
+    "mappings": {
+      "default": {
+        "default": "双点引导符"
+      }
+    }
+  },
+  {
+    "key": "2026",
+    "mappings": {
+      "default": {
+        "default": "省略号"
+      },
+      "clearspeak": {
+        "default": "点 点 点"
+      }
+    }
+  },
+  {
+    "key": "2027",
+    "mappings": {
+      "default": {
+        "default": "连字符点"
+      }
+    }
+  },
+  {
+    "key": "2030",
+    "mappings": {
+      "default": {
+        "default": "千分号"
+      }
+    }
+  },
+  {
+    "key": "2031",
+    "mappings": {
+      "default": {
+        "default": "万分号"
+      }
+    }
+  },
+  {
+    "key": "2032",
+    "mappings": {
+      "default": {
+        "default": "质数符号"
+      }
+    }
+  },
+  {
+    "key": "2033",
+    "mappings": {
+      "default": {
+        "default": "双质数符号"
+      }
+    }
+  },
+  {
+    "key": "2034",
+    "mappings": {
+      "default": {
+        "default": "三质数符号"
+      }
+    }
+  },
+  {
+    "key": "2035",
+    "mappings": {
+      "default": {
+        "default": "反转质数符号"
+      }
+    }
+  },
+  {
+    "key": "2036",
+    "mappings": {
+      "default": {
+        "default": "反转双质数符号"
+      }
+    }
+  },
+  {
+    "key": "2037",
+    "mappings": {
+      "default": {
+        "default": "反转三质数符号"
+      }
+    }
+  },
+  {
+    "key": "2038",
+    "mappings": {
+      "default": {
+        "default": "插入符号"
+      }
+    }
+  },
+  {
+    "key": "2039",
+    "mappings": {
+      "default": {
+        "default": "左单引号"
+      }
+    }
+  },
+  {
+    "key": "203A",
+    "mappings": {
+      "default": {
+        "default": "右单引号"
+      }
+    }
+  },
+  {
+    "key": "203B",
+    "mappings": {
+      "default": {
+        "default": "参考符号"
+      }
+    }
+  },
+  {
+    "key": "203C",
+    "mappings": {
+      "default": {
+        "default": "双感叹号"
+      }
+    }
+  },
+  {
+    "key": "203D",
+    "mappings": {
+      "default": {
+        "default": "疑问惊叹号"
+      }
+    }
+  },
+  {
+    "key": "203E",
+    "mappings": {
+      "default": {
+        "default": "上划线"
+      },
+      "mathspeak": {
+        "default": "横线"
+      }
+    }
+  },
+  {
+    "key": "203F",
+    "mappings": {
+      "default": {
+        "default": "下连线"
+      }
+    }
+  },
+  {
+    "key": "2040",
+    "mappings": {
+      "default": {
+        "default": "字符连线"
+      }
+    }
+  },
+  {
+    "key": "2041",
+    "mappings": {
+      "default": {
+        "default": "插入符号点"
+      }
+    }
+  },
+  {
+    "key": "2042",
+    "mappings": {
+      "default": {
+        "default": "星群符号"
+      }
+    }
+  },
+  {
+    "key": "2043",
+    "mappings": {
+      "default": {
+        "default": "连字符项目符号"
+      }
+    }
+  },
+  {
+    "key": "2044",
+    "mappings": {
+      "default": {
+        "default": "分数斜线"
+      }
+    }
+  },
+  {
+    "key": "2047",
+    "mappings": {
+      "default": {
+        "default": "双问号"
+      }
+    }
+  },
+  {
+    "key": "2048",
+    "mappings": {
+      "default": {
+        "default": "问号感叹号"
+      }
+    }
+  },
+  {
+    "key": "2049",
+    "mappings": {
+      "default": {
+        "default": "感叹号问号"
+      }
+    }
+  },
+  {
+    "key": "204B",
+    "mappings": {
+      "default": {
+        "default": "反转段落符号"
+      }
+    }
+  },
+  {
+    "key": "204C",
+    "mappings": {
+      "default": {
+        "default": "黑色左向项目符号"
+      }
+    }
+  },
+  {
+    "key": "204D",
+    "mappings": {
+      "default": {
+        "default": "黑色右向项目符号"
+      }
+    }
+  },
+  {
+    "key": "204E",
+    "mappings": {
+      "default": {
+        "default": "低位星号"
+      }
+    }
+  },
+  {
+    "key": "204F",
+    "mappings": {
+      "default": {
+        "default": "反转分号"
+      }
+    }
+  },
+  {
+    "key": "2050",
+    "mappings": {
+      "default": {
+        "default": "紧闭符号"
+      }
+    }
+  },
+  {
+    "key": "2051",
+    "mappings": {
+      "default": {
+        "default": "上下对齐的两个星号"
+      }
+    }
+  },
+  {
+    "key": "2052",
+    "mappings": {
+      "default": {
+        "default": "商业减号"
+      }
+    }
+  },
+  {
+    "key": "2053",
+    "mappings": {
+      "default": {
+        "default": "波形破折号"
+      }
+    }
+  },
+  {
+    "key": "2054",
+    "mappings": {
+      "default": {
+        "default": "倒转下连线"
+      }
+    }
+  },
+  {
+    "key": "2055",
+    "mappings": {
+      "default": {
+        "default": "花形标点符号"
+      }
+    }
+  },
+  {
+    "key": "2056",
+    "mappings": {
+      "default": {
+        "default": "三点标点符号"
+      }
+    }
+  },
+  {
+    "key": "2057",
+    "mappings": {
+      "default": {
+        "default": "四质数符号"
+      }
+    }
+  },
+  {
+    "key": "2058",
+    "mappings": {
+      "default": {
+        "default": "四点标点符号"
+      }
+    }
+  },
+  {
+    "key": "2059",
+    "mappings": {
+      "default": {
+        "default": "五点标点符号"
+      }
+    }
+  },
+  {
+    "key": "205A",
+    "mappings": {
+      "default": {
+        "default": "两点标点符号"
+      }
+    }
+  },
+  {
+    "key": "205B",
+    "mappings": {
+      "default": {
+        "default": "四点标记"
+      }
+    }
+  },
+  {
+    "key": "205C",
+    "mappings": {
+      "default": {
+        "default": "点状十字"
+      }
+    }
+  },
+  {
+    "key": "205D",
+    "mappings": {
+      "default": {
+        "default": "三分号"
+      }
+    }
+  },
+  {
+    "key": "205E",
+    "mappings": {
+      "default": {
+        "default": "垂直四点"
+      }
+    }
+  },
+  {
+    "key": "207A",
+    "mappings": {
+      "default": {
+        "default": "上标加号"
+      }
+    }
+  },
+  {
+    "key": "207B",
+    "mappings": {
+      "default": {
+        "default": "上标减号"
+      }
+    }
+  },
+  {
+    "key": "207C",
+    "mappings": {
+      "default": {
+        "default": "上标等号"
+      }
+    }
+  },
+  {
+    "key": "207D",
+    "mappings": {
+      "default": {
+        "default": "上标左括号"
+      }
+    }
+  },
+  {
+    "key": "207E",
+    "mappings": {
+      "default": {
+        "default": "上标右括号"
+      }
+    }
+  },
+  {
+    "key": "208A",
+    "mappings": {
+      "default": {
+        "default": "下标加号"
+      }
+    }
+  },
+  {
+    "key": "208B",
+    "mappings": {
+      "default": {
+        "default": "下标减号"
+      }
+    }
+  },
+  {
+    "key": "208C",
+    "mappings": {
+      "default": {
+        "default": "下标等号"
+      }
+    }
+  },
+  {
+    "key": "208D",
+    "mappings": {
+      "default": {
+        "default": "下标左括号"
+      }
+    }
+  },
+  {
+    "key": "208E",
+    "mappings": {
+      "default": {
+        "default": "下标右括号"
+      }
+    }
+  },
+  {
+    "key": "214A",
+    "mappings": {
+      "default": {
+        "default": "产权线"
+      }
+    }
+  },
+  {
+    "key": "214B",
+    "mappings": {
+      "default": {
+        "default": "倒转的和号"
+      }
+    }
+  },
+  {
+    "key": "214C",
+    "mappings": {
+      "default": {
+        "default": "每"
+      }
+    }
+  },
+  {
+    "key": "214D",
+    "mappings": {
+      "default": {
+        "default": "股份公司"
+      }
+    }
+  },
+  {
+    "key": "214E",
+    "mappings": {
+      "default": {
+        "default": "倒转的小写f"
+      }
+    }
+  },
+  {
+    "key": "2200",
+    "mappings": {
+      "default": {
+        "default": "对所有"
+      }
+    }
+  },
+  {
+    "key": "2201",
+    "mappings": {
+      "default": {
+        "default": "补集"
+      }
+    }
+  },
+  {
+    "key": "2203",
+    "mappings": {
+      "default": {
+        "default": "存在"
+      }
+    }
+  },
+  {
+    "key": "2204",
+    "mappings": {
+      "default": {
+        "default": "不存在"
+      }
+    }
+  },
+  {
+    "key": "2205",
+    "mappings": {
+      "default": {
+        "default": "空集"
+      }
+    }
+  },
+  {
+    "key": "2206",
+    "mappings": {
+      "default": {
+        "default": "增量"
+      }
+    }
+  },
+  {
+    "key": "2208",
+    "mappings": {
+      "default": {
+        "default": "属于"
+      },
+      "clearspeak": {
+        "default": "是...的成员"
+      }
+    }
+  },
+  {
+    "key": "2209",
+    "mappings": {
+      "default": {
+        "default": "不属于"
+      },
+      "clearspeak": {
+        "default": "不是...的成员"
+      }
+    }
+  },
+  {
+    "key": "220A",
+    "mappings": {
+      "default": {
+        "default": "属于"
+      },
+      "clearspeak": {
+        "default": "是...的成员"
+      }
+    }
+  },
+  {
+    "key": "220B",
+    "mappings": {
+      "default": {
+        "default": "包含为成员"
+      }
+    }
+  },
+  {
+    "key": "220C",
+    "mappings": {
+      "default": {
+        "default": "不包含为成员"
+      }
+    }
+  },
+  {
+    "key": "220D",
+    "mappings": {
+      "default": {
+        "default": "包含为成员"
+      }
+    }
+  },
+  {
+    "key": "220E",
+    "mappings": {
+      "default": {
+        "default": "证明结束"
+      }
+    }
+  },
+  {
+    "key": "220F",
+    "mappings": {
+      "default": {
+        "default": "乘积"
+      }
+    }
+  },
+  {
+    "key": "2210",
+    "mappings": {
+      "default": {
+        "default": "余乘积"
+      }
+    }
+  },
+  {
+    "key": "2211",
+    "mappings": {
+      "default": {
+        "default": "求和"
+      },
+      "mathspeak": {
+        "default": "sigma求和"
+      }
+    }
+  },
+  {
+    "key": "2212",
+    "mappings": {
+      "default": {
+        "default": "减号"
+      }
+    }
+  },
+  {
+    "key": "2213",
+    "mappings": {
+      "default": {
+        "default": "减或加"
+      }
+    }
+  },
+  {
+    "key": "2214",
+    "mappings": {
+      "default": {
+        "default": "点加"
+      }
+    }
+  },
+  {
+    "key": "2215",
+    "mappings": {
+      "default": {
+        "default": "除号斜杠"
+      }
+    }
+  },
+  {
+    "key": "2216",
+    "mappings": {
+      "default": {
+        "default": "集合差"
+      }
+    }
+  },
+  {
+    "key": "2217",
+    "mappings": {
+      "default": {
+        "default": "星号"
+      }
+    }
+  },
+  {
+    "key": "2218",
+    "mappings": {
+      "default": {
+        "default": "环"
+      },
+      "clearspeak": {
+        "default": "复合"
+      }
+    }
+  },
+  {
+    "key": "2219",
+    "mappings": {
+      "default": {
+        "default": "小圆点"
+      }
+    }
+  },
+  {
+    "key": "221A",
+    "mappings": {
+      "default": {
+        "default": "平方根"
+      }
+    }
+  },
+  {
+    "key": "221B",
+    "mappings": {
+      "default": {
+        "default": "立方根"
+      }
+    }
+  },
+  {
+    "key": "221C",
+    "mappings": {
+      "default": {
+        "default": "四次方根"
+      }
+    }
+  },
+  {
+    "key": "221D",
+    "mappings": {
+      "default": {
+        "default": "成比例"
+      }
+    }
+  },
+  {
+    "key": "221E",
+    "mappings": {
+      "default": {
+        "default": "无穷大"
+      }
+    }
+  },
+  {
+    "key": "221F",
+    "mappings": {
+      "default": {
+        "default": "直角"
+      }
+    }
+  },
+  {
+    "key": "2220",
+    "mappings": {
+      "default": {
+        "default": "角"
+      }
+    }
+  },
+  {
+    "key": "2221",
+    "mappings": {
+      "default": {
+        "default": "测量角"
+      }
+    }
+  },
+  {
+    "key": "2222",
+    "mappings": {
+      "default": {
+        "default": "球角"
+      }
+    }
+  },
+  {
+    "key": "2223",
+    "mappings": {
+      "default": {
+        "default": "竖线",
+        "alternative": "整除"
+      }
+    }
+  },
+  {
+    "key": "2224",
+    "mappings": {
+      "default": {
+        "default": "不整除"
+      }
+    }
+  },
+  {
+    "key": "2225",
+    "mappings": {
+      "default": {
+        "default": "平行于"
+      }
+    }
+  },
+  {
+    "key": "2226",
+    "mappings": {
+      "default": {
+        "default": "不平行于"
+      }
+    }
+  },
+  {
+    "key": "2227",
+    "mappings": {
+      "default": {
+        "default": "和"
+      }
+    }
+  },
+  {
+    "key": "2228",
+    "mappings": {
+      "default": {
+        "default": "或"
+      }
+    }
+  },
+  {
+    "key": "2229",
+    "mappings": {
+      "default": {
+        "default": "交集"
+      }
+    }
+  },
+  {
+    "key": "222A",
+    "mappings": {
+      "default": {
+        "default": "并集"
+      }
+    }
+  },
+  {
+    "key": "222B",
+    "mappings": {
+      "default": {
+        "default": "积分"
+      }
+    }
+  },
+  {
+    "key": "222C",
+    "mappings": {
+      "default": {
+        "default": "二重积分"
+      }
+    }
+  },
+  {
+    "key": "222D",
+    "mappings": {
+      "default": {
+        "default": "三重积分"
+      }
+    }
+  },
+  {
+    "key": "222E",
+    "mappings": {
+      "default": {
+        "default": "路径积分"
+      }
+    }
+  },
+  {
+    "key": "222F",
+    "mappings": {
+      "default": {
+        "default": "曲面积分"
+      }
+    }
+  },
+  {
+    "key": "2230",
+    "mappings": {
+      "default": {
+        "default": "体积积分"
+      }
+    }
+  },
+  {
+    "key": "2231",
+    "mappings": {
+      "default": {
+        "default": "顺时针积分"
+      }
+    }
+  },
+  {
+    "key": "2232",
+    "mappings": {
+      "default": {
+        "default": "顺时针曲线积分"
+      }
+    }
+  },
+  {
+    "key": "2233",
+    "mappings": {
+      "default": {
+        "default": "逆时针曲线积分"
+      }
+    }
+  },
+  {
+    "key": "2234",
+    "mappings": {
+      "default": {
+        "default": "因此"
+      }
+    }
+  },
+  {
+    "key": "2235",
+    "mappings": {
+      "default": {
+        "default": "因为"
+      }
+    }
+  },
+  {
+    "key": "2236",
+    "mappings": {
+      "default": {
+        "default": "比"
+      }
+    }
+  },
+  {
+    "key": "2237",
+    "mappings": {
+      "default": {
+        "default": "比例"
+      }
+    }
+  },
+  {
+    "key": "2238",
+    "mappings": {
+      "default": {
+        "default": "点减"
+      }
+    }
+  },
+  {
+    "key": "2239",
+    "mappings": {
+      "default": {
+        "default": "超过"
+      }
+    }
+  },
+  {
+    "key": "223A",
+    "mappings": {
+      "default": {
+        "default": "几何比例"
+      }
+    }
+  },
+  {
+    "key": "223B",
+    "mappings": {
+      "default": {
+        "default": "同纵"
+      }
+    }
+  },
+  {
+    "key": "223C",
+    "mappings": {
+      "default": {
+        "default": "波浪号"
+      }
+    }
+  },
+  {
+    "key": "223D",
+    "mappings": {
+      "default": {
+        "default": "反波浪号"
+      }
+    }
+  },
+  {
+    "key": "223E",
+    "mappings": {
+      "default": {
+        "default": "反s形"
+      }
+    }
+  },
+  {
+    "key": "223F",
+    "mappings": {
+      "default": {
+        "default": "正弦波"
+      }
+    }
+  },
+  {
+    "key": "2240",
+    "mappings": {
+      "default": {
+        "default": "花环积"
+      }
+    }
+  },
+  {
+    "key": "2241",
+    "mappings": {
+      "default": {
+        "default": "非波浪号"
+      }
+    }
+  },
+  {
+    "key": "2242",
+    "mappings": {
+      "default": {
+        "default": "减波浪号"
+      }
+    }
+  },
+  {
+    "key": "2243",
+    "mappings": {
+      "default": {
+        "default": "渐进等于"
+      }
+    }
+  },
+  {
+    "key": "2244",
+    "mappings": {
+      "default": {
+        "default": "非渐进等于"
+      }
+    }
+  },
+  {
+    "key": "2245",
+    "mappings": {
+      "default": {
+        "default": "约等于"
+      }
+    }
+  },
+  {
+    "key": "2246",
+    "mappings": {
+      "default": {
+        "default": "大约等于但并非实际相等"
+      }
+    }
+  },
+  {
+    "key": "2247",
+    "mappings": {
+      "default": {
+        "default": "既非约等于也非实际相等"
+      }
+    }
+  },
+  {
+    "key": "2248",
+    "mappings": {
+      "default": {
+        "default": "几乎等于"
+      }
+    }
+  },
+  {
+    "key": "2249",
+    "mappings": {
+      "default": {
+        "default": "非几乎等于"
+      }
+    }
+  },
+  {
+    "key": "224A",
+    "mappings": {
+      "default": {
+        "default": "几乎等于或等于"
+      }
+    }
+  },
+  {
+    "key": "224B",
+    "mappings": {
+      "default": {
+        "default": "三重波浪号"
+      }
+    }
+  },
+  {
+    "key": "224C",
+    "mappings": {
+      "default": {
+        "default": "全等于"
+      }
+    }
+  },
+  {
+    "key": "224D",
+    "mappings": {
+      "default": {
+        "default": "等价于"
+      }
+    }
+  },
+  {
+    "key": "224E",
+    "mappings": {
+      "default": {
+        "default": "几何等价于"
+      }
+    }
+  },
+  {
+    "key": "224F",
+    "mappings": {
+      "default": {
+        "default": "差"
+      }
+    }
+  },
+  {
+    "key": "2250",
+    "mappings": {
+      "default": {
+        "default": "趋近于极限"
+      }
+    }
+  },
+  {
+    "key": "2251",
+    "mappings": {
+      "default": {
+        "default": "几何等于"
+      }
+    }
+  },
+  {
+    "key": "2252",
+    "mappings": {
+      "default": {
+        "default": "约等于或是象形"
+      }
+    }
+  },
+  {
+    "key": "2253",
+    "mappings": {
+      "default": {
+        "default": "象形或约等于"
+      }
+    }
+  },
+  {
+    "key": "2254",
+    "mappings": {
+      "default": {
+        "default": "冒号等于"
+      }
+    }
+  },
+  {
+    "key": "2255",
+    "mappings": {
+      "default": {
+        "default": "等于冒号"
+      }
+    }
+  },
+  {
+    "key": "2256",
+    "mappings": {
+      "default": {
+        "default": "环等于"
+      }
+    }
+  },
+  {
+    "key": "2257",
+    "mappings": {
+      "default": {
+        "default": "环等于"
+      }
+    }
+  },
+  {
+    "key": "2258",
+    "mappings": {
+      "default": {
+        "default": "对应于"
+      }
+    }
+  },
+  {
+    "key": "2259",
+    "mappings": {
+      "default": {
+        "default": "估计"
+      }
+    }
+  },
+  {
+    "key": "225A",
+    "mappings": {
+      "default": {
+        "default": "等角于"
+      },
+      "clearspeak": {
+        "default": "是等角于"
+      }
+    }
+  },
+  {
+    "key": "225B",
+    "mappings": {
+      "default": {
+        "default": "星等于"
+      }
+    }
+  },
+  {
+    "key": "225C",
+    "mappings": {
+      "default": {
+        "default": "三角等于"
+      }
+    }
+  },
+  {
+    "key": "225D",
+    "mappings": {
+      "default": {
+        "default": "被定义为等于"
+      },
+      "clearspeak": {
+        "default": "被定义为"
+      }
+    }
+  },
+  {
+    "key": "225E",
+    "mappings": {
+      "default": {
+        "default": "由...测量得来"
+      },
+      "clearspeak": {
+        "default": "由...测量得来"
+      }
+    }
+  },
+  {
+    "key": "225F",
+    "mappings": {
+      "default": {
+        "default": "被疑等于"
+      }
+    }
+  },
+  {
+    "key": "2260",
+    "mappings": {
+      "default": {
+        "default": "不等于"
+      },
+      "clearspeak": {
+        "default": "不等于"
+      }
+    }
+  },
+  {
+    "key": "2261",
+    "mappings": {
+      "default": {
+        "default": "完全相同"
+      },
+      "clearspeak": {
+        "default": "完全相同"
+      }
+    }
+  },
+  {
+    "key": "2262",
+    "mappings": {
+      "default": {
+        "default": "非完全相同"
+      },
+      "clearspeak": {
+        "default": "非完全相同"
+      }
+    }
+  },
+  {
+    "key": "2263",
+    "mappings": {
+      "default": {
+        "default": "严格等价于"
+      },
+      "clearspeak": {
+        "default": "严格等价于"
+      }
+    }
+  },
+  {
+    "key": "2264",
+    "mappings": {
+      "default": {
+        "default": "小于或等于"
+      },
+      "clearspeak": {
+        "default": "小于或等于"
+      }
+    }
+  },
+  {
+    "key": "2265",
+    "mappings": {
+      "default": {
+        "default": "大于或等于"
+      },
+      "clearspeak": {
+        "default": "大于或等于"
+      }
+    }
+  },
+  {
+    "key": "2266",
+    "mappings": {
+      "default": {
+        "default": "小于除以等于"
+      },
+      "clearspeak": {
+        "default": "小于除以等于"
+      }
+    }
+  },
+  {
+    "key": "2267",
+    "mappings": {
+      "default": {
+        "default": "大于除以等于"
+      },
+      "clearspeak": {
+        "default": "大于除以等于"
+      }
+    }
+  },
+  {
+    "key": "2268",
+    "mappings": {
+      "default": {
+        "default": "小于但不等于"
+      },
+      "clearspeak": {
+        "default": "小于但不等于"
+      }
+    }
+  },
+  {
+    "key": "2269",
+    "mappings": {
+      "default": {
+        "default": "大于但不等于"
+      },
+      "clearspeak": {
+        "default": "大于但不等于"
+      }
+    }
+  },
+  {
+    "key": "226A",
+    "mappings": {
+      "default": {
+        "default": "远小于"
+      },
+      "clearspeak": {
+        "default": "远小于"
+      }
+    }
+  },
+  {
+    "key": "226B",
+    "mappings": {
+      "default": {
+        "default": "远大于"
+      },
+      "clearspeak": {
+        "default": "远大于"
+      }
+    }
+  },
+  {
+    "key": "226C",
+    "mappings": {
+      "default": {
+        "default": "介于"
+      }
+    }
+  },
+  {
+    "key": "226D",
+    "mappings": {
+      "default": {
+        "default": "不等价于"
+      },
+      "clearspeak": {
+        "default": "不等价于"
+      }
+    }
+  },
+  {
+    "key": "226E",
+    "mappings": {
+      "default": {
+        "default": "不小于"
+      },
+      "clearspeak": {
+        "default": "不小于"
+      }
+    }
+  },
+  {
+    "key": "226F",
+    "mappings": {
+      "default": {
+        "default": "不大于"
+      },
+      "clearspeak": {
+        "default": "不大于"
+      }
+    }
+  },
+  {
+    "key": "2270",
+    "mappings": {
+      "default": {
+        "default": "既不小于也不等于"
+      },
+      "clearspeak": {
+        "default": "既不小于也不等于"
+      }
+    }
+  },
+  {
+    "key": "2271",
+    "mappings": {
+      "default": {
+        "default": "既不大于也不等于"
+      },
+      "clearspeak": {
+        "default": "既不大于也不等于"
+      }
+    }
+  },
+  {
+    "key": "2272",
+    "mappings": {
+      "default": {
+        "default": "小于或等价于"
+      },
+      "clearspeak": {
+        "default": "小于或等价于"
+      }
+    }
+  },
+  {
+    "key": "2273",
+    "mappings": {
+      "default": {
+        "default": "大于或等价于"
+      },
+      "clearspeak": {
+        "default": "大于或等价于"
+      }
+    }
+  },
+  {
+    "key": "2274",
+    "mappings": {
+      "default": {
+        "default": "既不小于也不等价于"
+      },
+      "clearspeak": {
+        "default": "既不小于也不等价于"
+      }
+    }
+  },
+  {
+    "key": "2275",
+    "mappings": {
+      "default": {
+        "default": "既不大于也不等价于"
+      },
+      "clearspeak": {
+        "default": "既不大于也不等价于"
+      }
+    }
+  },
+  {
+    "key": "2276",
+    "mappings": {
+      "default": {
+        "default": "小于或大于"
+      },
+      "clearspeak": {
+        "default": "小于或大于"
+      }
+    }
+  },
+  {
+    "key": "2277",
+    "mappings": {
+      "default": {
+        "default": "大于或小于"
+      },
+      "clearspeak": {
+        "default": "大于或小于"
+      }
+    }
+  },
+  {
+    "key": "2278",
+    "mappings": {
+      "default": {
+        "default": "既不小于也不大于"
+      },
+      "clearspeak": {
+        "default": "既不小于也不大于"
+      }
+    }
+  },
+  {
+    "key": "2279",
+    "mappings": {
+      "default": {
+        "default": "既不大于也不小于"
+      },
+      "clearspeak": {
+        "default": "既不大于也不小于"
+      }
+    }
+  },
+  {
+    "key": "227A",
+    "mappings": {
+      "default": {
+        "default": "前于"
+      }
+    }
+  },
+  {
+    "key": "227B",
+    "mappings": {
+      "default": {
+        "default": "后于"
+      }
+    }
+  },
+  {
+    "key": "227C",
+    "mappings": {
+      "default": {
+        "default": "前于或等于"
+      }
+    }
+  },
+  {
+    "key": "227D",
+    "mappings": {
+      "default": {
+        "default": "后于或等于"
+      }
+    }
+  },
+  {
+    "key": "227E",
+    "mappings": {
+      "default": {
+        "default": "前于或等价于"
+      }
+    }
+  },
+  {
+    "key": "227F",
+    "mappings": {
+      "default": {
+        "default": "后于或等价于"
+      }
+    }
+  },
+  {
+    "key": "2280",
+    "mappings": {
+      "default": {
+        "default": "不前于"
+      }
+    }
+  },
+  {
+    "key": "2281",
+    "mappings": {
+      "default": {
+        "default": "不后于"
+      }
+    }
+  },
+  {
+    "key": "2282",
+    "mappings": {
+      "default": {
+        "default": "子集"
+      }
+    }
+  },
+  {
+    "key": "2283",
+    "mappings": {
+      "default": {
+        "default": "超集"
+      }
+    }
+  },
+  {
+    "key": "2284",
+    "mappings": {
+      "default": {
+        "default": "非子集"
+      }
+    }
+  },
+  {
+    "key": "2285",
+    "mappings": {
+      "default": {
+        "default": "非超集"
+      }
+    }
+  },
+  {
+    "key": "2286",
+    "mappings": {
+      "default": {
+        "default": "子集或等于"
+      }
+    }
+  },
+  {
+    "key": "2287",
+    "mappings": {
+      "default": {
+        "default": "超集或等于"
+      }
+    }
+  },
+  {
+    "key": "2288",
+    "mappings": {
+      "default": {
+        "default": "既非子集也不等于"
+      }
+    }
+  },
+  {
+    "key": "2289",
+    "mappings": {
+      "default": {
+        "default": "既非超集也不等于"
+      }
+    }
+  },
+  {
+    "key": "228A",
+    "mappings": {
+      "default": {
+        "default": "子集或不等于"
+      }
+    }
+  },
+  {
+    "key": "228B",
+    "mappings": {
+      "default": {
+        "default": "超集或不等于"
+      }
+    }
+  },
+  {
+    "key": "228C",
+    "mappings": {
+      "default": {
+        "default": "多重集"
+      }
+    }
+  },
+  {
+    "key": "228D",
+    "mappings": {
+      "default": {
+        "default": "多重集乘积"
+      }
+    }
+  },
+  {
+    "key": "228E",
+    "mappings": {
+      "default": {
+        "default": "多重集并"
+      }
+    }
+  },
+  {
+    "key": "228F",
+    "mappings": {
+      "default": {
+        "default": "平方像"
+      }
+    }
+  },
+  {
+    "key": "2290",
+    "mappings": {
+      "default": {
+        "default": "平方原像"
+      }
+    }
+  },
+  {
+    "key": "2291",
+    "mappings": {
+      "default": {
+        "default": "平方像或等于"
+      }
+    }
+  },
+  {
+    "key": "2292",
+    "mappings": {
+      "default": {
+        "default": "平方原像或等于"
+      }
+    }
+  },
+  {
+    "key": "2293",
+    "mappings": {
+      "default": {
+        "default": "平方交"
+      }
+    }
+  },
+  {
+    "key": "2294",
+    "mappings": {
+      "default": {
+        "default": "平方并"
+      }
+    }
+  },
+  {
+    "key": "2295",
+    "mappings": {
+      "default": {
+        "default": "圆圈加"
+      }
+    }
+  },
+  {
+    "key": "2296",
+    "mappings": {
+      "default": {
+        "default": "圆圈减"
+      }
+    }
+  },
+  {
+    "key": "2297",
+    "mappings": {
+      "default": {
+        "default": "圆圈乘"
+      }
+    }
+  },
+  {
+    "key": "2298",
+    "mappings": {
+      "default": {
+        "default": "圆圈除"
+      }
+    }
+  },
+  {
+    "key": "2299",
+    "mappings": {
+      "default": {
+        "default": "圆圈点"
+      }
+    }
+  },
+  {
+    "key": "229A",
+    "mappings": {
+      "default": {
+        "default": "圆环"
+      }
+    }
+  },
+  {
+    "key": "229B",
+    "mappings": {
+      "default": {
+        "default": "圆圈星号"
+      }
+    }
+  },
+  {
+    "key": "229C",
+    "mappings": {
+      "default": {
+        "default": "圆圈等号"
+      }
+    }
+  },
+  {
+    "key": "229D",
+    "mappings": {
+      "default": {
+        "default": "圆圈减号"
+      }
+    }
+  },
+  {
+    "key": "229E",
+    "mappings": {
+      "default": {
+        "default": "方框加"
+      }
+    }
+  },
+  {
+    "key": "229F",
+    "mappings": {
+      "default": {
+        "default": "方框减"
+      }
+    }
+  },
+  {
+    "key": "22A0",
+    "mappings": {
+      "default": {
+        "default": "方框乘"
+      }
+    }
+  },
+  {
+    "key": "22A1",
+    "mappings": {
+      "default": {
+        "default": "方框点"
+      }
+    }
+  },
+  {
+    "key": "22A2",
+    "mappings": {
+      "default": {
+        "default": "右钉"
+      }
+    }
+  },
+  {
+    "key": "22A3",
+    "mappings": {
+      "default": {
+        "default": "左钉"
+      }
+    }
+  },
+  {
+    "key": "22A4",
+    "mappings": {
+      "default": {
+        "default": "下钉"
+      }
+    }
+  },
+  {
+    "key": "22A5",
+    "mappings": {
+      "default": {
+        "default": "上钉"
+      }
+    }
+  },
+  {
+    "key": "22A6",
+    "mappings": {
+      "default": {
+        "default": "断言"
+      }
+    }
+  },
+  {
+    "key": "22A7",
+    "mappings": {
+      "default": {
+        "default": "模型"
+      }
+    }
+  },
+  {
+    "key": "22A8",
+    "mappings": {
+      "default": {
+        "default": "真"
+      }
+    }
+  },
+  {
+    "key": "22A9",
+    "mappings": {
+      "default": {
+        "default": "力量"
+      }
+    }
+  },
+  {
+    "key": "22AA",
+    "mappings": {
+      "default": {
+        "default": "三竖线右转折号"
+      }
+    }
+  },
+  {
+    "key": "22AB",
+    "mappings": {
+      "default": {
+        "default": "双竖线双右转折号"
+      }
+    }
+  },
+  {
+    "key": "22AC",
+    "mappings": {
+      "default": {
+        "default": "不证明"
+      }
+    }
+  },
+  {
+    "key": "22AD",
+    "mappings": {
+      "default": {
+        "default": "非真"
+      }
+    }
+  },
+  {
+    "key": "22AE",
+    "mappings": {
+      "default": {
+        "default": "不强制"
+      }
+    }
+  },
+  {
+    "key": "22AF",
+    "mappings": {
+      "default": {
+        "default": "否定双竖线双右转折号"
+      }
+    }
+  },
+  {
+    "key": "22B0",
+    "mappings": {
+      "default": {
+        "default": "关系下前于"
+      }
+    }
+  },
+  {
+    "key": "22B1",
+    "mappings": {
+      "default": {
+        "default": "关系下后于"
+      }
+    }
+  },
+  {
+    "key": "22B2",
+    "mappings": {
+      "default": {
+        "default": "正规子群"
+      }
+    }
+  },
+  {
+    "key": "22B3",
+    "mappings": {
+      "default": {
+        "default": "包含正规子群"
+      }
+    }
+  },
+  {
+    "key": "22B4",
+    "mappings": {
+      "default": {
+        "default": "正规子群或等于"
+      }
+    }
+  },
+  {
+    "key": "22B5",
+    "mappings": {
+      "default": {
+        "default": "包含正规子群或等于"
+      }
+    }
+  },
+  {
+    "key": "22B6",
+    "mappings": {
+      "default": {
+        "default": "原像"
+      }
+    }
+  },
+  {
+    "key": "22B7",
+    "mappings": {
+      "default": {
+        "default": "像"
+      }
+    }
+  },
+  {
+    "key": "22B8",
+    "mappings": {
+      "default": {
+        "default": "多重映射"
+      }
+    }
+  },
+  {
+    "key": "22B9",
+    "mappings": {
+      "default": {
+        "default": "厄米共轭矩阵"
+      }
+    }
+  },
+  {
+    "key": "22BA",
+    "mappings": {
+      "default": {
+        "default": "插入"
+      }
+    }
+  },
+  {
+    "key": "22BB",
+    "mappings": {
+      "default": {
+        "default": "异或"
+      }
+    }
+  },
+  {
+    "key": "22BC",
+    "mappings": {
+      "default": {
+        "default": "不与"
+      }
+    }
+  },
+  {
+    "key": "22BD",
+    "mappings": {
+      "default": {
+        "default": "不或"
+      }
+    }
+  },
+  {
+    "key": "22BF",
+    "mappings": {
+      "default": {
+        "default": "直角三角形"
+      }
+    }
+  },
+  {
+    "key": "22C0",
+    "mappings": {
+      "default": {
+        "default": "n元与"
+      },
+      "mathspeak": {
+        "default": "与"
+      }
+    }
+  },
+  {
+    "key": "22C1",
+    "mappings": {
+      "default": {
+        "default": "n元或"
+      },
+      "mathspeak": {
+        "default": "或"
+      }
+    }
+  },
+  {
+    "key": "22C2",
+    "mappings": {
+      "default": {
+        "default": "n元交"
+      },
+      "mathspeak": {
+        "default": "交"
+      }
+    }
+  },
+  {
+    "key": "22C3",
+    "mappings": {
+      "default": {
+        "default": "n元并"
+      },
+      "mathspeak": {
+        "default": "并"
+      }
+    }
+  },
+  {
+    "key": "22C4",
+    "mappings": {
+      "default": {
+        "default": "菱形"
+      }
+    }
+  },
+  {
+    "key": "22C5",
+    "mappings": {
+      "default": {
+        "default": "点"
+      },
+      "clearspeak": {
+        "default": "乘",
+        "MultsymbolDot_Dot": "点"
+      }
+    }
+  },
+  {
+    "key": "22C6",
+    "mappings": {
+      "default": {
+        "default": "星号"
+      }
+    }
+  },
+  {
+    "key": "22C7",
+    "mappings": {
+      "default": {
+        "default": "除乘"
+      }
+    }
+  },
+  {
+    "key": "22C8",
+    "mappings": {
+      "default": {
+        "default": "蝶形"
+      }
+    }
+  },
+  {
+    "key": "22C9",
+    "mappings": {
+      "default": {
+        "default": "左正规因子半直积"
+      }
+    }
+  },
+  {
+    "key": "22CA",
+    "mappings": {
+      "default": {
+        "default": "右正规因子半直积"
+      }
+    }
+  },
+  {
+    "key": "22CB",
+    "mappings": {
+      "default": {
+        "default": "左半直积"
+      }
+    }
+  },
+  {
+    "key": "22CC",
+    "mappings": {
+      "default": {
+        "default": "右半直积"
+      }
+    }
+  },
+  {
+    "key": "22CD",
+    "mappings": {
+      "default": {
+        "default": "反波浪等号"
+      }
+    }
+  },
+  {
+    "key": "22CE",
+    "mappings": {
+      "default": {
+        "default": "卷曲或"
+      }
+    }
+  },
+  {
+    "key": "22CF",
+    "mappings": {
+      "default": {
+        "default": "卷曲与"
+      }
+    }
+  },
+  {
+    "key": "22D0",
+    "mappings": {
+      "default": {
+        "default": "双子集"
+      }
+    }
+  },
+  {
+    "key": "22D1",
+    "mappings": {
+      "default": {
+        "default": "双超集"
+      }
+    }
+  },
+  {
+    "key": "22D2",
+    "mappings": {
+      "default": {
+        "default": "双交"
+      }
+    }
+  },
+  {
+    "key": "22D3",
+    "mappings": {
+      "default": {
+        "default": "双并"
+      }
+    }
+  },
+  {
+    "key": "22D4",
+    "mappings": {
+      "default": {
+        "default": "涮镰"
+      }
+    }
+  },
+  {
+    "key": "22D5",
+    "mappings": {
+      "default": {
+        "default": "等于并平行于"
+      },
+      "clearspeak": {
+        "default": "等于并平行于"
+      }
+    }
+  },
+  {
+    "key": "22D6",
+    "mappings": {
+      "default": {
+        "default": "小于点"
+      },
+      "clearspeak": {
+        "default": "小于点"
+      }
+    }
+  },
+  {
+    "key": "22D7",
+    "mappings": {
+      "default": {
+        "default": "大于点"
+      },
+      "clearspeak": {
+        "default": "大于点"
+      }
+    }
+  },
+  {
+    "key": "22D8",
+    "mappings": {
+      "default": {
+        "default": "远远小于"
+      },
+      "clearspeak": {
+        "default": "远远小于"
+      }
+    }
+  },
+  {
+    "key": "22D9",
+    "mappings": {
+      "default": {
+        "default": "远远大于"
+      },
+      "clearspeak": {
+        "default": "远远大于"
+      }
+    }
+  },
+  {
+    "key": "22DA",
+    "mappings": {
+      "default": {
+        "default": "小于等于或大于"
+      },
+      "clearspeak": {
+        "default": "小于等于或大于"
+      }
+    }
+  },
+  {
+    "key": "22DB",
+    "mappings": {
+      "default": {
+        "default": "大于等于或小于"
+      },
+      "clearspeak": {
+        "default": "大于等于或小于"
+      }
+    }
+  },
+  {
+    "key": "22DC",
+    "mappings": {
+      "default": {
+        "default": "等于或小于"
+      },
+      "clearspeak": {
+        "default": "等于或小于"
+      }
+    }
+  },
+  {
+    "key": "22DD",
+    "mappings": {
+      "default": {
+        "default": "等于或大于"
+      },
+      "clearspeak": {
+        "default": "等于或大于"
+      }
+    }
+  },
+  {
+    "key": "22DE",
+    "mappings": {
+      "default": {
+        "default": "等于或前于"
+      },
+      "clearspeak": {
+        "default": "等于或前于"
+      }
+    }
+  },
+  {
+    "key": "22DF",
+    "mappings": {
+      "default": {
+        "default": "等于或后于"
+      },
+      "clearspeak": {
+        "default": "等于或后于"
+      }
+    }
+  },
+  {
+    "key": "22E0",
+    "mappings": {
+      "default": {
+        "default": "不前于或等于"
+      }
+    }
+  },
+  {
+    "key": "22E1",
+    "mappings": {
+      "default": {
+        "default": "不后于或等于"
+      }
+    }
+  },
+  {
+    "key": "22E2",
+    "mappings": {
+      "default": {
+        "default": "非平方像或等于"
+      },
+      "clearspeak": {
+        "default": "非平方像或等于"
+      }
+    }
+  },
+  {
+    "key": "22E3",
+    "mappings": {
+      "default": {
+        "default": "非平方原像或等于"
+      },
+      "clearspeak": {
+        "default": "非平方原像或等于"
+      }
+    }
+  },
+  {
+    "key": "22E4",
+    "mappings": {
+      "default": {
+        "default": "平方像或不等于"
+      },
+      "clearspeak": {
+        "default": "平方像或不等于"
+      }
+    }
+  },
+  {
+    "key": "22E5",
+    "mappings": {
+      "default": {
+        "default": "平方原像或不等于"
+      },
+      "clearspeak": {
+        "default": "平方原像或不等于"
+      }
+    }
+  },
+  {
+    "key": "22E6",
+    "mappings": {
+      "default": {
+        "default": "小于但不等价于"
+      },
+      "clearspeak": {
+        "default": "小于但不等价于"
+      }
+    }
+  },
+  {
+    "key": "22E7",
+    "mappings": {
+      "default": {
+        "default": "大于但不等价于"
+      },
+      "clearspeak": {
+        "default": "大于但不等价于"
+      }
+    }
+  },
+  {
+    "key": "22E8",
+    "mappings": {
+      "default": {
+        "default": "前于但不等价于"
+      }
+    }
+  },
+  {
+    "key": "22E9",
+    "mappings": {
+      "default": {
+        "default": "后于但不等价于"
+      }
+    }
+  },
+  {
+    "key": "22EA",
+    "mappings": {
+      "default": {
+        "default": "非正规子群"
+      },
+      "clearspeak": {
+        "default": "非正规子群"
+      }
+    }
+  },
+  {
+    "key": "22EB",
+    "mappings": {
+      "default": {
+        "default": "不包含正规子群"
+      }
+    }
+  },
+  {
+    "key": "22EC",
+    "mappings": {
+      "default": {
+        "default": "非正规子群或等于"
+      },
+      "clearspeak": {
+        "default": "非正规子群或等于"
+      }
+    }
+  },
+  {
+    "key": "22ED",
+    "mappings": {
+      "default": {
+        "default": "不包含正规子群或等于"
+      }
+    }
+  },
+  {
+    "key": "22EE",
+    "mappings": {
+      "default": {
+        "default": "垂直省略号"
+      }
+    }
+  },
+  {
+    "key": "22EF",
+    "mappings": {
+      "default": {
+        "default": "中线水平省略号"
+      },
+      "clearspeak": {
+        "default": "点点点"
+      }
+    }
+  },
+  {
+    "key": "22F0",
+    "mappings": {
+      "default": {
+        "default": "右上斜省略号"
+      }
+    }
+  },
+  {
+    "key": "22F1",
+    "mappings": {
+      "default": {
+        "default": "右下斜省略号"
+      }
+    }
+  },
+  {
+    "key": "22F2",
+    "mappings": {
+      "default": {
+        "default": "元素符号加长横线"
+      }
+    }
+  },
+  {
+    "key": "22F3",
+    "mappings": {
+      "default": {
+        "default": "元素符号横线末端带竖线"
+      }
+    }
+  },
+  {
+    "key": "22F4",
+    "mappings": {
+      "default": {
+        "default": "元素符号横线末端带竖线"
+      }
+    }
+  },
+  {
+    "key": "22F5",
+    "mappings": {
+      "default": {
+        "default": "元素符号上方带点"
+      }
+    }
+  },
+  {
+    "key": "22F6",
+    "mappings": {
+      "default": {
+        "default": "元素符号带上横线"
+      }
+    }
+  },
+  {
+    "key": "22F7",
+    "mappings": {
+      "default": {
+        "default": "元素符号带上横线"
+      }
+    }
+  },
+  {
+    "key": "22F8",
+    "mappings": {
+      "default": {
+        "default": "元素符号带下横线"
+      }
+    }
+  },
+  {
+    "key": "22F9",
+    "mappings": {
+      "default": {
+        "default": "元素符号带两道横线"
+      }
+    }
+  },
+  {
+    "key": "22FA",
+    "mappings": {
+      "default": {
+        "default": "包含符号加长横线"
+      }
+    }
+  },
+  {
+    "key": "22FB",
+    "mappings": {
+      "default": {
+        "default": "包含符号横线末端带竖线"
+      }
+    }
+  },
+  {
+    "key": "22FC",
+    "mappings": {
+      "default": {
+        "default": "包含符号横线末端带竖线"
+      }
+    }
+  },
+  {
+    "key": "22FD",
+    "mappings": {
+      "default": {
+        "default": "包含符号带上横线"
+      }
+    }
+  },
+  {
+    "key": "22FE",
+    "mappings": {
+      "default": {
+        "default": "包含符号带上横线"
+      }
+    }
+  },
+  {
+    "key": "22FF",
+    "mappings": {
+      "default": {
+        "default": "Z符号包含关系"
+      }
+    }
+  },
+  {
+    "key": "2300",
+    "mappings": {
+      "default": {
+        "default": "直径符号"
+      }
+    }
+  },
+  {
+    "key": "2302",
+    "mappings": {
+      "default": {
+        "default": "房子"
+      }
+    }
+  },
+  {
+    "key": "2305",
+    "mappings": {
+      "default": {
+        "default": "射影"
+      }
+    }
+  },
+  {
+    "key": "2306",
+    "mappings": {
+      "default": {
+        "default": "透视"
+      }
+    }
+  },
+  {
+    "key": "2307",
+    "mappings": {
+      "default": {
+        "default": "波浪线"
+      }
+    }
+  },
+  {
+    "key": "2310",
+    "mappings": {
+      "default": {
+        "default": "反向非"
+      }
+    }
+  },
+  {
+    "key": "2311",
+    "mappings": {
+      "default": {
+        "default": "方形菱形"
+      }
+    }
+  },
+  {
+    "key": "2312",
+    "mappings": {
+      "default": {
+        "default": "弧"
+      }
+    }
+  },
+  {
+    "key": "2313",
+    "mappings": {
+      "default": {
+        "default": "线段"
+      }
+    }
+  },
+  {
+    "key": "2314",
+    "mappings": {
+      "default": {
+        "default": "扇形"
+      }
+    }
+  },
+  {
+    "key": "2795",
+    "mappings": {
+      "default": {
+        "default": "粗加"
+      }
+    }
+  },
+  {
+    "key": "2796",
+    "mappings": {
+      "default": {
+        "default": "粗减"
+      }
+    }
+  },
+  {
+    "key": "2797",
+    "mappings": {
+      "default": {
+        "default": "粗除"
+      }
+    }
+  },
+  {
+    "key": "27B0",
+    "mappings": {
+      "default": {
+        "default": "卷曲环"
+      }
+    }
+  },
+  {
+    "key": "27BF",
+    "mappings": {
+      "default": {
+        "default": "双卷曲环"
+      }
+    }
+  },
+  {
+    "key": "27C1",
+    "mappings": {
+      "default": {
+        "default": "白三角内嵌小白三角"
+      }
+    }
+  },
+  {
+    "key": "27C2",
+    "mappings": {
+      "default": {
+        "default": "垂直"
+      }
+    }
+  },
+  {
+    "key": "27C3",
+    "mappings": {
+      "default": {
+        "default": "开子集"
+      }
+    }
+  },
+  {
+    "key": "27C4",
+    "mappings": {
+      "default": {
+        "default": "开超集"
+      }
+    }
+  },
+  {
+    "key": "27C7",
+    "mappings": {
+      "default": {
+        "default": "或带内点"
+      }
+    }
+  },
+  {
+    "key": "27C8",
+    "mappings": {
+      "default": {
+        "default": "反斜线子集"
+      }
+    }
+  },
+  {
+    "key": "27C9",
+    "mappings": {
+      "default": {
+        "default": "正斜线超集"
+      }
+    }
+  },
+  {
+    "key": "27CA",
+    "mappings": {
+      "default": {
+        "default": "竖线加横线"
+      }
+    }
+  },
+  {
+    "key": "27CB",
+    "mappings": {
+      "default": {
+        "default": "上升对角线"
+      }
+    }
+  },
+  {
+    "key": "27CC",
+    "mappings": {
+      "default": {
+        "default": "长除法"
+      }
+    }
+  },
+  {
+    "key": "27CD",
+    "mappings": {
+      "default": {
+        "default": "下降对角线"
+      }
+    }
+  },
+  {
+    "key": "27CE",
+    "mappings": {
+      "default": {
+        "default": "方和"
+      }
+    }
+  },
+  {
+    "key": "27CF",
+    "mappings": {
+      "default": {
+        "default": "方或"
+      }
+    }
+  },
+  {
+    "key": "27D0",
+    "mappings": {
+      "default": {
+        "default": "白菱形中心点"
+      }
+    }
+  },
+  {
+    "key": "27D1",
+    "mappings": {
+      "default": {
+        "default": "点和"
+      }
+    }
+  },
+  {
+    "key": "27D2",
+    "mappings": {
+      "default": {
+        "default": "向上元素"
+      }
+    }
+  },
+  {
+    "key": "27D3",
+    "mappings": {
+      "default": {
+        "default": "右下角带点"
+      }
+    }
+  },
+  {
+    "key": "27D4",
+    "mappings": {
+      "default": {
+        "default": "左上角带点"
+      }
+    }
+  },
+  {
+    "key": "27D5",
+    "mappings": {
+      "default": {
+        "default": "左外连接"
+      }
+    }
+  },
+  {
+    "key": "27D6",
+    "mappings": {
+      "default": {
+        "default": "右外连接"
+      }
+    }
+  },
+  {
+    "key": "27D7",
+    "mappings": {
+      "default": {
+        "default": "完全外连接"
+      }
+    }
+  },
+  {
+    "key": "27D8",
+    "mappings": {
+      "default": {
+        "default": "大上钉"
+      }
+    }
+  },
+  {
+    "key": "27D9",
+    "mappings": {
+      "default": {
+        "default": "大下钉"
+      }
+    }
+  },
+  {
+    "key": "27DA",
+    "mappings": {
+      "default": {
+        "default": "左右双转折号"
+      }
+    }
+  },
+  {
+    "key": "27DB",
+    "mappings": {
+      "default": {
+        "default": "左右钉"
+      }
+    }
+  },
+  {
+    "key": "27DC",
+    "mappings": {
+      "default": {
+        "default": "左多映射"
+      }
+    }
+  },
+  {
+    "key": "27DD",
+    "mappings": {
+      "default": {
+        "default": "长右钉"
+      }
+    }
+  },
+  {
+    "key": "27DE",
+    "mappings": {
+      "default": {
+        "default": "长左钉"
+      }
+    }
+  },
+  {
+    "key": "27DF",
+    "mappings": {
+      "default": {
+        "default": "上钉带圆"
+      }
+    }
+  },
+  {
+    "key": "27E0",
+    "mappings": {
+      "default": {
+        "default": "菱形分水平线"
+      }
+    }
+  },
+  {
+    "key": "27E1",
+    "mappings": {
+      "default": {
+        "default": "白凸菱形"
+      }
+    }
+  },
+  {
+    "key": "27E2",
+    "mappings": {
+      "default": {
+        "default": "白凸菱形左勾"
+      }
+    }
+  },
+  {
+    "key": "27E3",
+    "mappings": {
+      "default": {
+        "default": "白凸菱形右勾"
+      }
+    }
+  },
+  {
+    "key": "27E4",
+    "mappings": {
+      "default": {
+        "default": "白方左勾"
+      }
+    }
+  },
+  {
+    "key": "27E5",
+    "mappings": {
+      "default": {
+        "default": "白方右勾"
+      }
+    }
+  },
+  {
+    "key": "292B",
+    "mappings": {
+      "default": {
+        "default": "上斜线穿下斜线"
+      }
+    }
+  },
+  {
+    "key": "292C",
+    "mappings": {
+      "default": {
+        "default": "下斜线穿上斜线"
+      }
+    }
+  },
+  {
+    "key": "2980",
+    "mappings": {
+      "default": {
+        "default": "三竖线"
+      }
+    }
+  },
+  {
+    "key": "2981",
+    "mappings": {
+      "default": {
+        "default": "Z符号点"
+      }
+    }
+  },
+  {
+    "key": "2982",
+    "mappings": {
+      "default": {
+        "default": "Z符号类型冒号"
+      }
+    }
+  },
+  {
+    "key": "2999",
+    "mappings": {
+      "default": {
+        "default": "点状栅栏"
+      }
+    }
+  },
+  {
+    "key": "299A",
+    "mappings": {
+      "default": {
+        "default": "竖之字形线"
+      }
+    }
+  },
+  {
+    "key": "29B0",
+    "mappings": {
+      "default": {
+        "default": "反空集"
+      }
+    }
+  },
+  {
+    "key": "29B1",
+    "mappings": {
+      "default": {
+        "default": "空集带上横线"
+      }
+    }
+  },
+  {
+    "key": "29B2",
+    "mappings": {
+      "default": {
+        "default": "空集上方小圆"
+      }
+    }
+  },
+  {
+    "key": "29B5",
+    "mappings": {
+      "default": {
+        "default": "圆加水平线"
+      }
+    }
+  },
+  {
+    "key": "29B6",
+    "mappings": {
+      "default": {
+        "default": "圆竖线"
+      }
+    }
+  },
+  {
+    "key": "29B7",
+    "mappings": {
+      "default": {
+        "default": "圆双线"
+      }
+    }
+  },
+  {
+    "key": "29B8",
+    "mappings": {
+      "default": {
+        "default": "圆反斜线"
+      }
+    }
+  },
+  {
+    "key": "29B9",
+    "mappings": {
+      "default": {
+        "default": "圆垂直"
+      }
+    }
+  },
+  {
+    "key": "29BA",
+    "mappings": {
+      "default": {
+        "default": "圆分四格"
+      }
+    }
+  },
+  {
+    "key": "29BB",
+    "mappings": {
+      "default": {
+        "default": "圆叉"
+      }
+    }
+  },
+  {
+    "key": "29BC",
+    "mappings": {
+      "default": {
+        "default": "圆反除"
+      }
+    }
+  },
+  {
+    "key": "29BE",
+    "mappings": {
+      "default": {
+        "default": "圆白点"
+      }
+    }
+  },
+  {
+    "key": "29BF",
+    "mappings": {
+      "default": {
+        "default": "圆黑点"
+      }
+    }
+  },
+  {
+    "key": "29C0",
+    "mappings": {
+      "default": {
+        "default": "圆小于"
+      }
+    }
+  },
+  {
+    "key": "29C1",
+    "mappings": {
+      "default": {
+        "default": "圆大于"
+      }
+    }
+  },
+  {
+    "key": "29C2",
+    "mappings": {
+      "default": {
+        "default": "圆右小圆"
+      }
+    }
+  },
+  {
+    "key": "29C3",
+    "mappings": {
+      "default": {
+        "default": "圆右双线"
+      }
+    }
+  },
+  {
+    "key": "29C4",
+    "mappings": {
+      "default": {
+        "default": "方框上斜线"
+      }
+    }
+  },
+  {
+    "key": "29C5",
+    "mappings": {
+      "default": {
+        "default": "方框下斜线"
+      }
+    }
+  },
+  {
+    "key": "29C6",
+    "mappings": {
+      "default": {
+        "default": "方星号"
+      }
+    }
+  },
+  {
+    "key": "29C7",
+    "mappings": {
+      "default": {
+        "default": "方小圆"
+      }
+    }
+  },
+  {
+    "key": "29C8",
+    "mappings": {
+      "default": {
+        "default": "方方"
+      }
+    }
+  },
+  {
+    "key": "29C9",
+    "mappings": {
+      "default": {
+        "default": "两方相连"
+      }
+    }
+  },
+  {
+    "key": "29CA",
+    "mappings": {
+      "default": {
+        "default": "三角上点"
+      }
+    }
+  },
+  {
+    "key": "29CB",
+    "mappings": {
+      "default": {
+        "default": "三角下线"
+      }
+    }
+  },
+  {
+    "key": "29CC",
+    "mappings": {
+      "default": {
+        "default": "三角内s"
+      }
+    }
+  },
+  {
+    "key": "29CD",
+    "mappings": {
+      "default": {
+        "default": "三角底部装饰线"
+      }
+    }
+  },
+  {
+    "key": "29CE",
+    "mappings": {
+      "default": {
+        "default": "右三角左三角上"
+      }
+    }
+  },
+  {
+    "key": "29CF",
+    "mappings": {
+      "default": {
+        "default": "左三角竖线旁"
+      }
+    }
+  },
+  {
+    "key": "29D0",
+    "mappings": {
+      "default": {
+        "default": "竖线右三角旁"
+      }
+    }
+  },
+  {
+    "key": "29D1",
+    "mappings": {
+      "default": {
+        "default": "蝶形左半黑"
+      }
+    }
+  },
+  {
+    "key": "29D2",
+    "mappings": {
+      "default": {
+        "default": "蝶形右半黑"
+      }
+    }
+  },
+  {
+    "key": "29D3",
+    "mappings": {
+      "default": {
+        "default": "黑蝶形"
+      }
+    }
+  },
+  {
+    "key": "29D4",
+    "mappings": {
+      "default": {
+        "default": "乘号左半黑"
+      }
+    }
+  },
+  {
+    "key": "29D5",
+    "mappings": {
+      "default": {
+        "default": "乘号右半黑"
+      }
+    }
+  },
+  {
+    "key": "29D6",
+    "mappings": {
+      "default": {
+        "default": "白沙漏"
+      }
+    }
+  },
+  {
+    "key": "29D7",
+    "mappings": {
+      "default": {
+        "default": "黑沙漏"
+      }
+    }
+  },
+  {
+    "key": "29DC",
+    "mappings": {
+      "default": {
+        "default": "不完整无穷"
+      }
+    }
+  },
+  {
+    "key": "29DD",
+    "mappings": {
+      "default": {
+        "default": "无穷上加线"
+      }
+    }
+  },
+  {
+    "key": "29DE",
+    "mappings": {
+      "default": {
+        "default": "无穷加竖线"
+      }
+    }
+  },
+  {
+    "key": "29DF",
+    "mappings": {
+      "default": {
+        "default": "双端多映射"
+      }
+    }
+  },
+  {
+    "key": "29E0",
+    "mappings": {
+      "default": {
+        "default": "方框轮廓"
+      }
+    }
+  },
+  {
+    "key": "29E1",
+    "mappings": {
+      "default": {
+        "default": "增加为"
+      }
+    }
+  },
+  {
+    "key": "29E2",
+    "mappings": {
+      "default": {
+        "default": "洗牌积"
+      }
+    }
+  },
+  {
+    "key": "29E3",
+    "mappings": {
+      "default": {
+        "default": "等于且倾斜平行"
+      }
+    }
+  },
+  {
+    "key": "29E4",
+    "mappings": {
+      "default": {
+        "default": "等于且倾斜平行上加波浪号"
+      }
+    }
+  },
+  {
+    "key": "29E5",
+    "mappings": {
+      "default": {
+        "default": "恒等且倾斜平行"
+      }
+    }
+  },
+  {
+    "key": "29E6",
+    "mappings": {
+      "default": {
+        "default": "相等强"
+      }
+    }
+  },
+  {
+    "key": "29E7",
+    "mappings": {
+      "default": {
+        "default": "热力学"
+      }
+    }
+  },
+  {
+    "key": "29E8",
+    "mappings": {
+      "default": {
+        "default": "下三角左半黑"
+      }
+    }
+  },
+  {
+    "key": "29E9",
+    "mappings": {
+      "default": {
+        "default": "下三角右半黑"
+      }
+    }
+  },
+  {
+    "key": "29EB",
+    "mappings": {
+      "default": {
+        "default": "黑菱形"
+      }
+    }
+  },
+  {
+    "key": "29EE",
+    "mappings": {
+      "default": {
+        "default": "删除白方"
+      }
+    }
+  },
+  {
+    "key": "29EF",
+    "mappings": {
+      "default": {
+        "default": "删除黑方"
+      }
+    }
+  },
+  {
+    "key": "29F0",
+    "mappings": {
+      "default": {
+        "default": "删除白菱形"
+      }
+    }
+  },
+  {
+    "key": "29F1",
+    "mappings": {
+      "default": {
+        "default": "删除黑菱形"
+      }
+    }
+  },
+  {
+    "key": "29F2",
+    "mappings": {
+      "default": {
+        "default": "删除白圆"
+      }
+    }
+  },
+  {
+    "key": "29F3",
+    "mappings": {
+      "default": {
+        "default": "删除黑圆"
+      }
+    }
+  },
+  {
+    "key": "29F4",
+    "mappings": {
+      "default": {
+        "default": "推迟规则"
+      }
+    }
+  },
+  {
+    "key": "29F5",
+    "mappings": {
+      "default": {
+        "default": "反斜线"
+      }
+    }
+  },
+  {
+    "key": "29F6",
+    "mappings": {
+      "default": {
+        "default": "正斜线上加线"
+      }
+    }
+  },
+  {
+    "key": "29F7",
+    "mappings": {
+      "default": {
+        "default": "反斜线加横线"
+      }
+    }
+  },
+  {
+    "key": "29F8",
+    "mappings": {
+      "default": {
+        "default": "大正斜线"
+      },
+      "mathspeak": {
+        "default": "正斜线"
+      }
+    }
+  },
+  {
+    "key": "29F9",
+    "mappings": {
+      "default": {
+        "default": "大反斜线"
+      },
+      "mathspeak": {
+        "default": "反斜线"
+      }
+    }
+  },
+  {
+    "key": "29FA",
+    "mappings": {
+      "default": {
+        "default": "双加"
+      }
+    }
+  },
+  {
+    "key": "29FB",
+    "mappings": {
+      "default": {
+        "default": "三加"
+      }
+    }
+  },
+  {
+    "key": "29FE",
+    "mappings": {
+      "default": {
+        "default": "最小"
+      }
+    }
+  },
+  {
+    "key": "29FF",
+    "mappings": {
+      "default": {
+        "default": "极小"
+      }
+    }
+  },
+  {
+    "key": "2A00",
+    "mappings": {
+      "default": {
+        "default": "n元圆点"
+      },
+      "mathspeak": {
+        "default": "圆点"
+      }
+    }
+  },
+  {
+    "key": "2A01",
+    "mappings": {
+      "default": {
+        "default": "n元圆加"
+      },
+      "mathspeak": {
+        "default": "圆加"
+      }
+    }
+  },
+  {
+    "key": "2A02",
+    "mappings": {
+      "default": {
+        "default": "n元圆乘"
+      },
+      "mathspeak": {
+        "default": "圆乘"
+      }
+    }
+  },
+  {
+    "key": "2A03",
+    "mappings": {
+      "default": {
+        "default": "n元点并"
+      },
+      "mathspeak": {
+        "default": "点并"
+      }
+    }
+  },
+  {
+    "key": "2A04",
+    "mappings": {
+      "default": {
+        "default": "n元加并"
+      },
+      "mathspeak": {
+        "default": "加并"
+      }
+    }
+  },
+  {
+    "key": "2A05",
+    "mappings": {
+      "default": {
+        "default": "n元方交"
+      },
+      "mathspeak": {
+        "default": "方交"
+      }
+    }
+  },
+  {
+    "key": "2A06",
+    "mappings": {
+      "default": {
+        "default": "n元方并"
+      },
+      "mathspeak": {
+        "default": "方并"
+      }
+    }
+  },
+  {
+    "key": "2A07",
+    "mappings": {
+      "default": {
+        "default": "双与"
+      }
+    }
+  },
+  {
+    "key": "2A08",
+    "mappings": {
+      "default": {
+        "default": "双或"
+      }
+    }
+  },
+  {
+    "key": "2A09",
+    "mappings": {
+      "default": {
+        "default": "n元乘"
+      },
+      "mathspeak": {
+        "default": "乘"
+      }
+    }
+  },
+  {
+    "key": "2A0A",
+    "mappings": {
+      "default": {
+        "default": "模二加"
+      }
+    }
+  },
+  {
+    "key": "2A0B",
+    "mappings": {
+      "default": {
+        "default": "求和与积分"
+      }
+    }
+  },
+  {
+    "key": "2A0C",
+    "mappings": {
+      "default": {
+        "default": "四重积分"
+      }
+    }
+  },
+  {
+    "key": "2A0D",
+    "mappings": {
+      "default": {
+        "default": "有限部分积分"
+      }
+    }
+  },
+  {
+    "key": "2A0E",
+    "mappings": {
+      "default": {
+        "default": "双线积分"
+      }
+    }
+  },
+  {
+    "key": "2A0F",
+    "mappings": {
+      "default": {
+        "default": "斜线平均积分"
+      }
+    }
+  },
+  {
+    "key": "2A10",
+    "mappings": {
+      "default": {
+        "default": "环流函数"
+      }
+    }
+  },
+  {
+    "key": "2A11",
+    "mappings": {
+      "default": {
+        "default": "逆时针积分"
+      }
+    }
+  },
+  {
+    "key": "2A12",
+    "mappings": {
+      "default": {
+        "default": "矩形路径绕极点线积分"
+      }
+    }
+  },
+  {
+    "key": "2A13",
+    "mappings": {
+      "default": {
+        "default": "半圆路径绕极点线积分"
+      }
+    }
+  },
+  {
+    "key": "2A14",
+    "mappings": {
+      "default": {
+        "default": "不含极点线积分"
+      }
+    }
+  },
+  {
+    "key": "2A15",
+    "mappings": {
+      "default": {
+        "default": "围绕一点的积分"
+      }
+    }
+  },
+  {
+    "key": "2A16",
+    "mappings": {
+      "default": {
+        "default": "四元数积分"
+      }
+    }
+  },
+  {
+    "key": "2A18",
+    "mappings": {
+      "default": {
+        "default": "积分乘"
+      }
+    }
+  },
+  {
+    "key": "2A19",
+    "mappings": {
+      "default": {
+        "default": "积分交"
+      }
+    }
+  },
+  {
+    "key": "2A1A",
+    "mappings": {
+      "default": {
+        "default": "积分并"
+      }
+    }
+  },
+  {
+    "key": "2A1B",
+    "mappings": {
+      "default": {
+        "default": "积分上加线"
+      }
+    }
+  },
+  {
+    "key": "2A1C",
+    "mappings": {
+      "default": {
+        "default": "积分下加线"
+      }
+    }
+  },
+  {
+    "key": "2A1D",
+    "mappings": {
+      "default": {
+        "default": "连接"
+      }
+    }
+  },
+  {
+    "key": "2A1E",
+    "mappings": {
+      "default": {
+        "default": "大左三角"
+      }
+    }
+  },
+  {
+    "key": "2A1F",
+    "mappings": {
+      "default": {
+        "default": "Z符号模式复合"
+      }
+    }
+  },
+  {
+    "key": "2A20",
+    "mappings": {
+      "default": {
+        "default": "Z符号管道模式"
+      }
+    }
+  },
+  {
+    "key": "2A21",
+    "mappings": {
+      "default": {
+        "default": "Z符号投影模式"
+      }
+    }
+  },
+  {
+    "key": "2A22",
+    "mappings": {
+      "default": {
+        "default": "加上圆"
+      }
+    }
+  },
+  {
+    "key": "2A23",
+    "mappings": {
+      "default": {
+        "default": "加帽"
+      }
+    }
+  },
+  {
+    "key": "2A24",
+    "mappings": {
+      "default": {
+        "default": "加波浪号"
+      }
+    }
+  },
+  {
+    "key": "2A25",
+    "mappings": {
+      "default": {
+        "default": "加下点"
+      }
+    }
+  },
+  {
+    "key": "2A26",
+    "mappings": {
+      "default": {
+        "default": "加号下加波浪号"
+      }
+    }
+  },
+  {
+    "key": "2A27",
+    "mappings": {
+      "default": {
+        "default": "加号下标2"
+      }
+    }
+  },
+  {
+    "key": "2A28",
+    "mappings": {
+      "default": {
+        "default": "加号黑三角"
+      }
+    }
+  },
+  {
+    "key": "2A29",
+    "mappings": {
+      "default": {
+        "default": "减号上加逗号"
+      }
+    }
+  },
+  {
+    "key": "2A2A",
+    "mappings": {
+      "default": {
+        "default": "减号下加点"
+      }
+    }
+  },
+  {
+    "key": "2A2B",
+    "mappings": {
+      "default": {
+        "default": "减号下降点"
+      }
+    }
+  },
+  {
+    "key": "2A2C",
+    "mappings": {
+      "default": {
+        "default": "减号上升点"
+      }
+    }
+  },
+  {
+    "key": "2A2D",
+    "mappings": {
+      "default": {
+        "default": "左半圆加号"
+      }
+    }
+  },
+  {
+    "key": "2A2E",
+    "mappings": {
+      "default": {
+        "default": "右半圆加号"
+      }
+    }
+  },
+  {
+    "key": "2A2F",
+    "mappings": {
+      "default": {
+        "default": "向量或叉积"
+      }
+    }
+  },
+  {
+    "key": "2A30",
+    "mappings": {
+      "default": {
+        "default": "乘号上点"
+      }
+    }
+  },
+  {
+    "key": "2A31",
+    "mappings": {
+      "default": {
+        "default": "乘号下线"
+      }
+    }
+  },
+  {
+    "key": "2A32",
+    "mappings": {
+      "default": {
+        "default": "半直积底部闭合"
+      }
+    }
+  },
+  {
+    "key": "2A33",
+    "mappings": {
+      "default": {
+        "default": "拖积"
+      }
+    }
+  },
+  {
+    "key": "2A34",
+    "mappings": {
+      "default": {
+        "default": "左半圆乘号"
+      }
+    }
+  },
+  {
+    "key": "2A35",
+    "mappings": {
+      "default": {
+        "default": "右半圆乘号"
+      }
+    }
+  },
+  {
+    "key": "2A36",
+    "mappings": {
+      "default": {
+        "default": "圆圈乘号加上帽"
+      }
+    }
+  },
+  {
+    "key": "2A37",
+    "mappings": {
+      "default": {
+        "default": "双圆圈乘号"
+      }
+    }
+  },
+  {
+    "key": "2A38",
+    "mappings": {
+      "default": {
+        "default": "圆圈除号"
+      }
+    }
+  },
+  {
+    "key": "2A39",
+    "mappings": {
+      "default": {
+        "default": "三角内加号"
+      }
+    }
+  },
+  {
+    "key": "2A3A",
+    "mappings": {
+      "default": {
+        "default": "三角内减号"
+      }
+    }
+  },
+  {
+    "key": "2A3B",
+    "mappings": {
+      "default": {
+        "default": "三角内乘号"
+      }
+    }
+  },
+  {
+    "key": "2A3C",
+    "mappings": {
+      "default": {
+        "default": "内积"
+      }
+    }
+  },
+  {
+    "key": "2A3D",
+    "mappings": {
+      "default": {
+        "default": "右内积"
+      }
+    }
+  },
+  {
+    "key": "2A3E",
+    "mappings": {
+      "default": {
+        "default": "Z符号关系复合"
+      }
+    }
+  },
+  {
+    "key": "2A3F",
+    "mappings": {
+      "default": {
+        "default": "合并或复积"
+      }
+    }
+  },
+  {
+    "key": "2A40",
+    "mappings": {
+      "default": {
+        "default": "交加点"
+      }
+    }
+  },
+  {
+    "key": "2A41",
+    "mappings": {
+      "default": {
+        "default": "并减"
+      }
+    }
+  },
+  {
+    "key": "2A42",
+    "mappings": {
+      "default": {
+        "default": "并上加线"
+      }
+    }
+  },
+  {
+    "key": "2A43",
+    "mappings": {
+      "default": {
+        "default": "交上加线"
+      }
+    }
+  },
+  {
+    "key": "2A44",
+    "mappings": {
+      "default": {
+        "default": "交与"
+      }
+    }
+  },
+  {
+    "key": "2A45",
+    "mappings": {
+      "default": {
+        "default": "并或"
+      }
+    }
+  },
+  {
+    "key": "2A46",
+    "mappings": {
+      "default": {
+        "default": "并在交上"
+      }
+    }
+  },
+  {
+    "key": "2A47",
+    "mappings": {
+      "default": {
+        "default": "交在并上"
+      }
+    }
+  },
+  {
+    "key": "2A48",
+    "mappings": {
+      "default": {
+        "default": "并上线再交上"
+      }
+    }
+  },
+  {
+    "key": "2A49",
+    "mappings": {
+      "default": {
+        "default": "交上线再并上"
+      }
+    }
+  },
+  {
+    "key": "2A4A",
+    "mappings": {
+      "default": {
+        "default": "并旁与并连接"
+      }
+    }
+  },
+  {
+    "key": "2A4B",
+    "mappings": {
+      "default": {
+        "default": "交旁与交连接"
+      }
+    }
+  },
+  {
+    "key": "2A4C",
+    "mappings": {
+      "default": {
+        "default": "带衬线闭合并"
+      }
+    }
+  },
+  {
+    "key": "2A4D",
+    "mappings": {
+      "default": {
+        "default": "带衬线闭合交"
+      }
+    }
+  },
+  {
+    "key": "2A4E",
+    "mappings": {
+      "default": {
+        "default": "双方交"
+      }
+    }
+  },
+  {
+    "key": "2A4F",
+    "mappings": {
+      "default": {
+        "default": "双方并"
+      }
+    }
+  },
+  {
+    "key": "2A50",
+    "mappings": {
+      "default": {
+        "default": "带衬线闭合并拖积"
+      }
+    }
+  },
+  {
+    "key": "2A51",
+    "mappings": {
+      "default": {
+        "default": "与上点"
+      }
+    }
+  },
+  {
+    "key": "2A52",
+    "mappings": {
+      "default": {
+        "default": "或上点"
+      }
+    }
+  },
+  {
+    "key": "2A53",
+    "mappings": {
+      "default": {
+        "default": "双与"
+      }
+    }
+  },
+  {
+    "key": "2A54",
+    "mappings": {
+      "default": {
+        "default": "双或"
+      }
+    }
+  },
+  {
+    "key": "2A55",
+    "mappings": {
+      "default": {
+        "default": "交叉与"
+      }
+    }
+  },
+  {
+    "key": "2A56",
+    "mappings": {
+      "default": {
+        "default": "交叉或"
+      }
+    }
+  },
+  {
+    "key": "2A57",
+    "mappings": {
+      "default": {
+        "default": "斜大或"
+      }
+    }
+  },
+  {
+    "key": "2A58",
+    "mappings": {
+      "default": {
+        "default": "斜大与"
+      }
+    }
+  },
+  {
+    "key": "2A59",
+    "mappings": {
+      "default": {
+        "default": "或叠与"
+      }
+    }
+  },
+  {
+    "key": "2A5A",
+    "mappings": {
+      "default": {
+        "default": "中杠与"
+      }
+    }
+  },
+  {
+    "key": "2A5B",
+    "mappings": {
+      "default": {
+        "default": "中杠或"
+      }
+    }
+  },
+  {
+    "key": "2A5C",
+    "mappings": {
+      "default": {
+        "default": "横杠与"
+      }
+    }
+  },
+  {
+    "key": "2A5D",
+    "mappings": {
+      "default": {
+        "default": "横杠或"
+      }
+    }
+  },
+  {
+    "key": "2A5E",
+    "mappings": {
+      "default": {
+        "default": "双上线与"
+      }
+    }
+  },
+  {
+    "key": "2A5F",
+    "mappings": {
+      "default": {
+        "default": "下线与"
+      }
+    }
+  },
+  {
+    "key": "2A60",
+    "mappings": {
+      "default": {
+        "default": "双下线与"
+      }
+    }
+  },
+  {
+    "key": "2A61",
+    "mappings": {
+      "default": {
+        "default": "小∨下线"
+      }
+    }
+  },
+  {
+    "key": "2A62",
+    "mappings": {
+      "default": {
+        "default": "双上线或"
+      }
+    }
+  },
+  {
+    "key": "2A63",
+    "mappings": {
+      "default": {
+        "default": "双下线或"
+      }
+    }
+  },
+  {
+    "key": "2A64",
+    "mappings": {
+      "default": {
+        "default": "Z符号域反限制"
+      }
+    }
+  },
+  {
+    "key": "2A65",
+    "mappings": {
+      "default": {
+        "default": "Z符号值域反限制"
+      }
+    }
+  },
+  {
+    "key": "2A66",
+    "mappings": {
+      "default": {
+        "default": "等号下点"
+      }
+    }
+  },
+  {
+    "key": "2A67",
+    "mappings": {
+      "default": {
+        "default": "恒等上点"
+      }
+    }
+  },
+  {
+    "key": "2A68",
+    "mappings": {
+      "default": {
+        "default": "三横线双竖线"
+      }
+    }
+  },
+  {
+    "key": "2A69",
+    "mappings": {
+      "default": {
+        "default": "三横线三竖线"
+      }
+    }
+  },
+  {
+    "key": "2A6A",
+    "mappings": {
+      "default": {
+        "default": "波浪号上点"
+      }
+    }
+  },
+  {
+    "key": "2A6B",
+    "mappings": {
+      "default": {
+        "default": "波浪号上升点"
+      }
+    }
+  },
+  {
+    "key": "2A6C",
+    "mappings": {
+      "default": {
+        "default": "相似减相似"
+      }
+    }
+  },
+  {
+    "key": "2A6D",
+    "mappings": {
+      "default": {
+        "default": "全等上点"
+      }
+    }
+  },
+  {
+    "key": "2A6E",
+    "mappings": {
+      "default": {
+        "default": "等号星号"
+      }
+    }
+  },
+  {
+    "key": "2A6F",
+    "mappings": {
+      "default": {
+        "default": "几乎等于帽"
+      }
+    }
+  },
+  {
+    "key": "2A70",
+    "mappings": {
+      "default": {
+        "default": "近似等于或等于"
+      }
+    }
+  },
+  {
+    "key": "2A71",
+    "mappings": {
+      "default": {
+        "default": "等号上加号"
+      }
+    }
+  },
+  {
+    "key": "2A72",
+    "mappings": {
+      "default": {
+        "default": "加号上等号"
+      }
+    }
+  },
+  {
+    "key": "2A73",
+    "mappings": {
+      "default": {
+        "default": "等号上波浪号"
+      }
+    }
+  },
+  {
+    "key": "2A74",
+    "mappings": {
+      "default": {
+        "default": "双冒号等号"
+      }
+    }
+  },
+  {
+    "key": "2A75",
+    "mappings": {
+      "default": {
+        "default": "两个连续等号"
+      }
+    }
+  },
+  {
+    "key": "2A76",
+    "mappings": {
+      "default": {
+        "default": "三个连续等号"
+      }
+    }
+  },
+  {
+    "key": "2A77",
+    "mappings": {
+      "default": {
+        "default": "等号上下各两点"
+      }
+    }
+  },
+  {
+    "key": "2A78",
+    "mappings": {
+      "default": {
+        "default": "等价上四点"
+      }
+    }
+  },
+  {
+    "key": "2A79",
+    "mappings": {
+      "default": {
+        "default": "小于号内圆"
+      }
+    }
+  },
+  {
+    "key": "2A7A",
+    "mappings": {
+      "default": {
+        "default": "大于号内圆"
+      }
+    }
+  },
+  {
+    "key": "2A7B",
+    "mappings": {
+      "default": {
+        "default": "小于号上加问号"
+      }
+    }
+  },
+  {
+    "key": "2A7C",
+    "mappings": {
+      "default": {
+        "default": "大于号上加问号"
+      }
+    }
+  },
+  {
+    "key": "2A7D",
+    "mappings": {
+      "default": {
+        "default": "小于或等斜线"
+      }
+    }
+  },
+  {
+    "key": "2A7E",
+    "mappings": {
+      "default": {
+        "default": "大于或等斜线"
+      }
+    }
+  },
+  {
+    "key": "2A7F",
+    "mappings": {
+      "default": {
+        "default": "小于或等斜线内点"
+      }
+    }
+  },
+  {
+    "key": "2A80",
+    "mappings": {
+      "default": {
+        "default": "大于或等斜线内点"
+      }
+    }
+  },
+  {
+    "key": "2A81",
+    "mappings": {
+      "default": {
+        "default": "小于或等斜线上点"
+      }
+    }
+  },
+  {
+    "key": "2A82",
+    "mappings": {
+      "default": {
+        "default": "大于或等斜线上点"
+      }
+    }
+  },
+  {
+    "key": "2A83",
+    "mappings": {
+      "default": {
+        "default": "小于或等斜线右上点"
+      }
+    }
+  },
+  {
+    "key": "2A84",
+    "mappings": {
+      "default": {
+        "default": "大于或等斜线左上点"
+      }
+    }
+  },
+  {
+    "key": "2A85",
+    "mappings": {
+      "default": {
+        "default": "小于或约等于"
+      }
+    }
+  },
+  {
+    "key": "2A86",
+    "mappings": {
+      "default": {
+        "default": "大于或约等于"
+      }
+    }
+  },
+  {
+    "key": "2A87",
+    "mappings": {
+      "default": {
+        "default": "小于且不等号单线"
+      }
+    }
+  },
+  {
+    "key": "2A88",
+    "mappings": {
+      "default": {
+        "default": "大于且不等号单线"
+      }
+    }
+  },
+  {
+    "key": "2A89",
+    "mappings": {
+      "default": {
+        "default": "小于且不约等"
+      }
+    }
+  },
+  {
+    "key": "2A8A",
+    "mappings": {
+      "default": {
+        "default": "大于且不约等"
+      }
+    }
+  },
+  {
+    "key": "2A8B",
+    "mappings": {
+      "default": {
+        "default": "小于上双线等于上大于"
+      }
+    }
+  },
+  {
+    "key": "2A8C",
+    "mappings": {
+      "default": {
+        "default": "大于上双线等于上小于"
+      }
+    }
+  },
+  {
+    "key": "2A8D",
+    "mappings": {
+      "default": {
+        "default": "小于上类似或等于"
+      }
+    }
+  },
+  {
+    "key": "2A8E",
+    "mappings": {
+      "default": {
+        "default": "大于上类似或等于"
+      }
+    }
+  },
+  {
+    "key": "2A8F",
+    "mappings": {
+      "default": {
+        "default": "小于上类似上大于"
+      }
+    }
+  },
+  {
+    "key": "2A90",
+    "mappings": {
+      "default": {
+        "default": "大于上类似上小于"
+      }
+    }
+  },
+  {
+    "key": "2A91",
+    "mappings": {
+      "default": {
+        "default": "小于上大于上双线等号"
+      }
+    }
+  },
+  {
+    "key": "2A92",
+    "mappings": {
+      "default": {
+        "default": "大于上小于上双线等号"
+      }
+    }
+  },
+  {
+    "key": "2A93",
+    "mappings": {
+      "default": {
+        "default": "小于上等斜线上大于上等斜线"
+      }
+    }
+  },
+  {
+    "key": "2A94",
+    "mappings": {
+      "default": {
+        "default": "大于上等斜线上小于上等斜线"
+      }
+    }
+  },
+  {
+    "key": "2A95",
+    "mappings": {
+      "default": {
+        "default": "等斜线或小于"
+      }
+    }
+  },
+  {
+    "key": "2A96",
+    "mappings": {
+      "default": {
+        "default": "等斜线或大于"
+      }
+    }
+  },
+  {
+    "key": "2A97",
+    "mappings": {
+      "default": {
+        "default": "等斜线或小于内点"
+      }
+    }
+  },
+  {
+    "key": "2A98",
+    "mappings": {
+      "default": {
+        "default": "等斜线或大于内点"
+      }
+    }
+  },
+  {
+    "key": "2A99",
+    "mappings": {
+      "default": {
+        "default": "双线等号或小于"
+      }
+    }
+  },
+  {
+    "key": "2A9A",
+    "mappings": {
+      "default": {
+        "default": "双线等号或大于"
+      }
+    }
+  },
+  {
+    "key": "2A9B",
+    "mappings": {
+      "default": {
+        "default": "双线等斜线或小于"
+      }
+    }
+  },
+  {
+    "key": "2A9C",
+    "mappings": {
+      "default": {
+        "default": "双线等斜线或大于"
+      }
+    }
+  },
+  {
+    "key": "2A9D",
+    "mappings": {
+      "default": {
+        "default": "类似或小于"
+      }
+    }
+  },
+  {
+    "key": "2A9E",
+    "mappings": {
+      "default": {
+        "default": "类似或大于"
+      }
+    }
+  },
+  {
+    "key": "2A9F",
+    "mappings": {
+      "default": {
+        "default": "类似上小于上等号"
+      }
+    }
+  },
+  {
+    "key": "2AA0",
+    "mappings": {
+      "default": {
+        "default": "类似上大于上等号"
+      }
+    }
+  },
+  {
+    "key": "2AA1",
+    "mappings": {
+      "default": {
+        "default": "双层小于"
+      }
+    }
+  },
+  {
+    "key": "2AA2",
+    "mappings": {
+      "default": {
+        "default": "双层大于"
+      }
+    }
+  },
+  {
+    "key": "2AA3",
+    "mappings": {
+      "default": {
+        "default": "双层小于下线"
+      }
+    }
+  },
+  {
+    "key": "2AA4",
+    "mappings": {
+      "default": {
+        "default": "大于叠小于"
+      }
+    }
+  },
+  {
+    "key": "2AA5",
+    "mappings": {
+      "default": {
+        "default": "大于旁小于"
+      }
+    }
+  },
+  {
+    "key": "2AA6",
+    "mappings": {
+      "default": {
+        "default": "小于曲线圈闭"
+      }
+    }
+  },
+  {
+    "key": "2AA7",
+    "mappings": {
+      "default": {
+        "default": "大于曲线圈闭"
+      }
+    }
+  },
+  {
+    "key": "2AA8",
+    "mappings": {
+      "default": {
+        "default": "小于曲线上等斜线"
+      }
+    }
+  },
+  {
+    "key": "2AA9",
+    "mappings": {
+      "default": {
+        "default": "大于曲线上等斜线"
+      }
+    }
+  },
+  {
+    "key": "2AAA",
+    "mappings": {
+      "default": {
+        "default": "更小于"
+      },
+      "clearspeak": {
+        "default": "更小于"
+      }
+    }
+  },
+  {
+    "key": "2AAB",
+    "mappings": {
+      "default": {
+        "default": "更大于"
+      },
+      "clearspeak": {
+        "default": "更大于"
+      }
+    }
+  },
+  {
+    "key": "2AAC",
+    "mappings": {
+      "default": {
+        "default": "更小于或等于"
+      },
+      "clearspeak": {
+        "default": "更小于或等于"
+      }
+    }
+  },
+  {
+    "key": "2AAD",
+    "mappings": {
+      "default": {
+        "default": "更大于或等于"
+      },
+      "clearspeak": {
+        "default": "更大于或等于"
+      }
+    }
+  },
+  {
+    "key": "2AAE",
+    "mappings": {
+      "default": {
+        "default": "等号上凸"
+      }
+    }
+  },
+  {
+    "key": "2AAF",
+    "mappings": {
+      "default": {
+        "default": "前于上单线等号"
+      }
+    }
+  },
+  {
+    "key": "2AB0",
+    "mappings": {
+      "default": {
+        "default": "后于上单线等号"
+      }
+    }
+  },
+  {
+    "key": "2AB1",
+    "mappings": {
+      "default": {
+        "default": "前于上单线不等"
+      }
+    }
+  },
+  {
+    "key": "2AB2",
+    "mappings": {
+      "default": {
+        "default": "后于上单线不等"
+      }
+    }
+  },
+  {
+    "key": "2AB3",
+    "mappings": {
+      "default": {
+        "default": "前于上等号"
+      }
+    }
+  },
+  {
+    "key": "2AB4",
+    "mappings": {
+      "default": {
+        "default": "后于上等号"
+      }
+    }
+  },
+  {
+    "key": "2AB5",
+    "mappings": {
+      "default": {
+        "default": "前于上不等号"
+      }
+    }
+  },
+  {
+    "key": "2AB6",
+    "mappings": {
+      "default": {
+        "default": "后于上不等号"
+      }
+    }
+  },
+  {
+    "key": "2AB7",
+    "mappings": {
+      "default": {
+        "default": "前于上几乎等于"
+      }
+    }
+  },
+  {
+    "key": "2AB8",
+    "mappings": {
+      "default": {
+        "default": "后于上几乎等于"
+      }
+    }
+  },
+  {
+    "key": "2AB9",
+    "mappings": {
+      "default": {
+        "default": "前于上非几乎等于"
+      }
+    }
+  },
+  {
+    "key": "2ABA",
+    "mappings": {
+      "default": {
+        "default": "后于上非几乎等于"
+      }
+    }
+  },
+  {
+    "key": "2ABB",
+    "mappings": {
+      "default": {
+        "default": "双前于"
+      }
+    }
+  },
+  {
+    "key": "2ABC",
+    "mappings": {
+      "default": {
+        "default": "双后于"
+      }
+    }
+  },
+  {
+    "key": "2ABD",
+    "mappings": {
+      "default": {
+        "default": "子集带点"
+      }
+    }
+  },
+  {
+    "key": "2ABE",
+    "mappings": {
+      "default": {
+        "default": "超集带点"
+      }
+    }
+  },
+  {
+    "key": "2ABF",
+    "mappings": {
+      "default": {
+        "default": "子集下加号"
+      }
+    }
+  },
+  {
+    "key": "2AC0",
+    "mappings": {
+      "default": {
+        "default": "超集下加号"
+      }
+    }
+  },
+  {
+    "key": "2AC1",
+    "mappings": {
+      "default": {
+        "default": "子集下乘号"
+      }
+    }
+  },
+  {
+    "key": "2AC2",
+    "mappings": {
+      "default": {
+        "default": "超集下乘号"
+      }
+    }
+  },
+  {
+    "key": "2AC3",
+    "mappings": {
+      "default": {
+        "default": "子集或等于上点"
+      }
+    }
+  },
+  {
+    "key": "2AC4",
+    "mappings": {
+      "default": {
+        "default": "超集或等于上点"
+      }
+    }
+  },
+  {
+    "key": "2AC5",
+    "mappings": {
+      "default": {
+        "default": "子集上等号"
+      }
+    }
+  },
+  {
+    "key": "2AC6",
+    "mappings": {
+      "default": {
+        "default": "超集上等号"
+      }
+    }
+  },
+  {
+    "key": "2AC7",
+    "mappings": {
+      "default": {
+        "default": "子集上波浪号"
+      }
+    }
+  },
+  {
+    "key": "2AC8",
+    "mappings": {
+      "default": {
+        "default": "超集上波浪号"
+      }
+    }
+  },
+  {
+    "key": "2AC9",
+    "mappings": {
+      "default": {
+        "default": "子集上几乎等于"
+      }
+    }
+  },
+  {
+    "key": "2ACA",
+    "mappings": {
+      "default": {
+        "default": "超集上几乎等于"
+      }
+    }
+  },
+  {
+    "key": "2ACB",
+    "mappings": {
+      "default": {
+        "default": "子集上不等号"
+      }
+    }
+  },
+  {
+    "key": "2ACC",
+    "mappings": {
+      "default": {
+        "default": "超集上不等号"
+      }
+    }
+  },
+  {
+    "key": "2ACD",
+    "mappings": {
+      "default": {
+        "default": "左开方框"
+      }
+    }
+  },
+  {
+    "key": "2ACE",
+    "mappings": {
+      "default": {
+        "default": "右开方框"
+      }
+    }
+  },
+  {
+    "key": "2ACF",
+    "mappings": {
+      "default": {
+        "default": "闭合子集"
+      }
+    }
+  },
+  {
+    "key": "2AD0",
+    "mappings": {
+      "default": {
+        "default": "闭合超集"
+      }
+    }
+  },
+  {
+    "key": "2AD1",
+    "mappings": {
+      "default": {
+        "default": "闭合子集或等于"
+      }
+    }
+  },
+  {
+    "key": "2AD2",
+    "mappings": {
+      "default": {
+        "default": "闭合超集或等于"
+      }
+    }
+  },
+  {
+    "key": "2AD3",
+    "mappings": {
+      "default": {
+        "default": "子集上超集"
+      }
+    }
+  },
+  {
+    "key": "2AD4",
+    "mappings": {
+      "default": {
+        "default": "超集上子集"
+      }
+    }
+  },
+  {
+    "key": "2AD5",
+    "mappings": {
+      "default": {
+        "default": "子集上子集"
+      }
+    }
+  },
+  {
+    "key": "2AD6",
+    "mappings": {
+      "default": {
+        "default": "超集上超集"
+      }
+    }
+  },
+  {
+    "key": "2AD7",
+    "mappings": {
+      "default": {
+        "default": "超集旁子集"
+      }
+    }
+  },
+  {
+    "key": "2AD8",
+    "mappings": {
+      "default": {
+        "default": "超集线连接子集"
+      }
+    }
+  },
+  {
+    "key": "2AD9",
+    "mappings": {
+      "default": {
+        "default": "向下元素"
+      }
+    }
+  },
+  {
+    "key": "2ADA",
+    "mappings": {
+      "default": {
+        "default": "绀锹顶tee"
+      }
+    }
+  },
+  {
+    "key": "2ADB",
+    "mappings": {
+      "default": {
+        "default": "横截交"
+      }
+    }
+  },
+  {
+    "key": "2ADC",
+    "mappings": {
+      "default": {
+        "default": "分叉"
+      }
+    }
+  },
+  {
+    "key": "2ADD",
+    "mappings": {
+      "default": {
+        "default": "不分叉"
+      }
+    }
+  },
+  {
+    "key": "2ADE",
+    "mappings": {
+      "default": {
+        "default": "短左钉"
+      }
+    }
+  },
+  {
+    "key": "2ADF",
+    "mappings": {
+      "default": {
+        "default": "短下钉"
+      }
+    }
+  },
+  {
+    "key": "2AE0",
+    "mappings": {
+      "default": {
+        "default": "短上钉"
+      }
+    }
+  },
+  {
+    "key": "2AE1",
+    "mappings": {
+      "default": {
+        "default": "垂直带s"
+      }
+    }
+  },
+  {
+    "key": "2AE2",
+    "mappings": {
+      "default": {
+        "default": "竖线三右转折"
+      }
+    }
+  },
+  {
+    "key": "2AE3",
+    "mappings": {
+      "default": {
+        "default": "双竖线左转折"
+      }
+    }
+  },
+  {
+    "key": "2AE4",
+    "mappings": {
+      "default": {
+        "default": "竖线双左转折"
+      }
+    }
+  },
+  {
+    "key": "2AE5",
+    "mappings": {
+      "default": {
+        "default": "双竖线双左转折"
+      }
+    }
+  },
+  {
+    "key": "2AE6",
+    "mappings": {
+      "default": {
+        "default": "双竖线左成员长划线"
+      }
+    }
+  },
+  {
+    "key": "2AE7",
+    "mappings": {
+      "default": {
+        "default": "短下钉上横线"
+      }
+    }
+  },
+  {
+    "key": "2AE8",
+    "mappings": {
+      "default": {
+        "default": "短上钉下横线"
+      }
+    }
+  },
+  {
+    "key": "2AE9",
+    "mappings": {
+      "default": {
+        "default": "短上钉上短下钉"
+      }
+    }
+  },
+  {
+    "key": "2AEA",
+    "mappings": {
+      "default": {
+        "default": "双下钉"
+      }
+    }
+  },
+  {
+    "key": "2AEB",
+    "mappings": {
+      "default": {
+        "default": "双上钉"
+      }
+    }
+  },
+  {
+    "key": "2AEC",
+    "mappings": {
+      "default": {
+        "default": "双线非"
+      }
+    }
+  },
+  {
+    "key": "2AED",
+    "mappings": {
+      "default": {
+        "default": "双线反非"
+      }
+    }
+  },
+  {
+    "key": "2AEE",
+    "mappings": {
+      "default": {
+        "default": "不整除反斜线否定"
+      }
+    }
+  },
+  {
+    "key": "2AEF",
+    "mappings": {
+      "default": {
+        "default": "竖线上圆"
+      }
+    }
+  },
+  {
+    "key": "2AF0",
+    "mappings": {
+      "default": {
+        "default": "竖线下圆"
+      }
+    }
+  },
+  {
+    "key": "2AF1",
+    "mappings": {
+      "default": {
+        "default": "下钉下圆"
+      }
+    }
+  },
+  {
+    "key": "2AF2",
+    "mappings": {
+      "default": {
+        "default": "平行加横线"
+      }
+    }
+  },
+  {
+    "key": "2AF3",
+    "mappings": {
+      "default": {
+        "default": "平行加波浪号"
+      }
+    }
+  },
+  {
+    "key": "2AF4",
+    "mappings": {
+      "default": {
+        "default": "三竖线"
+      }
+    }
+  },
+  {
+    "key": "2AF5",
+    "mappings": {
+      "default": {
+        "default": "三竖线加横线"
+      }
+    }
+  },
+  {
+    "key": "2AF6",
+    "mappings": {
+      "default": {
+        "default": "三冒号"
+      }
+    }
+  },
+  {
+    "key": "2AF7",
+    "mappings": {
+      "default": {
+        "default": "三层小于"
+      }
+    }
+  },
+  {
+    "key": "2AF8",
+    "mappings": {
+      "default": {
+        "default": "三层大于"
+      }
+    }
+  },
+  {
+    "key": "2AF9",
+    "mappings": {
+      "default": {
+        "default": "双线等斜线或小于"
+      }
+    }
+  },
+  {
+    "key": "2AFA",
+    "mappings": {
+      "default": {
+        "default": "双线等斜线或大于"
+      }
+    }
+  },
+  {
+    "key": "2AFB",
+    "mappings": {
+      "default": {
+        "default": "三正斜线"
+      }
+    }
+  },
+  {
+    "key": "2AFC",
+    "mappings": {
+      "default": {
+        "default": "大型三竖线"
+      }
+    }
+  },
+  {
+    "key": "2AFD",
+    "mappings": {
+      "default": {
+        "default": "双正斜线"
+      }
+    }
+  },
+  {
+    "key": "2AFE",
+    "mappings": {
+      "default": {
+        "default": "白竖线"
+      }
+    }
+  },
+  {
+    "key": "2AFF",
+    "mappings": {
+      "default": {
+        "default": "n元白竖线"
+      },
+      "mathspeak": {
+        "default": "白竖线"
+      }
+    }
+  },
+  {
+    "key": "301C",
+    "mappings": {
+      "default": {
+        "default": "波浪划线"
+      }
+    }
+  },
+  {
+    "key": "FE10",
+    "mappings": {
+      "default": {
+        "default": "表示形式为竖逗号"
+      }
+    }
+  },
+  {
+    "key": "FE13",
+    "mappings": {
+      "default": {
+        "default": "表示形式为竖冒号"
+      }
+    }
+  },
+  {
+    "key": "FE14",
+    "mappings": {
+      "default": {
+        "default": "表示形式为竖分号"
+      }
+    }
+  },
+  {
+    "key": "FE15",
+    "mappings": {
+      "default": {
+        "default": "表示形式为竖感叹号"
+      }
+    }
+  },
+  {
+    "key": "FE16",
+    "mappings": {
+      "default": {
+        "default": "表示形式为竖问号"
+      }
+    }
+  },
+  {
+    "key": "FE19",
+    "mappings": {
+      "default": {
+        "default": "表示形式为竖水平省略号"
+      }
+    }
+  },
+  {
+    "key": "FE30",
+    "mappings": {
+      "default": {
+        "default": "竖双点省略符号"
+      }
+    }
+  },
+  {
+    "key": "FE31",
+    "mappings": {
+      "default": {
+        "default": "竖长划线"
+      }
+    }
+  },
+  {
+    "key": "FE32",
+    "mappings": {
+      "default": {
+        "default": "竖短划线"
+      }
+    }
+  },
+  {
+    "key": "FE33",
+    "mappings": {
+      "default": {
+        "default": "竖下划线"
+      }
+    }
+  },
+  {
+    "key": "FE34",
+    "mappings": {
+      "default": {
+        "default": "竖波浪下划线"
+      }
+    }
+  },
+  {
+    "key": "FE45",
+    "mappings": {
+      "default": {
+        "default": "芝麻点"
+      }
+    }
+  },
+  {
+    "key": "FE46",
+    "mappings": {
+      "default": {
+        "default": "白芝麻点"
+      }
+    }
+  },
+  {
+    "key": "FE49",
+    "mappings": {
+      "default": {
+        "default": "虚线上划线"
+      }
+    }
+  },
+  {
+    "key": "FE4A",
+    "mappings": {
+      "default": {
+        "default": "划线点上划线"
+      }
+    }
+  },
+  {
+    "key": "FE4B",
+    "mappings": {
+      "default": {
+        "default": "波浪上划线"
+      }
+    }
+  },
+  {
+    "key": "FE4C",
+    "mappings": {
+      "default": {
+        "default": "双波浪上划线"
+      }
+    }
+  },
+  {
+    "key": "FE4D",
+    "mappings": {
+      "default": {
+        "default": "虚线下划线"
+      }
+    }
+  },
+  {
+    "key": "FE4E",
+    "mappings": {
+      "default": {
+        "default": "划线点下划线"
+      }
+    }
+  },
+  {
+    "key": "FE4F",
+    "mappings": {
+      "default": {
+        "default": "波浪下划线"
+      }
+    }
+  },
+  {
+    "key": "FE50",
+    "mappings": {
+      "default": {
+        "default": "小逗号"
+      }
+    }
+  },
+  {
+    "key": "FE52",
+    "mappings": {
+      "default": {
+        "default": "小句号"
+      }
+    }
+  },
+  {
+    "key": "FE54",
+    "mappings": {
+      "default": {
+        "default": "小分号"
+      }
+    }
+  },
+  {
+    "key": "FE55",
+    "mappings": {
+      "default": {
+        "default": "小冒号"
+      }
+    }
+  },
+  {
+    "key": "FE56",
+    "mappings": {
+      "default": {
+        "default": "小问号"
+      }
+    }
+  },
+  {
+    "key": "FE57",
+    "mappings": {
+      "default": {
+        "default": "小感叹号"
+      }
+    }
+  },
+  {
+    "key": "FE58",
+    "mappings": {
+      "default": {
+        "default": "小横线"
+      }
+    }
+  },
+  {
+    "key": "FE5F",
+    "mappings": {
+      "default": {
+        "default": "小井号"
+      }
+    }
+  },
+  {
+    "key": "FE60",
+    "mappings": {
+      "default": {
+        "default": "小与号"
+      }
+    }
+  },
+  {
+    "key": "FE61",
+    "mappings": {
+      "default": {
+        "default": "小星号"
+      }
+    }
+  },
+  {
+    "key": "FE62",
+    "mappings": {
+      "default": {
+        "default": "小加号"
+      }
+    }
+  },
+  {
+    "key": "FE63",
+    "mappings": {
+      "default": {
+        "default": "小减号"
+      }
+    }
+  },
+  {
+    "key": "FE64",
+    "mappings": {
+      "default": {
+        "default": "小于号"
+      }
+    }
+  },
+  {
+    "key": "FE65",
+    "mappings": {
+      "default": {
+        "default": "大于号"
+      }
+    }
+  },
+  {
+    "key": "FE66",
+    "mappings": {
+      "default": {
+        "default": "小等号"
+      }
+    }
+  },
+  {
+    "key": "FE68",
+    "mappings": {
+      "default": {
+        "default": "小反斜线"
+      }
+    }
+  },
+  {
+    "key": "FE69",
+    "mappings": {
+      "default": {
+        "default": "小美元符号"
+      }
+    }
+  },
+  {
+    "key": "FE6A",
+    "mappings": {
+      "default": {
+        "default": "小百分号"
+      }
+    }
+  },
+  {
+    "key": "FE6B",
+    "mappings": {
+      "default": {
+        "default": "小商标"
+      }
+    }
+  },
+  {
+    "key": "FF01",
+    "mappings": {
+      "default": {
+        "default": "感叹号"
+      }
+    }
+  },
+  {
+    "key": "FF02",
+    "mappings": {
+      "default": {
+        "default": "引号"
+      }
+    }
+  },
+  {
+    "key": "FF03",
+    "mappings": {
+      "default": {
+        "default": "井号"
+      }
+    }
+  },
+  {
+    "key": "FF04",
+    "mappings": {
+      "default": {
+        "default": "美元符号"
+      }
+    }
+  },
+  {
+    "key": "FF05",
+    "mappings": {
+      "default": {
+        "default": "百分号"
+      }
+    }
+  },
+  {
+    "key": "FF06",
+    "mappings": {
+      "default": {
+        "default": "和号"
+      }
+    }
+  },
+  {
+    "key": "FF07",
+    "mappings": {
+      "default": {
+        "default": "撇号"
+      }
+    }
+  },
+  {
+    "key": "FF0A",
+    "mappings": {
+      "default": {
+        "default": "星号"
+      }
+    }
+  },
+  {
+    "key": "FF0B",
+    "mappings": {
+      "default": {
+        "default": "加号"
+      }
+    }
+  },
+  {
+    "key": "FF0C",
+    "mappings": {
+      "default": {
+        "default": "逗号"
+      }
+    }
+  },
+  {
+    "key": "FF0D",
+    "mappings": {
+      "default": {
+        "default": "减号"
+      }
+    }
+  },
+  {
+    "key": "FF0E",
+    "mappings": {
+      "default": {
+        "default": "句号"
+      }
+    }
+  },
+  {
+    "key": "FF0F",
+    "mappings": {
+      "default": {
+        "default": "斜线"
+      }
+    }
+  },
+  {
+    "key": "FF1A",
+    "mappings": {
+      "default": {
+        "default": "冒号"
+      }
+    }
+  },
+  {
+    "key": "FF1B",
+    "mappings": {
+      "default": {
+        "default": "分号"
+      }
+    }
+  },
+  {
+    "key": "FF1C",
+    "mappings": {
+      "default": {
+        "default": "小于号"
+      }
+    }
+  },
+  {
+    "key": "FF1D",
+    "mappings": {
+      "default": {
+        "default": "等号"
+      }
+    }
+  },
+  {
+    "key": "FF1E",
+    "mappings": {
+      "default": {
+        "default": "大于号"
+      }
+    }
+  },
+  {
+    "key": "FF1F",
+    "mappings": {
+      "default": {
+        "default": "问号"
+      }
+    }
+  },
+  {
+    "key": "FF20",
+    "mappings": {
+      "default": {
+        "default": "商标"
+      }
+    }
+  },
+  {
+    "key": "FF3C",
+    "mappings": {
+      "default": {
+        "default": "反斜线"
+      }
+    }
+  },
+  {
+    "key": "FF3E",
+    "mappings": {
+      "default": {
+        "default": "脱字符号"
+      }
+    }
+  },
+  {
+    "key": "FF3F",
+    "mappings": {
+      "default": {
+        "default": "下划线"
+      }
+    }
+  },
+  {
+    "key": "FF40",
+    "mappings": {
+      "default": {
+        "default": "重音符号"
+      }
+    }
+  },
+  {
+    "key": "FF5C",
+    "mappings": {
+      "default": {
+        "default": "竖线"
+      }
+    }
+  },
+  {
+    "key": "FF5E",
+    "mappings": {
+      "default": {
+        "default": "波浪号"
+      }
+    }
+  },
+  {
+    "key": "FFE0",
+    "mappings": {
+      "default": {
+        "default": "分符号"
+      }
+    }
+  },
+  {
+    "key": "FFE1",
+    "mappings": {
+      "default": {
+        "default": "英镑符号"
+      }
+    }
+  },
+  {
+    "key": "FFE2",
+    "mappings": {
+      "default": {
+        "default": "非号"
+      }
+    }
+  },
+  {
+    "key": "FFE3",
+    "mappings": {
+      "default": {
+        "default": "长音符号"
+      },
+      "mathspeak": {
+        "default": "横线"
+      }
+    }
+  },
+  {
+    "key": "FFE4",
+    "mappings": {
+      "default": {
+        "default": "断开竖线"
+      }
+    }
+  },
+  {
+    "key": "FFE5",
+    "mappings": {
+      "default": {
+        "default": "日元符号"
+      }
+    }
+  },
+  {
+    "key": "FFE6",
+    "mappings": {
+      "default": {
+        "default": "韩元符号"
+      }
+    }
+  },
+  {
+    "key": "FFE8",
+    "mappings": {
+      "default": {
+        "default": "半型亮竖线"
+      }
+    }
+  },
+  {
+    "key": "FFED",
+    "mappings": {
+      "default": {
+        "default": "半型黑方块"
+      }
+    }
+  },
+  {
+    "key": "FFEE",
+    "mappings": {
+      "default": {
+        "default": "半型白圆"
+      }
+    }
+  }
+]

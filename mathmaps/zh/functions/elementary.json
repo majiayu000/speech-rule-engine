@@ -1,0 +1,256 @@
+[
+  {
+    "locale": "zh"
+  },
+  {
+    "key": "log",
+    "mappings": {
+      "default": {
+        "default": "对数"
+      }
+    }
+  },
+  {
+    "key": "ln",
+    "mappings": {
+      "default": {
+        "default": "自然对数"
+      },
+      "mathspeak": {
+        "default": "ln"
+      },
+      "clearspeak": {
+        "default": "l n",
+        "Log_LnAsNaturalLog": "自然对数"
+      }
+    }
+  },
+  {
+    "key": "lg",
+    "mappings": {
+      "default": {
+        "default": "以10为底的对数"
+      }
+    }
+  },
+  {
+    "key": "exp",
+    "mappings": {
+      "default": {
+        "default": "指数"
+      },
+      "mathspeak": {
+        "default": "exp"
+      },
+      "clearspeak": {
+        "default": "exp"
+      }
+    }
+  },
+  {
+    "key": "gcd",
+    "mappings": {
+      "default": {
+        "default": "最大公约数"
+      },
+      "mathspeak": {
+        "default": "gcd"
+      },
+      "clearspeak": {
+        "default": "gcd"
+      }
+    }
+  },
+  {
+    "key": "lcm",
+    "mappings": {
+      "default": {
+        "default": "最小公倍数"
+      },
+      "mathspeak": {
+        "default": "lcm"
+      },
+      "clearspeak": {
+        "default": "lcm"
+      }
+    }
+  },
+  {
+    "key": "arg",
+    "mappings": {
+      "default": {
+        "default": "辐角"
+      },
+      "mathspeak": {
+        "default": "arg"
+      },
+      "clearspeak": {
+        "default": "arg"
+      }
+    }
+  },
+  {
+    "key": "im",
+    "mappings": {
+      "default": {
+        "default": "虚部"
+      },
+      "mathspeak": {
+        "default": "im"
+      },
+      "clearspeak": {
+        "default": "虚部"
+      }
+    }
+  },
+  {
+    "key": "re",
+    "mappings": {
+      "default": {
+        "default": "实部"
+      },
+      "mathspeak": {
+        "default": "re"
+      },
+      "clearspeak": {
+        "default": "实部"
+      }
+    }
+  },
+  {
+    "key": "inf",
+    "mappings": {
+      "default": {
+        "default": "下确界"
+      },
+      "mathspeak": {
+        "default": "inf"
+      },
+      "clearspeak": {
+        "default": "inf"
+      }
+    }
+  },
+  {
+    "key": "lim",
+    "mappings": {
+      "default": {
+        "default": "极限"
+      },
+      "mathspeak": {
+        "default": "极限"
+      },
+      "clearspeak": {
+        "default": "lim"
+      }
+    }
+  },
+  {
+    "key": "liminf",
+    "mappings": {
+      "default": {
+        "default": "下极限"
+      },
+      "mathspeak": {
+        "default": "liminf"
+      },
+      "clearspeak": {
+        "default": "liminf"
+      }
+    }
+  },
+  {
+    "key": "limsup",
+    "mappings": {
+      "default": {
+        "default": "上极限"
+      },
+      "mathspeak": {
+        "default": "limsup"
+      },
+      "clearspeak": {
+        "default": "limsup"
+      }
+    }
+  },
+  {
+    "key": "max",
+    "mappings": {
+      "default": {
+        "default": "最大值"
+      },
+      "mathspeak": {
+        "default": "max"
+      },
+      "clearspeak": {
+        "default": "max"
+      }
+    }
+  },
+  {
+    "key": "min",
+    "mappings": {
+      "default": {
+        "default": "最小值"
+      },
+      "mathspeak": {
+        "default": "min"
+      },
+      "clearspeak": {
+        "default": "min"
+      }
+    }
+  },
+  {
+    "key": "sup",
+    "mappings": {
+      "default": {
+        "default": "上确界"
+      },
+      "mathspeak": {
+        "default": "sup"
+      },
+      "clearspeak": {
+        "default": "sup"
+      }
+    }
+  },
+  {
+    "key": "injlim",
+    "mappings": {
+      "default": {
+        "default": "余极限"
+      }
+    }
+  },
+  {
+    "key": "projlim",
+    "mappings": {
+      "default": {
+        "default": "投影极限"
+      }
+    }
+  },
+  {
+    "key": "mod",
+    "mappings": {
+      "default": {
+        "default": "模"
+      },
+      "mathspeak": {
+        "default": "mod"
+      },
+      "clearspeak": {
+        "default": "mod"
+      }
+    }
+  },
+  {
+    "key": "Pr",
+    "mappings": {
+      "default": {
+        "default": "概率"
+      }
+    }
+  }
+]

@@ -80,6 +80,7 @@ export function engineSetup(): { [key: string]: boolean | string } {
  *     locale has been loaded.
  */
 export async function engineReady(): Promise<any> {
+  console.log(`engine ready`)
   return setupEngine({}).then(() => EnginePromise.getall());
 }
 
@@ -105,6 +106,7 @@ export const localeLoader = standardLoader;
  * @returns The aural rendering of the expression.
  */
 export function toSpeech(expr: string): string {
+  console.log("expr is ", expr)
   return processString('speech', expr);
 }
 
@@ -198,6 +200,7 @@ export function vulgar(expr: string): string {
  * @returns The computed data structure.
  */
 function processString<T>(processor: string, input: string): T {
+  console.log("processor is ", processor)
   return ProcessorFactory.process(processor, input);
 }
 

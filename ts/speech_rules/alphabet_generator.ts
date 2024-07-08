@@ -79,6 +79,7 @@ export function generate(locale: string) {
   const oldLocale = Engine.getInstance().locale;
   Engine.getInstance().locale = locale;
   L10n.setLocale();
+  console.log("generate: changelocale success")
   MathCompoundStore.changeLocale({ locale: locale } as UnicodeJson);
   makeDomains();
   for (const int of Alphabet.INTERVALS.values()) {

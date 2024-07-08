@@ -1,0 +1,197 @@
+[
+  {
+    "locale": "zh"
+  },
+  {
+    "key": "22BE",
+    "mappings": {
+      "default": {
+        "default": "带弧的直角"
+      }
+    }
+  },
+  {
+    "key": "237C",
+    "mappings": {
+      "default": {
+        "default": "带向下之字箭头的直角"
+      }
+    }
+  },
+  {
+    "key": "27C0",
+    "mappings": {
+      "default": {
+        "default": "三维角"
+      }
+    }
+  },
+  {
+    "key": "299B",
+    "mappings": {
+      "default": {
+        "default": "向左开的测量角"
+      }
+    }
+  },
+  {
+    "key": "299C",
+    "mappings": {
+      "default": {
+        "default": "带方形的直角变体"
+      }
+    }
+  },
+  {
+    "key": "299D",
+    "mappings": {
+      "default": {
+        "default": "带点的测量直角"
+      }
+    }
+  },
+  {
+    "key": "299E",
+    "mappings": {
+      "default": {
+        "default": "带S的角"
+      }
+    }
+  },
+  {
+    "key": "299F",
+    "mappings": {
+      "default": {
+        "default": "锐角"
+      }
+    }
+  },
+  {
+    "key": "29A0",
+    "mappings": {
+      "default": {
+        "default": "向左开的球角"
+      }
+    }
+  },
+  {
+    "key": "29A1",
+    "mappings": {
+      "default": {
+        "default": "向上开的球角"
+      }
+    }
+  },
+  {
+    "key": "29A2",
+    "mappings": {
+      "default": {
+        "default": "翻转角"
+      }
+    }
+  },
+  {
+    "key": "29A3",
+    "mappings": {
+      "default": {
+        "default": "反转角"
+      }
+    }
+  },
+  {
+    "key": "29A4",
+    "mappings": {
+      "default": {
+        "default": "带下划线的角"
+      }
+    }
+  },
+  {
+    "key": "29A5",
+    "mappings": {
+      "default": {
+        "default": "带下划线的反转角"
+      }
+    }
+  },
+  {
+    "key": "29A6",
+    "mappings": {
+      "default": {
+        "default": "向上开的斜角"
+      }
+    }
+  },
+  {
+    "key": "29A7",
+    "mappings": {
+      "default": {
+        "default": "向下开的斜角"
+      }
+    }
+  },
+  {
+    "key": "29A8",
+    "mappings": {
+      "default": {
+        "default": "带向右上箭头的开臂测量角"
+      }
+    }
+  },
+  {
+    "key": "29A9",
+    "mappings": {
+      "default": {
+        "default": "带向左上箭头的开臂测量角"
+      }
+    }
+  },
+  {
+    "key": "29AA",
+    "mappings": {
+      "default": {
+        "default": "带向右下箭头的开臂测量角"
+      }
+    }
+  },
+  {
+    "key": "29AB",
+    "mappings": {
+      "default": {
+        "default": "带向左下箭头的开臂测量角"
+      }
+    }
+  },
+  {
+    "key": "29AC",
+    "mappings": {
+      "default": {
+        "default": "带向右上箭头的开臂测量角"
+      }
+    }
+  },
+  {
+    "key": "29AD",
+    "mappings": {
+      "default": {
+        "default": "带向左上箭头的开臂测量角"
+      }
+    }
+  },
+  {
+    "key": "29AE",
+    "mappings": {
+      "default": {
+        "default": "带向右下箭头的开臂测量角"
+      }
+    }
+  },
+  {
+    "key": "29AF",
+    "mappings": {
+      "default": {
+        "default": "带向左下箭头的开臂测量角"
+      }
+    }
+  }
+]

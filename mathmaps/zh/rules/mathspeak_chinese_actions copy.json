@@ -1,0 +1,323 @@
+{
+  "domain": "mathspeak",
+  "locale": "zh",
+  "modality": "speech",
+  "kind": "actions",
+  "rules": [
+    [
+      "Action",
+      "collapsed",
+      "[t] \"已折叠\"; [n] . (engine:modality=summary, grammar:?collapsed)"
+    ],
+    [
+      "Action",
+      "blank-cell-empty",
+      "[t] \"空白\""
+    ],
+    [
+      "Action",
+      "blank-line-empty",
+      "[t] \"空白\""
+    ],
+    [
+      "Action",
+      "font",
+      "[t] @font (grammar:localFont); [n] . (grammar:ignoreFont=@font)"
+    ],
+    [
+      "Action",
+      "german-font",
+      "[t] \"德文\"; [n] . (grammar:ignoreFont=@font)"
+    ],
+    [
+      "Action",
+      "german-font-bold",
+      "[t] \"粗体德文\"; [n] . (grammar:ignoreFont=@font)"
+    ],
+    [
+      "Action",
+      "mixed-number",
+      "[n] children/*[1]; [t] \"又\"; [n] children/*[2]"
+    ],
+    [
+      "Action",
+      "number-with-chars",
+      "[t] \"数字\"; [m] CQFspaceoutNumber (grammar:protected)"
+    ],
+    [
+      "Action",
+      "number-with-chars-brief",
+      "[t] \"数\"; [m] CQFspaceoutNumber (grammar:protected)"
+    ],
+    [
+      "Action",
+      "number-as-upper-word",
+      "[t] \"大写字母\"; [t] CSFspaceoutText"
+    ],
+    [
+      "Action",
+      "number-baseline",
+      "[t] \"基线\"; [n] . (grammar:baseline)"
+    ],
+    [
+      "Action",
+      "number-baseline-brief",
+      "[t] \"基\"; [n] . (grammar:baseline)"
+    ],
+    [
+      "Action",
+      "number-baseline-font",
+      "[t] \"基线\"; [t] @font; [n] . (grammar:ignoreFont=@font)"
+    ],
+    [
+      "Action",
+      "number-baseline-font-brief",
+      "[t] \"基\"; [t] @font; [n] . (grammar:ignoreFont=@font)"
+    ],
+    [
+      "Action",
+      "negative-number",
+      "[t] \"负\"; [n] children/*[1]"
+    ],
+    [
+      "Action",
+      "negative",
+      "[t] \"负\"; [n] children/*[1]"
+    ],
+    [
+      "Action",
+      "division",
+      "[n] children/*[1]; [t] \"除以\"; [n] children/*[2]"
+    ],
+    [
+      "Action",
+      "subtraction",
+      "[m] children/* (separator:\"减\")"
+    ],
+    [
+      "Action",
+      "fences-neutral",
+      "[t] \"开始绝对值\"; [n] children/*[1]; [t] \"结束绝对值\""
+    ],
+    [
+      "Action",
+      "fences-neutral-sbrief",
+      "[t] \"绝对值\"; [n] children/*[1]; [t] \"结束绝对值\""
+    ],
+    [
+      "Action",
+      "fences-metric",
+      "[t] \"开始度量\"; [n] children/*[1]; [t] \"结束度量\""
+    ],
+    [
+      "Action",
+      "fences-metric-sbrief",
+      "[t] \"度量\"; [n] children/*[1]; [t] \"结束度量\""
+    ],
+    [
+      "Action",
+      "empty-set",
+      "[t] \"空集\""
+    ],
+    [
+      "Action",
+      "fences-set",
+      "[t] \"开始集合\"; [n] children/*[1]; [t] \"结束集合\""
+    ],
+    [
+      "Action",
+      "fences-set-sbrief",
+      "[t] \"集合\"; [n] children/*[1]; [t] \"结束集合\""
+    ],
+    [
+      "Action",
+      "factorial",
+      "[t] \"阶乘\""
+    ],
+    [
+      "Action",
+      "minus",
+      "[t] \"减\""
+    ],
+    [
+      "Action",
+      "continued-fraction-outer",
+      "[t] \"连分数\"; [n] children/*[1]; [t] \"上\"; [n] children/*[2]"
+    ],
+    [
+      "Action",
+      "continued-fraction-outer-brief",
+      "[t] \"连分\"; [n] children/*[1]; [t] \"上\"; [n] children/*[2]"
+    ],
+    [
+      "Action",
+      "continued-fraction-inner",
+      "[t] \"开始分数\"; [n] children/*[1]; [t] \"上\"; [n] children/*[2]"
+    ],
+    [
+      "Action",
+      "continued-fraction-inner-brief",
+      "[t] \"开始分\"; [n] children/*[1]; [t] \"上\"; [n] children/*[2]"
+    ],
+    [
+      "Action",
+      "continued-fraction-inner-sbrief",
+      "[t] \"分\"; [n] children/*[1]; [t] \"上\"; [n] children/*[2]"
+    ],
+    [
+      "Action",
+      "integral",
+      "[n] children/*[1]; [t] \"下标\"; [n] children/*[2]; [t] \"上标\"; [n] children/*[3]; [t] \"基线\""
+    ],
+    [
+      "Action",
+      "integral-brief",
+      "[n] children/*[1]; [t] \"下\"; [n] children/*[2]; [t] \"上\"; [n] children/*[3]; [t] \"基\""
+    ],
+    [
+      "Action",
+      "square",
+      "[n] children/*[1]; [t] \"的平方\" (span:children/*[2])"
+    ],
+    [
+      "Action",
+      "cube",
+      "[n] children/*[1]; [t] \"的立方\" (span:children/*[2])"
+    ],
+    [
+      "Action",
+      "prime",
+      "[n] children/*[1]; [n] children/*[2]"
+    ],
+    [
+      "Action",
+      "counted-prime",
+      "[t] count(children/*) (grammar:numbers2alpha); [t] \"撇\""
+    ],
+    [
+      "Action",
+      "counted-prime-multichar",
+      "[t] string-length(text()) (grammar:numbers2alpha); [t] \"撇\""
+    ],
+    [
+      "Action",
+      "overscore",
+      "[t] \"上方修饰\"; [n] children/*[1]; [t] \"用\"; [n] children/*[2]"
+    ],
+    [
+      "Action",
+      "overscore-brief",
+      "[t] \"上修\"; [n] children/*[1]; [t] \"用\"; [n] children/*[2]"
+    ],
+    [
+      "Action",
+      "double-overscore",
+      "[t] \"上方双重修饰\"; [n] children/*[1]"
+    ],
+    [
+      "Action",
+      "double-overscore-brief",
+      "[t] \"上双修\"; [n] children/*[1]"
+    ],
+    [
+      "Action",
+      "underscore",
+      "[t] \"下方修饰\"; [n] children/*[1]; [t] \"用\"; [n] children/*[2]"
+    ],
+    [
+      "Action",
+      "underscore-brief",
+      "[t] \"下修\"; [n] children/*[1]; [t] \"用\"; [n] children/*[2]"
+    ],
+    [
+      "Action",
+      "double-underscore",
+      "[t] \"下方双重修饰\"; [n] children/*[1]"
+    ],
+    [
+      "Action",
+      "double-underscore-brief",
+      "[t] \"下双修\"; [n] children/*[1]"
+    ],
+    [
+      "Action",
+      "fraction",
+      "[t] \"分数开始\"; [n] children/*[1]; [t] \"分之\"; [n] children/*[2]; [t] \"分数结束\""
+    ],
+    [
+      "Action",
+      "fraction-brief",
+      "[t] \"分开始\"; [n] children/*[1]; [t] \"分之\"; [n] children/*[2]; [t] \"分结束\""
+    ],
+    [
+      "Action",
+      "fraction-sbrief",
+      "[t] \"分\"; [n] children/*[1]; [t] \"分之\"; [n] children/*[2]"
+    ],
+    [
+      "Action",
+      "determinant",
+      "[t] \"行列式\"; [n] children/*[1]"
+    ],
+    [
+      "Action",
+      "determinant-sbrief",
+      "[t] \"行\"; [n] children/*[1]"
+    ],
+    [
+      "Action",
+      "matrix",
+      "[t] \"矩阵\"; [n] children/*[1]"
+    ],
+    [
+      "Action",
+      "binomial",
+      "[t] \"组合\"; [n] children/*[1]; [t] \"和\"; [n] children/*[2]"
+    ],
+    [
+      "Action",
+      "subscript",
+      "[n] children/*[1]; [t] \"下标\"; [n] children/*[2]"
+    ],
+    [
+      "Action",
+      "subscript-brief",
+      "[n] children/*[1]; [t] \"下\"; [n] children/*[2]"
+    ],
+    [
+      "Action",
+      "superscript",
+      "[n] children/*[1]; [t] \"上标\"; [n] children/*[2]"
+    ],
+    [
+      "Action",
+      "superscript-brief",
+      "[n] children/*[1]; [t] \"上\"; [n] children/*[2]"
+    ],
+    [
+      "Action",
+      "root",
+      "[t] \"开始根号\"; [n] children/*[2]; [t] \"次方根\"; [n] children/*[1]; [t] \"结束根号\""
+    ],
+    [
+      "Action",
+      "root-brief",
+      "[t] \"根\"; [n] children/*[2]; [t] \"次根\"; [n] children/*[1]; [t] \"结束根\""
+    ],
+    [
+      "Action",
+      "sqrt",
+      "[t] \"开始平方根\"; [n] children/*[1]; [t] \"结束平方根\""
+    ],
+    [
+      "Action",
+      "sqrt-brief",
+      "[t] \"根\"; [n] children/*[1]; [t] \"结束根\""
+    ],
+    [
+      "Action",
+      "sqrt-sbrief",
+      "[t] \"根\"; [n] children/*[1]"
+    ]
+  ]
+}

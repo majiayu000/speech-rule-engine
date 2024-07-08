@@ -1,0 +1,48 @@
+[
+  {
+    "locale": "zh"
+  },
+  {
+    "key": "03D0",
+    "mappings": {
+      "default": {
+        "default": "贝塔"
+      }
+    }
+  },
+  {
+    "key": "03D7",
+    "mappings": {
+      "default": {
+        "default": "开"
+      }
+    }
+  },
+  {
+    "key": "03F6",
+    "mappings": {
+      "default": {
+        "default": "反向艾普西隆"
+      }
+    }
+  },
+  {
+    "key": "1D7CA",
+    "mappings": {
+      "default": {
+        "default": "粗体大写迪伽玛"
+      },
+      "mathspeak": {
+        "default": "粗体大写迪伽玛"
+      }
+    }
+  },
+  {
+    "key": "1D7CB",
+    "mappings": {
+      "default": {
+        "default": "粗体迪伽玛"
+      }
+    }
+  }
+]

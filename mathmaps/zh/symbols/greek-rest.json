@@ -1,0 +1,14 @@
+[
+  {
+    "locale": "zh"
+  },
+  {
+    "key": "0394",
+    "mappings": {
+      "clearspeak": {
+        "default": "三角形",
+        "TriangleSymbol_Delta": "大写三角形"
+      }
+    }
+  }
+]

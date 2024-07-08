@@ -1,0 +1,101 @@
+[
+  {
+    "locale": "zh"
+  },
+  {
+    "key": "cosh",
+    "mappings": {
+      "default": {
+        "default": "双曲余弦"
+      }
+    }
+  },
+  {
+    "key": "coth",
+    "mappings": {
+      "default": {
+        "default": "双曲余切"
+      }
+    }
+  },
+  {
+    "key": "csch",
+    "mappings": {
+      "default": {
+        "default": "双曲余割"
+      }
+    }
+  },
+  {
+    "key": "sech",
+    "mappings": {
+      "default": {
+        "default": "双曲正割"
+      }
+    }
+  },
+  {
+    "key": "sinh",
+    "mappings": {
+      "default": {
+        "default": "双曲正弦"
+      }
+    }
+  },
+  {
+    "key": "tanh",
+    "mappings": {
+      "default": {
+        "default": "双曲正切"
+      }
+    }
+  },
+  {
+    "key": "arcosh",
+    "mappings": {
+      "default": {
+        "default": "反双曲余弦"
+      }
+    }
+  },
+  {
+    "key": "arcoth",
+    "mappings": {
+      "default": {
+        "default": "反双曲余切"
+      }
+    }
+  },
+  {
+    "key": "arcsch",
+    "mappings": {
+      "default": {
+        "default": "反双曲余割"
+      }
+    }
+  },
+  {
+    "key": "arsech",
+    "mappings": {
+      "default": {
+        "default": "反双曲正割"
+      }
+    }
+  },
+  {
+    "key": "arsinh",
+    "mappings": {
+      "default": {
+        "default": "反双曲正弦"
+      }
+    }
+  },
+  {
+    "key": "artanh",
+    "mappings": {
+      "default": {
+        "default": "反双曲正切"
+      }
+    }
+  }
+]

@@ -30,6 +30,8 @@ import * as SpeechRules from './speech_rules.js';
  * Adds the custom functions for the clearspeak rules.
  */
 export function ClearspeakRules() {
+
+  console.log("start add rule")
   // Basic English
   SpeechRules.addStore(DynamicCstr.BASE_LOCALE + '.speech.clearspeak', '', {
     CTFpauseSeparator: StoreUtil.pauseSeparator,

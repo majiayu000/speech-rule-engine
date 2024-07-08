@@ -1,0 +1,421 @@
+[
+  {
+    "locale": "zh"
+  },
+  {
+    "key": "21BC",
+    "mappings": {
+      "default": {
+        "default": "左尖勾上钩"
+      }
+    }
+  },
+  {
+    "key": "21BD",
+    "mappings": {
+      "default": {
+        "default": "左尖勾下钩"
+      }
+    }
+  },
+  {
+    "key": "21BE",
+    "mappings": {
+      "default": {
+        "default": "上尖勾右钩"
+      }
+    }
+  },
+  {
+    "key": "21BF",
+    "mappings": {
+      "default": {
+        "default": "上尖勾左钩"
+      }
+    }
+  },
+  {
+    "key": "21C0",
+    "mappings": {
+      "default": {
+        "default": "右尖勾上钩"
+      }
+    }
+  },
+  {
+    "key": "21C1",
+    "mappings": {
+      "default": {
+        "default": "右尖勾下钩"
+      }
+    }
+  },
+  {
+    "key": "21C2",
+    "mappings": {
+      "default": {
+        "default": "下尖勾右钩"
+      }
+    }
+  },
+  {
+    "key": "21C3",
+    "mappings": {
+      "default": {
+        "default": "下尖勾左钩"
+      }
+    }
+  },
+  {
+    "key": "21CB",
+    "mappings": {
+      "default": {
+        "default": "左尖勾于右尖勾上"
+      }
+    }
+  },
+  {
+    "key": "21CC",
+    "mappings": {
+      "default": {
+        "default": "右尖勾于左尖勾上"
+      }
+    }
+  },
+  {
+    "key": "294A",
+    "mappings": {
+      "default": {
+        "default": "左上右下方尖勾"
+      }
+    }
+  },
+  {
+    "key": "294B",
+    "mappings": {
+      "default": {
+        "default": "左下右上方尖勾"
+      }
+    }
+  },
+  {
+    "key": "294C",
+    "mappings": {
+      "default": {
+        "default": "右上左下方尖勾"
+      }
+    }
+  },
+  {
+    "key": "294D",
+    "mappings": {
+      "default": {
+        "default": "左上右下方尖勾"
+      }
+    }
+  },
+  {
+    "key": "294E",
+    "mappings": {
+      "default": {
+        "default": "左右上方尖勾"
+      }
+    }
+  },
+  {
+    "key": "294F",
+    "mappings": {
+      "default": {
+        "default": "右上下方尖勾"
+      }
+    }
+  },
+  {
+    "key": "2950",
+    "mappings": {
+      "default": {
+        "default": "左右下方尖勾"
+      }
+    }
+  },
+  {
+    "key": "2951",
+    "mappings": {
+      "default": {
+        "default": "左右下方尖勾"
+      }
+    }
+  },
+  {
+    "key": "2952",
+    "mappings": {
+      "default": {
+        "default": "左上钩至杠尖勾"
+      }
+    }
+  },
+  {
+    "key": "2953",
+    "mappings": {
+      "default": {
+        "default": "右上钩至杠尖勾"
+      }
+    }
+  },
+  {
+    "key": "2954",
+    "mappings": {
+      "default": {
+        "default": "右钩至杠上尖勾"
+      }
+    }
+  },
+  {
+    "key": "2955",
+    "mappings": {
+      "default": {
+        "default": "右钩至杠下尖勾"
+      }
+    }
+  },
+  {
+    "key": "2956",
+    "mappings": {
+      "default": {
+        "default": "左下钩至杠尖勾"
+      }
+    }
+  },
+  {
+    "key": "2957",
+    "mappings": {
+      "default": {
+        "default": "右下钩至杠尖勾"
+      }
+    }
+  },
+  {
+    "key": "2958",
+    "mappings": {
+      "default": {
+        "default": "左钩至杠上尖勾"
+      }
+    }
+  },
+  {
+    "key": "2959",
+    "mappings": {
+      "default": {
+        "default": "左钩至杠下尖勾"
+      }
+    }
+  },
+  {
+    "key": "295A",
+    "mappings": {
+      "default": {
+        "default": "左上钩自杠尖勾"
+      }
+    }
+  },
+  {
+    "key": "295B",
+    "mappings": {
+      "default": {
+        "default": "右上钩自杠尖勾"
+      }
+    }
+  },
+  {
+    "key": "295C",
+    "mappings": {
+      "default": {
+        "default": "右钩自杠上尖勾"
+      }
+    }
+  },
+  {
+    "key": "295D",
+    "mappings": {
+      "default": {
+        "default": "右钩自杠下尖勾"
+      }
+    }
+  },
+  {
+    "key": "295E",
+    "mappings": {
+      "default": {
+        "default": "左下钩自杠尖勾"
+      }
+    }
+  },
+  {
+    "key": "295F",
+    "mappings": {
+      "default": {
+        "default": "右下钩自杠尖勾"
+      }
+    }
+  },
+  {
+    "key": "2960",
+    "mappings": {
+      "default": {
+        "default": "左钩自杠上尖勾"
+      }
+    }
+  },
+  {
+    "key": "2961",
+    "mappings": {
+      "default": {
+        "default": "左钩自杠下尖勾"
+      }
+    }
+  },
+  {
+    "key": "2962",
+    "mappings": {
+      "default": {
+        "default": "左上钩于左下钩上"
+      }
+    }
+  },
+  {
+    "key": "2963",
+    "mappings": {
+      "default": {
+        "default": "左上钩旁右上钩"
+      }
+    }
+  },
+  {
+    "key": "2964",
+    "mappings": {
+      "default": {
+        "default": "右上钩于右下钩上"
+      }
+    }
+  },
+  {
+    "key": "2965",
+    "mappings": {
+      "default": {
+        "default": "左下钩旁右下钩"
+      }
+    }
+  },
+  {
+    "key": "2966",
+    "mappings": {
+      "default": {
+        "default": "左上钩于右上钩上"
+      }
+    }
+  },
+  {
+    "key": "2967",
+    "mappings": {
+      "default": {
+        "default": "左下钩于右下钩上"
+      }
+    }
+  },
+  {
+    "key": "2968",
+    "mappings": {
+      "default": {
+        "default": "右上钩于左上钩上"
+      }
+    }
+  },
+  {
+    "key": "2969",
+    "mappings": {
+      "default": {
+        "default": "右下钩于左下钩上"
+      }
+    }
+  },
+  {
+    "key": "296A",
+    "mappings": {
+      "default": {
+        "default": "左上钩于长划线上"
+      }
+    }
+  },
+  {
+    "key": "296B",
+    "mappings": {
+      "default": {
+        "default": "左下钩于长划线下"
+      }
+    }
+  },
+  {
+    "key": "296C",
+    "mappings": {
+      "default": {
+        "default": "右上钩于长划线上"
+      }
+    }
+  },
+  {
+    "key": "296D",
+    "mappings": {
+      "default": {
+        "default": "右下钩于长划线下"
+      }
+    }
+  },
+  {
+    "key": "296E",
+    "mappings": {
+      "default": {
+        "default": "左钩旁右下钩"
+      }
+    }
+  },
+  {
+    "key": "296F",
+    "mappings": {
+      "default": {
+        "default": "左下钩旁右上钩"
+      }
+    }
+  },
+  {
+    "key": "297C",
+    "mappings": {
+      "default": {
+        "default": "左鱼尾"
+      }
+    }
+  },
+  {
+    "key": "297D",
+    "mappings": {
+      "default": {
+        "default": "右鱼尾"
+      }
+    }
+  },
+  {
+    "key": "297E",
+    "mappings": {
+      "default": {
+        "default": "上鱼尾"
+      }
+    }
+  },
+  {
+    "key": "297F",
+    "mappings": {
+      "default": {
+        "default": "下鱼尾"
+      }
+    }
+  }
+]

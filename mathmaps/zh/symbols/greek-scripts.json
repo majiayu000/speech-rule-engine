@@ -1,0 +1,116 @@
+[
+  {
+    "locale": "zh"
+  },
+  {
+    "key": "1D26",
+    "mappings": {
+      "default": {
+        "default": "小写伽玛"
+      },
+      "mathspeak": {
+        "default": "小写大写伽玛"
+      }
+    }
+  },
+  {
+    "key": "1D27",
+    "mappings": {
+      "default": {
+        "default": "小写拉姆达"
+      },
+      "mathspeak": {
+        "default": "小写大写拉姆达"
+      }
+    }
+  },
+  {
+    "key": "1D28",
+    "mappings": {
+      "default": {
+        "default": "小写派"
+      },
+      "mathspeak": {
+        "default": "小写大写派"
+      }
+    }
+  },
+  {
+    "key": "1D29",
+    "mappings": {
+      "default": {
+        "default": "小写柔"
+      },
+      "mathspeak": {
+        "default": "小写大写柔"
+      }
+    }
+  },
+  {
+    "key": "1D2A",
+    "mappings": {
+      "default": {
+        "default": "小写普赛"
+      },
+      "mathspeak": {
+        "default": "小写大写普赛"
+      }
+    }
+  },
+  {
+    "key": "1D5E",
+    "mappings": {
+      "default": {
+        "default": "上标伽玛"
+      }
+    }
+  },
+  {
+    "key": "1D60",
+    "mappings": {
+      "default": {
+        "default": "上标菲"
+      }
+    }
+  },
+  {
+    "key": "1D66",
+    "mappings": {
+      "default": {
+        "default": "下标贝塔"
+      }
+    }
+  },
+  {
+    "key": "1D67",
+    "mappings": {
+      "default": {
+        "default": "下标伽玛"
+      }
+    }
+  },
+  {
+    "key": "1D68",
+    "mappings": {
+      "default": {
+        "default": "下标柔"
+      }
+    }
+  },
+  {
+    "key": "1D69",
+    "mappings": {
+      "default": {
+        "default": "下标菲"
+      }
+    }
+  },
+  {
+    "key": "1D6A",
+    "mappings": {
+      "default": {
+        "default": "下标希"
+      }
+    }
+  }
+]

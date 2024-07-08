@@ -42,7 +42,8 @@ export class Variables {
     ['nb', 'Bokmål'],
     ['nn', 'Nynorsk'],
     ['sv', 'Swedish'],
-    ['nemeth', 'Nemeth']
+    ['nemeth', 'Nemeth'],
+    ['zh', 'Chinese']
   ]);
 
   /**
@@ -55,10 +56,12 @@ export class Variables {
    *      exist. There is no further check on `def`, however!
    */
   public static ensureLocale(loc: string, def: string): string {
+
+    console.log(`ensureLocale: Locale is ${loc}`)
     if (!Variables.LOCALES.get(loc)) {
       console.error(
         `Locale ${loc} does not exist! Using` +
-          ` ${Variables.LOCALES.get(def)} instead.`
+        ` ${Variables.LOCALES.get(def)} instead.`
       );
       return def;
     }

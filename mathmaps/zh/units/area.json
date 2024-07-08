@@ -1,0 +1,72 @@
+[
+  {
+    "locale": "zh"
+  },
+  {
+    "key": "sq",
+    "mappings": {
+      "default": {
+        "default": "平方",
+        "plural": "平方"
+      }
+    }
+  },
+  {
+    "key": "sq inch",
+    "mappings": {
+      "default": {
+        "default": "平方英寸",
+        "plural": "平方英寸"
+      }
+    }
+  },
+  {
+    "key": "sq rd",
+    "mappings": {
+      "default": {
+        "default": "平方杆"
+      }
+    }
+  },
+  {
+    "key": "sq ft",
+    "mappings": {
+      "default": {
+        "default": "平方英尺",
+        "plural": "平方英尺"
+      }
+    }
+  },
+  {
+    "key": "sq yd",
+    "mappings": {
+      "default": {
+        "default": "平方码"
+      }
+    }
+  },
+  {
+    "key": "sq mi",
+    "mappings": {
+      "default": {
+        "default": "平方英里"
+      }
+    }
+  },
+  {
+    "key": "acr",
+    "mappings": {
+      "default": {
+        "default": "英亩"
+      }
+    }
+  },
+  {
+    "key": "ha",
+    "mappings": {
+      "default": {
+        "default": "公顷"
+      }
+    }
+  }
+]

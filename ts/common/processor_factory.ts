@@ -68,9 +68,11 @@ function get<T>(name: string): Processor<T> {
  */
 export function process<T>(name: string, expr: string): T {
   const processor = get(name);
+  console.log(`process: processor is ${processor}`)
   try {
     return processor.processor(expr) as T;
   } catch (_e) {
+    console.error('Processing error for expression ')
     throw new SREError('Processing error for expression ' + expr);
   }
 }
@@ -99,6 +101,7 @@ function print<T>(name: string, data: T): string {
 export function output(name: string, expr: string): string {
   const processor = get(name);
   try {
+    console.log("output")
     const data = processor.processor(expr);
     return Engine.getInstance().pprint
       ? processor.pprint(data)
@@ -167,12 +170,19 @@ set(
 set(
   new Processor('speech', {
     processor: function (expr) {
+      console.log("Speech: expr is ", expr)
       const mml = DomUtil.parseInput(expr);
+
+
+      console.log("Speech: mml", mml)
       const xml = Semantic.xmlTree(mml);
       const descrs = SpeechGeneratorUtil.computeSpeech(xml);
+      console.log("Speech :", descrs)
       return AuralRendering.finalize(AuralRendering.markup(descrs));
+
     },
     pprint: function (speech) {
+      console.log(`speech pprint`)
       const str = speech.toString();
       // Pretty Printing wrt. markup renderer.
       return AuralRendering.isXml() ? DomUtil.formatXml(str) : str;
@@ -367,8 +377,8 @@ set(
       ) {
         console.info(
           'LaTeX input currently only works for Euro Braille output.' +
-            ' Please use the latex-to-speech package from npm for general' +
-            ' LaTeX input to SRE.'
+          ' Please use the latex-to-speech package from npm for general' +
+          ' LaTeX input to SRE.'
         );
       }
       return process('speech', `<math data-latex="${ltx}"></math>`);

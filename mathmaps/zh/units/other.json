@@ -1,0 +1,14 @@
+[
+  {
+    "locale": "zh"
+  },
+  {
+    "key": "doz",
+    "mappings": {
+      "default": {
+        "default": "打",
+        "plural": "打"
+      }
+    }
+  }
+]

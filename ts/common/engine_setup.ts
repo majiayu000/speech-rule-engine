@@ -33,10 +33,10 @@ const EN_RULES: string[] = [
 ];
 
 function ensureDomain(feature: { [key: string]: boolean | string }) {
-// This preserves the possibility to specify default as domain.
-// < 3.2  this lead to the use of chromevox rules in English.
-// >= 3.2 this defaults to Mathspeak. It also ensures that in other locales
-// we get a meaningful output.
+  // This preserves the possibility to specify default as domain.
+  // < 3.2  this lead to the use of chromevox rules in English.
+  // >= 3.2 this defaults to Mathspeak. It also ensures that in other locales
+  // we get a meaningful output.
   if ((feature.modality && feature.modality !== 'speech') ||
     (!feature.modality && Engine.getInstance().modality !== 'speech')) {
     return;
@@ -44,7 +44,7 @@ function ensureDomain(feature: { [key: string]: boolean | string }) {
   if (!feature.domain) {
     return;
   }
-  if (feature.domain === 'default')  {
+  if (feature.domain === 'default') {
     feature.domain = 'mathspeak';
     return;
   }
@@ -78,6 +78,8 @@ function ensureDomain(feature: { [key: string]: boolean | string }) {
  * @returns The promise that resolves once setup is complete.
  */
 export async function setup(feature: { [key: string]: boolean | string }) {
+
+  console.log(feature);
   ensureDomain(feature);
   const engine = Engine.getInstance() as any;
   const setIf = (feat: string) => {
@@ -99,9 +101,11 @@ export async function setup(feature: { [key: string]: boolean | string }) {
   }
   if (feature.json) {
     SystemExternal.jsonPath = FileUtil.makePath(feature.json as string);
+    console.log(" SystemExternal.jsonPath is :", SystemExternal.jsonPath)
   }
   if (feature.xpath) {
     SystemExternal.WGXpath = feature.xpath as string;
+    console.log("SystemExternal.WGXpath is :", SystemExternal.WGXpath)
   }
   engine.setCustomLoader(feature.custom);
   setupBrowsers(engine);

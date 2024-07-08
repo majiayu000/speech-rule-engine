@@ -1,0 +1,32 @@
+[
+  {
+    "locale": "zh"
+  },
+  {
+    "key": "F",
+    "mappings": {
+      "default": {
+        "default": "华氏度",
+        "plural": "华氏度"
+      }
+    }
+  },
+  {
+    "key": "C",
+    "mappings": {
+      "default": {
+        "default": "摄氏度",
+        "alternative": "百分度"
+      }
+    }
+  },
+  {
+    "key": "K",
+    "mappings": {
+      "default": {
+        "default": "开尔文",
+        "plural": "开尔文"
+      }
+    }
+  }
+]

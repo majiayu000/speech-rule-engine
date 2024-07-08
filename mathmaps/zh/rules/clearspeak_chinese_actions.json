@@ -1,0 +1,1223 @@
+{
+  "domain": "clearspeak",
+  "locale": "zh",
+  "modality": "speech",
+  "kind": "actions",
+  "rules": [
+    [
+      "Action",
+      "collapsed",
+      "[t] \"折叠\"; [n] . (engine:modality=summary, grammar:?collapsed)"
+    ],
+    [
+      "Action",
+      "font",
+      "[t] @font (grammar:localFont); [n] . (pause:short, grammar:ignoreFont=@font)"
+    ],
+    [
+      "Action",
+      "german-font",
+      "[t] \"德文\"; [n] . (grammar:ignoreFont=@font)"
+    ],
+    [
+      "Action",
+      "german-font-bold",
+      "[t] \"粗体德文\"; [n] . (grammar:ignoreFont=@font)"
+    ],
+    [
+      "Action",
+      "ellipsis",
+      "[t] \"等等\""
+    ],
+    [
+      "Action",
+      "ellipsis-andsoon",
+      "[t] \"依此类推直到\""
+    ],
+    [
+      "Action",
+      "vbar-evaluated",
+      "[n] children/*[1] (pause:short); [t] \"在\"; [n] content/*[1]/children/*[2] (pause:short); [t] \"处求值\""
+    ],
+    [
+      "Action",
+      "vbar-evaluated-both",
+      "[n] children/*[1] (pause:short); [t] \"在\"; [n] content/*[1]/children/*[2] (pause:short); [t] \"处求值减去同一表达式在\"; [n] content/*[1]/children/*[1]/children/*[2] (pause:short); [t] \"处求值\""
+    ],
+    [
+      "Action",
+      "vbar-such-that",
+      "[t] \"使得\""
+    ],
+    [
+      "Action",
+      "vbar-divides",
+      "[t] \"整除\""
+    ],
+    [
+      "Action",
+      "vbar-always-divides",
+      "[t] \"恒整除\""
+    ],
+    [
+      "Action",
+      "vbar-given",
+      "[t] \"给定\""
+    ],
+    [
+      "Action",
+      "member",
+      "[t] \"是的成员\""
+    ],
+    [
+      "Action",
+      "member-member",
+      "[t] \"是的成员\""
+    ],
+    [
+      "Action",
+      "member-element",
+      "[t] \"是的元素\""
+    ],
+    [
+      "Action",
+      "member-in",
+      "[t] \"在\""
+    ],
+    [
+      "Action",
+      "member-belongs",
+      "[t] \"属于\""
+    ],
+    [
+      "Action",
+      "not-member",
+      "[t] \"不是的成员\""
+    ],
+    [
+      "Action",
+      "not-member-member",
+      "[t] \"不是的成员\""
+    ],
+    [
+      "Action",
+      "not-member-element",
+      "[t] \"不是的元素\""
+    ],
+    [
+      "Action",
+      "not-member-in",
+      "[t] \"不在\""
+    ],
+    [
+      "Action",
+      "not-member-belongs",
+      "[t] \"不属于\""
+    ],
+    [
+      "Action",
+      "set-member",
+      "[t] \"属于\""
+    ],
+    [
+      "Action",
+      "set-member-member",
+      "[t] \"作为成员属于\""
+    ],
+    [
+      "Action",
+      "set-member-element",
+      "[t] \"作为元素属于\""
+    ],
+    [
+      "Action",
+      "set-member-in",
+      "[t] \"在\""
+    ],
+    [
+      "Action",
+      "set-member-belongs",
+      "[t] \"属于\""
+    ],
+    [
+      "Action",
+      "set-not-member",
+      "[t] \"不属于\""
+    ],
+    [
+      "Action",
+      "set-not-member-member",
+      "[t] \"不是的成员\""
+    ],
+    [
+      "Action",
+      "set-not-member-element",
+      "[t] \"不是的元素\""
+    ],
+    [
+      "Action",
+      "set-not-member-in",
+      "[t] \"不在\""
+    ],
+    [
+      "Action",
+      "set-not-member-belongs",
+      "[t] \"不属于\""
+    ],
+    [
+      "Action",
+      "article",
+      "[t] \"这个\"; [n] . (grammar:noArticle)"
+    ],
+    [
+      "Action",
+      "appl",
+      "[n] children/*[2]; [t] \"的\"; [n] children/*[1] (pause:short)"
+    ],
+    [
+      "Action",
+      "appl-simple",
+      "[n] children/*[2]; [t] \"的\" (pause:short); [n] children/*[1] (pause:short)"
+    ],
+    [
+      "Action",
+      "appl-simple-fenced",
+      "[n] children/*[2]; [t] \"的\" (pause:short); [n] children/*[1] (pause:short)"
+    ],
+    [
+      "Action",
+      "appl-times",
+      "[p] (pause:short); [n] children/*[1]; [t] \"乘以\"; [n] children/*[2] (pause:short)"
+    ],
+    [
+      "Action",
+      "function-prefix",
+      "[n] children/*[1]; [n] children/*[2]"
+    ],
+    [
+      "Action",
+      "function-prefix-simple-arg",
+      "[n] children/*[1]; [n] children/*[2]"
+    ],
+    [
+      "Action",
+      "function-prefix-embell",
+      "[p] (pause:short); [n] children/*[1]; [n] children/*[2] (pause:short)"
+    ],
+    [
+      "Action",
+      "function-prefix-fenced-or-frac-arg",
+      "[p] (pause:short); [n] children/*[2]; [t] \"的\"; [n] children/*[1] (pause:short)"
+    ],
+    [
+      "Action",
+      "function-prefix-subscript",
+      "[p] (pause:short); [n] children/*[2]; [t] \"的\" (pause:short); [n] children/*[1] (pause:short)"
+    ],
+    [
+      "Action",
+      "function-ln",
+      "[n] children/*[1]; [n] children/*[2]"
+    ],
+    [
+      "Action",
+      "function-ln-pause",
+      "[n] children/*[1]; [n] children/*[2] (pause:short)"
+    ],
+    [
+      "Action",
+      "function-ln-of",
+      "[n] children/*[2]; [t] \"的\"; [n] children/*[1] (pause:short)"
+    ],
+    [
+      "Action",
+      "function-prefix-as-exp",
+      "[n] children/*[2]; [t] \"的\" (pause:short); [n] children/*[1] (pause:short)"
+    ],
+    [
+      "Action",
+      "function-prefix-subscript-as-exp",
+      "[n] children/*[2]; [t] \"的\" (pause:short); [n] children/*[1] (pause:short)"
+    ],
+    [
+      "Action",
+      "function-prefix-hyper",
+      "[p] (pause:short); [n] children/*[2]; [t] \"的\"; [n] children/*[1] (pause:short)"
+    ],
+    [
+      "Action",
+      "function-prefix-inverse",
+      "[p] (pause:short); [t] \"的逆\"; [n] children/*[1]/children/*[1]; [t] \"作用于\"; [n] children/*[2] (pause:short)"
+    ],
+    [
+      "Action",
+      "appl-triginverse",
+      "[p] (pause:short); [n] children/*[1]; [t] \"的\"; [n] children/*[2] (pause:short)"
+    ],
+    [
+      "Action",
+      "function-prefix-arc-simple",
+      "[p] (pause:short); [t] \"反\"; [n] children/*[1]/children/*[1]; [n] children/*[2] (pause:short)"
+    ],
+    [
+      "Action",
+      "function-prefix-arc-simple-fenced",
+      "[p] (pause:short); [t] \"反\"; [n] children/*[1]/children/*[1] (pause:short); [n] children/*[2] (pause:short)"
+    ],
+    [
+      "Action",
+      "function-prefix-arc",
+      "[p] (pause:short); [t] \"反\"; [n] children/*[1]/children/*[1]; [t] \"的\"; [n] children/*[2] (pause:short)"
+    ],
+    [
+      "Action",
+      "function-inverse",
+      "[n] children/*[1]; [t] \"的逆\""
+    ],
+    [
+      "Action",
+      "superscript-prefix-function",
+      "[n] children/*[1]; [t] \"的\"; [n] children/*[2] (grammar:ordinal:addArticle); [t] \"次方\""
+    ],
+    [
+      "Action",
+      "superscript",
+      "[n] children/*[1]; [t] \"的\"; [n] children/*[2] (pause:short); [t] \"次方\" (pause:short)"
+    ],
+    [
+      "Action",
+      "superscript-simple-exponent",
+      "[n] children/*[1]; [t] \"的\"; [n] children/*[2] (grammar:noArticle); [t] \"次方\" (pause:short)"
+    ],
+    [
+      "Action",
+      "superscript-simple-exponent-end",
+      "[n] children/*[1]; [t] \"的\"; [n] children/*[2] (grammar:noArticle); [t] \"次方\""
+    ],
+    [
+      "Action",
+      "superscript-ordinal",
+      "[n] children/*[1]; [t] \"的\"; [n] children/*[2] (grammar:ordinal:noArticle); [t] \"次方\" (pause:short)"
+    ],
+    [
+      "Action",
+      "superscript-non-ordinal",
+      "[n] children/*[1]; [t] \"的\"; [n] children/*[2] (grammar:noArticle); [t] \"次方\" (pause:short)"
+    ],
+    [
+      "Action",
+      "superscript-simple-function",
+      "[n] children/*[1]; [t] \"的\"; [n] children/*[2] (grammar:ordinal:addArticle); [t] \"次方\" (pause:short)"
+    ],
+    [
+      "Action",
+      "superscript-simple-function-none",
+      "[n] . (grammar:functions_none)"
+    ],
+    [
+      "Action",
+      "superscript-ordinal-number",
+      "[n] children/*[1]; [t] \"的\"; [n] children/*[2] (pause:short, grammar:ordinal:noArticle); [t] \"次方\""
+    ],
+    [
+      "Action",
+      "superscript-ordinal-negative",
+      "[n] children/*[1]; [t] \"的\"; [n] children/*[2] (pause:short, grammar:noArticle); [t] \"次方\""
+    ],
+    [
+      "Action",
+      "superscript-ordinal-default",
+      "[n] children/*[1]; [t] \"的\"; [n] children/*[2] (pause:short); [t] \"次方\" (pause:short)"
+    ],
+    [
+      "Action",
+      "superscript-ordinal-power-number",
+      "[n] children/*[1]; [t] \"的\"; [n] children/*[2] (grammar:ordinal:noArticle); [t] \"次方\" (pause:short)"
+    ],
+    [
+      "Action",
+      "superscript-ordinal-power-negative",
+      "[n] children/*[1]; [t] \"的\"; [n] children/*[2] (grammar:noArticle); [t] \"次方\" (pause:short)"
+    ],
+    [
+      "Action",
+      "superscript-ordinal-power-identifier",
+      "[n] children/*[1]; [t] \"的\"; [n] children/*[2] (grammar:ordinal:noArticle); [t] \"次方\" (pause:short)"
+    ],
+    [
+      "Action",
+      "superscript-ordinal-power-default",
+      "[n] children/*[1]; [t] \"的指数\" (pause:short); [n] children/*[2] (pause:short); [t] \"指数结束\" (pause:short)"
+    ],
+    [
+      "Action",
+      "superscript-power",
+      "[n] children/*[1]; [t] \"的\"; [n] children/*[2] (pause:short, grammar:afterPower); [t] \"次方\""
+    ],
+    [
+      "Action",
+      "superscript-power-default",
+      "[n] children/*[1]; [t] \"的指数\" (pause:short); [n] children/*[2] (pause:short); [t] \"指数结束\" (pause:short)"
+    ],
+    [
+      "Action",
+      "exponent",
+      "[n] text() (join:\"-\"); [t] \"次\""
+    ],
+    [
+      "Action",
+      "exponent-number",
+      "[t] CSFordinalExponent"
+    ],
+    [
+      "Action",
+      "exponent-ordinal",
+      "[t] CSFwordOrdinal"
+    ],
+    [
+      "Action",
+      "exponent-ordinal-zero",
+      "[t] \"零\""
+    ],
+    [
+      "Action",
+      "exponent-ordinalpower",
+      "[t] CSFwordOrdinal"
+    ],
+    [
+      "Action",
+      "exponent-ordinalpower-zero",
+      "[t] \"零\""
+    ],
+    [
+      "Action",
+      "square",
+      "[n] children/*[1]; [t] \"的平方\" (span:children/*[2])"
+    ],
+    [
+      "Action",
+      "cube",
+      "[n] children/*[1]; [t] \"的立方\" (span:children/*[2])"
+    ],
+    [
+      "Action",
+      "fences-points",
+      "[t] \"坐标为\"; [n] children/*[1]; [t] \"的点\""
+    ],
+    [
+      "Action",
+      "fences-interval",
+      "[t] \"从\"; [n] children/*[1]/children/*[1]; [t] \"到\"; [n] children/*[1]/children/*[3]; [t] \"的区间\" (pause:short); [n] . (grammar:interval)"
+    ],
+    [
+      "Action",
+      "interval-open",
+      "[t] \"不包括\"; [n] children/*[1]/children/*[1]; [t] \"和\"; [n] children/*[1]/children/*[3]"
+    ],
+    [
+      "Action",
+      "interval-closed-open",
+      "[t] \"包括\"; [n] children/*[1]/children/*[1] (pause:short); [t] \"但不包括\"; [n] children/*[1]/children/*[3]"
+    ],
+    [
+      "Action",
+      "interval-open-closed",
+      "[t] \"不包括\"; [n] children/*[1]/children/*[1] (pause:short); [t] \"但包括\"; [n] children/*[1]/children/*[3]"
+    ],
+    [
+      "Action",
+      "interval-closed",
+      "[t] \"包括\"; [n] children/*[1]/children/*[1]; [t] \"和\"; [n] children/*[1]/children/*[3]"
+    ],
+    [
+      "Action",
+      "interval-open-inf-r",
+      "[t] \"不包括\"; [n] children/*[1]/children/*[1]"
+    ],
+    [
+      "Action",
+      "interval-open-inf-l",
+      "[t] \"不包括\"; [n] children/*[1]/children/*[3]"
+    ],
+    [
+      "Action",
+      "interval-closed-open-inf",
+      "[t] \"包括\"; [n] children/*[1]/children/*[1]"
+    ],
+    [
+      "Action",
+      "interval-open-closed-inf",
+      "[t] \"包括\"; [n] children/*[1]/children/*[3]"
+    ],
+    [
+      "Action",
+      "set-empty",
+      "[t] \"空集\""
+    ],
+    [
+      "Action",
+      "set-extended",
+      "[t] \"所有满足\"; [n] children/*[1]/children/*[3]; [t] \"的\"; [n] children/*[1]/children/*[1]; [t] \"的集合\""
+    ],
+    [
+      "Action",
+      "set-collection",
+      "[t] \"集合\"; [n] children/*[1]"
+    ],
+    [
+      "Action",
+      "set-extended-woall",
+      "[t] \"满足\"; [n] children/*[1]/children/*[3]; [t] \"的\"; [n] children/*[1]/children/*[1]; [t] \"的集合\""
+    ],
+    [
+      "Action",
+      "subscript",
+      "[p] (pause:short); [n] children/*[1]; [t] \"下标\"; [n] children/*[2] (pause:short)"
+    ],
+    [
+      "Action",
+      "logarithm-base",
+      "[t] \"以\"; [n] children/*[2]; [t] \"为底的\"; [n] children/*[1]"
+    ],
+    [
+      "Action",
+      "subscript-index",
+      "[n] children/*[1]; [t] \"下标\"; [n] children/*[2]"
+    ],
+    [
+      "Action",
+      "fraction",
+      "[p] (pause:short); [t] \"分子为\"; [n] children/*[1] (pause:short); [t] \"分母为\"; [n] children/*[2]; [t] \"的分数\" (pause:short)"
+    ],
+    [
+      "Action",
+      "fraction-none",
+      "[p] (pause:short); [t] \"分子为\"; [n] children/*[1] (pause:short); [t] \"分母为\"; [n] children/*[2]; [t] \"的分数\" (pause:short)"
+    ],
+    [
+      "Action",
+      "simple-fraction",
+      "[p] (pause:short); [n] children/*[1]; [t] \"分之\"; [n] children/*[2] (pause:short)"
+    ],
+    [
+      "Action",
+      "simple-vulgar-fraction",
+      "[p] (pause:short); [n] children/*[1]; [t] \"分之\"; [n] children/*[2] (pause:short)"
+    ],
+    [
+      "Action",
+      "simple-text-fraction",
+      "[p] (pause:short); [n] children/*[1]; [t] \"分之\"; [n] children/*[2] (pause:short)"
+    ],
+    [
+      "Action",
+      "vulgar-fraction",
+      "[t] CSFvulgarFraction"
+    ],
+    [
+      "Action",
+      "fraction-over",
+      "[p] (pause:short); [n] children/*[1]; [t] \"分之\"; [n] children/*[2] (pause:short)"
+    ],
+    [
+      "Action",
+      "fraction-overendfrac",
+      "[p] (pause:short); [n] children/*[1]; [t] \"分之\"; [n] children/*[2] (pause:short); [t] \"分数结束\" (pause:short)"
+    ],
+    [
+      "Action",
+      "fraction-fracover",
+      "[p] (pause:short); [t] \"分数\"; [n] children/*[1]; [t] \"分之\"; [n] children/*[2] (pause:short)"
+    ],
+    [
+      "Action",
+      "fraction-per",
+      "[p] (pause:short); [n] children/*[1]; [t] \"每\"; [n] children/*[2] (pause:short)"
+    ],
+    [
+      "Action",
+      "fraction-generalendfrac",
+      "[p] (pause:short); [t] \"分子为\"; [n] children/*[1] (pause:short); [t] \"分母为\"; [n] children/*[2]; [t] \"的分数\" (pause:short); [t] \"分数结束\" (pause:short)"
+    ],
+    [
+      "Action",
+      "fraction-general",
+      "[p] (pause:short); [t] \"分子为\"; [n] children/*[1] (pause:short); [t] \"分母为\"; [n] children/*[2]; [t] \"的分数\" (pause:short)"
+    ],
+    [
+      "Action",
+      "simple-vulgar-fraction-ordinal",
+      "[t] CSFvulgarFraction"
+    ],
+    [
+      "Action",
+      "fraction-endfrac",
+      "[p] (pause:short); [n] . (grammar:endfrac); [t] \"分数结束\" (pause:short)"
+    ],
+    [
+      "Action",
+      "vulgar-fraction-endfrac",
+      "[p] (pause:short); [n] children/*[1]; [t] \"分之\"; [n] children/*[2] (pause:short)"
+    ],
+    [
+      "Action",
+      "simple-vulgar-fraction-endfrac",
+      "[t] CSFvulgarFraction"
+    ],
+    [
+      "Action",
+      "sqrt",
+      "[t] \"开方根号下\"; [n] children/*[1] (pause:short)"
+    ],
+    [
+      "Action",
+      "sqrt-nested",
+      "[p] (pause:\"short\"); [t] \"开方根号下\"; [n] children/*[1] (pause:short)"
+    ],
+    [
+      "Action",
+      "negative-sqrt",
+      "[t] \"负的开方根号下\"; [n] children/*[1]/children/*[1] (pause:short)"
+    ],
+    [
+      "Action",
+      "negative-sqrt-default",
+      "[p] (pause:\"short\"); [t] \"负的开方根号下\"; [n] children/*[1]/children/*[1] (pause:short)"
+    ],
+    [
+      "Action",
+      "sqrt-plus-minus",
+      "[t] \"正的开方根号下\"; [n] children/*[1] (pause:short)"
+    ],
+    [
+      "Action",
+      "sqrt-nested-plus-minus",
+      "[p] (pause:\"short\"); [t] \"正的开方根号下\"; [n] children/*[1] (pause:short)"
+    ],
+    [
+      "Action",
+      "sqrt-plus-minus-posnegsqrootend",
+      "[t] \"正的开方根号下\"; [n] children/*[1] (pause:short)"
+    ],
+    [
+      "Action",
+      "sqrt-nested-plus-minus-posnegsqrootend",
+      "[p] (pause:\"short\"); [t] \"正的开方根号下\"; [n] children/*[1] (pause:short)"
+    ],
+    [
+      "Action",
+      "sqrt-endroot",
+      "[n] . (grammar:?EndRoot); [t] \"根号结束\" (pause:short)"
+    ],
+    [
+      "Action",
+      "negative-sqrt-endroot",
+      "[n] . (grammar:?EndRoot); [t] \"根号结束\" (pause:short)"
+    ],
+    [
+      "Action",
+      "sqrt-posnegsqrootend",
+      "[n] . (grammar:?EndRoot); [t] \"根号结束\" (pause:short)"
+    ],
+    [
+      "Action",
+      "negative-sqrt-posnegsqrootend",
+      "[n] . (grammar:?EndRoot); [t] \"根号结束\" (pause:short)"
+    ],
+    [
+      "Action",
+      "cubic",
+      "[t] \"开立方根号下\"; [n] children/*[2] (pause:short)"
+    ],
+    [
+      "Action",
+      "cubic-nested",
+      "[p] (pause:short); [t] \"开立方根号下\"; [n] children/*[2] (pause:short)"
+    ],
+    [
+      "Action",
+      "root",
+      "[n] children/*[1] (grammar:ordinal:addArticle); [t] \"次方根号下\"; [n] children/*[2] (pause:short)"
+    ],
+    [
+      "Action",
+      "root-nested",
+      "[p] (pause:short); [n] children/*[1] (grammar:ordinal:addArticle); [t] \"次方根号下\"; [n] children/*[2] (pause:short)"
+    ],
+    [
+      "Action",
+      "root-endroot",
+      "[n] . (grammar:?EndRoot); [t] \"根号结束\" (pause:short)"
+    ],
+    [
+      "Action",
+      "root-posnegsqrootend",
+      "[n] . (grammar:?EndRoot); [t] \"根号结束\" (pause:short)"
+    ],
+    [
+      "Action",
+      "negative",
+      "[t] \"负\" (span:content/*[1]); [n] children/*[1]"
+    ],
+    [
+      "Action",
+      "positive",
+      "[t] \"正\" (span:content/*[1]); [n] children/*[1]"
+    ],
+    [
+      "Action",
+      "angle-measure",
+      "[t] \"角\"; [n] content/*[1]; [t] \"的度数为\"; [n] children/*[2] (grammar:angle)"
+    ],
+    [
+      "Action",
+      "set-prefix-operators",
+      "[n] . (grammar:addArticle); [t] \"的\""
+    ],
+    [
+      "Action",
+      "division",
+      "[n] children/*[1]; [t] \"除以\" (span:content/*[1]); [n] children/*[2]"
+    ],
+    [
+      "Action",
+      "operators-after-power",
+      "[m] children/* (rate:\"0.5\")"
+    ],
+    [
+      "Action",
+      "natural-numbers",
+      "[t] \"自然数集\""
+    ],
+    [
+      "Action",
+      "integers",
+      "[t] \"整数集\""
+    ],
+    [
+      "Action",
+      "rational-numbers",
+      "[t] \"有理数集\""
+    ],
+    [
+      "Action",
+      "real-numbers",
+      "[t] \"实数集\""
+    ],
+    [
+      "Action",
+      "complex-numbers",
+      "[t] \"复数集\""
+    ],
+    [
+      "Action",
+      "natural-numbers-with-zero",
+      "[t] \"包含零的自然数集\""
+    ],
+    [
+      "Action",
+      "positive-integers",
+      "[t] \"正整数集\""
+    ],
+    [
+      "Action",
+      "negative-integers",
+      "[t] \"负整数集\""
+    ],
+    [
+      "Action",
+      "positive-rational-numbers",
+      "[t] \"正有理数集\""
+    ],
+    [
+      "Action",
+      "negative-rational-numbers",
+      "[t] \"负有理数集\""
+    ],
+    [
+      "Action",
+      "fences-neutral",
+      "[p] (pause:short); [t] \"绝对值\"; [n] children/*[1] (pause:short)"
+    ],
+    [
+      "Action",
+      "fences-neutral-absend",
+      "[p] (pause:short); [t] \"绝对值\" (span:content/*[1]); [n] children/*[1] (pause:short); [t] \"绝对值结束\" (span:content/*[1], pause:short)"
+    ],
+    [
+      "Action",
+      "fences-neutral-cardinality",
+      "[p] (pause:short); [t] \"集合\"; [n] children/*[1]; [t] \"的基数\" (pause:short)"
+    ],
+    [
+      "Action",
+      "fences-neutral-determinant",
+      "[p] (pause:short); [t] \"行列式\"; [n] children/*[1] (pause:short)"
+    ],
+    [
+      "Action",
+      "fences-metric",
+      "[p] (pause:short); [t] \"度量\"; [n] children/*[1] (pause:short)"
+    ],
+    [
+      "Action",
+      "fences-metric-absend",
+      "[p] (pause:short); [t] \"度量\" (span:content/*[1]); [n] children/*[1] (pause:short); [t] \"度量结束\" (span:content/*[1], pause:short)"
+    ],
+    [
+      "Action",
+      "matrix",
+      "[t] count(children/*); [t] \"行\"; [t] count(children/*[1]/children/*); [t] \"列矩阵\" (pause:long); [m] children/* (ctxtFunc:CTFnodeCounter, context:\"第:行\", pause:long)"
+    ],
+    [
+      "Action",
+      "matrix-simple",
+      "[t] count(children/*); [t] \"行\"; [t] count(children/*[1]/children/*); [t] \"列矩阵\" (pause:long); [m] children/* (ctxtFunc:CTFnodeCounter, context:\"第:行\", pause:long, grammar:simpleDet)"
+    ],
+    [
+      "Action",
+      "matrix-trivial",
+      "[t] \"1行1列矩阵，元素为\"; [n] children/*[1] (pause:long)"
+    ],
+    [
+      "Action",
+      "determinant",
+      "[t] count(children/*); [t] \"行\"; [t] count(children/*[1]/children/*); [t] \"列行列式\" (pause:long); [m] children/* (ctxtFunc:CTFnodeCounter, context:\"第:行\", pause:long, grammar:simpleDet)"
+    ],
+    [
+      "Action",
+      "determinant-simple",
+      "[t] count(children/*); [t] \"行\"; [t] count(children/*[1]/children/*); [t] \"列行列式\" (pause:long); [m] children/* (ctxtFunc:CTFnodeCounter, context:\"第:行\", pause:long)"
+    ],
+    [
+      "Action",
+      "matrix-vector",
+      "[t] count(children/*); [t] \"行\"; [t] count(children/*[1]/children/*); [t] \"列列向量\" (pause:long); [m] children/* (ctxtFunc:CTFnodeCounter, context:\"第:行\", pause:long, grammar:simpleDet)"
+    ],
+    [
+      "Action",
+      "matrix-vector-simple",
+      "[t] count(children/*); [t] \"行\"; [t] count(children/*[1]/children/*); [t] \"列列向量\" (pause:long); [m] children/* (sepFunc:CTFpauseSeparator, separator:\"short\", pause:long, grammar:simpleDet)"
+    ],
+    [
+      "Action",
+      "matrix-vector-simple-silentcolnum",
+      "[t] count(children/*); [t] \"行\"; [t] count(children/*[1]/children/*); [t] \"列矩阵\" (pause:long); [m] children/* (sepFunc:CTFpauseSeparator, separator:\"short\", pause:long, grammar:simpleDet)"
+    ],
+    [
+      "Action",
+      "matrix-row-vector",
+      "[t] count(children/*); [t] \"行\"; [t] count(children/*[1]/children/*); [t] \"列行矩阵\" (pause:long); [m] children/*[1]/children/* (ctxtFunc:CTFnodeCounter, context:\"列-:\", pause:long, grammar:simpleDet)"
+    ],
+    [
+      "Action",
+      "matrix-row-vector-simple",
+      "[t] count(children/*); [t] \"行\"; [t] count(children/*[1]/children/*); [t] \"列行矩阵\" (pause:long); [m] children/*[1]/children/* (sepFunc:CTFpauseSeparator, separator:\"short\", pause:long, grammar:simpleDet)"
+    ],
+    [
+      "Action",
+      "matrix-row-vector-simple-silentcolnum",
+      "[t] count(children/*); [t] \"行\"; [t] count(children/*[1]/children/*); [t] \"列行矩阵\" (pause:long); [m] children/*[1]/children/* (sepFunc:CTFpauseSeparator, separator:\"short\", pause:long, grammar:simpleDet)"
+    ],
+    [
+      "Action",
+      "matrix-row",
+      "[m] children/* (ctxtFunc:CTFnodeCounter, context:\"列-,- \", sepFunc:CTFpauseSeparator, separator:\"medium\", pause:long)"
+    ],
+    [
+      "Action",
+      "matrix-end-matrix",
+      "[n] . (grammar:?EndMatrix); [t] \"矩阵结束\""
+    ],
+    [
+      "Action",
+      "matrix-end-vector",
+      "[n] . (grammar:?EndMatrix); [t] \"矩阵结束\""
+    ],
+    [
+      "Action",
+      "matrix-end-determinant",
+      "[n] . (grammar:?EndMatrix); [t] \"行列式结束\""
+    ],
+    [
+      "Action",
+      "vector",
+      "[t] count(children/*); [t] \"行\"; [t] count(children/*[1]/children/*); [t] \"列列向量\" (pause:long); [m] children/* (ctxtFunc:CTFnodeCounter, context:\"行-:\", pause:long, grammar:simpleDet)"
+    ],
+    [
+      "Action",
+      "vector-simple",
+      "[t] count(children/*); [t] \"行\"; [t] count(children/*[1]/children/*); [t] \"列列向量\" (pause:long); [m] children/* (sepFunc:CTFpauseSeparator, separator:\"short\", pause:long, grammar:simpleDet)"
+    ],
+    [
+      "Action",
+      "row-vector",
+      "[t] count(children/*); [t] \"行\"; [t] count(children/*[1]/children/*); [t] \"列行向量\" (pause:long); [m] children/*[1]/children/* (ctxtFunc:CTFnodeCounter, context:\"列-:\", pause:long, grammar:simpleDet)"
+    ],
+    [
+      "Action",
+      "row-vector-simple",
+      "[t] count(children/*); [t] \"行\"; [t] count(children/*[1]/children/*); [t] \"列行向量\" (pause:long); [m] children/*[1]/children/* (sepFunc:CTFpauseSeparator, separator:\"short\", pause:long, grammar:simpleDet)"
+    ],
+    [
+      "Action",
+      "vector-end-matrix",
+      "[n] . (grammar:?EndMatrix); [t] \"矩阵结束\""
+    ],
+    [
+      "Action",
+      "vector-end-vector",
+      "[n] . (grammar:?EndMatrix); [t] \"向量结束\""
+    ],
+    [
+      "Action",
+      "vector-end-vector-endvector",
+      "[n] . (grammar:?EndMatrix); [t] \"向量结束\""
+    ],
+    [
+      "Action",
+      "vector-end-determinant",
+      "[n] . (grammar:?EndMatrix); [t] \"行列式结束\""
+    ],
+    [
+      "Action",
+      "binomial",
+      "[n] children/*[1]/children/*[1]; [t] \"选\"; [n] children/*[2]/children/*[1]"
+    ],
+    [
+      "Action",
+      "lines-summary",
+      "[p] (pause:short); [t] count(children/*); [t] \"行\"; [n] . (grammar:?layoutSummary)"
+    ],
+    [
+      "Action",
+      "cases-summary",
+      "[p] (pause:short); [t] count(children/*); [t] \"种情况\"; [n] . (grammar:?layoutSummary)"
+    ],
+    [
+      "Action",
+      "lines",
+      "[p] (pause:short); [m] children/* (ctxtFunc:CTFnodeCounter, context:\"行-:\", sepFunc:CTFpauseSeparator, separator:\"long\", pause:long)"
+    ],
+    [
+      "Action",
+      "blank-cell",
+      "[t] \"空白\""
+    ],
+    [
+      "Action",
+      "blank-line",
+      "[t] \"blank\""
+    ],
+    [
+      "Action",
+      "blank-cell-empty",
+      "[t] \"blank\""
+    ],
+    [
+      "Action",
+      "blank-line-empty",
+      "[t] \"blank\""
+    ],
+    [
+      "Action",
+      "cases",
+      "[p] (pause:short); [m] children/* (ctxtFunc:CTFnodeCounter, context:\"Case-:\", sepFunc:CTFpauseSeparator, separator:\"long\", pause:long)"
+    ],
+    [
+      "Action",
+      "lines-cases-summary",
+      "[p] (pause:short); [t] count(children/*); [t] \"cases\"; [n] . (grammar:?layoutSummary)"
+    ],
+    [
+      "Action",
+      "lines-cases",
+      "[p] (pause:short); [m] children/* (ctxtFunc:CTFnodeCounter, context:\"Case-:\", sepFunc:CTFpauseSeparator, separator:\"long\", pause:long)"
+    ],
+    [
+      "Action",
+      "lines-equations-summary",
+      "[p] (pause:short); [t] count(children/*); [t] \"equations\"; [n] . (grammar:?layoutSummary)"
+    ],
+    [
+      "Action",
+      "lines-equations",
+      "[p] (pause:short); [m] children/* (ctxtFunc:CTFnodeCounter, context:\"Equation-:\", sepFunc:CTFpauseSeparator, separator:\"long\", pause:long)"
+    ],
+    [
+      "Action",
+      "lines-steps-summary",
+      "[p] (pause:short); [t] count(children/*); [t] \"steps\"; [n] . (grammar:?layoutSummary)"
+    ],
+    [
+      "Action",
+      "lines-steps",
+      "[p] (pause:short); [m] children/* (ctxtFunc:CTFnodeCounter, context:\"Step-:\", sepFunc:CTFpauseSeparator, separator:\"long\", pause:long)"
+    ],
+    [
+      "Action",
+      "lines-rows-summary",
+      "[p] (pause:short); [t] count(children/*); [t] \"rows\"; [n] . (grammar:?layoutSummary)"
+    ],
+    [
+      "Action",
+      "lines-rows",
+      "[p] (pause:short); [m] children/* (ctxtFunc:CTFnodeCounter, context:\"Row-:\", sepFunc:CTFpauseSeparator, separator:\"long\", pause:long)"
+    ],
+    [
+      "Action",
+      "lines-constraints-summary",
+      "[p] (pause:short); [t] count(children/*); [t] \"constraints\"; [n] . (grammar:?layoutSummary)"
+    ],
+    [
+      "Action",
+      "lines-constraints",
+      "[p] (pause:short); [m] children/* (ctxtFunc:CTFnodeCounter, context:\"Constraint-:\", sepFunc:CTFpauseSeparator, separator:\"long\", pause:long)"
+    ],
+    [
+      "Action",
+      "bigop",
+      "[n] children/*[1] (grammar:addArticle); [t] \"of\"; [n] children/*[2] (pause:short)"
+    ],
+    [
+      "Action",
+      "limboth",
+      "[n] children/*[1]; [t] \"from\"; [n] children/*[2]; [t] \"to\"; [n] children/*[3]"
+    ],
+    [
+      "Action",
+      "limlower",
+      "[n] children/*[1]; [t] \"over\"; [n] children/*[2] (pause:short)"
+    ],
+    [
+      "Action",
+      "limupper",
+      "[n] children/*[1]; [t] \"under\"; [n] children/*[2] (pause:short)"
+    ],
+    [
+      "Action",
+      "integral",
+      "[n] children/*[1] (grammar:addArticle); [t] \"of\"; [n] children/*[2] (pause:short); [n] children/*[3] (pause:short)"
+    ],
+    [
+      "Action",
+      "integral-novar",
+      "[n] children/*[1] (grammar:addArticle); [t] \"of\"; [n] children/*[2] (pause:short)"
+    ],
+    [
+      "Action",
+      "overscript",
+      "[n] children/*[1]; [t] \"under\"; [n] children/*[2] (pause:short)"
+    ],
+    [
+      "Action",
+      "overscript-limits",
+      "[n] children/*[1]; [t] \"to\"; [n] children/*[2]"
+    ],
+    [
+      "Action",
+      "underscript",
+      "[n] children/*[1]; [t] \"over\"; [n] children/*[2] (pause:short)"
+    ],
+    [
+      "Action",
+      "underscript-limits",
+      "[n] children/*[1]; [t] \"from\"; [n] children/*[2]"
+    ],
+    [
+      "Action",
+      "mixed-number",
+      "[n] children/*[1]; [t] \"and\"; [n] children/*[2]"
+    ],
+    [
+      "Action",
+      "number-with-chars",
+      "[t] \"number\"; [m] CQFspaceoutNumber (grammar:protected)"
+    ],
+    [
+      "Action",
+      "decimal-period",
+      "[t] \"the repeating decimal\"; [n] children/*[1] (grammar:spaceout); [t] \"point followed by repeating digits\"; [n] children/*[3]/children/*[1] (grammar:spaceout)"
+    ],
+    [
+      "Action",
+      "decimal-period-float",
+      "[t] \"循环小数\"; [n] children/*[1] (grammar:spaceout); [t] \"后面循环的数字为\"; [n] children/*[2]/children/*[1] (grammar:spaceout)"
+    ],
+    [
+      "Action",
+      "decimal-period-singular",
+      "[t] \"循环小数\"; [n] children/*[1] (grammar:spaceout); [t] \"小数点后循环的数字为\"; [n] children/*[3]/children/*[1] (grammar:spaceout)"
+    ],
+    [
+      "Action",
+      "decimal-period-singular-float",
+      "[t] \"循环小数\"; [n] children/*[1] (grammar:spaceout); [t] \"后面循环的数字为\"; [n] children/*[2]/children/*[1] (grammar:spaceout)"
+    ],
+    [
+      "Action",
+      "decimal-point",
+      "[t] \"点\""
+    ],
+    [
+      "Action",
+      "line-segment",
+      "[t] \"线段\"; [n] children/*[1]/children/*[1]; [n] children/*[1]/children/*[2] (pause:short)"
+    ],
+    [
+      "Action",
+      "conjugate",
+      "[t] \"的共轭复数是\"; [n] children/*[1]"
+    ],
+    [
+      "Action",
+      "defined-by",
+      "[t] \"被定义为\" (pause:short)"
+    ],
+    [
+      "Action",
+      "adorned-sign",
+      "[n] children/*[1]; [t] \"符号上面带有\"; [n] children/*[2]"
+    ],
+    [
+      "Action",
+      "factorial",
+      "[t] \"阶乘\""
+    ],
+    [
+      "Action",
+      "left-super",
+      "[t] \"左上标\"; [n] text()"
+    ],
+    [
+      "Action",
+      "left-super-list",
+      "[t] \"左上标\"; [m] children/*"
+    ],
+    [
+      "Action",
+      "left-sub",
+      "[t] \"左下标\"; [n] text()"
+    ],
+    [
+      "Action",
+      "left-sub-list",
+      "[t] \"左下标\"; [m] children/*"
+    ],
+    [
+      "Action",
+      "right-super",
+      "[t] \"右上标\"; [n] text()"
+    ],
+    [
+      "Action",
+      "right-super-list",
+      "[t] \"右上标\"; [m] children/*"
+    ],
+    [
+      "Action",
+      "right-sub",
+      "[t] \"右下标\"; [n] text()"
+    ],
+    [
+      "Action",
+      "right-sub-list",
+      "[t] \"右下标\"; [m] children/*"
+    ],
+    [
+      "Action",
+      "choose",
+      "[n] children/*[2] (grammar:combinatorics); [t] \"选\"; [n] children/*[4] (grammar:combinatorics)"
+    ],
+    [
+      "Action",
+      "permute",
+      "[n] children/*[2] (grammar:combinatorics); [t] \"排\"; [n] children/*[4] (grammar:combinatorics)"
+    ],
+    [
+      "Action",
+      "unit-square",
+      "[t] \"平方\"; [n] children/*[1]"
+    ],
+    [
+      "Action",
+      "unit-cubic",
+      "[t] \"立方\"; [n] children/*[1]"
+    ],
+    [
+      "Action",
+      "unit-reciprocal",
+      "[t] \"每\"; [n] children/*[1]"
+    ],
+    [
+      "Action",
+      "unit-reciprocal-singular",
+      "[t] \"每\"; [n] children/*[1] (grammar:singular)"
+    ],
+    [
+      "Action",
+      "unit-divide",
+      "[n] children/*[1]; [t] \"每\"; [n] children/*[2] (grammar:singular)"
+    ],
+    [
+      "Action",
+      "enclose",
+      "[t] \"用\"; [t] @role (grammar:localEnclose); [t] \"括起来的\"; [n] children/*[1]"
+    ],
+    [
+      "Action",
+      "enclose-end",
+      "[t] \"用\"; [t] @role (grammar:localEnclose); [t] \"括起来的\"; [n] children/*[1]; [t] \"括号结束\""
+    ],
+    [
+      "Action",
+      "overbar",
+      "[n] children/*[1]; [t] \"上面有横线\""
+    ],
+    [
+      "Action",
+      "underbar",
+      "[n] children/*[1]; [t] \"下面有横线\""
+    ],
+    [
+      "Action",
+      "leftbar",
+      "[t] \"左边有竖线的\"; [n] children/*[1]"
+    ],
+    [
+      "Action",
+      "rightbar",
+      "[n] children/*[1]; [t] \"右边有竖线\""
+    ],
+    [
+      "Action",
+      "crossout",
+      "[t] \"划掉的\"; [n] children/*[1]"
+    ],
+    [
+      "Action",
+      "crossout-end",
+      "[t] \"划掉的\"; [n] children/*[1]; [t] \"划掉结束\""
+    ],
+    [
+      "Action",
+      "cancel-over",
+      "[n] children/*[1]/children/*[1]; [t] \"被\"; [n] children/*[2]; [t] \"划掉\""
+    ],
+    [
+      "Action",
+      "cancel-under",
+      "[n] children/*[2]/children/*[1]; [t] \"被\"; [n] children/*[1]; [t] \"划掉\""
+    ],
+    [
+      "Action",
+      "cancel-over-end",
+      "[t] \"划掉的\"; [n] children/*[1]/children/*[1]; [t] \"用\"; [n] children/*[2]; [t] \"划掉结束\""
+    ],
+    [
+      "Action",
+      "cancel-under-end",
+      "[t] \"划掉的\"; [n] children/*[2]/children/*[1]; [t] \"用\"; [n] children/*[1]; [t] \"划掉结束\""
+    ]
+  ]
+}

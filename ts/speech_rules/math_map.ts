@@ -167,9 +167,10 @@ function retrieveFiles(locale: string) {
  */
 function parseMaps(json: string | MathMapJson) {
   const js = (typeof json === 'string') ?
-      JSON.parse(json) as { [key: string]: any[] }
-      : json;
+    JSON.parse(json) as { [key: string]: any[] }
+    : json;
   addMaps(js);
+  console.log(`parseMaps: has parse`)
 }
 
 /**
@@ -188,9 +189,12 @@ function addMaps(json: MathMapJson, opt_locale?: string) {
     }
     if (generate && info[1] === 'symbols' && info[0] !== 'base') {
       AlphabetGenerator.generate(info[0]);
+
+      console.log(`add Maps : has generate`)
       generate = false;
     }
     addSymbols[info[1]](json[key]);
+    console.log(`add Maps : has add symbol ${key}`)
   }
 }
 
@@ -225,7 +229,10 @@ function getJsonIE_(locale: string, opt_count?: number) {
     return;
   }
   addMaps(BrowserUtil.mapsForIE as MathMapJson, locale);
+
+  console.log("IE")
 }
+
 
 /**
  * Computes path to a JSON file from the locale and returns a JSON object.

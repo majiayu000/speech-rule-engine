@@ -1,0 +1,91 @@
+[
+  {
+    "locale": "zh"
+  },
+  {
+    "key": "W",
+    "mappings": {
+      "default": {
+        "default": "瓦特"
+      }
+    }
+  },
+  {
+    "key": "kwh",
+    "mappings": {
+      "default": {
+        "default": "千瓦时"
+      }
+    }
+  },
+  {
+    "key": "J",
+    "mappings": {
+      "default": {
+        "default": "焦耳"
+      }
+    }
+  },
+  {
+    "key": "N",
+    "mappings": {
+      "default": {
+        "default": "牛顿"
+      }
+    }
+  },
+  {
+    "key": "A",
+    "mappings": {
+      "default": {
+        "default": "安培"
+      }
+    }
+  },
+  {
+    "key": "V",
+    "mappings": {
+      "default": {
+        "default": "伏特"
+      }
+    }
+  },
+  {
+    "key": "ohm",
+    "mappings": {
+      "default": {
+        "default": "欧姆"
+      }
+    }
+  },
+  {
+    "key": "Ω",
+    "mappings": {
+      "default": {
+        "default": "欧姆"
+      }
+    }
+  },
+  {
+    "key": "MΩ",
+    "mappings": {
+      "default": {
+        "default": "兆欧"
+      }
+    },
+    "names": [
+      "MΩ"
+    ]
+  },
+  {
+    "key": "kΩ",
+    "mappings": {
+      "default": {
+        "default": "千欧"
+      }
+    },
+    "names": [
+      "kΩ"
+    ]
+  }
+]

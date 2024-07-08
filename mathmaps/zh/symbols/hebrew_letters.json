@@ -1,0 +1,41 @@
+[
+  {
+    "locale": "zh"
+  },
+  {
+    "key": "2135",
+    "mappings": {
+      "default": {
+        "default": "第一超限基数",
+        "alternative": "阿列夫"
+      }
+    }
+  },
+  {
+    "key": "2136",
+    "mappings": {
+      "default": {
+        "default": "第二超限基数",
+        "alternative": "贝特"
+      }
+    }
+  },
+  {
+    "key": "2137",
+    "mappings": {
+      "default": {
+        "default": "第三超限基数",
+        "alternative": "吉梅尔"
+      }
+    }
+  },
+  {
+    "key": "2138",
+    "mappings": {
+      "default": {
+        "default": "第四超限基数",
+        "alternative": "达列特"
+      }
+    }
+  }
+]

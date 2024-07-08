@@ -1,0 +1,493 @@
+[
+  {
+    "locale": "zh"
+  },
+  {
+    "key": "01D6",
+    "mappings": {
+      "default": {
+        "default": "带变音符号和长音符的ü"
+      }
+    }
+  },
+  {
+    "key": "01D8",
+    "mappings": {
+      "default": {
+        "default": "带变音符号和急音符的ü"
+      }
+    }
+  },
+  {
+    "key": "01DA",
+    "mappings": {
+      "default": {
+        "default": "带变音符号和抑音符的ü"
+      }
+    }
+  },
+  {
+    "key": "01DC",
+    "mappings": {
+      "default": {
+        "default": "带变音符号和重音符的ü"
+      }
+    }
+  },
+  {
+    "key": "01DF",
+    "mappings": {
+      "default": {
+        "default": "带变音符号和长音符的ä"
+      }
+    }
+  },
+  {
+    "key": "01E1",
+    "mappings": {
+      "default": {
+        "default": "带点和长音符的ä"
+      }
+    }
+  },
+  {
+    "key": "01ED",
+    "mappings": {
+      "default": {
+        "default": "带尾部符号和长音符的ǫ"
+      }
+    }
+  },
+  {
+    "key": "01FB",
+    "mappings": {
+      "default": {
+        "default": "带环和急音符的å"
+      }
+    }
+  },
+  {
+    "key": "022B",
+    "mappings": {
+      "default": {
+        "default": "带变音符号和长音符的ö"
+      }
+    }
+  },
+  {
+    "key": "022D",
+    "mappings": {
+      "default": {
+        "default": "带波浪符号和长音符的õ"
+      }
+    }
+  },
+  {
+    "key": "0231",
+    "mappings": {
+      "default": {
+        "default": "带点和长音符的ö"
+      }
+    }
+  },
+  {
+    "key": "1E09",
+    "mappings": {
+      "default": {
+        "default": "带尾部符号和急音符的ç"
+      }
+    }
+  },
+  {
+    "key": "1E15",
+    "mappings": {
+      "default": {
+        "default": "带长音符和重音符的ē"
+      }
+    }
+  },
+  {
+    "key": "1E17",
+    "mappings": {
+      "default": {
+        "default": "带长音符和急音符的ē"
+      }
+    }
+  },
+  {
+    "key": "1E1D",
+    "mappings": {
+      "default": {
+        "default": "带尾部符号和短音符的ḝ"
+      }
+    }
+  },
+  {
+    "key": "1E2F",
+    "mappings": {
+      "default": {
+        "default": "带变音符号和急音符的ï"
+      }
+    }
+  },
+  {
+    "key": "1E39",
+    "mappings": {
+      "default": {
+        "default": "带下点和长音符的ḻ"
+      }
+    }
+  },
+  {
+    "key": "1E4D",
+    "mappings": {
+      "default": {
+        "default": "带波浪符号和急音符的õ"
+      }
+    }
+  },
+  {
+    "key": "1E4F",
+    "mappings": {
+      "default": {
+        "default": "带波浪符号和变音符号的ö"
+      }
+    }
+  },
+  {
+    "key": "1E51",
+    "mappings": {
+      "default": {
+        "default": "带长音符和重音符的ō"
+      }
+    }
+  },
+  {
+    "key": "1E53",
+    "mappings": {
+      "default": {
+        "default": "带长音符和急音符的ō"
+      }
+    }
+  },
+  {
+    "key": "1E5D",
+    "mappings": {
+      "default": {
+        "default": "带下点和长音符的ṟ"
+      }
+    }
+  },
+  {
+    "key": "1E65",
+    "mappings": {
+      "default": {
+        "default": "带急音符和点的ṡ"
+      }
+    }
+  },
+  {
+    "key": "1E67",
+    "mappings": {
+      "default": {
+        "default": "带抑音符和点的š"
+      }
+    }
+  },
+  {
+    "key": "1E69",
+    "mappings": {
+      "default": {
+        "default": "带下点和点的ṡ"
+      }
+    }
+  },
+  {
+    "key": "1E79",
+    "mappings": {
+      "default": {
+        "default": "带波浪符号和急音符的ũ"
+      }
+    }
+  },
+  {
+    "key": "1E7B",
+    "mappings": {
+      "default": {
+        "default": "带长音符和变音符号的ū"
+      }
+    }
+  },
+  {
+    "key": "1EA5",
+    "mappings": {
+      "default": {
+        "default": "带帽子和急音符的â"
+      }
+    }
+  },
+  {
+    "key": "1EA7",
+    "mappings": {
+      "default": {
+        "default": "带帽子和重音符的â"
+      }
+    }
+  },
+  {
+    "key": "1EA9",
+    "mappings": {
+      "default": {
+        "default": "带帽子和勾符的â"
+      }
+    }
+  },
+  {
+    "key": "1EAB",
+    "mappings": {
+      "default": {
+        "default": "带帽子和波浪符号的â"
+      }
+    }
+  },
+  {
+    "key": "1EAD",
+    "mappings": {
+      "default": {
+        "default": "带帽子和下点的â"
+      }
+    }
+  },
+  {
+    "key": "1EAF",
+    "mappings": {
+      "default": {
+        "default": "带短音符和急音符的ă"
+      }
+    }
+  },
+  {
+    "key": "1EB1",
+    "mappings": {
+      "default": {
+        "default": "带短音符和重音符的ă"
+      }
+    }
+  },
+  {
+    "key": "1EB3",
+    "mappings": {
+      "default": {
+        "default": "带短音符和勾符的ă"
+      }
+    }
+  },
+  {
+    "key": "1EB5",
+    "mappings": {
+      "default": {
+        "default": "带短音符和波浪符号的ă"
+      }
+    }
+  },
+  {
+    "key": "1EB7",
+    "mappings": {
+      "default": {
+        "default": "带短音符和下点的ă"
+      }
+    }
+  },
+  {
+    "key": "1EBF",
+    "mappings": {
+      "default": {
+        "default": "带帽子和急音符的ê"
+      }
+    }
+  },
+  {
+    "key": "1EC1",
+    "mappings": {
+      "default": {
+        "default": "带帽子和重音符的ê"
+      }
+    }
+  },
+  {
+    "key": "1EC3",
+    "mappings": {
+      "default": {
+        "default": "带帽子和勾符的ê"
+      }
+    }
+  },
+  {
+    "key": "1EC5",
+    "mappings": {
+      "default": {
+        "default": "带帽子和波浪符号的ê"
+      }
+    }
+  },
+  {
+    "key": "1EC7",
+    "mappings": {
+      "default": {
+        "default": "带帽子和下点的ê"
+      }
+    }
+  },
+  {
+    "key": "1ED1",
+    "mappings": {
+      "default": {
+        "default": "带帽子和急音符的ô"
+      }
+    }
+  },
+  {
+    "key": "1ED3",
+    "mappings": {
+      "default": {
+        "default": "带帽子和重音符的ô"
+      }
+    }
+  },
+  {
+    "key": "1ED5",
+    "mappings": {
+      "default": {
+        "default": "带帽子和勾符的ô"
+      }
+    }
+  },
+  {
+    "key": "1ED7",
+    "mappings": {
+      "default": {
+        "default": "带帽子和波浪符号的ô"
+      }
+    }
+  },
+  {
+    "key": "1ED9",
+    "mappings": {
+      "default": {
+        "default": "带帽子和下点的ô"
+      }
+    }
+  },
+  {
+    "key": "1EDB",
+    "mappings": {
+      "default": {
+        "default": "带短音符和急音符的ơ"
+      }
+    }
+  },
+  {
+    "key": "1EDD",
+    "mappings": {
+      "default": {
+        "default": "带短音符和重音符的ơ"
+      }
+    }
+  },
+  {
+    "key": "1EDF",
+    "mappings": {
+      "default": {
+        "default": "带短音符和勾符的ơ"
+      }
+    }
+  },
+  {
+    "key": "1EE1",
+    "mappings": {
+      "default": {
+        "default": "带短音符和波浪符号的ơ"
+      }
+    }
+  },
+  {
+    "key": "1EE3",
+    "mappings": {
+      "default": {
+        "default": "带短音符和下点的ơ"
+      }
+    }
+  },
+  {
+    "key": "1EE9",
+    "mappings": {
+      "default": {
+        "default": "带长音符和急音符的ư"
+      }
+    }
+  },
+  {
+    "key": "1EEB",
+    "mappings": {
+      "default": {
+        "default": "带长音符和重音符的ư"
+      }
+    }
+  },
+  {
+    "key": "1EED",
+    "mappings": {
+      "default": {
+        "default": "带长音符和勾符的ư"
+      }
+    }
+  },
+  {
+    "key": "1EEF",
+    "mappings": {
+      "default": {
+        "default": "带长音符和波浪符号的ư"
+      }
+    }
+  },
+  {
+    "key": "1EF1",
+    "mappings": {
+      "default": {
+        "default": "带长音符和下点的ư"
+      }
+    }
+  },
+  {
+    "key": "1EF3",
+    "mappings": {
+      "default": {
+        "default": "带重音符的ỳ"
+      }
+    }
+  },
+  {
+    "key": "1EF5",
+    "mappings": {
+      "default": {
+        "default": "带下点的ỳ"
+      }
+    }
+  },
+  {
+    "key": "1EF7",
+    "mappings": {
+      "default": {
+        "default": "带勾符的ỳ"
+      }
+    }
+  },
+  {
+    "key": "1EF9",
+    "mappings": {
+      "default": {
+        "default": "带波浪符号的ỳ"
+      }
+    }
+  }
+]

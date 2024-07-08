@@ -1,0 +1,87 @@
+[
+  {
+    "locale": "zh"
+  },
+  {
+    "key": "ft",
+    "mappings": {
+      "default": {
+        "default": "英尺",
+        "plural": "英尺"
+      }
+    }
+  },
+  {
+    "key": "in",
+    "mappings": {
+      "default": {
+        "default": "英寸",
+        "plural": "英寸"
+      }
+    }
+  },
+  {
+    "key": "mi",
+    "mappings": {
+      "default": {
+        "default": "英里"
+      }
+    }
+  },
+  {
+    "key": "yd",
+    "mappings": {
+      "default": {
+        "default": "码"
+      }
+    }
+  },
+  {
+    "key": "link",
+    "mappings": {
+      "default": {
+        "default": "链节"
+      }
+    }
+  },
+  {
+    "key": "rod",
+    "mappings": {
+      "default": {
+        "default": "杆"
+      }
+    }
+  },
+  {
+    "key": "chain",
+    "mappings": {
+      "default": {
+        "default": "链"
+      }
+    }
+  },
+  {
+    "key": "furlong",
+    "mappings": {
+      "default": {
+        "default": "弗隆"
+      }
+    }
+  },
+  {
+    "key": "n.m.",
+    "mappings": {
+      "default": {
+        "default": "海里"
+      }
+    }
+  },
+  {
+    "key": "m",
+    "mappings": {
+      "default": {
+        "default": "米"
+      }
+    }
+  }
+]

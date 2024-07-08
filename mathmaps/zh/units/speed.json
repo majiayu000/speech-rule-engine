@@ -1,0 +1,40 @@
+[
+  {
+    "locale": "zh"
+  },
+  {
+    "key": "kt",
+    "mappings": {
+      "default": {
+        "default": "节"
+      }
+    }
+  },
+  {
+    "key": "mph",
+    "mappings": {
+      "default": {
+        "default": "英里每小时",
+        "plural": "英里每小时"
+      }
+    }
+  },
+  {
+    "key": "rpm",
+    "mappings": {
+      "default": {
+        "default": "每分钟转数",
+        "plural": "每分钟转数"
+      }
+    }
+  },
+  {
+    "key": "kmh",
+    "mappings": {
+      "default": {
+        "default": "公里每小时",
+        "plural": "公里每小时"
+      }
+    }
+  }
+]

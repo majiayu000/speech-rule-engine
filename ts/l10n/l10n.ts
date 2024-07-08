@@ -37,6 +37,7 @@ import { nb } from './locales/locale_nb.js';
 import { nemeth } from './locales/locale_nemeth.js';
 import { nn } from './locales/locale_nn.js';
 import { sv } from './locales/locale_sv.js';
+import { zh } from './locales/locale_zh.js';
 import { Locale, LOCALE } from './locale.js';
 
 export const locales: { [key: string]: () => Locale } = {
@@ -54,7 +55,8 @@ export const locales: { [key: string]: () => Locale } = {
   nb: nb,
   nn: nn,
   sv: sv,
-  nemeth: nemeth
+  nemeth: nemeth,
+  zh: zh
 };
 
 /**
@@ -62,15 +64,21 @@ export const locales: { [key: string]: () => Locale } = {
  */
 export function setLocale() {
   const msgs = getLocale();
+
+  console.log(`setLocale : getLocale success`)
   setSubiso(msgs);
+  console.log(`set subiso success at ${msgs}`)
   if (msgs) {
     for (const key of Object.getOwnPropertyNames(msgs)) {
       // TODO (TS): See if this is really an object structure.
+      console.log(`setLocale: key is ${key}`);
       (LOCALE as any)[key] = (msgs as any)[key];
     }
     for (const [key, func] of Object.entries(msgs.CORRECTIONS)) {
       Grammar.getInstance().setCorrection(key, func);
     }
+
+    console.log(`setLocale : finish`)
     // TODO (Speech Rules): This is temporary until locales are handled in a
     // bespoke class.
     // Locale.ALPHABETS.digitTrans.default = msgs.NUMBERS.numberToWords;
@@ -101,6 +109,8 @@ function getLocale(): Locale {
     Engine.getInstance().locale,
     Engine.getInstance().defaultLocale
   );
+
+  console.log(`getLocale is ${locale}`)
   Engine.getInstance().locale = locale;
   return locales[locale]();
 }
@@ -118,10 +128,20 @@ export function completeLocale(json: any) {
   }
   const kind = json.kind.toUpperCase();
   const messages = json.messages;
+  console.log(`message is ${json.messages}`)
   if (!messages) return;
   const loc = locale() as any;
   for (const [key, value] of Object.entries(messages)) {
     // TODO (TS): See if this is really an object structure.
+    console.log(`Key is : ${key}, value is ${value}`)
     loc[kind][key] = value;
+
+
+    if (key === 'regexp' && typeof value === 'object' && value !== null) {
+      console.log("Regexp entries:");
+      for (const [regexpKey, regexpValue] of Object.entries(value)) {
+        console.log(`  Regexp key: ${regexpKey}, Regexp value: ${regexpValue}`);
+      }
+    }
   }
 }
