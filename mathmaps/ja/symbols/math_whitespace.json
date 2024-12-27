@@ -1,0 +1,274 @@
+[
+  {
+    "locale": "ja"
+  },
+  {
+    "key": "0020",
+    "mappings": {
+      "default": {
+        "default": "スペース"
+      }
+    }
+  },
+  {
+    "key": "00A0",
+    "mappings": {
+      "default": {
+        "default": "改行なしスペース",
+        "alternative": "ノーブレークスペース"
+      }
+    }
+  },
+  {
+    "key": "00AD",
+    "mappings": {
+      "default": {
+        "default": "任意ハイフン"
+      }
+    }
+  },
+  {
+    "key": "2000",
+    "mappings": {
+      "default": {
+        "default": "全角スペース"
+      }
+    }
+  },
+  {
+    "key": "2001",
+    "mappings": {
+      "default": {
+        "default": "二倍全角スペース"
+      }
+    }
+  },
+  {
+    "key": "2002",
+    "mappings": {
+      "default": {
+        "default": "半角スペース"
+      }
+    }
+  },
+  {
+    "key": "2003",
+    "mappings": {
+      "default": {
+        "default": "全角スペース"
+      }
+    }
+  },
+  {
+    "key": "2004",
+    "mappings": {
+      "default": {
+        "default": "三分の一全角スペース"
+      }
+    }
+  },
+  {
+    "key": "2005",
+    "mappings": {
+      "default": {
+        "default": "四分の一全角スペース"
+      }
+    }
+  },
+  {
+    "key": "2006",
+    "mappings": {
+      "default": {
+        "default": "六分の一全角スペース"
+      }
+    }
+  },
+  {
+    "key": "2007",
+    "mappings": {
+      "default": {
+        "default": "数字幅スペース"
+      }
+    }
+  },
+  {
+    "key": "2008",
+    "mappings": {
+      "default": {
+        "default": "約物幅スペース"
+      }
+    }
+  },
+  {
+    "key": "2009",
+    "mappings": {
+      "default": {
+        "default": "細いスペース"
+      }
+    }
+  },
+  {
+    "key": "200A",
+    "mappings": {
+      "default": {
+        "default": "極細スペース"
+      }
+    }
+  },
+  {
+    "key": "200B",
+    "mappings": {
+      "default": {
+        "default": "幅ゼロスペース"
+      }
+    }
+  },
+  {
+    "key": "200C",
+    "mappings": {
+      "default": {
+        "default": "幅ゼロ非結合子"
+      }
+    }
+  },
+  {
+    "key": "200D",
+    "mappings": {
+      "default": {
+        "default": "幅ゼロ結合子"
+      }
+    }
+  },
+  {
+    "key": "200E",
+    "mappings": {
+      "default": {
+        "default": "左から右マーク"
+      }
+    }
+  },
+  {
+    "key": "200F",
+    "mappings": {
+      "default": {
+        "default": "右から左マーク"
+      }
+    }
+  },
+  {
+    "key": "2028",
+    "mappings": {
+      "default": {
+        "default": "行区切り"
+      }
+    }
+  },
+  {
+    "key": "2029",
+    "mappings": {
+      "default": {
+        "default": "段落区切り"
+      }
+    }
+  },
+  {
+    "key": "202A",
+    "mappings": {
+      "default": {
+        "default": "左から右埋め込み"
+      }
+    }
+  },
+  {
+    "key": "202B",
+    "mappings": {
+      "default": {
+        "default": "右から左埋め込み"
+      }
+    }
+  },
+  {
+    "key": "202C",
+    "mappings": {
+      "default": {
+        "default": "方向書式ポップ"
+      }
+    }
+  },
+  {
+    "key": "202D",
+    "mappings": {
+      "default": {
+        "default": "左から右上書き"
+      }
+    }
+  },
+  {
+    "key": "202E",
+    "mappings": {
+      "default": {
+        "default": "右から左上書き"
+      }
+    }
+  },
+  {
+    "key": "202F",
+    "mappings": {
+      "default": {
+        "default": "狭い改行なしスペース"
+      }
+    }
+  },
+  {
+    "key": "205F",
+    "mappings": {
+      "default": {
+        "default": "中幅数式スペース"
+      }
+    }
+  },
+  {
+    "key": "2060",
+    "mappings": {
+      "default": {
+        "default": "単語結合子"
+      }
+    }
+  },
+  {
+    "key": "2061",
+    "mappings": {
+      "default": {
+        "default": "の",
+        "alternative": "関数適用"
+      }
+    }
+  },
+  {
+    "key": "2062",
+    "mappings": {
+      "default": {
+        "default": "×",
+        "alternative": "不可視の乗算"
+      }
+    }
+  },
+  {
+    "key": "2063",
+    "mappings": {
+      "default": {
+        "default": ",",
+        "alternative": "不可視のカンマ"
+      }
+    }
+  },
+  {
+    "key": "2064",
+    "mappings": {
+      "default": {
+        "default": "+",
+        "alternative": "不可視のプラス"
+      }
+    }
+  }
+] 

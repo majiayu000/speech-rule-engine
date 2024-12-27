@@ -1,0 +1,103 @@
+{
+  "modality": "prefix",
+  "domain": "default",
+  "locale": "ja",
+  "kind": "actions",
+  "rules": [
+    [
+      "Action",
+      "numerator",
+      "[t] \"分子\" (pause:200)"
+    ],
+    [
+      "Action",
+      "denominator",
+      "[t] \"分母\" (pause:200)"
+    ],
+    [
+      "Action",
+      "base",
+      "[t] \"底\" (pause:200)"
+    ],
+    [
+      "Action",
+      "exponent",
+      "[t] \"指数\" (pause:200)"
+    ],
+    [
+      "Action",
+      "subscript",
+      "[t] \"下付き\" (pause:200)"
+    ],
+    [
+      "Action",
+      "overscript",
+      "[t] \"上部\" (pause:200)"
+    ],
+    [
+      "Action",
+      "underscript",
+      "[t] \"下部\" (pause:200)"
+    ],
+    [
+      "Action",
+      "radicand",
+      "[t] \"被開平数\" (pause:200)"
+    ],
+    [
+      "Action",
+      "index",
+      "[t] \"指数\" (pause:200)"
+    ],
+    [
+      "Action",
+      "leftsub",
+      "[t] \"左下付き\" (pause:200)"
+    ],
+    [
+      "Action",
+      "leftsub-counted",
+      "[t] CSFordinalPosition; [t] \"番目の左下付き\" (pause:200)"
+    ],
+    [
+      "Action",
+      "leftsuper",
+      "[t] \"左上付き\" (pause:200)"
+    ],
+    [
+      "Action",
+      "leftsuper-counted",
+      "[t] CSFordinalPosition; [t] \"番目の左上付き\" (pause:200)"
+    ],
+    [
+      "Action",
+      "rightsub",
+      "[t] \"右下付き\" (pause:200)"
+    ],
+    [
+      "Action",
+      "rightsub-counted",
+      "[t] CSFordinalPosition; [t] \"番目の右下付き\" (pause:200)"
+    ],
+    [
+      "Action",
+      "rightsuper",
+      "[t] \"右上付き\" (pause:200)"
+    ],
+    [
+      "Action",
+      "rightsuper-counted",
+      "[t] CSFordinalPosition; [t] \"番目の右上付き\" (pause:200)"
+    ],
+    [
+      "Action",
+      "choice",
+      "[t] \"選択数\" (pause:200)"
+    ],
+    [
+      "Action",
+      "select",
+      "[t] \"選択量\" (pause:200)"
+    ]
+  ]
+} 

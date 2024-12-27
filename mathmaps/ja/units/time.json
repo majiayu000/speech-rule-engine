@@ -1,0 +1,45 @@
+[
+  {
+    "locale": "ja"
+  },
+  {
+    "key": "s",
+    "mappings": {
+      "default": {
+        "default": "秒"
+      }
+    }
+  },
+  {
+    "key": "″",
+    "mappings": {
+      "default": {
+        "default": "秒"
+      }
+    }
+  },
+  {
+    "key": "min",
+    "mappings": {
+      "default": {
+        "default": "分"
+      }
+    }
+  },
+  {
+    "key": "°",
+    "mappings": {
+      "default": {
+        "default": "度"
+      }
+    }
+  },
+  {
+    "key": "h",
+    "mappings": {
+      "default": {
+        "default": "時間"
+      }
+    }
+  }
+] 

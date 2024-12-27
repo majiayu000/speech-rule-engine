@@ -1,0 +1,38 @@
+[
+  {
+    "locale": "ja"
+  },
+  {
+    "key": "1D26",
+    "mappings": {
+      "default": {
+        "default": "小型大文字ガンマ"
+      },
+      "mathspeak": {
+        "default": "小型大文字ガンマ"
+      }
+    }
+  },
+  {
+    "key": "1D27",
+    "mappings": {
+      "default": {
+        "default": "小型大文字ラムダ"
+      },
+      "mathspeak": {
+        "default": "小型大文字ラムダ"
+      }
+    }
+  },
+  {
+    "key": "1D28",
+    "mappings": {
+      "default": {
+        "default": "小型大文字パイ"
+      },
+      "mathspeak": {
+        "default": "小型大文字パイ"
+      }
+    }
+  }
+] 

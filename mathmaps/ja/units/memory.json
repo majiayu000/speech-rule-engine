@@ -1,0 +1,29 @@
+[
+  {
+    "locale": "ja"
+  },
+  {
+    "key": "b",
+    "mappings": {
+      "default": {
+        "default": "ビット"
+      }
+    }
+  },
+  {
+    "key": "B",
+    "mappings": {
+      "default": {
+        "default": "バイト"
+      }
+    }
+  },
+  {
+    "key": "KB",
+    "mappings": {
+      "default": {
+        "default": "キロバイト"
+      }
+    }
+  }
+] 

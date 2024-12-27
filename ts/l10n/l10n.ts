@@ -33,6 +33,7 @@ import { fr } from './locales/locale_fr.js';
 import { hi } from './locales/locale_hi.js';
 import { ko } from './locales/locale_ko.js';
 import { it } from './locales/locale_it.js';
+import { ja } from './locales/locale_ja.js';
 import { nb } from './locales/locale_nb.js';
 import { nemeth } from './locales/locale_nemeth.js';
 import { nn } from './locales/locale_nn.js';
@@ -50,6 +51,7 @@ export const locales: { [key: string]: () => Locale } = {
   fr: fr,
   hi: hi,
   it: it,
+  ja: ja,
   ko: ko,
   nb: nb,
   nn: nn,

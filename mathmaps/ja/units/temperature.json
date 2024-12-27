@@ -1,0 +1,32 @@
+[
+  {
+    "locale": "ja"
+  },
+  {
+    "key": "F",
+    "mappings": {
+      "default": {
+        "default": "華氏",
+        "plural": "華氏"
+      }
+    }
+  },
+  {
+    "key": "C",
+    "mappings": {
+      "default": {
+        "default": "摂氏",
+        "alternative": "セ氏"
+      }
+    }
+  },
+  {
+    "key": "K",
+    "mappings": {
+      "default": {
+        "default": "ケルビン",
+        "plural": "ケルビン"
+      }
+    }
+  }
+] 

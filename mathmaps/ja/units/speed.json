@@ -1,0 +1,40 @@
+[
+  {
+    "locale": "ja"
+  },
+  {
+    "key": "kt",
+    "mappings": {
+      "default": {
+        "default": "ノット"
+      }
+    }
+  },
+  {
+    "key": "mph",
+    "mappings": {
+      "default": {
+        "default": "マイル毎時",
+        "plural": "マイル毎時"
+      }
+    }
+  },
+  {
+    "key": "rpm",
+    "mappings": {
+      "default": {
+        "default": "回転毎分",
+        "plural": "回転毎分"
+      }
+    }
+  },
+  {
+    "key": "kmh",
+    "mappings": {
+      "default": {
+        "default": "キロメートル毎時",
+        "plural": "キロメートル毎時"
+      }
+    }
+  }
+] 

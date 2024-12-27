@@ -1,0 +1,38 @@
+[
+  {
+    "locale": "ja"
+  },
+  {
+    "key": "210E",
+    "mappings": {
+      "default": {
+        "default": "斜体h",
+        "physics": "プランク定数"
+      }
+    }
+  },
+  {
+    "key": "0363",
+    "mappings": {
+      "default": {
+        "default": "結合文字a"
+      }
+    }
+  },
+  {
+    "key": "0364",
+    "mappings": {
+      "default": {
+        "default": "結合文字e"
+      }
+    }
+  },
+  {
+    "key": "0365",
+    "mappings": {
+      "default": {
+        "default": "結合文字i"
+      }
+    }
+  }
+] 

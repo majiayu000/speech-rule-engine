@@ -1,0 +1,922 @@
+[
+  {
+    "locale": "ja"
+  },
+  {
+    "key": "2190",
+    "mappings": {
+      "default": {
+        "default": "左矢印"
+      },
+      "mathspeak": {
+        "sbrief": "左矢印"
+      }
+    }
+  },
+  {
+    "key": "2191",
+    "mappings": {
+      "default": {
+        "default": "上矢印"
+      },
+      "mathspeak": {
+        "sbrief": "上矢印"
+      }
+    }
+  },
+  {
+    "key": "2192",
+    "mappings": {
+      "default": {
+        "default": "右矢印"
+      },
+      "mathspeak": {
+        "sbrief": "右矢印"
+      }
+    }
+  },
+  {
+    "key": "2193",
+    "mappings": {
+      "default": {
+        "default": "下矢印"
+      },
+      "mathspeak": {
+        "sbrief": "下矢印"
+      }
+    }
+  },
+  {
+    "key": "2194",
+    "mappings": {
+      "default": {
+        "default": "左右矢印"
+      },
+      "mathspeak": {
+        "sbrief": "左右矢印"
+      }
+    }
+  },
+  {
+    "key": "2195",
+    "mappings": {
+      "default": {
+        "default": "上下矢印"
+      },
+      "mathspeak": {
+        "sbrief": "上下矢印"
+      }
+    }
+  },
+  {
+    "key": "2196",
+    "mappings": {
+      "default": {
+        "default": "左上矢印"
+      },
+      "mathspeak": {
+        "sbrief": "左上矢印"
+      }
+    }
+  },
+  {
+    "key": "2197",
+    "mappings": {
+      "default": {
+        "default": "右上矢印"
+      },
+      "mathspeak": {
+        "sbrief": "右上矢印"
+      }
+    }
+  },
+  {
+    "key": "2198",
+    "mappings": {
+      "default": {
+        "default": "右下矢印"
+      },
+      "mathspeak": {
+        "sbrief": "右下矢印"
+      }
+    }
+  },
+  {
+    "key": "2199",
+    "mappings": {
+      "default": {
+        "default": "左下矢印"
+      },
+      "mathspeak": {
+        "sbrief": "左下矢印"
+      }
+    }
+  },
+  {
+    "key": "219A",
+    "mappings": {
+      "default": {
+        "default": "斜線付き左矢印"
+      },
+      "mathspeak": {
+        "sbrief": "斜線付き左矢印"
+      }
+    }
+  },
+  {
+    "key": "219B",
+    "mappings": {
+      "default": {
+        "default": "斜線付き右矢印"
+      },
+      "mathspeak": {
+        "sbrief": "斜線付き右矢印"
+      }
+    }
+  },
+  {
+    "key": "219C",
+    "mappings": {
+      "default": {
+        "default": "左波矢印"
+      },
+      "mathspeak": {
+        "sbrief": "左波矢印"
+      }
+    }
+  },
+  {
+    "key": "219D",
+    "mappings": {
+      "default": {
+        "default": "右波矢印"
+      },
+      "mathspeak": {
+        "sbrief": "右波矢印"
+      }
+    }
+  },
+  {
+    "key": "219E",
+    "mappings": {
+      "default": {
+        "default": "二重頭左矢印"
+      },
+      "mathspeak": {
+        "sbrief": "二重頭左矢印"
+      }
+    }
+  },
+  {
+    "key": "219F",
+    "mappings": {
+      "default": {
+        "default": "二重頭上矢印"
+      },
+      "mathspeak": {
+        "sbrief": "二重頭上矢印"
+      }
+    }
+  },
+  {
+    "key": "21A0",
+    "mappings": {
+      "default": {
+        "default": "二重頭右矢印"
+      },
+      "mathspeak": {
+        "sbrief": "二重頭右矢印"
+      }
+    }
+  },
+  {
+    "key": "21A1",
+    "mappings": {
+      "default": {
+        "default": "二重頭下矢印"
+      },
+      "mathspeak": {
+        "sbrief": "二重頭下矢印"
+      }
+    }
+  },
+  {
+    "key": "21A2",
+    "mappings": {
+      "default": {
+        "default": "尾付き左矢印"
+      },
+      "mathspeak": {
+        "sbrief": "尾付き左矢印"
+      }
+    }
+  },
+  {
+    "key": "21A3",
+    "mappings": {
+      "default": {
+        "default": "尾付き右矢印"
+      },
+      "mathspeak": {
+        "sbrief": "尾付き右矢印"
+      }
+    }
+  },
+  {
+    "key": "21A4",
+    "mappings": {
+      "default": {
+        "default": "バーから左矢印"
+      },
+      "mathspeak": {
+        "sbrief": "バーから左矢印"
+      }
+    }
+  },
+  {
+    "key": "21A5",
+    "mappings": {
+      "default": {
+        "default": "バーから上矢印"
+      },
+      "mathspeak": {
+        "sbrief": "バーから上矢印"
+      }
+    }
+  },
+  {
+    "key": "21A6",
+    "mappings": {
+      "default": {
+        "default": "バーから右矢印"
+      },
+      "mathspeak": {
+        "sbrief": "バーから右矢印"
+      }
+    }
+  },
+  {
+    "key": "21A7",
+    "mappings": {
+      "default": {
+        "default": "下矢印と水平線"
+      }
+    }
+  },
+  {
+    "key": "21A8",
+    "mappings": {
+      "default": {
+        "default": "上下矢印と底線"
+      }
+    }
+  },
+  {
+    "key": "21A9",
+    "mappings": {
+      "default": {
+        "default": "左フック矢印"
+      }
+    }
+  },
+  {
+    "key": "21AA",
+    "mappings": {
+      "default": {
+        "default": "右フック矢印"
+      }
+    }
+  },
+  {
+    "key": "21AB",
+    "mappings": {
+      "default": {
+        "default": "左ループ矢印"
+      }
+    }
+  },
+  {
+    "key": "21AC",
+    "mappings": {
+      "default": {
+        "default": "右ループ矢印"
+      }
+    }
+  },
+  {
+    "key": "21AD",
+    "mappings": {
+      "default": {
+        "default": "左右波形矢印"
+      }
+    }
+  },
+  {
+    "key": "21AE",
+    "mappings": {
+      "default": {
+        "default": "左右矢印に斜線"
+      }
+    }
+  },
+  {
+    "key": "21AF",
+    "mappings": {
+      "default": {
+        "default": "ジグザグ矢印"
+      }
+    }
+  },
+  {
+    "key": "21B0",
+    "mappings": {
+      "default": {
+        "default": "上から左矢印"
+      }
+    }
+  },
+  {
+    "key": "21B1",
+    "mappings": {
+      "default": {
+        "default": "上から右矢印"
+      }
+    }
+  },
+  {
+    "key": "21B2",
+    "mappings": {
+      "default": {
+        "default": "下から左矢印"
+      }
+    }
+  },
+  {
+    "key": "21B3",
+    "mappings": {
+      "default": {
+        "default": "下から右矢印"
+      }
+    }
+  },
+  {
+    "key": "21B4",
+    "mappings": {
+      "default": {
+        "default": "右下カーブ矢印"
+      }
+    }
+  },
+  {
+    "key": "21B5",
+    "mappings": {
+      "default": {
+        "default": "改行矢印"
+      }
+    }
+  },
+  {
+    "key": "21B6",
+    "mappings": {
+      "default": {
+        "default": "反時計回り上部半円矢印"
+      }
+    }
+  },
+  {
+    "key": "21B7",
+    "mappings": {
+      "default": {
+        "default": "時計回り上部半円矢印"
+      }
+    }
+  },
+  {
+    "key": "21B8",
+    "mappings": {
+      "default": {
+        "default": "北西矢印と長い水平線"
+      }
+    }
+  },
+  {
+    "key": "21B9",
+    "mappings": {
+      "default": {
+        "default": "左右矢印と短い垂直線"
+      }
+    }
+  },
+  {
+    "key": "21BA",
+    "mappings": {
+      "default": {
+        "default": "反時計回り開円矢印"
+      }
+    }
+  },
+  {
+    "key": "21BB",
+    "mappings": {
+      "default": {
+        "default": "時計回り開円矢印"
+      }
+    }
+  },
+  {
+    "key": "21BC",
+    "mappings": {
+      "default": {
+        "default": "左ハープーン上向き"
+      }
+    }
+  },
+  {
+    "key": "21BD",
+    "mappings": {
+      "default": {
+        "default": "左ハープーン下向き"
+      }
+    }
+  },
+  {
+    "key": "21BE",
+    "mappings": {
+      "default": {
+        "default": "上ハープーン右向き"
+      }
+    }
+  },
+  {
+    "key": "21BF",
+    "mappings": {
+      "default": {
+        "default": "上ハープーン左向き"
+      }
+    }
+  },
+  {
+    "key": "21C0",
+    "mappings": {
+      "default": {
+        "default": "右ハープーン上向き"
+      }
+    }
+  },
+  {
+    "key": "21C1",
+    "mappings": {
+      "default": {
+        "default": "右ハープーン下向き"
+      }
+    }
+  },
+  {
+    "key": "21C2",
+    "mappings": {
+      "default": {
+        "default": "下ハープーン右向き"
+      }
+    }
+  },
+  {
+    "key": "21C3",
+    "mappings": {
+      "default": {
+        "default": "下ハープーン左向き"
+      }
+    }
+  },
+  {
+    "key": "21C4",
+    "mappings": {
+      "default": {
+        "default": "右上から左下矢印"
+      }
+    }
+  },
+  {
+    "key": "21C5",
+    "mappings": {
+      "default": {
+        "default": "上向き矢印と下向き矢印"
+      }
+    }
+  },
+  {
+    "key": "21C6",
+    "mappings": {
+      "default": {
+        "default": "左上から右下矢印"
+      }
+    }
+  },
+  {
+    "key": "21C7",
+    "mappings": {
+      "default": {
+        "default": "二重左矢印"
+      }
+    }
+  },
+  {
+    "key": "21C8",
+    "mappings": {
+      "default": {
+        "default": "二重上矢印"
+      }
+    }
+  },
+  {
+    "key": "21C9",
+    "mappings": {
+      "default": {
+        "default": "二重右矢印"
+      }
+    }
+  },
+  {
+    "key": "21CA",
+    "mappings": {
+      "default": {
+        "default": "二重下矢印"
+      }
+    }
+  },
+  {
+    "key": "21CB",
+    "mappings": {
+      "default": {
+        "default": "左ハープーンと右ハープーン"
+      }
+    }
+  },
+  {
+    "key": "21CC",
+    "mappings": {
+      "default": {
+        "default": "右ハープーンと左ハープーン"
+      }
+    }
+  },
+  {
+    "key": "21CD",
+    "mappings": {
+      "default": {
+        "default": "左二重矢印に斜線"
+      }
+    }
+  },
+  {
+    "key": "21CE",
+    "mappings": {
+      "default": {
+        "default": "左右二重矢印に斜線"
+      }
+    }
+  },
+  {
+    "key": "21CF",
+    "mappings": {
+      "default": {
+        "default": "右二重矢印に斜線"
+      }
+    }
+  },
+  {
+    "key": "21D0",
+    "mappings": {
+      "default": {
+        "default": "二重左矢印"
+      }
+    }
+  },
+  {
+    "key": "21D1",
+    "mappings": {
+      "default": {
+        "default": "二重上矢印"
+      }
+    }
+  },
+  {
+    "key": "21D3",
+    "mappings": {
+      "default": {
+        "default": "二重下矢印"
+      }
+    }
+  },
+  {
+    "key": "21D5",
+    "mappings": {
+      "default": {
+        "default": "二重上下矢印"
+      }
+    }
+  },
+  {
+    "key": "21D6",
+    "mappings": {
+      "default": {
+        "default": "二重左上矢印"
+      }
+    }
+  },
+  {
+    "key": "21D7",
+    "mappings": {
+      "default": {
+        "default": "二重右上矢印"
+      }
+    }
+  },
+  {
+    "key": "21D8",
+    "mappings": {
+      "default": {
+        "default": "二重右下矢印"
+      }
+    }
+  },
+  {
+    "key": "21D9",
+    "mappings": {
+      "default": {
+        "default": "二重左下矢印"
+      }
+    }
+  },
+  {
+    "key": "21DA",
+    "mappings": {
+      "default": {
+        "default": "三重左矢印"
+      }
+    }
+  },
+  {
+    "key": "21DB",
+    "mappings": {
+      "default": {
+        "default": "三重右矢印"
+      }
+    }
+  },
+  {
+    "key": "21DC",
+    "mappings": {
+      "default": {
+        "default": "左波形矢印"
+      }
+    }
+  },
+  {
+    "key": "21DD",
+    "mappings": {
+      "default": {
+        "default": "右波形矢印"
+      }
+    }
+  },
+  {
+    "key": "21DE",
+    "mappings": {
+      "default": {
+        "default": "上向き二重矢印と縦線"
+      }
+    }
+  },
+  {
+    "key": "21DF",
+    "mappings": {
+      "default": {
+        "default": "下向き二重矢印と縦線"
+      }
+    }
+  },
+  {
+    "key": "21E0",
+    "mappings": {
+      "default": {
+        "default": "左向き破線矢印"
+      }
+    }
+  },
+  {
+    "key": "21E1",
+    "mappings": {
+      "default": {
+        "default": "上向き破線矢印"
+      }
+    }
+  },
+  {
+    "key": "21E2",
+    "mappings": {
+      "default": {
+        "default": "右向き破線矢印"
+      }
+    }
+  },
+  {
+    "key": "21E3",
+    "mappings": {
+      "default": {
+        "default": "下向き破線矢印"
+      }
+    }
+  },
+  {
+    "key": "21E4",
+    "mappings": {
+      "default": {
+        "default": "左向き矢印と縦線"
+      }
+    }
+  },
+  {
+    "key": "21E5",
+    "mappings": {
+      "default": {
+        "default": "右向き矢印と縦線"
+      }
+    }
+  },
+  {
+    "key": "21E6",
+    "mappings": {
+      "default": {
+        "default": "白抜き左矢印"
+      }
+    }
+  },
+  {
+    "key": "21E7",
+    "mappings": {
+      "default": {
+        "default": "白抜き上矢印"
+      }
+    }
+  },
+  {
+    "key": "21E8",
+    "mappings": {
+      "default": {
+        "default": "白抜き右矢印"
+      }
+    }
+  },
+  {
+    "key": "21E9",
+    "mappings": {
+      "default": {
+        "default": "白抜き下矢印"
+      }
+    }
+  },
+  {
+    "key": "21EA",
+    "mappings": {
+      "default": {
+        "default": "白抜き上二重矢印"
+      }
+    }
+  },
+  {
+    "key": "21F5",
+    "mappings": {
+      "default": {
+        "default": "下向き矢印と上向き矢印"
+      }
+    }
+  },
+  {
+    "key": "21FD",
+    "mappings": {
+      "default": {
+        "default": "左向き開き矢印"
+      }
+    }
+  },
+  {
+    "key": "21FE",
+    "mappings": {
+      "default": {
+        "default": "右向き開き矢印"
+      }
+    }
+  },
+  {
+    "key": "21FF",
+    "mappings": {
+      "default": {
+        "default": "左右開き矢印"
+      }
+    }
+  },
+  {
+    "key": "27F5",
+    "mappings": {
+      "default": {
+        "default": "長い左矢印"
+      }
+    }
+  },
+  {
+    "key": "27F6",
+    "mappings": {
+      "default": {
+        "default": "長い右矢印"
+      }
+    }
+  },
+  {
+    "key": "27F7",
+    "mappings": {
+      "default": {
+        "default": "長い左右矢印"
+      }
+    }
+  },
+  {
+    "key": "27F8",
+    "mappings": {
+      "default": {
+        "default": "長い左二重矢印"
+      }
+    }
+  },
+  {
+    "key": "27F9",
+    "mappings": {
+      "default": {
+        "default": "長い右二重矢印"
+      }
+    }
+  },
+  {
+    "key": "27FA",
+    "mappings": {
+      "default": {
+        "default": "長い左右二重矢印"
+      }
+    }
+  },
+  {
+    "key": "27FB",
+    "mappings": {
+      "default": {
+        "default": "長い左矢印とバー"
+      }
+    }
+  },
+  {
+    "key": "27FC",
+    "mappings": {
+      "default": {
+        "default": "長い右矢印とバー"
+      }
+    }
+  },
+  {
+    "key": "27FD",
+    "mappings": {
+      "default": {
+        "default": "長い左二重矢印とバー"
+      }
+    }
+  },
+  {
+    "key": "27FE",
+    "mappings": {
+      "default": {
+        "default": "長い右二重矢印とバー"
+      }
+    }
+  },
+  {
+    "key": "27FF",
+    "mappings": {
+      "default": {
+        "default": "長い右波形矢印"
+      }
+    }
+  },
+  {
+    "key": "21D2",
+    "mappings": {
+      "default": {
+        "default": "右二重矢印"
+      }
+    }
+  },
+  {
+    "key": "21D4",
+    "mappings": {
+      "default": {
+        "default": "左右二重矢印"
+      }
+    }
+  }
+] 

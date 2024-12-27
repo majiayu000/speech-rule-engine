@@ -1,0 +1,253 @@
+[
+  {
+    "locale": "ja"
+  },
+  {
+    "key": "2500",
+    "mappings": {
+      "default": {
+        "default": "軽い水平線"
+      }
+    }
+  },
+  {
+    "key": "2501",
+    "mappings": {
+      "default": {
+        "default": "太い水平線"
+      }
+    }
+  },
+  {
+    "key": "2502",
+    "mappings": {
+      "default": {
+        "default": "軽い垂直線"
+      }
+    }
+  },
+  {
+    "key": "2503",
+    "mappings": {
+      "default": {
+        "default": "太い垂直線"
+      }
+    }
+  },
+  {
+    "key": "2504",
+    "mappings": {
+      "default": {
+        "default": "軽い三重破線水平線"
+      }
+    }
+  },
+  {
+    "key": "2505",
+    "mappings": {
+      "default": {
+        "default": "太い三重破線水平線"
+      }
+    }
+  },
+  {
+    "key": "2506",
+    "mappings": {
+      "default": {
+        "default": "軽い三重破線垂直線"
+      }
+    }
+  },
+  {
+    "key": "2507",
+    "mappings": {
+      "default": {
+        "default": "太い三重破線垂直線"
+      }
+    }
+  },
+  {
+    "key": "2508",
+    "mappings": {
+      "default": {
+        "default": "軽い四重破線水平線"
+      }
+    }
+  },
+  {
+    "key": "2509",
+    "mappings": {
+      "default": {
+        "default": "太い四重破線水平線"
+      }
+    }
+  },
+  {
+    "key": "250A",
+    "mappings": {
+      "default": {
+        "default": "軽い四重破線垂直線"
+      }
+    }
+  },
+  {
+    "key": "250B",
+    "mappings": {
+      "default": {
+        "default": "太い四重破線垂直線"
+      }
+    }
+  },
+  {
+    "key": "250C",
+    "mappings": {
+      "default": {
+        "default": "軽い下と右の線"
+      }
+    }
+  },
+  {
+    "key": "250D",
+    "mappings": {
+      "default": {
+        "default": "下が軽く右が太い線"
+      }
+    }
+  },
+  {
+    "key": "250E",
+    "mappings": {
+      "default": {
+        "default": "下が太く右が軽い線"
+      }
+    }
+  },
+  {
+    "key": "250F",
+    "mappings": {
+      "default": {
+        "default": "太い下と右の線"
+      }
+    }
+  },
+  {
+    "key": "2510",
+    "mappings": {
+      "default": {
+        "default": "軽い下と左の線"
+      }
+    }
+  },
+  {
+    "key": "2511",
+    "mappings": {
+      "default": {
+        "default": "下が軽く左が太い線"
+      }
+    }
+  },
+  {
+    "key": "2512",
+    "mappings": {
+      "default": {
+        "default": "下が太く左が軽い線"
+      }
+    }
+  },
+  {
+    "key": "2513",
+    "mappings": {
+      "default": {
+        "default": "太い下と左の線"
+      }
+    }
+  },
+  {
+    "key": "2514",
+    "mappings": {
+      "default": {
+        "default": "軽い上と右の線"
+      }
+    }
+  },
+  {
+    "key": "2515",
+    "mappings": {
+      "default": {
+        "default": "上が軽く右が太い線"
+      }
+    }
+  },
+  {
+    "key": "2516",
+    "mappings": {
+      "default": {
+        "default": "上が太く右が軽い線"
+      }
+    }
+  },
+  {
+    "key": "2517",
+    "mappings": {
+      "default": {
+        "default": "太い上と右の線"
+      }
+    }
+  },
+  {
+    "key": "2518",
+    "mappings": {
+      "default": {
+        "default": "軽い上と左の線"
+      }
+    }
+  },
+  {
+    "key": "2519",
+    "mappings": {
+      "default": {
+        "default": "上が軽く左が太い線"
+      }
+    }
+  },
+  {
+    "key": "251A",
+    "mappings": {
+      "default": {
+        "default": "上が太く左が軽い線"
+      }
+    }
+  },
+  {
+    "key": "251B",
+    "mappings": {
+      "default": {
+        "default": "太い上と左の線"
+      }
+    }
+  },
+  {
+    "key": "251C",
+    "mappings": {
+      "default": {
+        "default": "軽い垂直と右の線"
+      }
+    }
+  },
+  {
+    "key": "251D",
+    "mappings": {
+      "default": {
+        "default": "垂直が軽く右が太い線"
+      }
+    }
+  },
+  {
+    "key": "251E",
+    "mappings": {
+      "default": {
+        "default": "上が太く右が下が軽い線"
+      }
+    }
+  }
+] 

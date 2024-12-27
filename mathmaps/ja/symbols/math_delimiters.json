@@ -1,0 +1,343 @@
+[
+  {
+    "locale": "ja"
+  },
+  {
+    "key": "0028",
+    "mappings": {
+      "default": {
+        "default": "左丸括弧"
+      },
+      "mathspeak": {
+        "brief": "左丸括弧",
+        "sbrief": "左丸括弧"
+      },
+      "clearspeak": {
+        "default": "開き丸括弧"
+      }
+    }
+  },
+  {
+    "key": "0029",
+    "mappings": {
+      "default": {
+        "default": "右丸括弧"
+      },
+      "mathspeak": {
+        "brief": "右丸括弧",
+        "sbrief": "右丸括弧"
+      },
+      "clearspeak": {
+        "default": "閉じ丸括弧"
+      }
+    }
+  },
+  {
+    "key": "005B",
+    "mappings": {
+      "default": {
+        "default": "左角括弧"
+      },
+      "mathspeak": {
+        "brief": "左角括弧",
+        "sbrief": "左角括弧"
+      },
+      "clearspeak": {
+        "default": "開き角括弧"
+      }
+    }
+  },
+  {
+    "key": "005D",
+    "mappings": {
+      "default": {
+        "default": "右角括弧"
+      },
+      "mathspeak": {
+        "brief": "右角括弧",
+        "sbrief": "右角括弧"
+      },
+      "clearspeak": {
+        "default": "閉じ角括弧"
+      }
+    }
+  },
+  {
+    "key": "007B",
+    "mappings": {
+      "default": {
+        "default": "左中括弧"
+      },
+      "mathspeak": {
+        "sbrief": "左中括弧"
+      },
+      "clearspeak": {
+        "default": "開き中括弧"
+      }
+    }
+  },
+  {
+    "key": "007D",
+    "mappings": {
+      "default": {
+        "default": "右中括弧"
+      },
+      "mathspeak": {
+        "sbrief": "右中括弧"
+      },
+      "clearspeak": {
+        "default": "閉じ中括弧"
+      }
+    }
+  },
+  {
+    "key": "2045",
+    "mappings": {
+      "default": {
+        "default": "羽付き左角括弧"
+      },
+      "mathspeak": {
+        "brief": "羽付き左角括弧",
+        "sbrief": "羽付き左角括弧"
+      }
+    }
+  },
+  {
+    "key": "2046",
+    "mappings": {
+      "default": {
+        "default": "羽付き右角括弧"
+      },
+      "mathspeak": {
+        "brief": "羽付き右角括弧",
+        "sbrief": "羽付き右角括弧"
+      }
+    }
+  },
+  {
+    "key": "2308",
+    "mappings": {
+      "default": {
+        "default": "左天井"
+      }
+    }
+  },
+  {
+    "key": "2309",
+    "mappings": {
+      "default": {
+        "default": "右天井"
+      }
+    }
+  },
+  {
+    "key": "230A",
+    "mappings": {
+      "default": {
+        "default": "左床"
+      }
+    }
+  },
+  {
+    "key": "230B",
+    "mappings": {
+      "default": {
+        "default": "右床"
+      }
+    }
+  },
+  {
+    "key": "230C",
+    "mappings": {
+      "default": {
+        "default": "右下切り取り"
+      }
+    }
+  },
+  {
+    "key": "230D",
+    "mappings": {
+      "default": {
+        "default": "左下切り取り"
+      }
+    }
+  },
+  {
+    "key": "230E",
+    "mappings": {
+      "default": {
+        "default": "右上切り取り"
+      }
+    }
+  },
+  {
+    "key": "230F",
+    "mappings": {
+      "default": {
+        "default": "左上切り取り"
+      }
+    }
+  },
+  {
+    "key": "231C",
+    "mappings": {
+      "default": {
+        "default": "左上コーナー"
+      }
+    }
+  },
+  {
+    "key": "231D",
+    "mappings": {
+      "default": {
+        "default": "右上コーナー"
+      }
+    }
+  },
+  {
+    "key": "231E",
+    "mappings": {
+      "default": {
+        "default": "左下コーナー"
+      }
+    }
+  },
+  {
+    "key": "231F",
+    "mappings": {
+      "default": {
+        "default": "右下コーナー"
+      }
+    }
+  },
+  {
+    "key": "2320",
+    "mappings": {
+      "default": {
+        "default": "上半積分"
+      }
+    }
+  },
+  {
+    "key": "2321",
+    "mappings": {
+      "default": {
+        "default": "下半積分"
+      }
+    }
+  },
+  {
+    "key": "2329",
+    "mappings": {
+      "default": {
+        "default": "左山括弧",
+        "physics": "ブラベクトル"
+      }
+    }
+  },
+  {
+    "key": "232A",
+    "mappings": {
+      "default": {
+        "default": "右山括弧",
+        "physics": "ケットベクトル"
+      }
+    }
+  },
+  {
+    "key": "239B",
+    "mappings": {
+      "default": {
+        "default": "左括弧上部"
+      }
+    }
+  },
+  {
+    "key": "239C",
+    "mappings": {
+      "default": {
+        "default": "左括弧延長"
+      }
+    }
+  },
+  {
+    "key": "239D",
+    "mappings": {
+      "default": {
+        "default": "左括弧下部"
+      }
+    }
+  },
+  {
+    "key": "239E",
+    "mappings": {
+      "default": {
+        "default": "右括弧上部"
+      }
+    }
+  },
+  {
+    "key": "239F",
+    "mappings": {
+      "default": {
+        "default": "右括弧延長"
+      }
+    }
+  },
+  {
+    "key": "23A0",
+    "mappings": {
+      "default": {
+        "default": "右括弧下部"
+      }
+    }
+  },
+  {
+    "key": "23A1",
+    "mappings": {
+      "default": {
+        "default": "左角括弧上部"
+      }
+    }
+  },
+  {
+    "key": "23A2",
+    "mappings": {
+      "default": {
+        "default": "左角括弧延長"
+      }
+    }
+  },
+  {
+    "key": "23A3",
+    "mappings": {
+      "default": {
+        "default": "左角括弧下部"
+      }
+    }
+  },
+  {
+    "key": "23A4",
+    "mappings": {
+      "default": {
+        "default": "右角括弧上部"
+      }
+    }
+  },
+  {
+    "key": "23A5",
+    "mappings": {
+      "default": {
+        "default": "右角括弧延長"
+      }
+    }
+  },
+  {
+    "key": "23A6",
+    "mappings": {
+      "default": {
+        "default": "右角括弧下部"
+      }
+    }
+  }
+] 

@@ -1,0 +1,93 @@
+[
+  {
+    "locale": "ja"
+  },
+  {
+    "key": "dram",
+    "mappings": {
+      "default": {
+        "default": "ドラム"
+      }
+    }
+  },
+  {
+    "key": "oz",
+    "mappings": {
+      "default": {
+        "default": "オンス"
+      }
+    }
+  },
+  {
+    "key": "lb",
+    "mappings": {
+      "default": {
+        "default": "ポンド"
+      }
+    }
+  },
+  {
+    "key": "st",
+    "mappings": {
+      "default": {
+        "default": "ストーン"
+      }
+    }
+  },
+  {
+    "key": "qtr",
+    "mappings": {
+      "default": {
+        "default": "クォーター"
+      }
+    }
+  },
+  {
+    "key": "cwt",
+    "mappings": {
+      "default": {
+        "default": "ハンドレッドウェイト"
+      }
+    }
+  },
+  {
+    "key": "LT",
+    "mappings": {
+      "default": {
+        "default": "ロングトン"
+      }
+    }
+  },
+  {
+    "key": "gr",
+    "mappings": {
+      "default": {
+        "default": "グラム"
+      }
+    }
+  },
+  {
+    "key": "g",
+    "mappings": {
+      "default": {
+        "default": "グラム"
+      }
+    }
+  },
+  {
+    "key": "mcg",
+    "mappings": {
+      "default": {
+        "default": "マイクログラム"
+      }
+    }
+  },
+  {
+    "key": "t",
+    "mappings": {
+      "default": {
+        "default": "トン"
+      }
+    }
+  }
+] 

@@ -1,0 +1,87 @@
+[
+  {
+    "locale": "ja"
+  },
+  {
+    "key": "W",
+    "mappings": {
+      "default": {
+        "default": "ワット"
+      }
+    }
+  },
+  {
+    "key": "kwh",
+    "mappings": {
+      "default": {
+        "default": "キロワット時"
+      }
+    }
+  },
+  {
+    "key": "J",
+    "mappings": {
+      "default": {
+        "default": "ジュール"
+      }
+    }
+  },
+  {
+    "key": "N",
+    "mappings": {
+      "default": {
+        "default": "ニュートン"
+      }
+    }
+  },
+  {
+    "key": "A",
+    "mappings": {
+      "default": {
+        "default": "アンペア"
+      }
+    }
+  },
+  {
+    "key": "V",
+    "mappings": {
+      "default": {
+        "default": "ボルト"
+      }
+    }
+  },
+  {
+    "key": "ohm",
+    "mappings": {
+      "default": {
+        "default": "オーム"
+      }
+    }
+  },
+  {
+    "key": "Ω",
+    "mappings": {
+      "default": {
+        "default": "オーム"
+      }
+    }
+  },
+  {
+    "key": "MΩ",
+    "mappings": {
+      "default": {
+        "default": "��ガオーム"
+      }
+    },
+    "names": ["MΩ"]
+  },
+  {
+    "key": "kΩ",
+    "mappings": {
+      "default": {
+        "default": "キロオーム"
+      }
+    },
+    "names": ["kΩ"]
+  }
+] 

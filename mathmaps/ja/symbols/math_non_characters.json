@@ -1,0 +1,217 @@
+[
+  {
+    "locale": "ja"
+  },
+  {
+    "key": "210F",
+    "mappings": {
+      "default": {
+        "default": "二パイ分の斜体h",
+        "physics": "二パイ分のプランク定数"
+      }
+    }
+  },
+  {
+    "key": "2114",
+    "mappings": {
+      "default": {
+        "default": "バー付きlb"
+      }
+    }
+  },
+  {
+    "key": "2116",
+    "mappings": {
+      "default": {
+        "default": "ナンバー"
+      }
+    }
+  },
+  {
+    "key": "2117",
+    "mappings": {
+      "default": {
+        "default": "録音著作権"
+      }
+    }
+  },
+  {
+    "key": "211E",
+    "mappings": {
+      "default": {
+        "default": "処方箋"
+      }
+    }
+  },
+  {
+    "key": "211F",
+    "mappings": {
+      "default": {
+        "default": "応答"
+      }
+    }
+  },
+  {
+    "key": "2120",
+    "mappings": {
+      "default": {
+        "default": "サービスマーク"
+      }
+    }
+  },
+  {
+    "key": "2121",
+    "mappings": {
+      "default": {
+        "default": "電話記号",
+        "alternative": "TEL記号"
+      }
+    }
+  },
+  {
+    "key": "2122",
+    "mappings": {
+      "default": {
+        "default": "商標"
+      }
+    }
+  },
+  {
+    "key": "2123",
+    "mappings": {
+      "default": {
+        "default": "聖句記号"
+      }
+    }
+  },
+  {
+    "key": "2125",
+    "mappings": {
+      "default": {
+        "default": "オンス"
+      }
+    }
+  },
+  {
+    "key": "2126",
+    "mappings": {
+      "default": {
+        "default": "オーム"
+      }
+    }
+  },
+  {
+    "key": "2127",
+    "mappings": {
+      "default": {
+        "default": "逆オーム"
+      }
+    }
+  },
+  {
+    "key": "212A",
+    "mappings": {
+      "default": {
+        "default": "ケルビン"
+      }
+    }
+  },
+  {
+    "key": "212B",
+    "mappings": {
+      "default": {
+        "default": "オングストローム"
+      }
+    }
+  },
+  {
+    "key": "212E",
+    "mappings": {
+      "default": {
+        "default": "推定"
+      }
+    }
+  },
+  {
+    "key": "2132",
+    "mappings": {
+      "default": {
+        "default": "反転大文字F"
+      },
+      "mathspeak": {
+        "default": "反転大文字F"
+      }
+    }
+  },
+  {
+    "key": "2139",
+    "mappings": {
+      "default": {
+        "default": "情報源"
+      }
+    }
+  },
+  {
+    "key": "213A",
+    "mappings": {
+      "default": {
+        "default": "回転大文字Q"
+      },
+      "mathspeak": {
+        "default": "回転大文字Q"
+      }
+    }
+  },
+  {
+    "key": "213B",
+    "mappings": {
+      "default": {
+        "default": "ファックス記号"
+      }
+    }
+  },
+  {
+    "key": "2141",
+    "mappings": {
+      "default": {
+        "default": "反転サンセリフ大文字G"
+      },
+      "mathspeak": {
+        "default": "反転サンセリフ大文字G"
+      }
+    }
+  },
+  {
+    "key": "2142",
+    "mappings": {
+      "default": {
+        "default": "反転サンセリフ大文字L"
+      },
+      "mathspeak": {
+        "default": "反転サンセリフ大文字L"
+      }
+    }
+  },
+  {
+    "key": "2143",
+    "mappings": {
+      "default": {
+        "default": "逆サンセリフ大文字L"
+      },
+      "mathspeak": {
+        "default": "逆サンセリフ大文字L"
+      }
+    }
+  },
+  {
+    "key": "2144",
+    "mappings": {
+      "default": {
+        "default": "反転サンセリフ大文字Y"
+      },
+      "mathspeak": {
+        "default": "反転サンセリフ大文字Y"
+      }
+    }
+  }
+] 

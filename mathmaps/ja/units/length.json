@@ -1,0 +1,87 @@
+[
+  {
+    "locale": "ja"
+  },
+  {
+    "key": "ft",
+    "mappings": {
+      "default": {
+        "default": "フィート",
+        "plural": "フィート"
+      }
+    }
+  },
+  {
+    "key": "in",
+    "mappings": {
+      "default": {
+        "default": "インチ",
+        "plural": "インチ"
+      }
+    }
+  },
+  {
+    "key": "mi",
+    "mappings": {
+      "default": {
+        "default": "マイル"
+      }
+    }
+  },
+  {
+    "key": "yd",
+    "mappings": {
+      "default": {
+        "default": "ヤード"
+      }
+    }
+  },
+  {
+    "key": "link",
+    "mappings": {
+      "default": {
+        "default": "リンク"
+      }
+    }
+  },
+  {
+    "key": "rod",
+    "mappings": {
+      "default": {
+        "default": "ロッド"
+      }
+    }
+  },
+  {
+    "key": "chain",
+    "mappings": {
+      "default": {
+        "default": "チェーン"
+      }
+    }
+  },
+  {
+    "key": "furlong",
+    "mappings": {
+      "default": {
+        "default": "ハロン"
+      }
+    }
+  },
+  {
+    "key": "n.m.",
+    "mappings": {
+      "default": {
+        "default": "海里"
+      }
+    }
+  },
+  {
+    "key": "m",
+    "mappings": {
+      "default": {
+        "default": "メートル"
+      }
+    }
+  }
+] 

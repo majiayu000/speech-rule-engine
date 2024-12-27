@@ -1,0 +1,14 @@
+[
+  {
+    "locale": "ja"
+  },
+  {
+    "key": "doz",
+    "mappings": {
+      "default": {
+        "default": "ダース",
+        "plural": "ダース"
+      }
+    }
+  }
+] 

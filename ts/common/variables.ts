@@ -42,7 +42,8 @@ export class Variables {
     ['nb', 'Bokmål'],
     ['nn', 'Nynorsk'],
     ['sv', 'Swedish'],
-    ['nemeth', 'Nemeth']
+    ['nemeth', 'Nemeth'],
+    ['ja', 'Japanese']
   ]);
 
   /**

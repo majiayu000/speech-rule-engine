@@ -1,0 +1,128 @@
+[
+  {
+    "locale": "ja"
+  },
+  {
+    "key": "cu",
+    "mappings": {
+      "default": {
+        "default": "立方",
+        "plural": "立方"
+      }
+    }
+  },
+  {
+    "key": "cu inch",
+    "mappings": {
+      "default": {
+        "default": "立方インチ",
+        "plural": "立方インチ"
+      }
+    }
+  },
+  {
+    "key": "cu ft",
+    "mappings": {
+      "default": {
+        "default": "立方フィート",
+        "plural": "立方フィート"
+      }
+    }
+  },
+  {
+    "key": "cu yd",
+    "mappings": {
+      "default": {
+        "default": "立方ヤード"
+      }
+    }
+  },
+  {
+    "key": "bbl",
+    "mappings": {
+      "default": {
+        "default": "バレル"
+      }
+    }
+  },
+  {
+    "key": "fl. oz.",
+    "mappings": {
+      "default": {
+        "default": "液量オンス"
+      }
+    }
+  },
+  {
+    "key": "gal",
+    "mappings": {
+      "default": {
+        "default": "ガロン"
+      }
+    }
+  },
+  {
+    "key": "pt",
+    "mappings": {
+      "default": {
+        "default": "パイント"
+      }
+    }
+  },
+  {
+    "key": "qt",
+    "mappings": {
+      "default": {
+        "default": "クォート"
+      }
+    }
+  },
+  {
+    "key": "fluid dram",
+    "mappings": {
+      "default": {
+        "default": "液量ドラム"
+      }
+    }
+  },
+  {
+    "key": "tbsp",
+    "mappings": {
+      "default": {
+        "default": "大さじ"
+      }
+    }
+  },
+  {
+    "key": "tsp",
+    "mappings": {
+      "default": {
+        "default": "小さじ"
+      }
+    }
+  },
+  {
+    "key": "cup",
+    "mappings": {
+      "default": {
+        "default": "カップ"
+      }
+    }
+  },
+  {
+    "key": "cc",
+    "mappings": {
+      "default": {
+        "default": "立方センチメートル"
+      }
+    }
+  },
+  {
+    "key": "l",
+    "mappings": {
+      "default": {
+        "default": "リットル"
+      }
+    }
+  }
+] 

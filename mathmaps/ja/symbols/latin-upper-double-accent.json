@@ -1,0 +1,38 @@
+[
+  {
+    "locale": "ja"
+  },
+  {
+    "key": "01D5",
+    "mappings": {
+      "default": {
+        "default": "ウムラウトとオーバーライン付き大文字U"
+      },
+      "mathspeak": {
+        "default": "ウムラウトとオーバーライン付き大文字U"
+      }
+    }
+  },
+  {
+    "key": "01D7",
+    "mappings": {
+      "default": {
+        "default": "ウムラウトとアキュートアクセント付き大文字U"
+      },
+      "mathspeak": {
+        "default": "ウムラウトとアキュートアクセント付き大文字U"
+      }
+    }
+  },
+  {
+    "key": "01D9",
+    "mappings": {
+      "default": {
+        "default": "ウムラウトとハーチェック付き大文字U"
+      },
+      "mathspeak": {
+        "default": "ウムラウトとハーチェック付き大文字U"
+      }
+    }
+  }
+] 

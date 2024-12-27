@@ -1,0 +1,253 @@
+[
+  {
+    "locale": "ja"
+  },
+  {
+    "key": "00F8",
+    "mappings": {
+      "default": {
+        "default": "斜線付きo"
+      }
+    }
+  },
+  {
+    "key": "0111",
+    "mappings": {
+      "default": {
+        "default": "斜線付きd"
+      }
+    }
+  },
+  {
+    "key": "0127",
+    "mappings": {
+      "default": {
+        "default": "斜線付きh"
+      }
+    }
+  },
+  {
+    "key": "0142",
+    "mappings": {
+      "default": {
+        "default": "斜線付きl"
+      }
+    }
+  },
+  {
+    "key": "0167",
+    "mappings": {
+      "default": {
+        "default": "斜線付きt"
+      }
+    }
+  },
+  {
+    "key": "0180",
+    "mappings": {
+      "default": {
+        "default": "斜線付きb"
+      }
+    }
+  },
+  {
+    "key": "019B",
+    "mappings": {
+      "default": {
+        "default": "斜線付きλ"
+      }
+    }
+  },
+  {
+    "key": "01B6",
+    "mappings": {
+      "default": {
+        "default": "斜線付きz"
+      }
+    }
+  },
+  {
+    "key": "01BE",
+    "mappings": {
+      "default": {
+        "default": "斜線付き逆声門閉鎖音"
+      }
+    }
+  },
+  {
+    "key": "01E5",
+    "mappings": {
+      "default": {
+        "default": "斜線付きg"
+      }
+    }
+  },
+  {
+    "key": "01FF",
+    "mappings": {
+      "default": {
+        "default": "斜線とアキュートアクセント付きo"
+      }
+    }
+  },
+  {
+    "key": "023C",
+    "mappings": {
+      "default": {
+        "default": "斜線付きc"
+      }
+    }
+  },
+  {
+    "key": "0247",
+    "mappings": {
+      "default": {
+        "default": "斜線付きe"
+      }
+    }
+  },
+  {
+    "key": "0249",
+    "mappings": {
+      "default": {
+        "default": "斜線付きj"
+      }
+    }
+  },
+  {
+    "key": "024D",
+    "mappings": {
+      "default": {
+        "default": "斜線付きr"
+      }
+    }
+  },
+  {
+    "key": "024F",
+    "mappings": {
+      "default": {
+        "default": "斜線付きy"
+      }
+    }
+  },
+  {
+    "key": "025F",
+    "mappings": {
+      "default": {
+        "default": "斜線付き点なしj"
+      }
+    }
+  },
+  {
+    "key": "0268",
+    "mappings": {
+      "default": {
+        "default": "斜線付きi"
+      }
+    }
+  },
+  {
+    "key": "0284",
+    "mappings": {
+      "default": {
+        "default": "斜線とフック付き点なしj"
+      }
+    }
+  },
+  {
+    "key": "02A1",
+    "mappings": {
+      "default": {
+        "default": "斜線付き声門閉鎖音"
+      }
+    }
+  },
+  {
+    "key": "02A2",
+    "mappings": {
+      "default": {
+        "default": "斜線付き逆声門閉鎖音"
+      }
+    }
+  },
+  {
+    "key": "1D13",
+    "mappings": {
+      "default": {
+        "default": "斜線付き横向きo"
+      }
+    }
+  },
+  {
+    "key": "1D7C",
+    "mappings": {
+      "default": {
+        "default": "斜線付きイオータ"
+      }
+    }
+  },
+  {
+    "key": "1D7D",
+    "mappings": {
+      "default": {
+        "default": "斜線付きp"
+      }
+    }
+  },
+  {
+    "key": "1D7F",
+    "mappings": {
+      "default": {
+        "default": "斜線付きウプシロン"
+      }
+    }
+  },
+  {
+    "key": "1E9C",
+    "mappings": {
+      "default": {
+        "default": "斜め斜線付き長いs"
+      }
+    }
+  },
+  {
+    "key": "1E9D",
+    "mappings": {
+      "default": {
+        "default": "上部斜線付き長いs"
+      }
+    }
+  },
+  {
+    "key": "018D",
+    "mappings": {
+      "default": {
+        "default": "反転デルタ"
+      }
+    }
+  },
+  {
+    "key": "1E9B",
+    "mappings": {
+      "default": {
+        "default": "上部点付き長いs"
+      }
+    }
+  },
+  {
+    "key": "1E9F",
+    "mappings": {
+      "default": {
+        "default": "デルタ"
+      }
+    }
+  },
+  {
+    "key": "0138",
+    "mappings": {
+      "default": {
+        "default": "クラ"
+      }
+    }
+  }
+] 

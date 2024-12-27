@@ -1,0 +1,47 @@
+[
+  {
+    "locale": "ja"
+  },
+  {
+    "key": "00B2",
+    "mappings": {
+      "default": {
+        "default": "二乗"
+      },
+      "mathspeak": {
+        "default": "二乗"
+      },
+      "clearspeak": {
+        "default": "二乗"
+      }
+    }
+  },
+  {
+    "key": "00B3",
+    "mappings": {
+      "default": {
+        "default": "三乗"
+      },
+      "mathspeak": {
+        "default": "三乗"
+      },
+      "clearspeak": {
+        "default": "三乗"
+      }
+    }
+  },
+  {
+    "key": "00B9",
+    "mappings": {
+      "default": {
+        "default": "一乗"
+      },
+      "mathspeak": {
+        "default": "一乗"
+      },
+      "clearspeak": {
+        "default": "一乗"
+      }
+    }
+  }
+] 

@@ -1,0 +1,48 @@
+[
+  {
+    "locale": "ja"
+  },
+  {
+    "key": "03D0",
+    "mappings": {
+      "default": {
+        "default": "ベータ"
+      }
+    }
+  },
+  {
+    "key": "03D7",
+    "mappings": {
+      "default": {
+        "default": "カイ"
+      }
+    }
+  },
+  {
+    "key": "03F6",
+    "mappings": {
+      "default": {
+        "default": "反転イプシロン"
+      }
+    }
+  },
+  {
+    "key": "1D7CA",
+    "mappings": {
+      "default": {
+        "default": "太字大文字ディガンマ"
+      },
+      "mathspeak": {
+        "default": "太字大文字ディガンマ"
+      }
+    }
+  },
+  {
+    "key": "1D7CB",
+    "mappings": {
+      "default": {
+        "default": "太字ディガンマ"
+      }
+    }
+  }
+] 

@@ -1,0 +1,352 @@
+{
+  "locale": "ja",
+  "modality": "summary",
+  "kind": "actions",
+  "rules": [
+    [
+      "Action",
+      "abstr-identifier-long",
+      "[t] \"長い識別子\""
+    ],
+    [
+      "Action",
+      "abstr-identifier",
+      "[t] \"識別子\""
+    ],
+    [
+      "Action",
+      "abstr-number-long",
+      "[t] \"長い数字\""
+    ],
+    [
+      "Action",
+      "abstr-number",
+      "[t] \"数字\""
+    ],
+    [
+      "Action",
+      "abstr-mixed-number-long",
+      "[t] \"長い帯分数\""
+    ],
+    [
+      "Action",
+      "abstr-mixed-number",
+      "[t] \"帯分数\""
+    ],
+    [
+      "Action",
+      "abstr-text",
+      "[t] \"テキスト\""
+    ],
+    [
+      "Action",
+      "abstr-function",
+      "[t] \"関数式\""
+    ],
+    [
+      "Action",
+      "abstr-function-brief",
+      "[t] \"関数\""
+    ],
+    [
+      "Action",
+      "abstr-lim",
+      "[t] \"極限関数\""
+    ],
+    [
+      "Action",
+      "abstr-lim-brief",
+      "[t] \"極限\""
+    ],
+    [
+      "Action",
+      "abstr-fraction",
+      "[t] \"分数\""
+    ],
+    [
+      "Action",
+      "abstr-fraction-brief",
+      "[t] \"分数\""
+    ],
+    [
+      "Action",
+      "abstr-continued-fraction",
+      "[t] \"連分数\""
+    ],
+    [
+      "Action",
+      "abstr-continued-fraction-brief",
+      "[t] \"連分数\""
+    ],
+    [
+      "Action",
+      "abstr-sqrt",
+      "[t] \"平方根\""
+    ],
+    [
+      "Action",
+      "abstr-sqrt-nested",
+      "[t] \"入れ子の平方根\""
+    ],
+    [
+      "Action",
+      "abstr-root-end",
+      "[t] \"指数\"; [n] children/*[1] (engine:modality=speech); [t] \"の根号\""
+    ],
+    [
+      "Action",
+      "abstr-root",
+      "[t] \"指数\"; [n] children/*[1] (engine:modality=speech); [t] \"の根号\""
+    ],
+    [
+      "Action",
+      "abstr-root-brief",
+      "[t] \"根号\""
+    ],
+    [
+      "Action",
+      "abstr-root-nested-end",
+      "[t] \"入れ子の指数\"; [n] children/*[1] (engine:modality=speech); [t] \"の根号\""
+    ],
+    [
+      "Action",
+      "abstr-root-nested",
+      "[t] \"入れ子の指数\"; [n] children/*[1] (engine:modality=speech); [t] \"の根号\""
+    ],
+    [
+      "Action",
+      "abstr-root-nested-brief",
+      "[t] \"入れ子の根号\""
+    ],
+    [
+      "Action",
+      "abstr-superscript",
+      "[t] \"べき乗\""
+    ],
+    [
+      "Action",
+      "abstr-subscript",
+      "[t] \"下付き\""
+    ],
+    [
+      "Action",
+      "abstr-subsup",
+      "[t] \"下付きのべき乗\""
+    ],
+    [
+      "Action",
+      "abstr-infixop",
+      "[t] @role (grammar:localRole); [t] \"で\"; [t] count(./children/*); [t] \"個の要素\""
+    ],
+    [
+      "Action",
+      "abstr-infixop-var",
+      "[t] @role (grammar:localRole); [t] \"で可変個の要素\""
+    ],
+    [
+      "Action",
+      "abstr-infixop-brief",
+      "[t] @role (grammar:localRole)"
+    ],
+    [
+      "Action",
+      "abstr-addition",
+      "[t] count(./children/*); [t] \"個の項の和\""
+    ],
+    [
+      "Action",
+      "abstr-addition-brief",
+      "[t] \"和\""
+    ],
+    [
+      "Action",
+      "abstr-addition-var",
+      "[t] \"可変個の項の和\""
+    ],
+    [
+      "Action",
+      "abstr-multiplication",
+      "[t] count(./children/*); [t] \"個の因数の積\""
+    ],
+    [
+      "Action",
+      "abstr-multiplication-brief",
+      "[t] \"積\""
+    ],
+    [
+      "Action",
+      "abstr-multiplication-var",
+      "[t] \"可変個の因数の積\""
+    ],
+    [
+      "Action",
+      "abstr-vector",
+      "[t] count(./children/*); [t] \"次元ベクトル\""
+    ],
+    [
+      "Action",
+      "abstr-vector-brief",
+      "[t] \"ベクトル\""
+    ],
+    [
+      "Action",
+      "abstr-vector-var",
+      "[t] \"n次元ベクトル\""
+    ],
+    [
+      "Action",
+      "abstr-binomial",
+      "[t] \"二項係数\""
+    ],
+    [
+      "Action",
+      "abstr-determinant",
+      "[t] count(./children/*); [t] \"次元行列式\""
+    ],
+    [
+      "Action",
+      "abstr-determinant-brief",
+      "[t] \"行列式\""
+    ],
+    [
+      "Action",
+      "abstr-determinant-var",
+      "[t] \"n次元行列式\""
+    ],
+    [
+      "Action",
+      "abstr-squarematrix",
+      "[t] count(./children/*); [t] \"次正方行列\""
+    ],
+    [
+      "Action",
+      "abstr-squarematrix-brief",
+      "[t] \"正方行列\""
+    ],
+    [
+      "Action",
+      "abstr-rowvector",
+      "[t] count(./children/row/children/*); [t] \"次元行ベクトル\""
+    ],
+    [
+      "Action",
+      "abstr-rowvector-brief",
+      "[t] \"行ベクトル\""
+    ],
+    [
+      "Action",
+      "abstr-rowvector-var",
+      "[t] \"n次元行ベクトル\""
+    ],
+    [
+      "Action",
+      "abstr-matrix",
+      "[t] count(children/*); [t] \"行\"; [t] count(children/*[1]/children/*); [t] \"列の行列\""
+    ],
+    [
+      "Action",
+      "abstr-matrix-brief",
+      "[t] \"行列\""
+    ],
+    [
+      "Action",
+      "abstr-matrix-var",
+      "[t] \"n行m列の行列\""
+    ],
+    [
+      "Action",
+      "abstr-cases",
+      "[t] \"場合分けで\"; [t] count(children/*); [t] \"個の場合\""
+    ],
+    [
+      "Action",
+      "abstr-cases-brief",
+      "[t] \"場合分け\""
+    ],
+    [
+      "Action",
+      "abstr-cases-var",
+      "[t] \"可変個の場合を持つ場合分け\""
+    ],
+    [
+      "Action",
+      "abstr-punctuated",
+      "[n] content/*[1]; [t] \"で区切られた\"; [t] count(children/*) - count(content/*); [t] \"個の要素のリスト\""
+    ],
+    [
+      "Action",
+      "abstr-punctuated-brief",
+      "[n] content/*[1]; [t] \"で区切られたリスト\""
+    ],
+    [
+      "Action",
+      "abstr-punctuated-var",
+      "[n] content/*[1]; [t] \"で区切られた可変長リスト\""
+    ],
+    [
+      "Action",
+      "abstr-bigop",
+      "[n] content/*[1]"
+    ],
+    [
+      "Action",
+      "abstr-integral",
+      "[t] \"積分\""
+    ],
+    [
+      "Action",
+      "abstr-relation",
+      "[t] @role (grammar:localRole)"
+    ],
+    [
+      "Action",
+      "abstr-relation-seq",
+      "[t] @role (grammar:localRole); [t] \"の列で\"; [t] count(./children/*); [t] \"個の要素\""
+    ],
+    [
+      "Action",
+      "abstr-relation-seq-brief",
+      "[t] @role (grammar:localRole); [t] \"の列\""
+    ],
+    [
+      "Action",
+      "abstr-relation-var",
+      "[t] @role (grammar:localRole); [t] \"の列で可変個の要素\""
+    ],
+    [
+      "Action",
+      "abstr-multirel",
+      "[t] \"関係の列で\"; [t] count(./children/*); [t] \"個の要素\""
+    ],
+    [
+      "Action",
+      "abstr-multirel-brief",
+      "[t] \"関係の列\""
+    ],
+    [
+      "Action",
+      "abstr-multirel-var",
+      "[t] \"可変個の要素を持つ関係の列\""
+    ],
+    [
+      "Action",
+      "abstr-table",
+      "[t] count(children/*); [t] \"行\"; [t] count(children/*[1]/children/*); [t] \"列の表\""
+    ],
+    [
+      "Action",
+      "abstr-line",
+      "[t] @role (grammar:localRole); [t] \"内\""
+    ],
+    [
+      "Action",
+      "abstr-row",
+      "[t] @role (grammar:localRole); [t] count(preceding-sibling::..); [t] \"で\"; [t] count(children/*); [t] \"列内\""
+    ],
+    [
+      "Action",
+      "abstr-cell",
+      "[t] @role (grammar:localRole); [t] \"内\""
+    ]
+  ]
+} 

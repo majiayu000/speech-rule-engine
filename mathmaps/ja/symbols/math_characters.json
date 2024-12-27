@@ -1,0 +1,132 @@
+[
+  {
+    "locale": "ja"
+  },
+  {
+    "key": "2113",
+    "mappings": {
+      "default": {
+        "default": "筆記体l"
+      }
+    }
+  },
+  {
+    "key": "2118",
+    "mappings": {
+      "default": {
+        "default": "筆記体大文字P"
+      },
+      "mathspeak": {
+        "default": "筆記体大文字P"
+      }
+    }
+  },
+  {
+    "key": "213C",
+    "mappings": {
+      "default": {
+        "default": "二重線パイ"
+      }
+    }
+  },
+  {
+    "key": "213D",
+    "mappings": {
+      "default": {
+        "default": "二重線ガンマ"
+      }
+    }
+  },
+  {
+    "key": "213E",
+    "mappings": {
+      "default": {
+        "default": "二重線大文字ガンマ"
+      },
+      "mathspeak": {
+        "default": "二重線大文字ガンマ"
+      }
+    }
+  },
+  {
+    "key": "213F",
+    "mappings": {
+      "default": {
+        "default": "二重線大文字パイ"
+      },
+      "mathspeak": {
+        "default": "二重線大文字パイ"
+      }
+    }
+  },
+  {
+    "key": "2140",
+    "mappings": {
+      "default": {
+        "default": "二重線総和"
+      },
+      "mathspeak": {
+        "default": "二重線シグマ総和"
+      }
+    }
+  },
+  {
+    "key": "2145",
+    "mappings": {
+      "default": {
+        "default": "二重線斜体大文字D"
+      },
+      "mathspeak": {
+        "default": "二重線斜体大文字D"
+      }
+    }
+  },
+  {
+    "key": "2146",
+    "mappings": {
+      "default": {
+        "default": "二重線斜体d"
+      }
+    }
+  },
+  {
+    "key": "2147",
+    "mappings": {
+      "default": {
+        "default": "二重線斜体e"
+      }
+    }
+  },
+  {
+    "key": "2148",
+    "mappings": {
+      "default": {
+        "default": "二重線斜体i"
+      }
+    }
+  },
+  {
+    "key": "2149",
+    "mappings": {
+      "default": {
+        "default": "二重線斜体j"
+      }
+    }
+  },
+  {
+    "key": "1D6A4",
+    "mappings": {
+      "default": {
+        "default": "点なし斜体i"
+      }
+    }
+  },
+  {
+    "key": "1D6A5",
+    "mappings": {
+      "default": {
+        "default": "点なし斜体j"
+      }
+    }
+  }
+] 

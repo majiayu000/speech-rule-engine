@@ -1,0 +1,29 @@
+[
+  {
+    "locale": "ja"
+  },
+  {
+    "key": "01D6",
+    "mappings": {
+      "default": {
+        "default": "ウムラウトとオーバーライン付きu"
+      }
+    }
+  },
+  {
+    "key": "01D8",
+    "mappings": {
+      "default": {
+        "default": "ウムラウトとアキュートアクセント付きu"
+      }
+    }
+  },
+  {
+    "key": "01DA",
+    "mappings": {
+      "default": {
+        "default": "ウムラウトとハーチェック付きu"
+      }
+    }
+  }
+] 

@@ -1,0 +1,32 @@
+[
+  {
+    "locale": "ja"
+  },
+  {
+    "key": "2135",
+    "mappings": {
+      "default": {
+        "default": "第一超限基数",
+        "alternative": "アレフ"
+      }
+    }
+  },
+  {
+    "key": "2136",
+    "mappings": {
+      "default": {
+        "default": "第二超限基数",
+        "alternative": "ベート"
+      }
+    }
+  },
+  {
+    "key": "2137",
+    "mappings": {
+      "default": {
+        "default": "第三超限基数",
+        "alternative": "ギメル"
+      }
+    }
+  }
+] 

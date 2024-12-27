@@ -1,0 +1,231 @@
+[
+  {
+    "locale": "ja"
+  },
+  {
+    "key": "$",
+    "mappings": {
+      "default": {
+        "default": "ドル"
+      }
+    }
+  },
+  {
+    "key": "£",
+    "mappings": {
+      "default": {
+        "default": "ポンド"
+      }
+    }
+  },
+  {
+    "key": "¥",
+    "mappings": {
+      "default": {
+        "default": "円"
+      }
+    }
+  },
+  {
+    "key": "€",
+    "mappings": {
+      "default": {
+        "default": "ユーロ"
+      }
+    }
+  },
+  {
+    "key": "₡",
+    "mappings": {
+      "default": {
+        "default": "コロン"
+      }
+    }
+  },
+  {
+    "key": "₢",
+    "mappings": {
+      "default": {
+        "default": "クルゼイロ"
+      }
+    }
+  },
+  {
+    "key": "₣",
+    "mappings": {
+      "default": {
+        "default": "フラン"
+      }
+    }
+  },
+  {
+    "key": "₤",
+    "mappings": {
+      "default": {
+        "default": "リラ"
+      }
+    }
+  },
+  {
+    "key": "₥",
+    "mappings": {
+      "default": {
+        "default": "ミル"
+      }
+    }
+  },
+  {
+    "key": "₦",
+    "mappings": {
+      "default": {
+        "default": "ナイラ"
+      }
+    }
+  },
+  {
+    "key": "₧",
+    "mappings": {
+      "default": {
+        "default": "ペセタ"
+      }
+    }
+  },
+  {
+    "key": "₨",
+    "mappings": {
+      "default": {
+        "default": "ルピー"
+      }
+    }
+  },
+  {
+    "key": "₩",
+    "mappings": {
+      "default": {
+        "default": "ウォン"
+      }
+    }
+  },
+  {
+    "key": "₪",
+    "mappings": {
+      "default": {
+        "default": "シェケル"
+      }
+    }
+  },
+  {
+    "key": "₫",
+    "mappings": {
+      "default": {
+        "default": "ドン"
+      }
+    }
+  },
+  {
+    "key": "₭",
+    "mappings": {
+      "default": {
+        "default": "キップ"
+      }
+    }
+  },
+  {
+    "key": "₮",
+    "mappings": {
+      "default": {
+        "default": "トゥグルグ"
+      }
+    }
+  },
+  {
+    "key": "₯",
+    "mappings": {
+      "default": {
+        "default": "ドラクマ"
+      }
+    }
+  },
+  {
+    "key": "₰",
+    "mappings": {
+      "default": {
+        "default": "プフェニヒ"
+      }
+    }
+  },
+  {
+    "key": "₱",
+    "mappings": {
+      "default": {
+        "default": "ペソ"
+      }
+    }
+  },
+  {
+    "key": "₲",
+    "mappings": {
+      "default": {
+        "default": "グアラニー"
+      }
+    }
+  },
+  {
+    "key": "₳",
+    "mappings": {
+      "default": {
+        "default": "アウストラル"
+      }
+    }
+  },
+  {
+    "key": "₴",
+    "mappings": {
+      "default": {
+        "default": "フリヴニャ"
+      }
+    }
+  },
+  {
+    "key": "₵",
+    "mappings": {
+      "default": {
+        "default": "セディ"
+      }
+    }
+  },
+  {
+    "key": "₸",
+    "mappings": {
+      "default": {
+        "default": "テンゲ",
+        "plural": "テンゲ"
+      }
+    }
+  },
+  {
+    "key": "₺",
+    "mappings": {
+      "default": {
+        "default": "トルコリラ",
+        "plural": "トルコリラ"
+      }
+    }
+  },
+  {
+    "key": "元",
+    "mappings": {
+      "default": {
+        "default": "元"
+      }
+    }
+  },
+  {
+    "key": "¢",
+    "mappings": {
+      "default": {
+        "default": "セント"
+      }
+    }
+  }
+] 

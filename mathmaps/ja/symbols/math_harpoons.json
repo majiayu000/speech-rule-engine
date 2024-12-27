@@ -1,0 +1,253 @@
+[
+  {
+    "locale": "ja"
+  },
+  {
+    "key": "21BC",
+    "mappings": {
+      "default": {
+        "default": "上向きかぎ付き左矢印"
+      }
+    }
+  },
+  {
+    "key": "21BD",
+    "mappings": {
+      "default": {
+        "default": "下向きかぎ付き左矢印"
+      }
+    }
+  },
+  {
+    "key": "21BE",
+    "mappings": {
+      "default": {
+        "default": "右向きかぎ付き上矢印"
+      }
+    }
+  },
+  {
+    "key": "21BF",
+    "mappings": {
+      "default": {
+        "default": "左向きかぎ付き上矢印"
+      }
+    }
+  },
+  {
+    "key": "21C0",
+    "mappings": {
+      "default": {
+        "default": "上向きかぎ付き右矢印"
+      }
+    }
+  },
+  {
+    "key": "21C1",
+    "mappings": {
+      "default": {
+        "default": "下向きかぎ付き右矢印"
+      }
+    }
+  },
+  {
+    "key": "21C2",
+    "mappings": {
+      "default": {
+        "default": "右向きかぎ付き下矢印"
+      }
+    }
+  },
+  {
+    "key": "21C3",
+    "mappings": {
+      "default": {
+        "default": "左向きかぎ付き下矢印"
+      }
+    }
+  },
+  {
+    "key": "21CB",
+    "mappings": {
+      "default": {
+        "default": "右ハープーン上の左ハープーン"
+      }
+    }
+  },
+  {
+    "key": "21CC",
+    "mappings": {
+      "default": {
+        "default": "左ハープーン上の右ハープーン"
+      }
+    }
+  },
+  {
+    "key": "294A",
+    "mappings": {
+      "default": {
+        "default": "上向き左かぎ下向き右かぎハープーン"
+      }
+    }
+  },
+  {
+    "key": "294B",
+    "mappings": {
+      "default": {
+        "default": "下向き左かぎ上向き右かぎハープーン"
+      }
+    }
+  },
+  {
+    "key": "294C",
+    "mappings": {
+      "default": {
+        "default": "右向き上かぎ左向き下かぎハープーン"
+      }
+    }
+  },
+  {
+    "key": "294D",
+    "mappings": {
+      "default": {
+        "default": "左向き上かぎ右向き下かぎハープーン"
+      }
+    }
+  },
+  {
+    "key": "294E",
+    "mappings": {
+      "default": {
+        "default": "上向き左かぎ上向き右かぎハープーン"
+      }
+    }
+  },
+  {
+    "key": "294F",
+    "mappings": {
+      "default": {
+        "default": "右向き上かぎ右向き下かぎハープーン"
+      }
+    }
+  },
+  {
+    "key": "2950",
+    "mappings": {
+      "default": {
+        "default": "下向き左かぎ下向き右かぎハープーン"
+      }
+    }
+  },
+  {
+    "key": "2951",
+    "mappings": {
+      "default": {
+        "default": "左向き上かぎ左向き下かぎハープーン"
+      }
+    }
+  },
+  {
+    "key": "2952",
+    "mappings": {
+      "default": {
+        "default": "水平線への上向きかぎ付き左矢印"
+      }
+    }
+  },
+  {
+    "key": "2953",
+    "mappings": {
+      "default": {
+        "default": "水平線への上向きかぎ付き右矢印"
+      }
+    }
+  },
+  {
+    "key": "2954",
+    "mappings": {
+      "default": {
+        "default": "水平線への右向きかぎ付き上矢印"
+      }
+    }
+  },
+  {
+    "key": "2955",
+    "mappings": {
+      "default": {
+        "default": "水平線への右向きかぎ付き下矢印"
+      }
+    }
+  },
+  {
+    "key": "2956",
+    "mappings": {
+      "default": {
+        "default": "水平線への下向きかぎ付き左矢印"
+      }
+    }
+  },
+  {
+    "key": "2957",
+    "mappings": {
+      "default": {
+        "default": "水平線への下向きかぎ付き右矢印"
+      }
+    }
+  },
+  {
+    "key": "2958",
+    "mappings": {
+      "default": {
+        "default": "水平線への左向きかぎ付き上矢印"
+      }
+    }
+  },
+  {
+    "key": "2959",
+    "mappings": {
+      "default": {
+        "default": "水平線への左向きかぎ付き下矢印"
+      }
+    }
+  },
+  {
+    "key": "295A",
+    "mappings": {
+      "default": {
+        "default": "水平線からの上向きかぎ付き左矢印"
+      }
+    }
+  },
+  {
+    "key": "295B",
+    "mappings": {
+      "default": {
+        "default": "水平線からの上向きかぎ付き右矢印"
+      }
+    }
+  },
+  {
+    "key": "295C",
+    "mappings": {
+      "default": {
+        "default": "水平線からの右向きかぎ付き上矢印"
+      }
+    }
+  },
+  {
+    "key": "295D",
+    "mappings": {
+      "default": {
+        "default": "水平線からの右向きかぎ付き下矢印"
+      }
+    }
+  },
+  {
+    "key": "295E",
+    "mappings": {
+      "default": {
+        "default": "水平線からの下向きかぎ付き左矢印"
+      }
+    }
+  }
+] 

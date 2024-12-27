@@ -1,0 +1,197 @@
+[
+  {
+    "locale": "ja"
+  },
+  {
+    "key": "22BE",
+    "mappings": {
+      "default": {
+        "default": "円弧付き直角"
+      }
+    }
+  },
+  {
+    "key": "237C",
+    "mappings": {
+      "default": {
+        "default": "下向きジグザグ矢印付き直角"
+      }
+    }
+  },
+  {
+    "key": "27C0",
+    "mappings": {
+      "default": {
+        "default": "立体角"
+      }
+    }
+  },
+  {
+    "key": "299B",
+    "mappings": {
+      "default": {
+        "default": "左開き測定角"
+      }
+    }
+  },
+  {
+    "key": "299C",
+    "mappings": {
+      "default": {
+        "default": "正方形付き直角変種"
+      }
+    }
+  },
+  {
+    "key": "299D",
+    "mappings": {
+      "default": {
+        "default": "点付き測定直角"
+      }
+    }
+  },
+  {
+    "key": "299E",
+    "mappings": {
+      "default": {
+        "default": "S文字入り角"
+      }
+    }
+  },
+  {
+    "key": "299F",
+    "mappings": {
+      "default": {
+        "default": "鋭角"
+      }
+    }
+  },
+  {
+    "key": "29A0",
+    "mappings": {
+      "default": {
+        "default": "左開き球面角"
+      }
+    }
+  },
+  {
+    "key": "29A1",
+    "mappings": {
+      "default": {
+        "default": "上開き球面角"
+      }
+    }
+  },
+  {
+    "key": "29A2",
+    "mappings": {
+      "default": {
+        "default": "回転角"
+      }
+    }
+  },
+  {
+    "key": "29A3",
+    "mappings": {
+      "default": {
+        "default": "反転角"
+      }
+    }
+  },
+  {
+    "key": "29A4",
+    "mappings": {
+      "default": {
+        "default": "下線付き角"
+      }
+    }
+  },
+  {
+    "key": "29A5",
+    "mappings": {
+      "default": {
+        "default": "下線付き反転角"
+      }
+    }
+  },
+  {
+    "key": "29A6",
+    "mappings": {
+      "default": {
+        "default": "上開き斜角"
+      }
+    }
+  },
+  {
+    "key": "29A7",
+    "mappings": {
+      "default": {
+        "default": "下開き斜角"
+      }
+    }
+  },
+  {
+    "key": "29A8",
+    "mappings": {
+      "default": {
+        "default": "右上向き矢印付き開角"
+      }
+    }
+  },
+  {
+    "key": "29A9",
+    "mappings": {
+      "default": {
+        "default": "左上向き矢印付き開角"
+      }
+    }
+  },
+  {
+    "key": "29AA",
+    "mappings": {
+      "default": {
+        "default": "右下向き矢印付き開角"
+      }
+    }
+  },
+  {
+    "key": "29AB",
+    "mappings": {
+      "default": {
+        "default": "左下向き矢印付き開角"
+      }
+    }
+  },
+  {
+    "key": "29AC",
+    "mappings": {
+      "default": {
+        "default": "上右向き矢印付き開角"
+      }
+    }
+  },
+  {
+    "key": "29AD",
+    "mappings": {
+      "default": {
+        "default": "上左向き矢印付き開角"
+      }
+    }
+  },
+  {
+    "key": "29AE",
+    "mappings": {
+      "default": {
+        "default": "下右向き矢印付き開角"
+      }
+    }
+  },
+  {
+    "key": "29AF",
+    "mappings": {
+      "default": {
+        "default": "下左向き矢印付き開角"
+      }
+    }
+  }
+] 

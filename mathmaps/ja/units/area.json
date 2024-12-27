@@ -1,0 +1,72 @@
+[
+  {
+    "locale": "ja"
+  },
+  {
+    "key": "sq",
+    "mappings": {
+      "default": {
+        "default": "平方",
+        "plural": "平方"
+      }
+    }
+  },
+  {
+    "key": "sq inch",
+    "mappings": {
+      "default": {
+        "default": "平方インチ",
+        "plural": "平方インチ"
+      }
+    }
+  },
+  {
+    "key": "sq rd",
+    "mappings": {
+      "default": {
+        "default": "平方ロッド"
+      }
+    }
+  },
+  {
+    "key": "sq ft",
+    "mappings": {
+      "default": {
+        "default": "平方フィート",
+        "plural": "平方フィート"
+      }
+    }
+  },
+  {
+    "key": "sq yd",
+    "mappings": {
+      "default": {
+        "default": "平方ヤード"
+      }
+    }
+  },
+  {
+    "key": "sq mi",
+    "mappings": {
+      "default": {
+        "default": "平方マイル"
+      }
+    }
+  },
+  {
+    "key": "acr",
+    "mappings": {
+      "default": {
+        "default": "エーカー"
+      }
+    }
+  },
+  {
+    "key": "ha",
+    "mappings": {
+      "default": {
+        "default": "ヘクタール"
+      }
+    }
+  }
+] 

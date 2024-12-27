@@ -1,0 +1,248 @@
+[
+  {
+    "locale": "ja"
+  },
+  {
+    "key": "23E8",
+    "mappings": {
+      "default": {
+        "default": "10進指数記号"
+      }
+    }
+  },
+  {
+    "key": "2605",
+    "mappings": {
+      "default": {
+        "default": "黒星"
+      }
+    }
+  },
+  {
+    "key": "2606",
+    "mappings": {
+      "default": {
+        "default": "白星"
+      }
+    }
+  },
+  {
+    "key": "26AA",
+    "mappings": {
+      "default": {
+        "default": "白丸",
+        "alternative": "中サイズ白丸"
+      }
+    }
+  },
+  {
+    "key": "26AB",
+    "mappings": {
+      "default": {
+        "default": "黒丸",
+        "alternative": "中サイズ黒丸"
+      }
+    }
+  },
+  {
+    "key": "2705",
+    "mappings": {
+      "default": {
+        "default": "白チェックマーク",
+        "alternative": "太い白チェックマーク"
+      }
+    }
+  },
+  {
+    "key": "2713",
+    "mappings": {
+      "default": {
+        "default": "チェックマーク"
+      }
+    }
+  },
+  {
+    "key": "2714",
+    "mappings": {
+      "default": {
+        "default": "太いチェックマーク"
+      }
+    }
+  },
+  {
+    "key": "2715",
+    "mappings": {
+      "default": {
+        "default": "乗算バツ印"
+      }
+    }
+  },
+  {
+    "key": "2716",
+    "mappings": {
+      "default": {
+        "default": "太い乗算バツ印"
+      }
+    }
+  },
+  {
+    "key": "2717",
+    "mappings": {
+      "default": {
+        "default": "投票用バツ印"
+      }
+    }
+  },
+  {
+    "key": "2718",
+    "mappings": {
+      "default": {
+        "default": "太い投票用バツ印"
+      }
+    }
+  },
+  {
+    "key": "271B",
+    "mappings": {
+      "default": {
+        "default": "中抜き十字"
+      }
+    }
+  },
+  {
+    "key": "271C",
+    "mappings": {
+      "default": {
+        "default": "太い中抜き十字"
+      }
+    }
+  },
+  {
+    "key": "2720",
+    "mappings": {
+      "default": {
+        "default": "マルタ十字"
+      }
+    }
+  },
+  {
+    "key": "2721",
+    "mappings": {
+      "default": {
+        "default": "ダビデの星"
+      }
+    }
+  },
+  {
+    "key": "2722",
+    "mappings": {
+      "default": {
+        "default": "四つ涙型アスタリスク"
+      }
+    }
+  },
+  {
+    "key": "2723",
+    "mappings": {
+      "default": {
+        "default": "四つ風船型アスタリスク"
+      }
+    }
+  },
+  {
+    "key": "2724",
+    "mappings": {
+      "default": {
+        "default": "太い四つ風船型アスタリスク"
+      }
+    }
+  },
+  {
+    "key": "2725",
+    "mappings": {
+      "default": {
+        "default": "四つクラブ型アスタリスク"
+      }
+    }
+  },
+  {
+    "key": "2726",
+    "mappings": {
+      "default": {
+        "default": "黒四芒星"
+      }
+    }
+  },
+  {
+    "key": "2727",
+    "mappings": {
+      "default": {
+        "default": "白四芒星"
+      }
+    }
+  },
+  {
+    "key": "2728",
+    "mappings": {
+      "default": {
+        "default": "キラキラ"
+      }
+    }
+  },
+  {
+    "key": "2729",
+    "mappings": {
+      "default": {
+        "default": "強調輪郭白星"
+      }
+    }
+  },
+  {
+    "key": "272A",
+    "mappings": {
+      "default": {
+        "default": "丸囲み白星"
+      }
+    }
+  },
+  {
+    "key": "272B",
+    "mappings": {
+      "default": {
+        "default": "中抜き黒星"
+      }
+    }
+  },
+  {
+    "key": "272C",
+    "mappings": {
+      "default": {
+        "default": "黒中心白星"
+      }
+    }
+  },
+  {
+    "key": "272D",
+    "mappings": {
+      "default": {
+        "default": "輪郭黒星"
+      }
+    }
+  },
+  {
+    "key": "272E",
+    "mappings": {
+      "default": {
+        "default": "太い輪郭黒星"
+      }
+    }
+  },
+  {
+    "key": "272F",
+    "mappings": {
+      "default": {
+        "default": "風車型星"
+      }
+    }
+  }
+] 

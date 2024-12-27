@@ -1,0 +1,358 @@
+{
+  "domain": "emacspeak",
+  "locale": "ja",
+  "modality": "speech",
+  "kind": "actions",
+  "rules": [
+    [
+      "Action",
+      "stree",
+      "[n] ./*[1]"
+    ],
+    [
+      "Action",
+      "multrel",
+      "[t] \"多重関係\"; [m] children/* (sepFunc:CTFcontentIterator)"
+    ],
+    [
+      "Action",
+      "variable-equality",
+      "[t] \"方程式列\"; [m] children/* (context:\"部分\",ctxtFunc:CTFnodeCounter,sepFunc:CTFcontentIterator)"
+    ],
+    [
+      "Action",
+      "multi-equality",
+      "[t] \"方程式列\"; [m] children/* (context:\"部分\",ctxtFunc:CTFnodeCounter,sepFunc:CTFcontentIterator)"
+    ],
+    [
+      "Action",
+      "equality",
+      "[t] \"方程式\"; [t] \"左辺\"; [n] children/*[1] (pause:200); [n] content/*[1] (pause:200);[t] \"右辺\"; [n] children/*[2]"
+    ],
+    [
+      "Action",
+      "simple-equality",
+      "[n] children/*[1] (pause:200); [n] content/*[1] (pause:200);[n] children/*[2]"
+    ],
+    [
+      "Action",
+      "simple-equality2",
+      "[n] children/*[1] (pause:200); [n] content/*[1] (pause:200);[n] children/*[2]"
+    ],
+    [
+      "Action",
+      "relseq",
+      "[m] children/* (sepFunc:CTFcontentIterator)"
+    ],
+    [
+      "Action",
+      "implicit",
+      "[m] children/*"
+    ],
+    [
+      "Action",
+      "binary-operation",
+      "[p] (pause:100); [m] children/* (sepFunc:CTFcontentIterator, pause:100);"
+    ],
+    [
+      "Action",
+      "variable-addition",
+      "[t] \"可変個の項の和\" (pause:400); [m] children/* (sepFunc:CTFcontentIterator)"
+    ],
+    [
+      "Action",
+      "prefix",
+      "[t] \"前置\"; [n] text(); [t] \"の\" (pause 150);[n] children/*[1]"
+    ],
+    [
+      "Action",
+      "negative",
+      "[t] \"負の\"; [n] children/*[1]"
+    ],
+    [
+      "Action",
+      "postfix",
+      "[n] children/*[1]; [t] \"後置\"; [n] text() (pause 300)"
+    ],
+    [
+      "Action",
+      "identifier",
+      "[n] text()"
+    ],
+    [
+      "Action",
+      "number",
+      "[n] text()"
+    ],
+    [
+      "Action",
+      "font",
+      "[t] @font; [n] . (grammar:ignoreFont=@font)"
+    ],
+    [
+      "Action",
+      "font-identifier-short",
+      "[t] @font; [n] CQFhideFont; [t] CSFshowFont"
+    ],
+    [
+      "Action",
+      "font-identifier",
+      "[t] @font; [n] . (grammar:ignoreFont=@font)"
+    ],
+    [
+      "Action",
+      "omit-font",
+      "[n] . (grammar:ignoreFont=@font)"
+    ],
+    [
+      "Action",
+      "simple-fraction",
+      "[p] (pause:100); [n] children/*[1] (rate:0.35); [t] \"分の\";  [n] children/*[2] (rate:0.35, pause:100)"
+    ],
+    [
+      "Action",
+      "vulgar-fraction",
+      "[t] CSFvulgarFraction"
+    ],
+    [
+      "Action",
+      "fraction",
+      "[p] (pause:250); [n] children/*[1] (rate:0.35, pause:250); [t] \"割る\" (pause:250);  [n] children/*[2] (rate:0.35, pause:250)"
+    ],
+    [
+      "Action",
+      "superscript",
+      "[n] children/*[1]; [t] \"の上付き\"; [n] children/*[2] (pitch:0.35, pause:300)"
+    ],
+    [
+      "Action",
+      "subscript",
+      "[n] children/*[1]; [t] \"の下付き\"; [n] children/*[2] (pitch:-0.35, pause:300)"
+    ],
+    [
+      "Action",
+      "ellipsis",
+      "[p] (pause:200); [t] \"以下同様\" (pause:300)"
+    ],
+    [
+      "Action",
+      "fence-single",
+      "[n] text()"
+    ],
+    [
+      "Action",
+      "omit-empty",
+      "[p] (pause:100)"
+    ],
+    [
+      "Action",
+      "fences-open-close",
+      "[p] (pause:200); [n] children/*[1] (rate:0.35, pause:200)"
+    ],
+    [
+      "Action",
+      "fences-open-close-in-appl",
+      "[p] (pause:200); [n] children/*[1] (pause:200);"
+    ],
+    [
+      "Action",
+      "fences-neutral",
+      "[p] (pause:100); [t] \"絶対値\"; [n] children/*[1] (pause:350);"
+    ],
+    [
+      "Action",
+      "omit-fences",
+      "[p] (pause:500); [n] children/*[1] (pause:200);"
+    ],
+    [
+      "Action",
+      "matrix",
+      "[t] \"行列\"; [m] children/* (ctxtFunc:CTFnodeCounter,context:\"行\",pause:100)"
+    ],
+    [
+      "Action",
+      "matrix-row",
+      "[m] children/* (ctxtFunc:CTFnodeCounter,context:\"列\",pause:100)"
+    ],
+    [
+      "Action",
+      "matrix-cell",
+      "[n] children/*[1]"
+    ],
+    [
+      "Action",
+      "vector",
+      "[t] \"ベクトル\"; [m] children/* (ctxtFunc:CTFnodeCounter,context:\"要素\",pause:100)"
+    ],
+    [
+      "Action",
+      "cases",
+      "[t] \"場合分け\"; [m] children/* (ctxtFunc:CTFnodeCounter,context:\"場合\",pause:100)"
+    ],
+    [
+      "Action",
+      "cases-row",
+      "[m] children/*"
+    ],
+    [
+      "Action",
+      "cases-cell",
+      "[n] children/*[1]"
+    ],
+    [
+      "Action",
+      "row",
+      "[m] ./* (ctxtFunc:CTFnodeCounter,context:\"列\",pause:100)"
+    ],
+    [
+      "Action",
+      "cases-end",
+      "[t] \"場合分け\"; [m] children/* (ctxtFunc:CTFnodeCounter,context:\"場合\",pause:100);[t] \"場合分け終了\""
+    ],
+    [
+      "Action",
+      "multiline",
+      "[t] \"複数行の方程式\";[m] children/* (ctxtFunc:CTFnodeCounter,context:\"行\",pause:100)"
+    ],
+    [
+      "Action",
+      "line",
+      "[m] children/*"
+    ],
+    [
+      "Action",
+      "table",
+      "[t] \"複数行の方程式\";[m] children/* (ctxtFunc:CTFnodeCounter,context:\"行\",pause:200)"
+    ],
+    [
+      "Action",
+      "table-row",
+      "[m] children/* (pause:100)"
+    ],
+    [
+      "Action",
+      "end-punct",
+      "[m] children/* (pause:300)"
+    ],
+    [
+      "Action",
+      "start-punct",
+      "[n] content/*[1] (pause:200); [m] children/*[position()>1]"
+    ],
+    [
+      "Action",
+      "punctuated",
+      "[m] children/* (pause:100)"
+    ],
+    [
+      "Action",
+      "function",
+      "[n] text()"
+    ],
+    [
+      "Action",
+      "appl",
+      "[n] children/*[1]; [n] content/*[1]; [n] children/*[2]"
+    ],
+    [
+      "Action",
+      "sum-only",
+      "[n] children/*[1]; [t] \"から\"; [n] children/*[2]; [t] \"まで\";[n] children/*[3]"
+    ],
+    [
+      "Action",
+      "limboth",
+      "[n] children/*[1] (pause 100); [t] \"上限\"; [n] children/*[2];[t] \"下限\"; [n] children/*[3] (pause 250);"
+    ],
+    [
+      "Action",
+      "limlower",
+      "[n] children/*[1]; [t] \"上限\"; [n] children/*[2];"
+    ],
+    [
+      "Action",
+      "limupper",
+      "[n] children/*[1]; [t] \"下限\"; [n] children/*[2];"
+    ],
+    [
+      "Action",
+      "largeop",
+      "[n] text()"
+    ],
+    [
+      "Action",
+      "bigop",
+      "[n] children/*[1] (pause 100); [t] \"上限\"; [n] children/*[2] (pause 250);"
+    ],
+    [
+      "Action",
+      "integral",
+      "[n] children/*[1] (pause 100); [n] children/*[2] (pause 200); [n] children/*[3] (rate:0.35);"
+    ],
+    [
+      "Action",
+      "sqrt",
+      "[t] \"平方根\"; [n] children/*[1] (rate:0.35, pause:400)"
+    ],
+    [
+      "Action",
+      "square",
+      "[n] children/*[1]; [t] \"の二乗\" (pitch:0.35, pause:200)"
+    ],
+    [
+      "Action",
+      "cube",
+      "[n] children/*[1]; [t] \"の三乗\" (pitch:0.35, pause:200)"
+    ],
+    [
+      "Action",
+      "root",
+      "[t] \"次数\"; [n] children/*[1];[t] \"の根\"; [n] children/*[1] (rate:0.35, pause:400)"
+    ],
+    [
+      "Action",
+      "text-no-mult",
+      "[n] children/*[1] (pause:200); [n] children/*[2]"
+    ],
+    [
+      "Action",
+      "text",
+      "[n] text() (pause:200)"
+    ],
+    [
+      "Action",
+      "unit",
+      "[t] text() (annotation:unit, preprocess)"
+    ],
+    [
+      "Action",
+      "unit-square",
+      "[t] \"平方\"; [n] children/*[1]"
+    ],
+    [
+      "Action",
+      "unit-cubic",
+      "[t] \"立方\"; [n] children/*[1]"
+    ],
+    [
+      "Action",
+      "reciprocal",
+      "[t] \"逆数\"; [n] children/*[1]"
+    ],
+    [
+      "Action",
+      "per",
+      "[t] \"毎\"; [n] children/*[1]"
+    ],
+    [
+      "Action",
+      "unit-combine",
+      "[m] children/*"
+    ],
+    [
+      "Action",
+      "unit-divide",
+      "[n] children/*[1] (pitch:0.3); [t] \"毎\"; [n] children/*[2] (pitch:-0.3)"
+    ]
+  ]
+} 
