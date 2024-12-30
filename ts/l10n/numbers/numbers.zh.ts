@@ -12,6 +12,8 @@ function numberToWords(num: number): string {
         return CHINESE_NUMBERS.digits[0];
     }
 
+    console.log(`num start is ${num}`)
+
     let result = '';
     let thousand = 0;
 
@@ -21,22 +23,28 @@ function numberToWords(num: number): string {
             const digit = num % 10;
             if (digit !== 0) {
                 part = CHINESE_NUMBERS.digits[digit] + CHINESE_NUMBERS.units[i] + part;
+                console.log(`part is ${part}`)
             } else if (part !== '') {
                 part = CHINESE_NUMBERS.digits[0] + part;
             }
             num = Math.floor(num / 10);
         }
         if (part !== '') {
+            console.log(`part  is ${part}`)
             result = part + CHINESE_NUMBERS.thousands[thousand] + result;
+            console.log(`result is ${result}`)
         }
         thousand++;
     }
-
+    console.log(`num ber is ${num}`)
     // 处理一些特殊情况
+    console.log(`result before replace is ${result}`)
 
     result = result.replace(/一十/g, '十');
-    result = result.replace(/零+/g, '零');
+    result = result.replace(/零+/g, '');
+    console.log(`result is ${result}`)
     result = result.replace(/零+$/g, '');
+    console.log(`result is ${result}`)
 
     return result;
 }
