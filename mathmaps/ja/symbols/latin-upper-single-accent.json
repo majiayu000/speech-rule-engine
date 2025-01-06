@@ -6,12 +6,12 @@
     "key": "00C0",
     "mappings": {
       "default": {
-        "default": "グレーブアクセント付き大文字A"
+        "default": "大文字のAグレイブ"
       },
       "mathspeak": {
-        "default": "グレーブアクセントで修飾された大文字A",
-        "brief": "グレーブアクセント付き大文字A",
-        "sbrief": "グレーブアクセント付き大文字A"
+        "default": "大文字のAにグレイブ",
+        "brief": "大文字のAにグレイブ",
+        "sbrief": "大文字のAにグレイブ"
       }
     }
   },
@@ -19,12 +19,12 @@
     "key": "00C1",
     "mappings": {
       "default": {
-        "default": "アキュートアクセント付き大文字A"
+        "default": "大文字のAアキュート"
       },
       "mathspeak": {
-        "default": "アキュートアクセントで修飾された大文字A",
-        "brief": "アキュートアクセント付き大文字A",
-        "sbrief": "アキュートアクセント付き大文字A"
+        "default": "大文字のAにアキュート",
+        "brief": "大文字のAにアキュート",
+        "sbrief": "大文字のAにアキュート"
       }
     }
   },
@@ -32,13 +32,2366 @@
     "key": "00C2",
     "mappings": {
       "default": {
-        "default": "サーカムフレックスアクセント付き大文字A"
+        "default": "大文字のAハット"
       },
       "mathspeak": {
-        "default": "サーカムフレックスアクセントで修飾された大文字A",
-        "brief": "サーカムフレックスアクセント付き大文字A",
-        "sbrief": "サーカムフレックスアクセント付き大文字A"
+        "default": "大文字のAにキャレット",
+        "brief": "大文字のAにキャレット",
+        "sbrief": "大文字のAにキャレット"
+      }
+    }
+  },
+  {
+    "key": "00C3",
+    "mappings": {
+      "default": {
+        "default": "大文字のAチルダ"
+      },
+      "mathspeak": {
+        "default": "大文字のAにチルダ",
+        "brief": "大文字のAにチルダ",
+        "sbrief": "大文字のAにチルダ"
+      }
+    }
+  },
+  {
+    "key": "00C4",
+    "mappings": {
+      "default": {
+        "default": "大文字のAウムラウト"
+      },
+      "mathspeak": {
+        "default": "大文字のAにダブルドット",
+        "brief": "大文字のAにダブルドット",
+        "sbrief": "大文字のAにダブルドット"
+      }
+    }
+  },
+  {
+    "key": "00C5",
+    "mappings": {
+      "default": {
+        "default": "大文字のAリング"
+      },
+      "mathspeak": {
+        "default": "大文字のAにリング",
+        "brief": "大文字のAにリング",
+        "sbrief": "大文字のAにリング"
+      }
+    }
+  },
+  {
+    "key": "00C7",
+    "mappings": {
+      "default": {
+        "default": "大文字のCセディラ"
+      },
+      "mathspeak": {
+        "default": "大文字のCにセディラ",
+        "brief": "大文字のCにセディラ",
+        "sbrief": "大文字のCにセディラ"
+      }
+    }
+  },
+  {
+    "key": "00C8",
+    "mappings": {
+      "default": {
+        "default": "大文字のEグレイブ"
+      },
+      "mathspeak": {
+        "default": "大文字のEにグレイブ",
+        "brief": "大文字のEにグレイブ",
+        "sbrief": "大文字のEにグレイブ"
+      }
+    }
+  },
+  {
+    "key": "00C9",
+    "mappings": {
+      "default": {
+        "default": "大文字のEアキュート"
+      },
+      "mathspeak": {
+        "default": "大文字のEにアキュート",
+        "brief": "大文字のEにアキュート",
+        "sbrief": "大文字のEにアキュート"
+      }
+    }
+  },
+  {
+    "key": "00CA",
+    "mappings": {
+      "default": {
+        "default": "大文字のEハット"
+      },
+      "mathspeak": {
+        "default": "大文字のEにキャレット",
+        "brief": "大文字のEにキャレット",
+        "sbrief": "大文字のEにキャレット"
+      }
+    }
+  },
+  {
+    "key": "00CB",
+    "mappings": {
+      "default": {
+        "default": "大文字のEウムラウト"
+      },
+      "mathspeak": {
+        "default": "大文字のEにダブルドット",
+        "brief": "大文字のEにダブルドット",
+        "sbrief": "大文字のEにダブルドット"
+      }
+    }
+  },
+  {
+    "key": "00CC",
+    "mappings": {
+      "default": {
+        "default": "大文字のIグレイブ"
+      },
+      "mathspeak": {
+        "default": "大文字のIにグレイブ",
+        "brief": "大文字のIにグレイブ",
+        "sbrief": "大文字のIにグレイブ"
+      }
+    }
+  },
+  {
+    "key": "00CD",
+    "mappings": {
+      "default": {
+        "default": "大文字のIアキュート"
+      },
+      "mathspeak": {
+        "default": "大文字のIにアキュート",
+        "brief": "大文字のIにアキュート",
+        "sbrief": "大文字のIにアキュート"
+      }
+    }
+  },
+  {
+    "key": "00CE",
+    "mappings": {
+      "default": {
+        "default": "大文字のIハット"
+      },
+      "mathspeak": {
+        "default": "大文字のIにキャレット",
+        "brief": "大文字のIにキャレット",
+        "sbrief": "大文字のIにキャレット"
+      }
+    }
+  },
+  {
+    "key": "00CF",
+    "mappings": {
+      "default": {
+        "default": "大文字のIウムラウト"
+      },
+      "mathspeak": {
+        "default": "大文字のIにダブルドット",
+        "brief": "大文字のIにダブルドット",
+        "sbrief": "大文字のIにダブルドット"
+      }
+    }
+  },
+  {
+    "key": "00D1",
+    "mappings": {
+      "default": {
+        "default": "大文字のNチルダ"
+      },
+      "mathspeak": {
+        "default": "大文字のNにチルダ",
+        "brief": "大文字のNにチルダ",
+        "sbrief": "大文字のNにチルダ"
+      }
+    }
+  },
+  {
+    "key": "00D2",
+    "mappings": {
+      "default": {
+        "default": "大文字のOグレイブ"
+      },
+      "mathspeak": {
+        "default": "大文字のOにグレイブ",
+        "brief": "大文字のOにグレイブ",
+        "sbrief": "大文字のOにグレイブ"
+      }
+    }
+  },
+  {
+    "key": "00D3",
+    "mappings": {
+      "default": {
+        "default": "大文字のOアキュート"
+      },
+      "mathspeak": {
+        "default": "大文字のOにアキュート",
+        "brief": "大文字のOにアキュート",
+        "sbrief": "大文字のOにアキュート"
+      }
+    }
+  },
+  {
+    "key": "00D4",
+    "mappings": {
+      "default": {
+        "default": "大文字のOハット"
+      },
+      "mathspeak": {
+        "default": "大文字のOにキャレット",
+        "brief": "大文字のOにキャレット",
+        "sbrief": "大文字のOにキャレット"
+      }
+    }
+  },
+  {
+    "key": "00D5",
+    "mappings": {
+      "default": {
+        "default": "大文字のOチルダ"
+      },
+      "mathspeak": {
+        "default": "大文字のOにチルダ",
+        "brief": "大文字のOにチルダ",
+        "sbrief": "大文字のOにチルダ"
+      }
+    }
+  },
+  {
+    "key": "00D6",
+    "mappings": {
+      "default": {
+        "default": "大文字のOウムラウト"
+      },
+      "mathspeak": {
+        "default": "大文字のOにダブルドット",
+        "brief": "大文字のOにダブルドット",
+        "sbrief": "大文字のOにダブルドット"
+      }
+    }
+  },
+  {
+    "key": "00D9",
+    "mappings": {
+      "default": {
+        "default": "大文字のUグレイブ"
+      },
+      "mathspeak": {
+        "default": "大文字のUにグレイブ",
+        "brief": "大文字のUにグレイブ",
+        "sbrief": "大文字のUにグレイブ"
+      }
+    }
+  },
+  {
+    "key": "00DA",
+    "mappings": {
+      "default": {
+        "default": "大文字のUアキュート"
+      },
+      "mathspeak": {
+        "default": "大文字のUにアキュート",
+        "brief": "大文字のUにアキュート",
+        "sbrief": "大文字のUにアキュート"
+      }
+    }
+  },
+  {
+    "key": "00DB",
+    "mappings": {
+      "default": {
+        "default": "大文字のUハット"
+      },
+      "mathspeak": {
+        "default": "大文字のUにキャレット",
+        "brief": "大文字のUにキャレット",
+        "sbrief": "大文字のUにキャレット"
+      }
+    }
+  },
+  {
+    "key": "00DC",
+    "mappings": {
+      "default": {
+        "default": "大文字のUウムラウト"
+      },
+      "mathspeak": {
+        "default": "大文字のUにダブルドット",
+        "brief": "大文字のUにダブルドット",
+        "sbrief": "大文字のUにダブルドット"
+      }
+    }
+  },
+  {
+    "key": "00DD",
+    "mappings": {
+      "default": {
+        "default": "大文字のYアキュート"
+      },
+      "mathspeak": {
+        "default": "大文字のYにアキュート",
+        "brief": "大文字のYにアキュート",
+        "sbrief": "大文字のYにアキュート"
+      }
+    }
+  },
+  {
+    "key": "0100",
+    "mappings": {
+      "default": {
+        "default": "大文字のAマクロン"
+      },
+      "mathspeak": {
+        "default": "大文字のAにマクロン",
+        "brief": "大文字のAにマクロン",
+        "sbrief": "大文字のAにマクロン"
+      }
+    }
+  },
+  {
+    "key": "0102",
+    "mappings": {
+      "default": {
+        "default": "大文字のAブレーベ"
+      },
+      "mathspeak": {
+        "default": "大文字のAにブレーベ",
+        "brief": "大文字のAにブレーベ",
+        "sbrief": "大文字のAにブレーベ"
+      }
+    }
+  },
+  {
+    "key": "0104",
+    "mappings": {
+      "default": {
+        "default": "大文字のAオゴネク"
+      },
+      "mathspeak": {
+        "default": "大文字のAにオゴネク",
+        "brief": "大文字のAにオゴネク",
+        "sbrief": "大文字のAにオゴネク"
+      }
+    }
+  },
+  {
+    "key": "0106",
+    "mappings": {
+      "default": {
+        "default": "大文字のCアキュート"
+      },
+      "mathspeak": {
+        "default": "大文字のCにアキュート",
+        "brief": "大文字のCにアキュート",
+        "sbrief": "大文字のCにアキュート"
+      }
+    }
+  },
+  {
+    "key": "0108",
+    "mappings": {
+      "default": {
+        "default": "大文字のCハット"
+      },
+      "mathspeak": {
+        "default": "大文字のCにキャレット",
+        "brief": "大文字のCにキャレット",
+        "sbrief": "大文字のCにキャレット"
+      }
+    }
+  },
+  {
+    "key": "010A",
+    "mappings": {
+      "default": {
+        "default": "大文字のCドット"
+      },
+      "mathspeak": {
+        "default": "大文字のCにドット",
+        "brief": "大文字のCにドット",
+        "sbrief": "大文字のCにドット"
+      }
+    }
+  },
+  {
+    "key": "010C",
+    "mappings": {
+      "default": {
+        "default": "大文字のCハーチェク"
+      },
+      "mathspeak": {
+        "default": "大文字のCにハーチェク",
+        "brief": "大文字のCにハーチェク",
+        "sbrief": "大文字のCにハーチェク"
+      }
+    }
+  },
+  {
+    "key": "010E",
+    "mappings": {
+      "default": {
+        "default": "大文字のDハーチェク"
+      },
+      "mathspeak": {
+        "default": "大文字のDにハーチェク",
+        "brief": "大文字のDにハーチェク",
+        "sbrief": "大文字のDにハーチェク"
+      }
+    }
+  },
+  {
+    "key": "0112",
+    "mappings": {
+      "default": {
+        "default": "大文字のEマクロン"
+      },
+      "mathspeak": {
+        "default": "大文字のEにマクロン",
+        "brief": "大文字のEにマクロン",
+        "sbrief": "大文字のEにマクロン"
+      }
+    }
+  },
+  {
+    "key": "0114",
+    "mappings": {
+      "default": {
+        "default": "大文字のEブレーベ"
+      },
+      "mathspeak": {
+        "default": "大文字のEにブレーベ",
+        "brief": "大文字のEにブレーベ",
+        "sbrief": "大文字のEにブレーベ"
+      }
+    }
+  },
+  {
+    "key": "0116",
+    "mappings": {
+      "default": {
+        "default": "大文字のEドット"
+      },
+      "mathspeak": {
+        "default": "大文字のEにドット",
+        "brief": "大文字のEにドット",
+        "sbrief": "大文字のEにドット"
+      }
+    }
+  },
+  {
+    "key": "0118",
+    "mappings": {
+      "default": {
+        "default": "大文字のEオゴネク"
+      },
+      "mathspeak": {
+        "default": "大文字のEにオゴネク",
+        "brief": "大文字のEにオゴネク",
+        "sbrief": "大文字のEにオゴネク"
+      }
+    }
+  },
+  {
+    "key": "011A",
+    "mappings": {
+      "default": {
+        "default": "大文字のEハーチェク"
+      },
+      "mathspeak": {
+        "default": "大文字のEにハーチェク",
+        "brief": "大文字のEにハーチェク",
+        "sbrief": "大文字のEにハーチェク"
+      }
+    }
+  },
+  {
+    "key": "011C",
+    "mappings": {
+      "default": {
+        "default": "大文字のGハット"
+      },
+      "mathspeak": {
+        "default": "大文字のGにキャレット",
+        "brief": "大文字のGにキャレット",
+        "sbrief": "大文字のGにキャレット"
+      }
+    }
+  },
+  {
+    "key": "011E",
+    "mappings": {
+      "default": {
+        "default": "大文字のGブレーベ"
+      },
+      "mathspeak": {
+        "default": "大文字のGにブレーベ",
+        "brief": "大文字のGにブレーベ",
+        "sbrief": "大文字のGにブレーベ"
+      }
+    }
+  },
+  {
+    "key": "0120",
+    "mappings": {
+      "default": {
+        "default": "大文字のGドット"
+      },
+      "mathspeak": {
+        "default": "大文字のGにドット",
+        "brief": "大文字のGにドット",
+        "sbrief": "大文字のGにドット"
+      }
+    }
+  },
+  {
+    "key": "0122",
+    "mappings": {
+      "default": {
+        "default": "大文字のGセディラ"
+      },
+      "mathspeak": {
+        "default": "大文字のGにセディラ",
+        "brief": "大文字のGにセディラ",
+        "sbrief": "大文字のGにセディラ"
+      }
+    }
+  },
+  {
+    "key": "0124",
+    "mappings": {
+      "default": {
+        "default": "大文字のHハット"
+      },
+      "mathspeak": {
+        "default": "大文字のHにキャレット",
+        "brief": "大文字のHにキャレット",
+        "sbrief": "大文字のHにキャレット"
+      }
+    }
+  },
+  {
+    "key": "0128",
+    "mappings": {
+      "default": {
+        "default": "大文字のIチルダ"
+      },
+      "mathspeak": {
+        "default": "大文字のIにチルダ",
+        "brief": "大文字のIにチルダ",
+        "sbrief": "大文字のIにチルダ"
+      }
+    }
+  },
+  {
+    "key": "012A",
+    "mappings": {
+      "default": {
+        "default": "大文字のIマクロン"
+      },
+      "mathspeak": {
+        "default": "大文字のIにマクロン",
+        "brief": "大文字のIにマクロン",
+        "sbrief": "大文字のIにマクロン"
+      }
+    }
+  },
+  {
+    "key": "012C",
+    "mappings": {
+      "default": {
+        "default": "大文字のIブレーベ"
+      },
+      "mathspeak": {
+        "default": "大文字のIにブレーベ",
+        "brief": "大文字のIにブレーベ",
+        "sbrief": "大文字のIにブレーベ"
+      }
+    }
+  },
+  {
+    "key": "012E",
+    "mappings": {
+      "default": {
+        "default": "大文字のIオゴネク"
+      },
+      "mathspeak": {
+        "default": "大文字のIにオゴネク",
+        "brief": "大文字のIにオゴネク",
+        "sbrief": "大文字のIにオゴネク"
+      }
+    }
+  },
+  {
+    "key": "0130",
+    "mappings": {
+      "default": {
+        "default": "大文字のIドット"
+      },
+      "mathspeak": {
+        "default": "大文字のIにドット",
+        "brief": "大文字のIにドット",
+        "sbrief": "大文字のIにドット"
+      }
+    }
+  },
+  {
+    "key": "0134",
+    "mappings": {
+      "default": {
+        "default": "大文字のJハット"
+      },
+      "mathspeak": {
+        "default": "大文字のJにキャレット",
+        "brief": "大文字のJにキャレット",
+        "sbrief": "大文字のJにキャレット"
+      }
+    }
+  },
+  {
+    "key": "0136",
+    "mappings": {
+      "default": {
+        "default": "大文字のKセディラ"
+      },
+      "mathspeak": {
+        "default": "大文字のKにセディラ",
+        "brief": "大文字のKにセディラ",
+        "sbrief": "大文字のKにセディラ"
+      }
+    }
+  },
+  {
+    "key": "0139",
+    "mappings": {
+      "default": {
+        "default": "大文字のLアキュート"
+      },
+      "mathspeak": {
+        "default": "大文字のLにアキュート",
+        "brief": "大文字のLにアキュート",
+        "sbrief": "大文字のLにアキュート"
+      }
+    }
+  },
+  {
+    "key": "013B",
+    "mappings": {
+      "default": {
+        "default": "大文字のLセディラ"
+      },
+      "mathspeak": {
+        "default": "大文字のLにセディラ",
+        "brief": "大文字のLにセディラ",
+        "sbrief": "大文字のLにセディラ"
+      }
+    }
+  },
+  {
+    "key": "013D",
+    "mappings": {
+      "default": {
+        "default": "大文字のLハーチェク"
+      },
+      "mathspeak": {
+        "default": "大文字のLにハーチェク",
+        "brief": "大文字のLにハーチェク",
+        "sbrief": "大文字のLにハーチェク"
+      }
+    }
+  },
+  {
+    "key": "013F",
+    "mappings": {
+      "default": {
+        "default": "大文字のLドット"
+      },
+      "mathspeak": {
+        "default": "大文字のLにドット",
+        "brief": "大文字のLにドット",
+        "sbrief": "大文字のLにドット"
+      }
+    }
+  },
+  {
+    "key": "0143",
+    "mappings": {
+      "default": {
+        "default": "大文字のNアキュート"
+      },
+      "mathspeak": {
+        "default": "大文字のNにアキュート",
+        "brief": "大文字のNにアキュート",
+        "sbrief": "大文字のNにアキュート"
+      }
+    }
+  },
+  {
+    "key": "0145",
+    "mappings": {
+      "default": {
+        "default": "大文字のNセディラ"
+      },
+      "mathspeak": {
+        "default": "大文字のNにセディラ",
+        "brief": "大文字のNにセディラ",
+        "sbrief": "大文字のNにセディラ"
+      }
+    }
+  },
+  {
+    "key": "0147",
+    "mappings": {
+      "default": {
+        "default": "大文字のNハーチェク"
+      },
+      "mathspeak": {
+        "default": "大文字のNにハーチェク",
+        "brief": "大文字のNにハーチェク",
+        "sbrief": "大文字のNにハーチェク"
+      }
+    }
+  },
+  {
+    "key": "014C",
+    "mappings": {
+      "default": {
+        "default": "大文字のOマクロン"
+      },
+      "mathspeak": {
+        "default": "大文字のOにマクロン",
+        "brief": "大文字のOにマクロン",
+        "sbrief": "大文字のOにマクロン"
+      }
+    }
+  },
+  {
+    "key": "014E",
+    "mappings": {
+      "default": {
+        "default": "大文字のOブレーベ"
+      },
+      "mathspeak": {
+        "default": "大文字のOにブレーベ",
+        "brief": "大文字のOにブレーベ",
+        "sbrief": "大文字のOにブレーベ"
+      }
+    }
+  },
+  {
+    "key": "0150",
+    "mappings": {
+      "default": {
+        "default": "大文字のOダブルアキュート"
+      },
+      "mathspeak": {
+        "default": "大文字のOにダブルアキュート",
+        "brief": "大文字のOにダブルアキュート",
+        "sbrief": "大文字のOにダブルアキュート"
+      }
+    }
+  },
+  {
+    "key": "0154",
+    "mappings": {
+      "default": {
+        "default": "大文字のRアキュート"
+      },
+      "mathspeak": {
+        "default": "大文字のRにアキュート",
+        "brief": "大文字のRにアキュート",
+        "sbrief": "大文字のRにアキュート"
+      }
+    }
+  },
+  {
+    "key": "0156",
+    "mappings": {
+      "default": {
+        "default": "大文字のRセディラ"
+      },
+      "mathspeak": {
+        "default": "大文字のRにセディラ",
+        "brief": "大文字のRにセディラ",
+        "sbrief": "大文字のRにセディラ"
+      }
+    }
+  },
+  {
+    "key": "0158",
+    "mappings": {
+      "default": {
+        "default": "大文字のRハーチェク"
+      },
+      "mathspeak": {
+        "default": "大文字のRにハーチェク",
+        "brief": "大文字のRにハーチェク",
+        "sbrief": "大文字のRにハーチェク"
+      }
+    }
+  },
+  {
+    "key": "015A",
+    "mappings": {
+      "default": {
+        "default": "大文字のSアキュート"
+      },
+      "mathspeak": {
+        "default": "大文字のSにアキュート",
+        "brief": "大文字のSにアキュート",
+        "sbrief": "大文字のSにアキュート"
+      }
+    }
+  },
+  {
+    "key": "015C",
+    "mappings": {
+      "default": {
+        "default": "大文字のSハット"
+      },
+      "mathspeak": {
+        "default": "大文字のSにキャレット",
+        "brief": "大文字のSにキャレット",
+        "sbrief": "大文字のSにキャレット"
+      }
+    }
+  },
+  {
+    "key": "015E",
+    "mappings": {
+      "default": {
+        "default": "大文字のSセディラ"
+      },
+      "mathspeak": {
+        "default": "大文字のSにセディラ",
+        "brief": "大文字のSにセディラ",
+        "sbrief": "大文字のSにセディラ"
+      }
+    }
+  },
+  {
+    "key": "0160",
+    "mappings": {
+      "default": {
+        "default": "大文字のSハーチェク"
+      },
+      "mathspeak": {
+        "default": "大文字のSにハーチェク",
+        "brief": "大文字のSにハーチェク",
+        "sbrief": "大文字のSにハーチェク"
+      }
+    }
+  },
+  {
+    "key": "0162",
+    "mappings": {
+      "default": {
+        "default": "大文字のTセディラ"
+      },
+      "mathspeak": {
+        "default": "大文字のTにセディラ",
+        "brief": "大文字のTにセディラ",
+        "sbrief": "大文字のTにセディラ"
+      }
+    }
+  },
+  {
+    "key": "0164",
+    "mappings": {
+      "default": {
+        "default": "大文字のTハーチェク"
+      },
+      "mathspeak": {
+        "default": "大文字のTにハーチェク",
+        "brief": "大文字のTにハーチェク",
+        "sbrief": "大文字のTにハーチェク"
+      }
+    }
+  },
+  {
+    "key": "0168",
+    "mappings": {
+      "default": {
+        "default": "大文字のUチルダ"
+      },
+      "mathspeak": {
+        "default": "大文字のUにチルダ",
+        "brief": "大文字のUにチルダ",
+        "sbrief": "大文字のUにチルダ"
+      }
+    }
+  },
+  {
+    "key": "016A",
+    "mappings": {
+      "default": {
+        "default": "大文字のUオーバーバー"
+      },
+      "mathspeak": {
+        "default": "大文字のUにオーバーバー",
+        "brief": "大文字のUにオーバーバー",
+        "sbrief": "大文字のUにオーバーバー"
+      }
+    }
+  },
+  {
+    "key": "016C",
+    "mappings": {
+      "default": {
+        "default": "大文字のUブレーヴェ"
+      },
+      "mathspeak": {
+        "default": "大文字のUにブレーヴェ",
+        "brief": "大文字のUにブレーヴェ",
+        "sbrief": "大文字のUにブレーヴェ"
+      }
+    }
+  },
+  {
+    "key": "016E",
+    "mappings": {
+      "default": {
+        "default": "大文字のUリング"
+      },
+      "mathspeak": {
+        "default": "大文字のUにリング",
+        "brief": "大文字のUにリング",
+        "sbrief": "大文字のUにリング"
+      }
+    }
+  },
+  {
+    "key": "0170",
+    "mappings": {
+      "default": {
+        "default": "大文字のUダブルアキュート"
+      },
+      "mathspeak": {
+        "default": "大文字のUにダブルアキュート",
+        "brief": "大文字のUにダブルアキュート",
+        "sbrief": "大文字のUにダブルアキュート"
+      }
+    }
+  },
+  {
+    "key": "0172",
+    "mappings": {
+      "default": {
+        "default": "大文字のUオゴネク"
+      },
+      "mathspeak": {
+        "default": "大文字のUにオゴネク",
+        "brief": "大文字のUにオゴネク",
+        "sbrief": "大文字のUにオゴネク"
+      }
+    }
+  },
+  {
+    "key": "0174",
+    "mappings": {
+      "default": {
+        "default": "大文字のWハット"
+      },
+      "mathspeak": {
+        "default": "大文字のWにキャレット",
+        "brief": "大文字のWにキャレット",
+        "sbrief": "大文字のWにキャレット"
+      }
+    }
+  },
+  {
+    "key": "0176",
+    "mappings": {
+      "default": {
+        "default": "大文字のYハット"
+      },
+      "mathspeak": {
+        "default": "大文字のYにキャレット",
+        "brief": "大文字のYにキャレット",
+        "sbrief": "大文字のYにキャレット"
+      }
+    }
+  },
+  {
+    "key": "0178",
+    "mappings": {
+      "default": {
+        "default": "大文字のYダブルドット"
+      },
+      "mathspeak": {
+        "default": "大文字のYにダブルドット",
+        "brief": "大文字のYにダブルドット",
+        "sbrief": "大文字のYにダブルドット"
+      }
+    }
+  },
+  {
+    "key": "0179",
+    "mappings": {
+      "default": {
+        "default": "大文字のZアキュート"
+      },
+      "mathspeak": {
+        "default": "大文字のZにアキュート",
+        "brief": "大文字のZにアキュート",
+        "sbrief": "大文字のZにアキュート"
+      }
+    }
+  },
+  {
+    "key": "017B",
+    "mappings": {
+      "default": {
+        "default": "大文字のZドット"
+      },
+      "mathspeak": {
+        "default": "大文字のZにドット",
+        "brief": "大文字のZにドット",
+        "sbrief": "大文字のZにドット"
+      }
+    }
+  },
+  {
+    "key": "017D",
+    "mappings": {
+      "default": {
+        "default": "大文字のZハーチェク"
+      },
+      "mathspeak": {
+        "default": "大文字のZにハーチェク",
+        "brief": "大文字のZにハーチェク",
+        "sbrief": "大文字のZにハーチェク"
+      }
+    }
+  },
+  {
+    "key": "01CD",
+    "mappings": {
+      "default": {
+        "default": "大文字のAハーチェク"
+      },
+      "mathspeak": {
+        "default": "大文字のAにハーチェク",
+        "brief": "大文字のAにハーチェク",
+        "sbrief": "大文字のAにハーチェク"
+      }
+    }
+  },
+  {
+    "key": "01CF",
+    "mappings": {
+      "default": {
+        "default": "大文字のIハーチェク"
+      },
+      "mathspeak": {
+        "default": "大文字のIにハーチェク",
+        "brief": "大文字のIにハーチェク",
+        "sbrief": "大文字のIにハーチェク"
+      }
+    }
+  },
+  {
+    "key": "01D1",
+    "mappings": {
+      "default": {
+        "default": "大文字のOハーチェク"
+      },
+      "mathspeak": {
+        "default": "大文字のOにハーチェク",
+        "brief": "大文字のOにハーチェク",
+        "sbrief": "大文字のOにハーチェク"
+      }
+    }
+  },
+  {
+    "key": "01D3",
+    "mappings": {
+      "default": {
+        "default": "大文字のUハーチェク"
+      },
+      "mathspeak": {
+        "default": "大文字のUにハーチェク",
+        "brief": "大文字のUにハーチェク",
+        "sbrief": "大文字のUにハーチェク"
+      }
+    }
+  },
+  {
+    "key": "01E6",
+    "mappings": {
+      "default": {
+        "default": "大文字のGハーチェク"
+      },
+      "mathspeak": {
+        "default": "大文字のGにハーチェク",
+        "brief": "大文字のGにハーチェク",
+        "sbrief": "大文字のGにハーチェク"
+      }
+    }
+  },
+  {
+    "key": "01E8",
+    "mappings": {
+      "default": {
+        "default": "大文字のKハーチェク"
+      },
+      "mathspeak": {
+        "default": "大文字のKにハーチェク",
+        "brief": "大文字のKにハーチェク",
+        "sbrief": "大文字のKにハーチェク"
+      }
+    }
+  },
+  {
+    "key": "01EA",
+    "mappings": {
+      "default": {
+        "default": "大文字のOオゴネク"
+      },
+      "mathspeak": {
+        "default": "大文字のOにオゴネク",
+        "brief": "大文字のOにオゴネク",
+        "sbrief": "大文字のOにオゴネク"
+      }
+    }
+  },
+  {
+    "key": "01F4",
+    "mappings": {
+      "default": {
+        "default": "大文字のGアキュート"
+      },
+      "mathspeak": {
+        "default": "大文字のGにアキュート",
+        "brief": "大文字のGにアキュート",
+        "sbrief": "大文字のGにアキュート"
+      }
+    }
+  },
+  {
+    "key": "01F8",
+    "mappings": {
+      "default": {
+        "default": "大文字のNグレイブ"
+      },
+      "mathspeak": {
+        "default": "大文字のNにグレイブ",
+        "brief": "大文字のNにグレイブ",
+        "sbrief": "大文字のNにグレイブ"
+      }
+    }
+  },
+  {
+    "key": "0200",
+    "mappings": {
+      "default": {
+        "default": "大文字のAダブルグレイブ"
+      },
+      "mathspeak": {
+        "default": "大文字のAにダブルグレイブ",
+        "brief": "大文字のAにダブルグレイブ",
+        "sbrief": "大文字のAにダブルグレイブ"
+      }
+    }
+  },
+  {
+    "key": "0202",
+    "mappings": {
+      "default": {
+        "default": "大文字のA逆ブレーヴェ"
+      },
+      "mathspeak": {
+        "default": "大文字のAに逆ブレーヴェ",
+        "brief": "大文字のAに逆ブレーヴェ",
+        "sbrief": "大文字のAに逆ブレーヴェ"
+      }
+    }
+  },
+  {
+    "key": "0204",
+    "mappings": {
+      "default": {
+        "default": "大文字のEダブルグレイブ"
+      },
+      "mathspeak": {
+        "default": "大文字のEにダブルグレイブ",
+        "brief": "大文字のEにダブルグレイブ",
+        "sbrief": "大文字のEにダブルグレイブ"
+      }
+    }
+  },
+  {
+    "key": "0206",
+    "mappings": {
+      "default": {
+        "default": "大文字のE逆ブレーヴェ"
+      },
+      "mathspeak": {
+        "default": "大文字のEに逆ブレーヴェ",
+        "brief": "大文字のEに逆ブレーヴェ",
+        "sbrief": "大文字のEに逆ブレーヴェ"
+      }
+    }
+  },
+  {
+    "key": "0208",
+    "mappings": {
+      "default": {
+        "default": "大文字のIダブルグレイブ"
+      },
+      "mathspeak": {
+        "default": "大文字のIにダブルグレイブ",
+        "brief": "大文字のIにダブルグレイブ",
+        "sbrief": "大文字のIにダブルグレイブ"
+      }
+    }
+  },
+  {
+    "key": "020A",
+    "mappings": {
+      "default": {
+        "default": "大文字のI逆ブレーヴェ"
+      },
+      "mathspeak": {
+        "default": "大文字のIに逆ブレーヴェ",
+        "brief": "大文字のIに逆ブレーヴェ",
+        "sbrief": "大文字のIに逆ブレーヴェ"
+      }
+    }
+  },
+  {
+    "key": "020C",
+    "mappings": {
+      "default": {
+        "default": "大文字のOダブルグレイブ"
+      },
+      "mathspeak": {
+        "default": "大文字のOにダブルグレイブ",
+        "brief": "大文字のOにダブルグレイブ",
+        "sbrief": "大文字のOにダブルグレイブ"
+      }
+    }
+  },
+  {
+    "key": "020E",
+    "mappings": {
+      "default": {
+        "default": "大文字のO逆ブレーヴェ"
+      },
+      "mathspeak": {
+        "default": "大文字のOに逆ブレーヴェ",
+        "brief": "大文字のOに逆ブレーヴェ",
+        "sbrief": "大文字のOに逆ブレーヴェ"
+      }
+    }
+  },
+  {
+    "key": "0210",
+    "mappings": {
+      "default": {
+        "default": "大文字のRダブルグレイブ"
+      },
+      "mathspeak": {
+        "default": "大文字のRにダブルグレイブ",
+        "brief": "大文字のRにダブルグレイブ",
+        "sbrief": "大文字のRにダブルグレイブ"
+      }
+    }
+  },
+  {
+    "key": "0212",
+    "mappings": {
+      "default": {
+        "default": "大文字のR逆ブレーヴェ"
+      },
+      "mathspeak": {
+        "default": "大文字のRに逆ブレーヴェ",
+        "brief": "大文字のRに逆ブレーヴェ",
+        "sbrief": "大文字のRに逆ブレーヴェ"
+      }
+    }
+  },
+  {
+    "key": "0214",
+    "mappings": {
+      "default": {
+        "default": "大文字のUダブルグレイブ"
+      },
+      "mathspeak": {
+        "default": "大文字のUにダブルグレイブ",
+        "brief": "大文字のUにダブルグレイブ",
+        "sbrief": "大文字のUにダブルグレイブ"
+      }
+    }
+  },
+  {
+    "key": "0216",
+    "mappings": {
+      "default": {
+        "default": "大文字のU逆ブレーヴェ"
+      },
+      "mathspeak": {
+        "default": "大文字のUに逆ブレーヴェ",
+        "brief": "大文字のUに逆ブレーヴェ",
+        "sbrief": "大文字のUに逆ブレーヴェ"
+      }
+    }
+  },
+  {
+    "key": "0218",
+    "mappings": {
+      "default": {
+        "default": "大文字のSコンマ"
+      },
+      "mathspeak": {
+        "default": "大文字のSにコンマ",
+        "brief": "大文字のSにコンマ",
+        "sbrief": "大文字のSにコンマ"
+      }
+    }
+  },
+  {
+    "key": "021A",
+    "mappings": {
+      "default": {
+        "default": "大文字のTコンマ"
+      },
+      "mathspeak": {
+        "default": "大文字のTにコンマ",
+        "brief": "大文字のTにコンマ",
+        "sbrief": "大文字のTにコンマ"
+      }
+    }
+  },
+  {
+    "key": "021E",
+    "mappings": {
+      "default": {
+        "default": "大文字のHハーチェク"
+      },
+      "mathspeak": {
+        "default": "大文字のHにハーチェク",
+        "brief": "大文字のHにハーチェク",
+        "sbrief": "大文字のHにハーチェク"
+      }
+    }
+  },
+  {
+    "key": "0226",
+    "mappings": {
+      "default": {
+        "default": "大文字のAドット"
+      },
+      "mathspeak": {
+        "default": "大文字のAにドット",
+        "brief": "大文字のAにドット",
+        "sbrief": "大文字のAにドット"
+      }
+    }
+  },
+  {
+    "key": "0228",
+    "mappings": {
+      "default": {
+        "default": "大文字のEセディラ"
+      },
+      "mathspeak": {
+        "default": "大文字のEにセディラ",
+        "brief": "大文字のEにセディラ",
+        "sbrief": "大文字のEにセディラ"
+      }
+    }
+  },
+  {
+    "key": "022E",
+    "mappings": {
+      "default": {
+        "default": "大文字のOドット"
+      },
+      "mathspeak": {
+        "default": "大文字のOにドット",
+        "brief": "大文字のOにドット",
+        "sbrief": "大文字のOにドット"
+      }
+    }
+  },
+  {
+    "key": "0232",
+    "mappings": {
+      "default": {
+        "default": "大文字のYオーバーバー"
+      },
+      "mathspeak": {
+        "default": "大文字のYにオーバーバー",
+        "brief": "大文字のYにオーバーバー",
+        "sbrief": "大文字のYにオーバーバー"
+      }
+    }
+  },
+  {
+    "key": "1E00",
+    "mappings": {
+      "default": {
+        "default": "大文字のAアンダーリング"
+      },
+      "mathspeak": {
+        "default": "大文字のAにアンダーリング",
+        "brief": "大文字のAにアンダーリング",
+        "sbrief": "大文字のAにアンダーリング"
+      }
+    }
+  },
+  {
+    "key": "1E02",
+    "mappings": {
+      "default": {
+        "default": "大文字のBドット"
+      },
+      "mathspeak": {
+        "default": "大文字のBにドット",
+        "brief": "大文字のBにドット",
+        "sbrief": "大文字のBにドット"
+      }
+    }
+  },
+  {
+    "key": "1E04",
+    "mappings": {
+      "default": {
+        "default": "大文字のBアンダードット"
+      },
+      "mathspeak": {
+        "default": "大文字のBにアンダードット",
+        "brief": "大文字のBにアンダードット",
+        "sbrief": "大文字のBにアンダードット"
+      }
+    }
+  },
+  {
+    "key": "1E06",
+    "mappings": {
+      "default": {
+        "default": "大文字のBアンダーバー"
+      },
+      "mathspeak": {
+        "default": "大文字のBにアンダーバー",
+        "brief": "大文字のBにアンダーバー",
+        "sbrief": "大文字のBにアンダーバー"
+      }
+    }
+  },
+  {
+    "key": "1E0A",
+    "mappings": {
+      "default": {
+        "default": "大文字のDドット"
+      },
+      "mathspeak": {
+        "default": "大文字のDにドット",
+        "brief": "大文字のDにドット",
+        "sbrief": "大文字のDにドット"
+      }
+    }
+  },
+  {
+    "key": "1E0C",
+    "mappings": {
+      "default": {
+        "default": "大文字のDアンダードット"
+      },
+      "mathspeak": {
+        "default": "大文字のDにアンダードット",
+        "brief": "大文字のDにアンダードット",
+        "sbrief": "大文字のDにアンダードット"
+      }
+    }
+  },
+  {
+    "key": "1E0E",
+    "mappings": {
+      "default": {
+        "default": "大文字のDアンダーバー"
+      },
+      "mathspeak": {
+        "default": "大文字のDにアンダーバー",
+        "brief": "大文字のDにアンダーバー",
+        "sbrief": "大文字のDにアンダーバー"
+      }
+    }
+  },
+  {
+    "key": "1E10",
+    "mappings": {
+      "default": {
+        "default": "大文字のDセディラ"
+      },
+      "mathspeak": {
+        "default": "大文字のDにセディラ",
+        "brief": "大文字のDにセディラ",
+        "sbrief": "大文字のDにセディラ"
+      }
+    }
+  },
+  {
+    "key": "1E12",
+    "mappings": {
+      "default": {
+        "default": "大文字のDアンダーキャレット"
+      },
+      "mathspeak": {
+        "default": "大文字のDにアンダーキャレット",
+        "brief": "大文字のDにアンダーキャレット",
+        "sbrief": "大文字のDにアンダーキャレット"
+      }
+    }
+  },
+  {
+    "key": "1E18",
+    "mappings": {
+      "default": {
+        "default": "大文字のEアンダーキャレット"
+      },
+      "mathspeak": {
+        "default": "大文字のEにアンダーキャレット",
+        "brief": "大文字のEにアンダーキャレット",
+        "sbrief": "大文字のEにアンダーキャレット"
+      }
+    }
+  },
+  {
+    "key": "1E1A",
+    "mappings": {
+      "default": {
+        "default": "大文字のEアンダーチルダ"
+      },
+      "mathspeak": {
+        "default": "大文字のEにアンダーチルダ",
+        "brief": "大文字のEにアンダーチルダ",
+        "sbrief": "大文字のEにアンダーチルダ"
+      }
+    }
+  },
+  {
+    "key": "1E1E",
+    "mappings": {
+      "default": {
+        "default": "大文字のFドット"
+      },
+      "mathspeak": {
+        "default": "大文字のFにドット",
+        "brief": "大文字のFにドット",
+        "sbrief": "大文字のFにドット"
+      }
+    }
+  },
+  {
+    "key": "1E20",
+    "mappings": {
+      "default": {
+        "default": "大文字のGオーバーバー"
+      },
+      "mathspeak": {
+        "default": "大文字のGにオーバーバー",
+        "brief": "大文字のGにオーバーバー",
+        "sbrief": "大文字のGにオーバーバー"
+      }
+    }
+  },
+  {
+    "key": "1E22",
+    "mappings": {
+      "default": {
+        "default": "大文字のHドット"
+      },
+      "mathspeak": {
+        "default": "大文字のHにドット",
+        "brief": "大文字のHにドット",
+        "sbrief": "大文字のHにドット"
+      }
+    }
+  },
+  {
+    "key": "1E24",
+    "mappings": {
+      "default": {
+        "default": "大文字のHアンダードット"
+      },
+      "mathspeak": {
+        "default": "大文字のHにアンダードット",
+        "brief": "大文字のHにアンダードット",
+        "sbrief": "大文字のHにアンダードット"
+      }
+    }
+  },
+  {
+    "key": "1E26",
+    "mappings": {
+      "default": {
+        "default": "大文字のHダブルドット"
+      },
+      "mathspeak": {
+        "default": "大文字のHにダブルドット",
+        "brief": "大文字のHにダブルドット",
+        "sbrief": "大文字のHにダブルドット"
+      }
+    }
+  },
+  {
+    "key": "1E28",
+    "mappings": {
+      "default": {
+        "default": "大文字のHセディラ"
+      },
+      "mathspeak": {
+        "default": "大文字のHにセディラ",
+        "brief": "大文字のHにセディラ",
+        "sbrief": "大文字のHにセディラ"
+      }
+    }
+  },
+  {
+    "key": "1E2A",
+    "mappings": {
+      "default": {
+        "default": "大文字のHアンダーブレーヴェ"
+      },
+      "mathspeak": {
+        "default": "大文字のHにアンダーブレーヴェ",
+        "brief": "大文字のHにアンダーブレーヴェ",
+        "sbrief": "大文字のHにアンダーブレーヴェ"
+      }
+    }
+  },
+  {
+    "key": "1E2C",
+    "mappings": {
+      "default": {
+        "default": "大文字のIアンダーチルダ"
+      },
+      "mathspeak": {
+        "default": "大文字のIにアンダーチルダ",
+        "brief": "大文字のIにアンダーチルダ",
+        "sbrief": "大文字のIにアンダーチルダ"
+      }
+    }
+  },
+  {
+    "key": "1E30",
+    "mappings": {
+      "default": {
+        "default": "大文字のKアキュート"
+      },
+      "mathspeak": {
+        "default": "大文字のKにアキュート",
+        "brief": "大文字のKにアキュート",
+        "sbrief": "大文字のKにアキュート"
+      }
+    }
+  },
+  {
+    "key": "1E32",
+    "mappings": {
+      "default": {
+        "default": "大文字のKアンダードット"
+      },
+      "mathspeak": {
+        "default": "大文字のKにアンダードット",
+        "brief": "大文字のKにアンダードット",
+        "sbrief": "大文字のKにアンダードット"
+      }
+    }
+  },
+  {
+    "key": "1E34",
+    "mappings": {
+      "default": {
+        "default": "大文字のKアンダーバー"
+      },
+      "mathspeak": {
+        "default": "大文字のKにアンダーバー",
+        "brief": "大文字のKにアンダーバー",
+        "sbrief": "大文字のKにアンダーバー"
+      }
+    }
+  },
+  {
+    "key": "1E36",
+    "mappings": {
+      "default": {
+        "default": "大文字のLアンダードット"
+      },
+      "mathspeak": {
+        "default": "大文字のLにアンダードット",
+        "brief": "大文字のLにアンダードット",
+        "sbrief": "大文字のLにアンダードット"
+      }
+    }
+  },
+  {
+    "key": "1E3A",
+    "mappings": {
+      "default": {
+        "default": "大文字のLアンダーバー"
+      },
+      "mathspeak": {
+        "default": "大文字のLにアンダーバー",
+        "brief": "大文字のLにアンダーバー",
+        "sbrief": "大文字のLにアンダーバー"
+      }
+    }
+  },
+  {
+    "key": "1E3C",
+    "mappings": {
+      "default": {
+        "default": "大文字のLアンダーキャレット"
+      },
+      "mathspeak": {
+        "default": "大文字のLにアンダーキャレット",
+        "brief": "大文字のLにアンダーキャレット",
+        "sbrief": "大文字のLにアンダーキャレット"
+      }
+    }
+  },
+  {
+    "key": "1E3E",
+    "mappings": {
+      "default": {
+        "default": "大文字のMアキュート"
+      },
+      "mathspeak": {
+        "default": "大文字のMにアキュート",
+        "brief": "大文字のMにアキュート",
+        "sbrief": "大文字のMにアキュート"
+      }
+    }
+  },
+  {
+    "key": "1E40",
+    "mappings": {
+      "default": {
+        "default": "大文字のMオーバードット"
+      },
+      "mathspeak": {
+        "default": "大文字のMにオーバードット",
+        "brief": "大文字のMにオーバードット",
+        "sbrief": "大文字のMにオーバードット"
+      }
+    }
+  },
+  {
+    "key": "1E42",
+    "mappings": {
+      "default": {
+        "default": "大文字のMアンダードット"
+      },
+      "mathspeak": {
+        "default": "大文字のMにアンダードット",
+        "brief": "大文字のMにアンダードット",
+        "sbrief": "大文字のMにアンダードット"
+      }
+    }
+  },
+  {
+    "key": "1E44",
+    "mappings": {
+      "default": {
+        "default": "大文字のNオーバードット"
+      },
+      "mathspeak": {
+        "default": "大文字のNにオーバードット",
+        "brief": "大文字のNにオーバードット",
+        "sbrief": "大文字のNにオーバードット"
+      }
+    }
+  },
+  {
+    "key": "1E46",
+    "mappings": {
+      "default": {
+        "default": "大文字のNアンダードット"
+      },
+      "mathspeak": {
+        "default": "大文字のNにアンダードット",
+        "brief": "大文字のNにアンダードット",
+        "sbrief": "大文字のNにアンダードット"
+      }
+    }
+  },
+  {
+    "key": "1E48",
+    "mappings": {
+      "default": {
+        "default": "大文字のNアンダーバー"
+      },
+      "mathspeak": {
+        "default": "大文字のNにアンダーバー",
+        "brief": "大文字のNにアンダーバー",
+        "sbrief": "大文字のNにアンダーバー"
+      }
+    }
+  },
+  {
+    "key": "1E4A",
+    "mappings": {
+      "default": {
+        "default": "大文字のNアンダーキャレット"
+      },
+      "mathspeak": {
+        "default": "大文字のNにアンダーキャレット",
+        "brief": "大文字のNにアンダーキャレット",
+        "sbrief": "大文字のNにアンダーキャレット"
+      }
+    }
+  },
+  {
+    "key": "1E54",
+    "mappings": {
+      "default": {
+        "default": "大文字のPアキュート"
+      },
+      "mathspeak": {
+        "default": "大文字のPにアキュート",
+        "brief": "大文字のPにアキュート",
+        "sbrief": "大文字のPにアキュート"
+      }
+    }
+  },
+  {
+    "key": "1E56",
+    "mappings": {
+      "default": {
+        "default": "大文字のPオーバードット"
+      },
+      "mathspeak": {
+        "default": "大文字のPにオーバードット",
+        "brief": "大文字のPにオーバードット",
+        "sbrief": "大文字のPにオーバードット"
+      }
+    }
+  },
+  {
+    "key": "1E58",
+    "mappings": {
+      "default": {
+        "default": "大文字のRオーバードット"
+      },
+      "mathspeak": {
+        "default": "大文字のRにオーバードット",
+        "brief": "大文字のRにオーバードット",
+        "sbrief": "大文字のRにオーバードット"
+      }
+    }
+  },
+  {
+    "key": "1E5A",
+    "mappings": {
+      "default": {
+        "default": "大文字のRアンダードット"
+      },
+      "mathspeak": {
+        "default": "大文字のRにアンダードット",
+        "brief": "大文字のRにアンダードット",
+        "sbrief": "大文字のRにアンダードット"
+      }
+    }
+  },
+  {
+    "key": "1E5E",
+    "mappings": {
+      "default": {
+        "default": "大文字のRアンダーバー"
+      },
+      "mathspeak": {
+        "default": "大文字のRにアンダーバー",
+        "brief": "大文字のRにアンダーバー",
+        "sbrief": "大文字のRにアンダーバー"
+      }
+    }
+  },
+  {
+    "key": "1E60",
+    "mappings": {
+      "default": {
+        "default": "大文字のSオーバードット"
+      },
+      "mathspeak": {
+        "default": "大文字のSにオーバードット",
+        "brief": "大文字のSにオーバードット",
+        "sbrief": "大文字のSにオーバードット"
+      }
+    }
+  },
+  {
+    "key": "1E62",
+    "mappings": {
+      "default": {
+        "default": "大文字のSアンダードット"
+      },
+      "mathspeak": {
+        "default": "大文字のSにアンダードット",
+        "brief": "大文字のSにアンダードット",
+        "sbrief": "大文字のSにアンダードット"
+      }
+    }
+  },
+  {
+    "key": "1E6A",
+    "mappings": {
+      "default": {
+        "default": "大文字のTオーバードット"
+      },
+      "mathspeak": {
+        "default": "大文字のTにオーバードット",
+        "brief": "大文字のTにオーバードット",
+        "sbrief": "大文字のTにオーバードット"
+      }
+    }
+  },
+  {
+    "key": "1E6C",
+    "mappings": {
+      "default": {
+        "default": "大文字のTアンダードット"
+      },
+      "mathspeak": {
+        "default": "大文字のTにアンダードット",
+        "brief": "大文字のTにアンダードット",
+        "sbrief": "大文字のTにアンダードット"
+      }
+    }
+  },
+  {
+    "key": "1E6E",
+    "mappings": {
+      "default": {
+        "default": "大文字のTアンダーバー"
+      },
+      "mathspeak": {
+        "default": "大文字のTにアンダーバー",
+        "brief": "大文字のTにアンダーバー",
+        "sbrief": "大文字のTにアンダーバー"
+      }
+    }
+  },
+  {
+    "key": "1E70",
+    "mappings": {
+      "default": {
+        "default": "大文字のTアンダーキャレット"
+      },
+      "mathspeak": {
+        "default": "大文字のTにアンダーキャレット",
+        "brief": "大文字のTにアンダーキャレット",
+        "sbrief": "大文字のTにアンダーキャレット"
+      }
+    }
+  },
+  {
+    "key": "1E72",
+    "mappings": {
+      "default": {
+        "default": "大文字のUダブルアンダードット"
+      },
+      "mathspeak": {
+        "default": "大文字のUにダブルアンダードット",
+        "brief": "大文字のUにダブルアンダードット",
+        "sbrief": "大文字のUにダブルアンダードット"
+      }
+    }
+  },
+  {
+    "key": "1E74",
+    "mappings": {
+      "default": {
+        "default": "大文字のUアンダーティルデ"
+      },
+      "mathspeak": {
+        "default": "大文字のUにアンダーティルデ",
+        "brief": "大文字のUにアンダーティルデ",
+        "sbrief": "大文字のUにアンダーティルデ"
+      }
+    }
+  },
+  {
+    "key": "1E76",
+    "mappings": {
+      "default": {
+        "default": "大文字のUアンダーキャレット"
+      },
+      "mathspeak": {
+        "default": "大文字のUにアンダーキャレット",
+        "brief": "大文字のUにアンダーキャレット",
+        "sbrief": "大文字のUにアンダーキャレット"
+      }
+    }
+  },
+  {
+    "key": "1E7C",
+    "mappings": {
+      "default": {
+        "default": "大文字のVティルデ"
+      },
+      "mathspeak": {
+        "default": "大文字のVにティルデ",
+        "brief": "大文字のVにティルデ",
+        "sbrief": "大文字のVにティルデ"
+      }
+    }
+  },
+  {
+    "key": "1E7E",
+    "mappings": {
+      "default": {
+        "default": "大文字のVアンダードット"
+      },
+      "mathspeak": {
+        "default": "大文字のVにアンダードット",
+        "brief": "大文字のVにアンダードット",
+        "sbrief": "大文字のVにアンダードット"
+      }
+    }
+  },
+  {
+    "key": "1E80",
+    "mappings": {
+      "default": {
+        "default": "大文字のWグレイブ"
+      },
+      "mathspeak": {
+        "default": "大文字のWにグレイブ",
+        "brief": "大文字のWにグレイブ",
+        "sbrief": "大文字のWにグレイブ"
+      }
+    }
+  },
+  {
+    "key": "1E82",
+    "mappings": {
+      "default": {
+        "default": "大文字のWアキュート"
+      },
+      "mathspeak": {
+        "default": "大文字のWにアキュート",
+        "brief": "大文字のWにアキュート",
+        "sbrief": "大文字のWにアキュート"
+      }
+    }
+  },
+  {
+    "key": "1E84",
+    "mappings": {
+      "default": {
+        "default": "大文字のWダブルオーバードット"
+      },
+      "mathspeak": {
+        "default": "大文字のWにダブルオーバードット",
+        "brief": "大文字のWにダブルオーバードット",
+        "sbrief": "大文字のWにダブルオーバードット"
+      }
+    }
+  },
+  {
+    "key": "1E86",
+    "mappings": {
+      "default": {
+        "default": "大文字のWオーバードット"
+      },
+      "mathspeak": {
+        "default": "大文字のWにオーバードット",
+        "brief": "大文字のWにオーバードット",
+        "sbrief": "大文字のWにオーバードット"
+      }
+    }
+  },
+  {
+    "key": "1E88",
+    "mappings": {
+      "default": {
+        "default": "大文字のWアンダードット"
+      },
+      "mathspeak": {
+        "default": "大文字のWにアンダードット",
+        "brief": "大文字のWにアンダードット",
+        "sbrief": "大文字のWにアンダードット"
+      }
+    }
+  },
+  {
+    "key": "1E8A",
+    "mappings": {
+      "default": {
+        "default": "大文字のXオーバードット"
+      },
+      "mathspeak": {
+        "default": "大文字のXにオーバードット",
+        "brief": "大文字のXにオーバードット",
+        "sbrief": "大文字のXにオーバードット"
+      }
+    }
+  },
+  {
+    "key": "1E8C",
+    "mappings": {
+      "default": {
+        "default": "大文字のXダブルオーバードット"
+      },
+      "mathspeak": {
+        "default": "大文字のXにダブルオーバードット",
+        "brief": "大文字のXにダブルオーバードット",
+        "sbrief": "大文字のXにダブルオーバードット"
+      }
+    }
+  },
+  {
+    "key": "1E8E",
+    "mappings": {
+      "default": {
+        "default": "大文字のYオーバードット"
+      },
+      "mathspeak": {
+        "default": "大文字のYにオーバードット",
+        "brief": "大文字のYにオーバードット",
+        "sbrief": "大文字のYにオーバードット"
+      }
+    }
+  },
+  {
+    "key": "1E90",
+    "mappings": {
+      "default": {
+        "default": "大文字のZサーカムフレックス"
+      },
+      "mathspeak": {
+        "default": "大文字のZにサーカムフレックス",
+        "brief": "大文字のZにサーカムフレックス",
+        "sbrief": "大文字のZにサーカムフレックス"
+      }
+    }
+  },
+  {
+    "key": "1E92",
+    "mappings": {
+      "default": {
+        "default": "大文字のZアンダードット"
+      },
+      "mathspeak": {
+        "default": "大文字のZにアンダードット",
+        "brief": "大文字のZにアンダードット",
+        "sbrief": "大文字のZにアンダードット"
+      }
+    }
+  },
+  {
+    "key": "1E94",
+    "mappings": {
+      "default": {
+        "default": "大文字のZアンダーバー"
+      },
+      "mathspeak": {
+        "default": "大文字のZにアンダーバー",
+        "brief": "大文字のZにアンダーバー",
+        "sbrief": "大文字のZにアンダーバー"
+      }
+    }
+  },
+  {
+    "key": "1EA0",
+    "mappings": {
+      "default": {
+        "default": "大文字のAアンダードット"
+      },
+      "mathspeak": {
+        "default": "大文字のAにアンダードット",
+        "brief": "大文字のAにアンダードット",
+        "sbrief": "大文字のAにアンダードット"
+      }
+    }
+  },
+  {
+    "key": "1EA2",
+    "mappings": {
+      "default": {
+        "default": "大文字のAフック"
+      },
+      "mathspeak": {
+        "default": "大文字のAにフック",
+        "brief": "大文字のAにフック",
+        "sbrief": "大文字のAにフック"
+      }
+    }
+  },
+  {
+    "key": "1EB8",
+    "mappings": {
+      "default": {
+        "default": "大文字のEアンダードット"
+      },
+      "mathspeak": {
+        "default": "大文字のEにアンダードット",
+        "brief": "大文字のEにアンダードット",
+        "sbrief": "大文字のEにアンダードット"
+      }
+    }
+  },
+  {
+    "key": "1EBA",
+    "mappings": {
+      "default": {
+        "default": "大文字のEフック"
+      },
+      "mathspeak": {
+        "default": "大文字のEにフック",
+        "brief": "大文字のEにフック",
+        "sbrief": "大文字のEにフック"
+      }
+    }
+  },
+  {
+    "key": "1EBC",
+    "mappings": {
+      "default": {
+        "default": "大文字のEティルデ"
+      },
+      "mathspeak": {
+        "default": "大文字のEにティルデ",
+        "brief": "大文字のEにティルデ",
+        "sbrief": "大文字のEにティルデ"
+      }
+    }
+  },
+  {
+    "key": "1EC8",
+    "mappings": {
+      "default": {
+        "default": "大文字のIフック"
+      },
+      "mathspeak": {
+        "default": "大文字のIにフック",
+        "brief": "大文字のIにフック",
+        "sbrief": "大文字のIにフック"
+      }
+    }
+  },
+  {
+    "key": "1ECA",
+    "mappings": {
+      "default": {
+        "default": "大文字のIアンダードット"
+      },
+      "mathspeak": {
+        "default": "大文字のIにアンダードット",
+        "brief": "大文字のIにアンダードット",
+        "sbrief": "大文字のIにアンダードット"
+      }
+    }
+  },
+  {
+    "key": "1ECC",
+    "mappings": {
+      "default": {
+        "default": "大文字のOアンダードット"
+      },
+      "mathspeak": {
+        "default": "大文字のOにアンダードット",
+        "brief": "大文字のOにアンダードット",
+        "sbrief": "大文字のOにアンダードット"
+      }
+    }
+  },
+  {
+    "key": "1ECE",
+    "mappings": {
+      "default": {
+        "default": "大文字のOフック"
+      },
+      "mathspeak": {
+        "default": "大文字のOにフック",
+        "brief": "大文字のOにフック",
+        "sbrief": "大文字のOにフック"
+      }
+    }
+  },
+  {
+    "key": "1EE4",
+    "mappings": {
+      "default": {
+        "default": "大文字のUアンダードット"
+      },
+      "mathspeak": {
+        "default": "大文字のUにアンダードット",
+        "brief": "大文字のUにアンダードット",
+        "sbrief": "大文字のUにアンダードット"
+      }
+    }
+  },
+  {
+    "key": "1EE6",
+    "mappings": {
+      "default": {
+        "default": "大文字のUフック"
+      },
+      "mathspeak": {
+        "default": "大文字のUにフック",
+        "brief": "大文字のUにフック",
+        "sbrief": "大文字のUにフック"
+      }
+    }
+  },
+  {
+    "key": "1EF2",
+    "mappings": {
+      "default": {
+        "default": "大文字のYグレイブ"
+      },
+      "mathspeak": {
+        "default": "大文字のYにグレイブ",
+        "brief": "大文字のYにグレイブ",
+        "sbrief": "大文字のYにグレイブ"
+      }
+    }
+  },
+  {
+    "key": "1EF4",
+    "mappings": {
+      "default": {
+        "default": "大文字のYアンダードット"
+      },
+      "mathspeak": {
+        "default": "大文字のYにアンダードット",
+        "brief": "大文字のYにアンダードット",
+        "sbrief": "大文字のYにアンダードット"
+      }
+    }
+  },
+  {
+    "key": "1EF6",
+    "mappings": {
+      "default": {
+        "default": "大文字のYフック"
+      },
+      "mathspeak": {
+        "default": "大文字のYにフック",
+        "brief": "大文字のYにフック",
+        "sbrief": "大文字のYにフック"
+      }
+    }
+  },
+  {
+    "key": "1EF8",
+    "mappings": {
+      "default": {
+        "default": "大文字のYティルデ"
+      },
+      "mathspeak": {
+        "default": "大文字のYにティルデ",
+        "brief": "大文字のYにティルデ",
+        "sbrief": "大文字のYにティルデ"
       }
     }
   }
-] 
+]

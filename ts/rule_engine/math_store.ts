@@ -269,23 +269,42 @@ export class MathStore extends BaseRuleStore {
    * @returns The number and its length.
    */
   protected matchNumber(str: string): { number: string; length: number } | null {
+    // console.log('[matchNumber] Input string:', str);
+    // console.log('[matchNumber] LOCALE.MESSAGES:', LOCALE.MESSAGES);
+    
     const locNum = str.match(new RegExp('^' + LOCALE.MESSAGES.regexp.NUMBER));
+    // console.log('[matchNumber] Local number match:', locNum);
+    
     const enNum = str.match(new RegExp('^' + MathStore.regexp.NUMBER));
+    // console.log('[matchNumber] English number match:', enNum);
+    
     if (!locNum && !enNum) {
+      // console.log('[matchNumber] No matches found, returning null');
       return null;
     }
+    
     const isEn = enNum && enNum[0] === str;
     const isLoc = (locNum && locNum[0] === str) || !isEn;
+    // console.log('[matchNumber] isEn:', isEn, 'isLoc:', isLoc);
+    
     if (isLoc) {
+      // console.log('[matchNumber] Using local number:', locNum);
       return locNum ? { number: locNum[0], length: locNum[0].length } : null;
     }
-    const num = enNum[0]
-      .replace(new RegExp(MathStore.regexp.DIGIT_GROUP, 'g'), 'X')
-      .replace(
-        new RegExp(MathStore.regexp.DECIMAL_MARK, 'g'),
-        LOCALE.MESSAGES.regexp.DECIMAL_MARK
-      )
-      .replace(/X/g, LOCALE.MESSAGES.regexp.DIGIT_GROUP.replace(/\\/g, ''));
-    return { number: num, length: enNum[0].length };
+    
+    try {
+      const num = enNum[0]
+        .replace(new RegExp(MathStore.regexp.DIGIT_GROUP, 'g'), 'X')
+        .replace(
+          new RegExp(MathStore.regexp.DECIMAL_MARK, 'g'),
+          LOCALE.MESSAGES.regexp.DECIMAL_MARK
+        )
+        .replace(/X/g, LOCALE.MESSAGES.regexp.DIGIT_GROUP.replace(/\\/g, ''));
+      // console.log('[matchNumber] Converted English number:', num);
+      return { number: num, length: enNum[0].length };
+    } catch (error) {
+      // console.error('[matchNumber] Error converting number:', error);
+      return null;
+    }
   }
 }

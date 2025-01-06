@@ -1,5 +1,5 @@
 {
-  "domain": "emacspeak",
+  "domain": "emacspeak", 
   "locale": "ja",
   "modality": "speech",
   "kind": "actions",
@@ -10,7 +10,7 @@
       "[n] ./*[1]"
     ],
     [
-      "Action",
+      "Action", 
       "multrel",
       "[t] \"多重関係\"; [m] children/* (sepFunc:CTFcontentIterator)"
     ],
@@ -21,7 +21,7 @@
     ],
     [
       "Action",
-      "multi-equality",
+      "multi-equality", 
       "[t] \"方程式列\"; [m] children/* (context:\"部分\",ctxtFunc:CTFnodeCounter,sepFunc:CTFcontentIterator)"
     ],
     [
@@ -67,7 +67,7 @@
     [
       "Action",
       "negative",
-      "[t] \"負の\"; [n] children/*[1]"
+      "[t] \"マイナス\"; [n] children/*[1]"
     ],
     [
       "Action",
@@ -122,17 +122,17 @@
     [
       "Action",
       "superscript",
-      "[n] children/*[1]; [t] \"の上付き\"; [n] children/*[2] (pitch:0.35, pause:300)"
+      "[n] children/*[1]; [t] \"の\"; [n] children/*[2] (pitch:0.35, pause:300); [t] \"乗\""
     ],
     [
       "Action",
       "subscript",
-      "[n] children/*[1]; [t] \"の下付き\"; [n] children/*[2] (pitch:-0.35, pause:300)"
+      "[n] children/*[1]; [t] \"の添え字\"; [n] children/*[2] (pitch:-0.35, pause:300)"
     ],
     [
       "Action",
       "ellipsis",
-      "[p] (pause:200); [t] \"以下同様\" (pause:300)"
+      "[p] (pause:200); [t] \"中略\" (pause:300)"
     ],
     [
       "Action",
@@ -207,7 +207,7 @@
     [
       "Action",
       "cases-end",
-      "[t] \"場合分け\"; [m] children/* (ctxtFunc:CTFnodeCounter,context:\"場合\",pause:100);[t] \"場合分け終了\""
+      "[t] \"場合分け\"; [m] children/* (ctxtFunc:CTFnodeCounter,context:\"場合\",pause:100);[t] \"場合分け終わり\""
     ],
     [
       "Action",
@@ -297,12 +297,12 @@
     [
       "Action",
       "square",
-      "[n] children/*[1]; [t] \"の二乗\" (pitch:0.35, pause:200)"
+      "[n] children/*[1]; [t] \"の2乗\" (pitch:0.35, pause:200)"
     ],
     [
       "Action",
       "cube",
-      "[n] children/*[1]; [t] \"の三乗\" (pitch:0.35, pause:200)"
+      "[n] children/*[1]; [t] \"の3乗\" (pitch:0.35, pause:200)"
     ],
     [
       "Action",
@@ -355,4 +355,4 @@
       "[n] children/*[1] (pitch:0.3); [t] \"毎\"; [n] children/*[2] (pitch:-0.3)"
     ]
   ]
-} 
+}

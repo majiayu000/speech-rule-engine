@@ -6,14 +6,14 @@
     "key": "0028",
     "mappings": {
       "default": {
-        "default": "左丸括弧"
+        "default": "左括弧"
       },
       "mathspeak": {
-        "brief": "左丸括弧",
-        "sbrief": "左丸括弧"
+        "brief": "左括弧",
+        "sbrief": "左括弧"
       },
       "clearspeak": {
-        "default": "開き丸括弧"
+        "default": "開き括弧"
       }
     }
   },
@@ -21,14 +21,14 @@
     "key": "0029",
     "mappings": {
       "default": {
-        "default": "右丸括弧"
+        "default": "右括弧"
       },
       "mathspeak": {
-        "brief": "右丸括弧",
-        "sbrief": "右丸括弧"
+        "brief": "右括弧",
+        "sbrief": "右括弧"
       },
       "clearspeak": {
-        "default": "閉じ丸括弧"
+        "default": "閉じ括弧"
       }
     }
   },
@@ -66,13 +66,13 @@
     "key": "007B",
     "mappings": {
       "default": {
-        "default": "左中括弧"
+        "default": "左波括弧"
       },
       "mathspeak": {
-        "sbrief": "左中括弧"
+        "sbrief": "左波括弧"
       },
       "clearspeak": {
-        "default": "開き中括弧"
+        "default": "開き波括弧"
       }
     }
   },
@@ -80,13 +80,13 @@
     "key": "007D",
     "mappings": {
       "default": {
-        "default": "右中括弧"
+        "default": "右波括弧"
       },
       "mathspeak": {
-        "sbrief": "右中括弧"
+        "sbrief": "右波括弧"
       },
       "clearspeak": {
-        "default": "閉じ中括弧"
+        "default": "閉じ波括弧"
       }
     }
   },
@@ -118,7 +118,7 @@
     "key": "2308",
     "mappings": {
       "default": {
-        "default": "左天井"
+        "default": "左天井括弧"
       }
     }
   },
@@ -126,7 +126,7 @@
     "key": "2309",
     "mappings": {
       "default": {
-        "default": "右天井"
+        "default": "右天井括弧"
       }
     }
   },
@@ -134,7 +134,7 @@
     "key": "230A",
     "mappings": {
       "default": {
-        "default": "左床"
+        "default": "左床括弧"
       }
     }
   },
@@ -142,7 +142,7 @@
     "key": "230B",
     "mappings": {
       "default": {
-        "default": "右床"
+        "default": "右床括弧"
       }
     }
   },
@@ -150,7 +150,7 @@
     "key": "230C",
     "mappings": {
       "default": {
-        "default": "右下切り取り"
+        "default": "右下切り取り括弧"
       }
     }
   },
@@ -158,7 +158,7 @@
     "key": "230D",
     "mappings": {
       "default": {
-        "default": "左下切り取り"
+        "default": "左下切り取り括弧"
       }
     }
   },
@@ -166,7 +166,7 @@
     "key": "230E",
     "mappings": {
       "default": {
-        "default": "右上切り取り"
+        "default": "右上切り取り括弧"
       }
     }
   },
@@ -174,7 +174,7 @@
     "key": "230F",
     "mappings": {
       "default": {
-        "default": "左上切り取り"
+        "default": "左上切り取り括弧"
       }
     }
   },
@@ -182,7 +182,7 @@
     "key": "231C",
     "mappings": {
       "default": {
-        "default": "左上コーナー"
+        "default": "左上コーナー括弧"
       }
     }
   },
@@ -190,7 +190,7 @@
     "key": "231D",
     "mappings": {
       "default": {
-        "default": "右上コーナー"
+        "default": "右上コーナー括弧"
       }
     }
   },
@@ -198,7 +198,7 @@
     "key": "231E",
     "mappings": {
       "default": {
-        "default": "左下コーナー"
+        "default": "左下コーナー括弧"
       }
     }
   },
@@ -206,7 +206,7 @@
     "key": "231F",
     "mappings": {
       "default": {
-        "default": "右下コーナー"
+        "default": "右下コーナー括弧"
       }
     }
   },
@@ -214,7 +214,7 @@
     "key": "2320",
     "mappings": {
       "default": {
-        "default": "上半積分"
+        "default": "上半積分記号"
       }
     }
   },
@@ -222,7 +222,7 @@
     "key": "2321",
     "mappings": {
       "default": {
-        "default": "下半積分"
+        "default": "下半積分記号"
       }
     }
   },
@@ -231,7 +231,7 @@
     "mappings": {
       "default": {
         "default": "左山括弧",
-        "physics": "ブラベクトル"
+        "physics": "ブラ"
       }
     }
   },
@@ -240,7 +240,7 @@
     "mappings": {
       "default": {
         "default": "右山括弧",
-        "physics": "ケットベクトル"
+        "physics": "ケット"
       }
     }
   },
@@ -249,6 +249,10 @@
     "mappings": {
       "default": {
         "default": "左括弧上部"
+      },
+      "mathspeak": {
+        "brief": "左括弧上部",
+        "sbrief": "左括弧上部"
       }
     }
   },
@@ -256,7 +260,11 @@
     "key": "239C",
     "mappings": {
       "default": {
-        "default": "左括弧延長"
+        "default": "左括弧延長部"
+      },
+      "mathspeak": {
+        "brief": "左括弧延長部",
+        "sbrief": "左括弧延長部"
       }
     }
   },
@@ -265,6 +273,10 @@
     "mappings": {
       "default": {
         "default": "左括弧下部"
+      },
+      "mathspeak": {
+        "brief": "左括弧下部",
+        "sbrief": "左括弧下部"
       }
     }
   },
@@ -273,6 +285,10 @@
     "mappings": {
       "default": {
         "default": "右括弧上部"
+      },
+      "mathspeak": {
+        "brief": "右括弧上部",
+        "sbrief": "右括弧上部"
       }
     }
   },
@@ -280,7 +296,11 @@
     "key": "239F",
     "mappings": {
       "default": {
-        "default": "右括弧延長"
+        "default": "右括弧延長部"
+      },
+      "mathspeak": {
+        "brief": "右括弧延長部",
+        "sbrief": "右括弧延長部"
       }
     }
   },
@@ -289,6 +309,10 @@
     "mappings": {
       "default": {
         "default": "右括弧下部"
+      },
+      "mathspeak": {
+        "brief": "右括弧下部",
+        "sbrief": "右括弧下部"
       }
     }
   },
@@ -297,6 +321,10 @@
     "mappings": {
       "default": {
         "default": "左角括弧上部"
+      },
+      "mathspeak": {
+        "brief": "左角括弧上部",
+        "sbrief": "左角括弧上部"
       }
     }
   },
@@ -304,7 +332,11 @@
     "key": "23A2",
     "mappings": {
       "default": {
-        "default": "左角括弧延長"
+        "default": "左角括弧延長部"
+      },
+      "mathspeak": {
+        "brief": "左角括弧延長部",
+        "sbrief": "左角括弧延長部"
       }
     }
   },
@@ -313,6 +345,10 @@
     "mappings": {
       "default": {
         "default": "左角括弧下部"
+      },
+      "mathspeak": {
+        "brief": "左角括弧下部",
+        "sbrief": "左角括弧下部"
       }
     }
   },
@@ -321,6 +357,10 @@
     "mappings": {
       "default": {
         "default": "右角括弧上部"
+      },
+      "mathspeak": {
+        "brief": "右角括弧上部",
+        "sbrief": "右角括弧上部"
       }
     }
   },
@@ -328,7 +368,11 @@
     "key": "23A5",
     "mappings": {
       "default": {
-        "default": "右角括弧延長"
+        "default": "右角括弧延長部"
+      },
+      "mathspeak": {
+        "brief": "右角括弧延長部",
+        "sbrief": "右角括弧延長部"
       }
     }
   },
@@ -337,7 +381,1407 @@
     "mappings": {
       "default": {
         "default": "右角括弧下部"
+      },
+      "mathspeak": {
+        "brief": "右角括弧下部",
+        "sbrief": "右角括弧下部"
+      }
+    }
+  },
+  {
+    "key": "23A7",
+    "mappings": {
+      "default": {
+        "default": "左波括弧上部"
+      },
+      "mathspeak": {
+        "sbrief": "左波括弧上部"
+      }
+    }
+  },
+  {
+    "key": "23A8",
+    "mappings": {
+      "default": {
+        "default": "左波括弧中央部"
+      },
+      "mathspeak": {
+        "sbrief": "左波括弧中央部"
+      }
+    }
+  },
+  {
+    "key": "23A9",
+    "mappings": {
+      "default": {
+        "default": "左波括弧下部"
+      },
+      "mathspeak": {
+        "sbrief": "左波括弧下部"
+      }
+    }
+  },
+  {
+    "key": "23AA",
+    "mappings": {
+      "default": {
+        "default": "波括弧延長部"
+      }
+    }
+  },
+  {
+    "key": "23AB",
+    "mappings": {
+      "default": {
+        "default": "右波括弧上部"
+      },
+      "mathspeak": {
+        "sbrief": "右波括弧上部"
+      }
+    }
+  },
+  {
+    "key": "23AC",
+    "mappings": {
+      "default": {
+        "default": "右波括弧中央部"
+      },
+      "mathspeak": {
+        "sbrief": "右波括弧中央部"
+      }
+    }
+  },
+  {
+    "key": "23AD",
+    "mappings": {
+      "default": {
+        "default": "右波括弧下部"
+      },
+      "mathspeak": {
+        "sbrief": "右波括弧下部"
+      }
+    }
+  },
+  {
+    "key": "23AE",
+    "mappings": {
+      "default": {
+        "default": "積分記号延長部"
+      }
+    }
+  },
+  {
+    "key": "23AF",
+    "mappings": {
+      "default": {
+        "default": "水平線延長部"
+      }
+    }
+  },
+  {
+    "key": "23B0",
+    "mappings": {
+      "default": {
+        "default": "左上または右下波括弧部"
+      }
+    }
+  },
+  {
+    "key": "23B1",
+    "mappings": {
+      "default": {
+        "default": "右上または左下波括弧部"
+      }
+    }
+  },
+  {
+    "key": "23B2",
+    "mappings": {
+      "default": {
+        "default": "総和記号上部"
+      }
+    }
+  },
+  {
+    "key": "23B3",
+    "mappings": {
+      "default": {
+        "default": "総和記号下部"
+      }
+    }
+  },
+  {
+    "key": "23B4",
+    "mappings": {
+      "default": {
+        "default": "上角括弧"
+      },
+      "mathspeak": {
+        "brief": "上角括弧",
+        "sbrief": "上角括弧"
+      }
+    }
+  },
+  {
+    "key": "23B5",
+    "mappings": {
+      "default": {
+        "default": "下角括弧"
+      },
+      "mathspeak": {
+        "brief": "下角括弧",
+        "sbrief": "下角括弧"
+      }
+    }
+  },
+  {
+    "key": "23B6",
+    "mappings": {
+      "default": {
+        "default": "上角括弧の下の下角括弧"
+      },
+      "mathspeak": {
+        "brief": "上角括弧の下の下角括弧",
+        "sbrief": "上角括弧の下の下角括弧"
+      }
+    }
+  },
+  {
+    "key": "23B7",
+    "mappings": {
+      "default": {
+        "default": "根号記号下部"
+      }
+    }
+  },
+  {
+    "key": "23B8",
+    "mappings": {
+      "default": {
+        "default": "左垂直ボックス線"
+      }
+    }
+  },
+  {
+    "key": "23B9",
+    "mappings": {
+      "default": {
+        "default": "右垂直ボックス線"
+      }
+    }
+  },
+  {
+    "key": "23DC",
+    "mappings": {
+      "default": {
+        "default": "上括弧"
+      },
+      "mathspeak": {
+        "brief": "上括弧",
+        "sbrief": "上括弧"
+      }
+    }
+  },
+  {
+    "key": "23DD",
+    "mappings": {
+      "default": {
+        "default": "下括弧"
+      },
+      "mathspeak": {
+        "brief": "下括弧",
+        "sbrief": "下括弧"
+      }
+    }
+  },
+  {
+    "key": "23DE",
+    "mappings": {
+      "default": {
+        "default": "上波括弧"
+      },
+      "mathspeak": {
+        "sbrief": "上波括弧"
+      }
+    }
+  },
+  {
+    "key": "23DF",
+    "mappings": {
+      "default": {
+        "default": "下波括弧"
+      },
+      "mathspeak": {
+        "sbrief": "下波括弧"
+      }
+    }
+  },
+  {
+    "key": "23E0",
+    "mappings": {
+      "default": {
+        "default": "上亀甲括弧"
+      }
+    }
+  },
+  {
+    "key": "23E1",
+    "mappings": {
+      "default": {
+        "default": "下亀甲括弧"
+      }
+    }
+  },
+  {
+    "key": "2768",
+    "mappings": {
+      "default": {
+        "default": "中サイズ左括弧飾り"
+      },
+      "mathspeak": {
+        "brief": "中サイズ左括弧飾り",
+        "sbrief": "中サイズ左括弧飾り"
+      }
+    }
+  },
+  {
+    "key": "2769",
+    "mappings": {
+      "default": {
+        "default": "中サイズ右括弧飾り"
+      },
+      "mathspeak": {
+        "brief": "中サイズ右括弧飾り",
+        "sbrief": "中サイズ右括弧飾り"
+      }
+    }
+  },
+  {
+    "key": "276A",
+    "mappings": {
+      "default": {
+        "default": "中サイズ平らな左括弧飾り"
+      },
+      "mathspeak": {
+        "brief": "中サイズ平らな左括弧飾り",
+        "sbrief": "中サイズ平らな左括弧飾り"
+      }
+    }
+  },
+  {
+    "key": "276B",
+    "mappings": {
+      "default": {
+        "default": "中サイズ平らな右括弧飾り"
+      },
+      "mathspeak": {
+        "brief": "中サイズ平らな右括弧飾り",
+        "sbrief": "中サイズ平らな右括弧飾り"
+      }
+    }
+  },
+  {
+    "key": "276C",
+    "mappings": {
+      "default": {
+        "default": "中サイズ左山括弧飾り"
+      }
+    }
+  },
+  {
+    "key": "276D",
+    "mappings": {
+      "default": {
+        "default": "中サイズ右山括弧飾り"
+      }
+    }
+  },
+  {
+    "key": "276E",
+    "mappings": {
+      "default": {
+        "default": "太字左山括弧引用符飾り"
+      }
+    }
+  },
+  {
+    "key": "276F",
+    "mappings": {
+      "default": {
+        "default": "太字右山括弧引用符飾り"
+      }
+    }
+  },
+  {
+    "key": "2770",
+    "mappings": {
+      "default": {
+        "default": "太字左山括弧飾り"
+      }
+    }
+  },
+  {
+    "key": "2771",
+    "mappings": {
+      "default": {
+        "default": "太字右山括弧飾り"
+      }
+    }
+  },
+  {
+    "key": "2772",
+    "mappings": {
+      "default": {
+        "default": "細字左亀甲括弧飾り"
+      }
+    }
+  },
+  {
+    "key": "2773",
+    "mappings": {
+      "default": {
+        "default": "細字右亀甲括弧飾り"
+      }
+    }
+  },
+  {
+    "key": "2774",
+    "mappings": {
+      "default": {
+        "default": "中サイズ左波括弧飾り"
+      },
+      "mathspeak": {
+        "sbrief": "中サイズ左波括弧飾り"
+      }
+    }
+  },
+  {
+    "key": "2775",
+    "mappings": {
+      "default": {
+        "default": "中サイズ右波括弧飾り"
+      },
+      "mathspeak": {
+        "sbrief": "中サイズ右波括弧飾り"
+      }
+    }
+  },
+  {
+    "key": "27C5",
+    "mappings": {
+      "default": {
+        "default": "左S字形バッグ区切り記号"
+      }
+    }
+  },
+  {
+    "key": "27C6",
+    "mappings": {
+      "default": {
+        "default": "右S字形バッグ区切り記号"
+      }
+    }
+  },
+  {
+    "key": "27E6",
+    "mappings": {
+      "default": {
+        "default": "左白角括弧"
+      }
+    }
+  },
+  {
+    "key": "27E7",
+    "mappings": {
+      "default": {
+        "default": "右白角括弧"
+      }
+    }
+  },
+  {
+    "key": "27E8",
+    "mappings": {
+      "default": {
+        "default": "左山括弧"
+      },
+      "mathspeak": {
+        "sbrief": "左山括弧"
+      }
+    }
+  },
+  {
+    "key": "27E9",
+    "mappings": {
+      "default": {
+        "default": "右山括弧"
+      },
+      "mathspeak": {
+        "sbrief": "右山括弧"
+      }
+    }
+  },
+  {
+    "key": "27EA",
+    "mappings": {
+      "default": {
+        "default": "左二重山括弧"
+      }
+    }
+  },
+  {
+    "key": "27EB",
+    "mappings": {
+      "default": {
+        "default": "右二重山括弧"
+      }
+    }
+  },
+  {
+    "key": "27EC",
+    "mappings": {
+      "default": {
+        "default": "左白亀甲括弧"
+      }
+    }
+  },
+  {
+    "key": "27ED",
+    "mappings": {
+      "default": {
+        "default": "右白亀甲括弧"
+      }
+    }
+  },
+  {
+    "key": "27EE",
+    "mappings": {
+      "default": {
+        "default": "平らな左括弧"
+      },
+      "mathspeak": {
+        "brief": "平らな左括弧",
+        "sbrief": "平らな左括弧"
+      }
+    }
+  },
+  {
+    "key": "27EF",
+    "mappings": {
+      "default": {
+        "default": "平らな右括弧"
+      },
+      "mathspeak": {
+        "brief": "平らな右括弧",
+        "sbrief": "平らな右括弧"
+      }
+    }
+  },
+  {
+    "key": "2983",
+    "mappings": {
+      "default": {
+        "default": "左白波括弧"
+      }
+    }
+  },
+  {
+    "key": "2984",
+    "mappings": {
+      "default": {
+        "default": "右白波括弧"
+      }
+    }
+  },
+  {
+    "key": "2985",
+    "mappings": {
+      "default": {
+        "default": "左白括弧"
+      },
+      "mathspeak": {
+        "brief": "左白括弧",
+        "sbrief": "左白括弧"
+      }
+    }
+  },
+  {
+    "key": "2986",
+    "mappings": {
+      "default": {
+        "default": "右白括弧"
+      },
+      "mathspeak": {
+        "brief": "右白括弧",
+        "sbrief": "右白括弧"
+      }
+    }
+  },
+  {
+    "key": "2987",
+    "mappings": {
+      "default": {
+        "default": "Z記法左像括弧"
+      }
+    }
+  },
+  {
+    "key": "2988",
+    "mappings": {
+      "default": {
+        "default": "Z記法右像括弧"
+      }
+    }
+  },
+  {
+    "key": "2989",
+    "mappings": {
+      "default": {
+        "default": "Z記法左束縛括弧"
+      }
+    }
+  },
+  {
+    "key": "298A",
+    "mappings": {
+      "default": {
+        "default": "Z記法右束縛括弧"
+      }
+    }
+  },
+  {
+    "key": "298B",
+    "mappings": {
+      "default": {
+        "default": "下線付き左角括弧"
+      },
+      "mathspeak": {
+        "brief": "下線付き左角括弧",
+        "sbrief": "下線付き左角括弧"
+      }
+    }
+  },
+  {
+    "key": "298C",
+    "mappings": {
+      "default": {
+        "default": "下線付き右角括弧"
+      },
+      "mathspeak": {
+        "brief": "下線付き右角括弧",
+        "sbrief": "下線付き右角括弧"
+      }
+    }
+  },
+  {
+    "key": "298D",
+    "mappings": {
+      "default": {
+        "default": "上部にチェックマーク付き左角括弧"
+      },
+      "mathspeak": {
+        "brief": "上部にチェックマーク付き左角括弧",
+        "sbrief": "上部にチェックマーク付き左角括弧"
+      }
+    }
+  },
+  {
+    "key": "298E",
+    "mappings": {
+      "default": {
+        "default": "下部にチェックマーク付き右角括弧"
+      },
+      "mathspeak": {
+        "brief": "下部にチェックマーク付き右角括弧",
+        "sbrief": "下部にチェックマーク付き右角括弧"
+      }
+    }
+  },
+  {
+    "key": "298F",
+    "mappings": {
+      "default": {
+        "default": "下部にチェックマーク付き左角括弧"
+      },
+      "mathspeak": {
+        "brief": "下部にチェックマーク付き左角括弧",
+        "sbrief": "下部にチェックマーク付き左角括弧"
+      }
+    }
+  },
+  {
+    "key": "2990",
+    "mappings": {
+      "default": {
+        "default": "上部にチェックマーク付き右角括弧"
+      },
+      "mathspeak": {
+        "brief": "上部にチェックマーク付き右角括弧",
+        "sbrief": "上部にチェックマーク付き右角括弧"
+      }
+    }
+  },
+  {
+    "key": "2991",
+    "mappings": {
+      "default": {
+        "default": "ドット付き左山括弧"
+      },
+      "mathspeak": {
+        "sbrief": "ドット付き左山括弧"
+      }
+    }
+  },
+  {
+    "key": "2992",
+    "mappings": {
+      "default": {
+        "default": "ドット付き右山括弧"
+      },
+      "mathspeak": {
+        "sbrief": "ドット付き右山括弧"
+      }
+    }
+  },
+  {
+    "key": "2993",
+    "mappings": {
+      "default": {
+        "default": "弧付き左不等号括弧"
+      }
+    }
+  },
+  {
+    "key": "2994",
+    "mappings": {
+      "default": {
+        "default": "弧付き右不等号括弧"
+      }
+    }
+  },
+  {
+    "key": "2995",
+    "mappings": {
+      "default": {
+        "default": "二重弧付き左不等号括弧"
+      }
+    }
+  },
+  {
+    "key": "2996",
+    "mappings": {
+      "default": {
+        "default": "二重弧付き右不等号括弧"
+      }
+    }
+  },
+  {
+    "key": "2997",
+    "mappings": {
+      "default": {
+        "default": "左黒亀甲括弧"
+      }
+    }
+  },
+  {
+    "key": "2998",
+    "mappings": {
+      "default": {
+        "default": "右黒亀甲括弧"
+      }
+    }
+  },
+  {
+    "key": "29D8",
+    "mappings": {
+      "default": {
+        "default": "左波線括弧"
+      }
+    }
+  },
+  {
+    "key": "29D9",
+    "mappings": {
+      "default": {
+        "default": "右波線括弧"
+      }
+    }
+  },
+  {
+    "key": "29DA",
+    "mappings": {
+      "default": {
+        "default": "左二重波線括弧"
+      }
+    }
+  },
+  {
+    "key": "29DB",
+    "mappings": {
+      "default": {
+        "default": "右二重波線括弧"
+      }
+    }
+  },
+  {
+    "key": "29FC",
+    "mappings": {
+      "default": {
+        "default": "左曲線山括弧"
+      }
+    }
+  },
+  {
+    "key": "29FD",
+    "mappings": {
+      "default": {
+        "default": "右曲線山括弧"
+      }
+    }
+  },
+  {
+    "key": "2E22",
+    "mappings": {
+      "default": {
+        "default": "上半左括弧"
+      },
+      "mathspeak": {
+        "brief": "上半左括弧",
+        "sbrief": "上半左括弧"
+      }
+    }
+  },
+  {
+    "key": "2E23",
+    "mappings": {
+      "default": {
+        "default": "上半右括弧"
+      },
+      "mathspeak": {
+        "brief": "上半右括弧", 
+        "sbrief": "上半右括弧"
+      }
+    }
+  },
+  {
+    "key": "2E24",
+    "mappings": {
+      "default": {
+        "default": "下半左括弧"
+      },
+      "mathspeak": {
+        "brief": "下半左括弧",
+        "sbrief": "下半左括弧"
+      }
+    }
+  },
+  {
+    "key": "2E25",
+    "mappings": {
+      "default": {
+        "default": "下半右括弧"
+      },
+      "mathspeak": {
+        "brief": "下半右括弧",
+        "sbrief": "下半右括弧"
+      }
+    }
+  },
+  {
+    "key": "2E26",
+    "mappings": {
+      "default": {
+        "default": "左横向きU括弧"
+      }
+    }
+  },
+  {
+    "key": "2E27",
+    "mappings": {
+      "default": {
+        "default": "右横向きU括弧"
+      }
+    }
+  },
+  {
+    "key": "2E28",
+    "mappings": {
+      "default": {
+        "default": "二重左丸括弧"
+      },
+      "mathspeak": {
+        "brief": "二重左丸括弧",
+        "sbrief": "二重左丸括弧"
+      }
+    }
+  },
+  {
+    "key": "2E29",
+    "mappings": {
+      "default": {
+        "default": "二重右丸括弧"
+      },
+      "mathspeak": {
+        "brief": "二重右丸括弧",
+        "sbrief": "二重右丸括弧"
+      }
+    }
+  },
+  {
+    "key": "3008",
+    "mappings": {
+      "default": {
+        "default": "左山括弧"
+      },
+      "mathspeak": {
+        "sbrief": "左山括弧"
+      }
+    }
+  },
+  {
+    "key": "3009",
+    "mappings": {
+      "default": {
+        "default": "右山括弧"
+      },
+      "mathspeak": {
+        "sbrief": "右山括弧"
+      }
+    }
+  },
+  {
+    "key": "300A",
+    "mappings": {
+      "default": {
+        "default": "二重左山括弧"
+      }
+    }
+  },
+  {
+    "key": "300B",
+    "mappings": {
+      "default": {
+        "default": "二重右山括弧"
+      }
+    }
+  },
+  {
+    "key": "300C",
+    "mappings": {
+      "default": {
+        "default": "左かぎ括弧"
+      }
+    }
+  },
+  {
+    "key": "300D",
+    "mappings": {
+      "default": {
+        "default": "右かぎ括弧"
+      }
+    }
+  },
+  {
+    "key": "300E",
+    "mappings": {
+      "default": {
+        "default": "左二重かぎ括弧"
+      }
+    }
+  },
+  {
+    "key": "300F",
+    "mappings": {
+      "default": {
+        "default": "右二重かぎ括弧"
+      }
+    }
+  },
+  {
+    "key": "3010",
+    "mappings": {
+      "default": {
+        "default": "左黒レンズ括弧"
+      }
+    }
+  },
+  {
+    "key": "3011",
+    "mappings": {
+      "default": {
+        "default": "右黒レンズ括弧"
+      }
+    }
+  },
+  {
+    "key": "3014",
+    "mappings": {
+      "default": {
+        "default": "左亀甲括弧"
+      }
+    }
+  },
+  {
+    "key": "3015",
+    "mappings": {
+      "default": {
+        "default": "右亀甲括弧"
+      }
+    }
+  },
+  {
+    "key": "3016",
+    "mappings": {
+      "default": {
+        "default": "左白レンズ括弧"
+      }
+    }
+  },
+  {
+    "key": "3017",
+    "mappings": {
+      "default": {
+        "default": "右白レンズ括弧"
+      }
+    }
+  },
+  {
+    "key": "3018",
+    "mappings": {
+      "default": {
+        "default": "左白亀甲括弧"
+      }
+    }
+  },
+  {
+    "key": "3019",
+    "mappings": {
+      "default": {
+        "default": "右白亀甲括弧"
+      }
+    }
+  },
+  {
+    "key": "301A",
+    "mappings": {
+      "default": {
+        "default": "左白括弧"
+      }
+    }
+  },
+  {
+    "key": "301B",
+    "mappings": {
+      "default": {
+        "default": "右白括弧"
+      }
+    }
+  },
+  {
+    "key": "301D",
+    "mappings": {
+      "default": {
+        "default": "二重引用符逆記号"
+      }
+    }
+  },
+  {
+    "key": "301E",
+    "mappings": {
+      "default": {
+        "default": "二重引用符記号"
+      }
+    }
+  },
+  {
+    "key": "301F",
+    "mappings": {
+      "default": {
+        "default": "低い二重引用符記号"
+      }
+    }
+  },
+  {
+    "key": "FD3E",
+    "mappings": {
+      "default": {
+        "default": "装飾的左括弧"
+      },
+      "mathspeak": {
+        "brief": "装飾的左括弧",
+        "sbrief": "装飾的左括弧"
+      }
+    }
+  },
+  {
+    "key": "FD3F",
+    "mappings": {
+      "default": {
+        "default": "装飾的右括弧"
+      },
+      "mathspeak": {
+        "brief": "装飾的右括弧",
+        "sbrief": "装飾的右括弧"
+      }
+    }
+  },
+  {
+    "key": "FE17",
+    "mappings": {
+      "default": {
+        "default": "縦書き用左白レンズ括弧"
+      }
+    }
+  },
+  {
+    "key": "FE18",
+    "mappings": {
+      "default": {
+        "default": "縦書き用右白レンズ括弧"
+      }
+    }
+  },
+  {
+    "key": "FE35",
+    "mappings": {
+      "default": {
+        "default": "縦書き用左丸括弧"
+      },
+      "mathspeak": {
+        "brief": "縦書き用左丸括弧",
+        "sbrief": "縦書き用左丸括弧"
+      }
+    }
+  },
+  {
+    "key": "FE36",
+    "mappings": {
+      "default": {
+        "default": "縦書き用右丸括弧"
+      },
+      "mathspeak": {
+        "brief": "縦書き用右丸括弧",
+        "sbrief": "縦書き用右丸括弧"
+      }
+    }
+  },
+  {
+    "key": "FE37",
+    "mappings": {
+      "default": {
+        "default": "縦書き用左波括弧"
+      },
+      "mathspeak": {
+        "sbrief": "縦書き用左波括弧"
+      }
+    }
+  },
+  {
+    "key": "FE38",
+    "mappings": {
+      "default": {
+        "default": "縦書き用右波括弧"
+      },
+      "mathspeak": {
+        "sbrief": "縦書き用右波括弧"
+      }
+    }
+  },
+  {
+    "key": "FE39",
+    "mappings": {
+      "default": {
+        "default": "縦書き用左亀甲括弧"
+      }
+    }
+  },
+  {
+    "key": "FE3A",
+    "mappings": {
+      "default": {
+        "default": "縦書き用右亀甲括弧"
+      }
+    }
+  },
+  {
+    "key": "FE3B",
+    "mappings": {
+      "default": {
+        "default": "縦書き用左黒レンズ括弧"
+      }
+    }
+  },
+  {
+    "key": "FE3C",
+    "mappings": {
+      "default": {
+        "default": "縦書き用右黒レンズ括弧"
+      }
+    }
+  },
+  {
+    "key": "FE3D",
+    "mappings": {
+      "default": {
+        "default": "縦書き用二重左山括弧"
+      }
+    }
+  },
+  {
+    "key": "FE3E",
+    "mappings": {
+      "default": {
+        "default": "縦書き用二重右山括弧"
+      }
+    }
+  },
+  {
+    "key": "FE3F",
+    "mappings": {
+      "default": {
+        "default": "縦書き用左山括弧"
+      },
+      "mathspeak": {
+        "sbrief": "縦書き用左山括弧"
+      }
+    }
+  },
+  {
+    "key": "FE40",
+    "mappings": {
+      "default": {
+        "default": "縦書き用右山括弧"
+      },
+      "mathspeak": {
+        "sbrief": "縦書き用右山括弧"
+      }
+    }
+  },
+  {
+    "key": "FE41",
+    "mappings": {
+      "default": {
+        "default": "縦書き用左かぎ括弧"
+      }
+    }
+  },
+  {
+    "key": "FE42",
+    "mappings": {
+      "default": {
+        "default": "縦書き用右かぎ括弧"
+      }
+    }
+  },
+  {
+    "key": "FE43",
+    "mappings": {
+      "default": {
+        "default": "縦書き用左二重かぎ括弧"
+      }
+    }
+  },
+  {
+    "key": "FE44",
+    "mappings": {
+      "default": {
+        "default": "縦書き用右二重かぎ括弧"
+      }
+    }
+  },
+  {
+    "key": "FE47",
+    "mappings": {
+      "default": {
+        "default": "縦書き用左角括弧"
+      },
+      "mathspeak": {
+        "brief": "縦書き用左角括弧",
+        "sbrief": "縦書き用左角括弧"
+      }
+    }
+  },
+  {
+    "key": "FE48",
+    "mappings": {
+      "default": {
+        "default": "縦書き用右角括弧"
+      },
+      "mathspeak": {
+        "brief": "縦書き用右角括弧",
+        "sbrief": "縦書き用右角括弧"
+      }
+    }
+  },
+  {
+    "key": "FE59",
+    "mappings": {
+      "default": {
+        "default": "小左丸括弧"
+      },
+      "mathspeak": {
+        "brief": "小左丸括弧",
+        "sbrief": "小左丸括弧"
+      }
+    }
+  },
+  {
+    "key": "FE5A",
+    "mappings": {
+      "default": {
+        "default": "小右丸括弧"
+      },
+      "mathspeak": {
+        "brief": "小右丸括弧",
+        "sbrief": "小右丸括弧"
+      }
+    }
+  },
+  {
+    "key": "FE5B",
+    "mappings": {
+      "default": {
+        "default": "小左波括弧"
+      },
+      "mathspeak": {
+        "sbrief": "小左波括弧"
+      }
+    }
+  },
+  {
+    "key": "FE5C",
+    "mappings": {
+      "default": {
+        "default": "小右波括弧"
+      },
+      "mathspeak": {
+        "sbrief": "小右波括弧"
+      }
+    }
+  },
+  {
+    "key": "FE5D",
+    "mappings": {
+      "default": {
+        "default": "小左亀甲括弧"
+      }
+    }
+  },
+  {
+    "key": "FE5E",
+    "mappings": {
+      "default": {
+        "default": "小右亀甲括弧"
+      }
+    }
+  },
+  {
+    "key": "FF08",
+    "mappings": {
+      "default": {
+        "default": "全角左丸括弧"
+      },
+      "mathspeak": {
+        "brief": "全角左丸括弧",
+        "sbrief": "全角左丸括弧"
+      }
+    }
+  },
+  {
+    "key": "FF09",
+    "mappings": {
+      "default": {
+        "default": "全角右丸括弧"
+      },
+      "mathspeak": {
+        "brief": "全角右丸括弧",
+        "sbrief": "全角右丸括弧"
+      }
+    }
+  },
+  {
+    "key": "FF3B",
+    "mappings": {
+      "default": {
+        "default": "全角左角括弧"
+      },
+      "mathspeak": {
+        "brief": "全角左角括弧",
+        "sbrief": "全角左角括弧"
+      }
+    }
+  },
+  {
+    "key": "FF3D",
+    "mappings": {
+      "default": {
+        "default": "全角右角括弧"
+      },
+      "mathspeak": {
+        "brief": "全角右角括弧",
+        "sbrief": "全角右角括弧"
+      }
+    }
+  },
+  {
+    "key": "FF5B",
+    "mappings": {
+      "default": {
+        "default": "全角左波括弧"
+      },
+      "mathspeak": {
+        "sbrief": "全角左波括弧"
+      }
+    }
+  },
+  {
+    "key": "FF5D",
+    "mappings": {
+      "default": {
+        "default": "全角右波括弧"
+      },
+      "mathspeak": {
+        "sbrief": "全角右波括弧"
+      }
+    }
+  },
+  {
+    "key": "FF5F",
+    "mappings": {
+      "default": {
+        "default": "全角左白丸括弧"
+      },
+      "mathspeak": {
+        "brief": "全角左白丸括弧",
+        "sbrief": "全角左白丸括弧"
+      }
+    }
+  },
+  {
+    "key": "FF60",
+    "mappings": {
+      "default": {
+        "default": "全角右白丸括弧"
+      },
+      "mathspeak": {
+        "brief": "全角右白丸括弧",
+        "sbrief": "全角右白丸括弧"
+      }
+    }
+  },
+  {
+    "key": "FF62",
+    "mappings": {
+      "default": {
+        "default": "半角左かぎ括弧"
+      }
+    }
+  },
+  {
+    "key": "FF63",
+    "mappings": {
+      "default": {
+        "default": "半角右かぎ括弧"
       }
     }
   }
-] 
+]

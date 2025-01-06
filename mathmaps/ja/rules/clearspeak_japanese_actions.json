@@ -1,403 +1,1223 @@
 {
-  "domain": "clearspeak",
-  "locale": "ja",
-  "modality": "speech",
-  "kind": "actions",
-  "rules": [
-    [
-      "Action",
-      "collapsed",
-      "[t] \"折りたたまれた\"; [n] . (engine:modality=summary, grammar:?collapsed)"
-    ],
-    [
-      "Action",
-      "font",
-      "[t] @font (grammar:localFont); [n] . (pause:short, grammar:ignoreFont=@font)"
-    ],
-    [
-      "Action",
-      "german-font",
-      "[t] \"ドイツ語体\"; [n] . (grammar:ignoreFont=@font)"
-    ],
-    [
-      "Action",
-      "german-font-bold",
-      "[t] \"太字ドイツ語体\"; [n] . (grammar:ignoreFont=@font)"
-    ],
-    [
-      "Action",
-      "ellipsis",
-      "[t] \"以下同様\""
-    ],
-    [
-      "Action",
-      "ellipsis-andsoon",
-      "[t] \"以下同様に\""
-    ],
-    [
-      "Action",
-      "vbar-evaluated",
-      "[n] children/*[1] (pause:short); [t] \"を\"; [n] content/*[1]/children/*[2] (pause:short); [t] \"で評価\""
-    ],
-    [
-      "Action",
-      "vbar-evaluated-both",
-      "[n] children/*[1] (pause:short); [t] \"を\"; [n] content/*[1]/children/*[2] (pause:short); [t] \"で評価した値から\"; [n] content/*[1]/children/*[1]/children/*[2] (pause:short); [t] \"で評価した値を引いた\""
-    ],
-    [
-      "Action",
-      "vbar-such-that",
-      "[t] \"ただし\""
-    ],
-    [
-      "Action",
-      "vbar-divides",
-      "[t] \"を割り切る\""
-    ],
-    [
-      "Action",
-      "vbar-always-divides",
-      "[t] \"を割り切る\""
-    ],
-    [
-      "Action",
-      "vbar-given",
-      "[t] \"が与えられたとき\""
-    ],
-    [
-      "Action",
-      "member",
-      "[t] \"は次の要素である\""
-    ],
-    [
-      "Action",
-      "member-member",
-      "[t] \"は次の要素である\""
-    ],
-    [
-      "Action",
-      "member-element",
-      "[t] \"は次の元である\""
-    ],
-    [
-      "Action",
-      "member-in",
-      "[t] \"は次に含まれる\""
-    ],
-    [
-      "Action",
-      "member-belongs",
-      "[t] \"は次に属する\""
-    ],
-    [
-      "Action",
-      "not-member",
-      "[t] \"は次の要素ではない\""
-    ],
-    [
-      "Action",
-      "not-member-member",
-      "[t] \"は次の要素ではない\""
-    ],
-    [
-      "Action",
-      "not-member-element",
-      "[t] \"は次の元ではない\""
-    ],
-    [
-      "Action",
-      "not-member-in",
-      "[t] \"は次に含まれない\""
-    ],
-    [
-      "Action",
-      "not-member-belongs",
-      "[t] \"は次に属さない\""
-    ],
-    [
-      "Action",
-      "set-member",
-      "[t] \"に含まれる\""
-    ],
-    [
-      "Action",
-      "set-member-member",
-      "[t] \"の要素\""
-    ],
-    [
-      "Action",
-      "set-member-element",
-      "[t] \"の元\""
-    ],
-    [
-      "Action",
-      "set-member-in",
-      "[t] \"に含まれる\""
-    ],
-    [
-      "Action",
-      "set-member-belongs",
-      "[t] \"に属する\""
-    ],
-    [
-      "Action",
-      "set-not-member",
-      "[t] \"に含まれない\""
-    ],
-    [
-      "Action",
-      "set-not-member-member",
-      "[t] \"の要素ではない\""
-    ],
-    [
-      "Action",
-      "set-not-member-element",
-      "[t] \"の元ではない\""
-    ],
-    [
-      "Action",
-      "set-not-member-in",
-      "[t] \"に含まれない\""
-    ],
-    [
-      "Action",
-      "set-not-member-belongs",
-      "[t] \"に属さない\""
-    ],
-    [
-      "Action",
-      "article",
-      "[t] \"その\"; [n] . (grammar:noArticle)"
-    ],
-    [
-      "Action",
-      "appl",
-      "[n] children/*[1]; [t] \"の\"; [n] children/*[2] (pause:short)"
-    ],
-    [
-      "Action",
-      "appl-simple",
-      "[n] children/*[1]; [t] \"の\" (pause:short); [n] children/*[2] (pause:short)"
-    ],
-    [
-      "Action",
-      "appl-simple-fenced",
-      "[n] children/*[1]; [t] \"の\" (pause:short); [n] children/*[2] (pause:short)"
-    ],
-    [
-      "Action",
-      "appl-times",
-      "[p] (pause:short); [n] children/*[1]; [t] \"掛ける\"; [n] children/*[2] (pause:short)"
-    ],
-    [
-      "Action",
-      "function-prefix",
-      "[n] children/*[1]; [n] children/*[2]"
-    ],
-    [
-      "Action",
-      "function-prefix-simple-arg",
-      "[n] children/*[1]; [n] children/*[2]"
-    ],
-    [
-      "Action",
-      "function-prefix-embell",
-      "[p] (pause:short); [n] children/*[1]; [n] children/*[2] (pause:short)"
-    ],
-    [
-      "Action",
-      "function-prefix-fenced-or-frac-arg",
-      "[p] (pause:short); [n] children/*[1] (grammar:addArticle); [t] \"の\"; [n] children/*[2] (pause:short)"
-    ],
-    [
-      "Action",
-      "function-prefix-subscript",
-      "[p] (pause:short); [n] children/*[1] (grammar:addArticle); [t] \"の\" (pause:short); [n] children/*[2] (pause:short)"
-    ],
-    [
-      "Action",
-      "function-ln",
-      "[n] children/*[1]; [n] children/*[2]"
-    ],
-    [
-      "Action",
-      "function-ln-pause",
-      "[n] children/*[1]; [n] children/*[2] (pause:short)"
-    ],
-    [
-      "Action",
-      "function-ln-of",
-      "[n] children/*[1]; [t] \"の\"; [n] children/*[2] (pause:short)"
-    ],
-    [
-      "Action",
-      "function-prefix-as-exp",
-      "[n] children/*[1]; [t] \"の\" (pause:short); [n] children/*[2] (pause:short)"
-    ],
-    [
-      "Action",
-      "function-prefix-subscript-as-exp",
-      "[n] children/*[1]; [t] \"の\" (pause:short); [n] children/*[2] (pause:short)"
-    ],
-    [
-      "Action",
-      "function-prefix-hyper",
-      "[p] (pause:short); [n] children/*[1]; [t] \"の\"; [n] children/*[2] (pause:short)"
-    ],
-    [
-      "Action",
-      "function-prefix-inverse",
-      "[p] (pause:short); [n] children/*[1]/children/*[1]; [t] \"の逆関数の\"; [n] children/*[2] (pause:short)"
-    ],
-    [
-      "Action",
-      "appl-triginverse",
-      "[p] (pause:short); [n] children/*[1]; [t] \"の\"; [n] children/*[2] (pause:short)"
-    ],
-    [
-      "Action",
-      "function-prefix-arc-simple",
-      "[p] (pause:short); [t] \"アーク\"; [n] children/*[1]/children/*[1]; [n] children/*[2] (pause:short)"
-    ],
-    [
-      "Action",
-      "function-prefix-arc-simple-fenced",
-      "[p] (pause:short); [t] \"アーク\"; [n] children/*[1]/children/*[1] (pause:short); [n] children/*[2] (pause:short)"
-    ],
-    [
-      "Action",
-      "function-prefix-arc",
-      "[p] (pause:short); [t] \"アーク\"; [n] children/*[1]/children/*[1]; [t] \"の\"; [n] children/*[2] (pause:short)"
-    ],
-    [
-      "Action",
-      "function-inverse",
-      "[n] children/*[1]; [t] \"の逆関数\""
-    ],
-    [
-      "Action",
-      "superscript-prefix-function",
-      "[n] children/*[1]; [t] \"の\"; [n] children/*[2] (grammar:ordinal:addArticle); [t] \"乗\""
-    ],
-    [
-      "Action",
-      "superscript",
-      "[n] children/*[1]; [t] \"の指数\" (pause:short); [n] children/*[2] (pause:short); [t] \"指数終了\" (pause:short)"
-    ],
-    [
-      "Action",
-      "superscript-simple-exponent",
-      "[n] children/*[1]; [t] \"の\"; [n] children/*[2] (grammar:noArticle); [t] \"乗\" (pause:short)"
-    ],
-    [
-      "Action",
-      "superscript-simple-exponent-end",
-      "[n] children/*[1]; [t] \"の\"; [n] children/*[2] (grammar:noArticle); [t] \"乗\""
-    ],
-    [
-      "Action",
-      "superscript-ordinal",
-      "[n] children/*[1]; [t] \"の\"; [n] children/*[2] (grammar:ordinal:noArticle); [t] \"乗\" (pause:short)"
-    ],
-    [
-      "Action",
-      "superscript-non-ordinal",
-      "[n] children/*[1]; [t] \"の\"; [n] children/*[2] (grammar:noArticle); [t] \"乗\" (pause:short)"
-    ],
-    [
-      "Action",
-      "superscript-simple-function",
-      "[n] children/*[1]; [t] \"の\"; [n] children/*[2] (grammar:ordinal:addArticle); [t] \"乗\" (pause:short)"
-    ],
-    [
-      "Action",
-      "superscript-simple-function-none",
-      "[n] . (grammar:functions_none)"
-    ],
-    [
-      "Action",
-      "superscript-ordinal-number",
-      "[n] children/*[1]; [t] \"の\"; [n] children/*[2] (pause:short, grammar:ordinal:noArticle)"
-    ],
-    [
-      "Action",
-      "superscript-ordinal-negative",
-      "[n] children/*[1]; [t] \"の\"; [n] children/*[2] (pause:short, grammar:noArticle)"
-    ],
-    [
-      "Action",
-      "superscript-ordinal-default",
-      "[n] children/*[1]; [t] \"の指数\" (pause:short); [n] children/*[2] (pause:short); [t] \"指数終了\" (pause:short)"
-    ],
-    [
-      "Action",
-      "superscript-ordinal-power-number",
-      "[n] children/*[1]; [t] \"の\"; [n] children/*[2] (grammar:ordinal:noArticle); [t] \"乗\" (pause:short)"
-    ],
-    [
-      "Action",
-      "superscript-ordinal-power-negative",
-      "[n] children/*[1]; [t] \"の\"; [n] children/*[2] (grammar:noArticle); [t] \"乗\" (pause:short)"
-    ],
-    [
-      "Action",
-      "superscript-ordinal-power-identifier",
-      "[n] children/*[1]; [t] \"の\"; [n] children/*[2] (grammar:ordinal:noArticle); [t] \"乗\" (pause:short)"
-    ],
-    [
-      "Action",
-      "superscript-ordinal-power-default",
-      "[n] children/*[1]; [t] \"の指数\" (pause:short); [n] children/*[2] (pause:short); [t] \"指数終了\" (pause:short)"
-    ],
-    [
-      "Action",
-      "superscript-power",
-      "[n] children/*[1]; [t] \"の\"; [n] children/*[2] (pause:short, grammar:afterPower); [t] \"乗\""
-    ],
-    [
-      "Action",
-      "superscript-power-default",
-      "[n] children/*[1]; [t] \"の指数\" (pause:short); [n] children/*[2] (pause:short); [t] \"指数終了\" (pause:short)"
-    ],
-    [
-      "Action",
-      "exponent",
-      "[n] text() (join:\"-\"); [t] \"番目\""
-    ],
-    [
-      "Action",
-      "exponent-number",
-      "[t] CSFordinalExponent"
-    ],
-    [
-      "Action",
-      "exponent-ordinal",
-      "[t] CSFwordOrdinal"
-    ],
-    [
-      "Action",
-      "exponent-ordinal-zero",
-      "[t] \"零\""
-    ],
-    [
-      "Action",
-      "exponent-ordinalpower",
-      "[t] CSFwordOrdinal"
-    ],
-    [
-      "Action",
-      "exponent-ordinalpower-zero",
-      "[t] \"零\""
-    ],
-    [
-      "Action",
-      "square",
-      "[n] children/*[1]; [t] \"の二乗\" (span:children/*[2])"
-    ],
-    [
-      "Action",
-      "cube",
-      "[n] children/*[1]; [t] \"の三乗\" (span:children/*[2])"
+    "domain": "clearspeak",
+    "locale": "ja",
+    "modality": "speech", 
+    "kind": "actions",
+    "rules": [
+      [
+        "Action",
+        "collapsed",
+        "[t] \"折りたたまれた\"; [n] . (engine:modality=summary, grammar:?collapsed)"
+      ],
+      [
+        "Action",
+        "font",
+        "[t] @font (grammar:localFont); [n] . (pause:short, grammar:ignoreFont=@font)"
+      ],
+      [
+        "Action",
+        "german-font",
+        "[t] \"ドイツ文字\"; [n] . (grammar:ignoreFont=@font)"
+      ],
+      [
+        "Action",
+        "german-font-bold",
+        "[t] \"太字のドイツ文字\"; [n] . (grammar:ignoreFont=@font)"
+      ],
+      [
+        "Action",
+        "ellipsis",
+        "[t] \"など\""
+      ],
+      [
+        "Action",
+        "ellipsis-andsoon",
+        "[t] \"などまで\""
+      ],
+      [
+        "Action",
+        "vbar-evaluated",
+        "[n] children/*[1] (pause:short); [t] \"を\"; [n] content/*[1]/children/*[2] (pause:short); [t] \"で評価\""
+      ],
+      [
+        "Action",
+        "vbar-evaluated-both",
+        "[n] children/*[1] (pause:short); [t] \"を\"; [n] content/*[1]/children/*[2] (pause:short); [t] \"で評価したものから\"; [n] content/*[1]/children/*[1]/children/*[2] (pause:short); [t] \"で評価したものを引いたもの\""
+      ],
+      [
+        "Action",
+        "vbar-such-that",
+        "[t] \"であるような\""
+      ],
+      [
+        "Action",
+        "vbar-divides",
+        "[t] \"を割り切る\""
+      ],
+      [
+        "Action",
+        "vbar-always-divides",
+        "[t] \"を割り切る\""
+      ],
+      [
+        "Action",
+        "vbar-given",
+        "[t] \"が与えられたとき\""
+      ],
+      [
+        "Action",
+        "member",
+        "[t] \"は要素である\""
+      ],
+      [
+        "Action",
+        "member-member",
+        "[t] \"は要素である\""
+      ],
+      [
+        "Action",
+        "member-element",
+        "[t] \"は要素である\""
+      ],
+      [
+        "Action",
+        "member-in",
+        "[t] \"に含まれる\""
+      ],
+      [
+        "Action",
+        "member-belongs",
+        "[t] \"に属する\""
+      ],
+      [
+        "Action",
+        "not-member",
+        "[t] \"は要素でない\""
+      ],
+      [
+        "Action",
+        "not-member-member",
+        "[t] \"は要素でない\""
+      ],
+      [
+        "Action",
+        "not-member-element",
+        "[t] \"は要素でない\""
+      ],
+      [
+        "Action",
+        "not-member-in",
+        "[t] \"に含まれない\""
+      ],
+      [
+        "Action",
+        "not-member-belongs",
+        "[t] \"に属さない\""
+      ],
+      [
+        "Action",
+        "set-member",
+        "[t] \"の\""
+      ],
+      [
+        "Action",
+        "set-member-member",
+        "[t] \"の要素\""
+      ],
+      [
+        "Action",
+        "set-member-element",
+        "[t] \"の要素\""
+      ],
+      [
+        "Action",
+        "set-member-in",
+        "[t] \"の\""
+      ],
+      [
+        "Action",
+        "set-member-belongs",
+        "[t] \"に属する\""
+      ],
+      [
+        "Action",
+        "set-not-member",
+        "[t] \"に含まれない\""
+      ],
+      [
+        "Action",
+        "set-not-member-member",
+        "[t] \"の要素でない\""
+      ],
+      [
+        "Action",
+        "set-not-member-element",
+        "[t] \"の要素でない\""
+      ],
+      [
+        "Action",
+        "set-not-member-in",
+        "[t] \"に含まれない\""
+      ],
+      [
+        "Action",
+        "set-not-member-belongs",
+        "[t] \"に属さない\""
+      ],
+      [
+        "Action",
+        "article",
+        "[n] . (grammar:noArticle)"
+      ],
+      [
+        "Action",
+        "appl",
+        "[n] children/*[1]; [t] \"の\"; [n] children/*[2] (pause:short)"
+      ],
+      [
+        "Action",
+        "appl-simple",
+        "[n] children/*[1]; [t] \"の\" (pause:short); [n] children/*[2] (pause:short)"
+      ],
+      [
+        "Action",
+        "appl-simple-fenced",
+        "[n] children/*[1]; [t] \"の\" (pause:short); [n] children/*[2] (pause:short)"
+      ],
+      [
+        "Action",
+        "appl-times",
+        "[p] (pause:short); [n] children/*[1]; [t] \"かける\"; [n] children/*[2] (pause:short)"
+      ],
+      [
+        "Action",
+        "function-prefix",
+        "[n] children/*[1]; [n] children/*[2]"
+      ],
+      [
+        "Action",
+        "function-prefix-simple-arg",
+        "[n] children/*[1]; [n] children/*[2]"
+      ],
+      [
+        "Action",
+        "function-prefix-embell",
+        "[p] (pause:short); [n] children/*[1]; [n] children/*[2] (pause:short)"
+      ],
+      [
+        "Action",
+        "function-prefix-fenced-or-frac-arg",
+        "[p] (pause:short); [n] children/*[1]; [t] \"の\"; [n] children/*[2] (pause:short)"
+      ],
+      [
+        "Action",
+        "function-prefix-subscript",
+        "[p] (pause:short); [n] children/*[1]; [t] \"の\" (pause:short); [n] children/*[2] (pause:short)"
+      ],
+      [
+        "Action",
+        "function-ln",
+        "[n] children/*[1]; [n] children/*[2]"
+      ],
+      [
+        "Action",
+        "function-ln-pause",
+        "[n] children/*[1]; [n] children/*[2] (pause:short)"
+      ],
+      [
+        "Action",
+        "function-ln-of",
+        "[n] children/*[1]; [t] \"の\"; [n] children/*[2] (pause:short)"
+      ],
+      [
+        "Action",
+        "function-prefix-as-exp",
+        "[n] children/*[1]; [t] \"の\" (pause:short); [n] children/*[2] (pause:short)"
+      ],
+      [
+        "Action",
+        "function-prefix-subscript-as-exp",
+        "[n] children/*[1]; [t] \"の\" (pause:short); [n] children/*[2] (pause:short)"
+      ],
+      [
+        "Action",
+        "function-prefix-hyper",
+        "[p] (pause:short); [n] children/*[1]; [t] \"の\"; [n] children/*[2] (pause:short)"
+      ],
+      [
+        "Action",
+        "function-prefix-inverse",
+        "[p] (pause:short); [n] children/*[1]/children/*[1]; [t] \"の逆関数の\"; [n] children/*[2] (pause:short)"
+      ],
+      [
+        "Action",
+        "appl-triginverse",
+        "[p] (pause:short); [n] children/*[1]; [t] \"の\"; [n] children/*[2] (pause:short)"
+      ],
+      [
+        "Action",
+        "function-prefix-arc-simple",
+        "[p] (pause:short); [t] \"アーク\"; [n] children/*[1]/children/*[1]; [n] children/*[2] (pause:short)"
+      ],
+      [
+        "Action",
+        "function-prefix-arc-simple-fenced",
+        "[p] (pause:short); [t] \"アーク\"; [n] children/*[1]/children/*[1] (pause:short); [n] children/*[2] (pause:short)"
+      ],
+      [
+        "Action",
+        "function-prefix-arc",
+        "[p] (pause:short); [t] \"アーク\"; [n] children/*[1]/children/*[1]; [t] \"の\"; [n] children/*[2] (pause:short)"
+      ],
+      [
+        "Action",
+        "function-inverse",
+        "[n] children/*[1]; [t] \"の逆関数\""
+      ],
+      [
+        "Action",
+        "superscript-prefix-function",
+        "[n] children/*[2] (grammar:ordinal:addArticle); [t] \"乗の\"; [n] children/*[1]"
+      ],
+      [
+        "Action",
+        "superscript",
+        "[n] children/*[1]; [t] \"の指数\" (pause:short); [n] children/*[2] (pause:short); [t] \"乗\" (pause:short)"
+      ],
+      [
+        "Action",
+        "superscript-simple-exponent",
+        "[n] children/*[1]; [t] \"の\"; [n] children/*[2] (grammar:noArticle); [t] \"乗\" (pause:short)"
+      ],
+      [
+        "Action",
+        "superscript-simple-exponent-end",
+        "[n] children/*[1]; [t] \"の\"; [n] children/*[2] (grammar:noArticle); [t] \"乗\""
+      ],
+      [
+        "Action",
+        "superscript-ordinal",
+        "[n] children/*[1]; [t] \"の\"; [n] children/*[2] (grammar:ordinal:noArticle); [t] \"乗\" (pause:short)"
+      ],
+      [
+        "Action",
+        "superscript-non-ordinal",
+        "[n] children/*[1]; [t] \"の\"; [n] children/*[2] (grammar:noArticle); [t] \"乗\" (pause:short)"
+      ],
+      [
+        "Action",
+        "superscript-simple-function",
+        "[n] children/*[2] (grammar:ordinal:addArticle); [t] \"乗の\" (pause:short); [n] children/*[1]"
+      ],
+      [
+        "Action",
+        "superscript-simple-function-none",
+        "[n] . (grammar:functions_none)"
+      ],
+      [
+        "Action",
+        "superscript-ordinal-number",
+        "[n] children/*[1]; [t] \"の\"; [n] children/*[2] (pause:short, grammar:ordinal:noArticle)"
+      ],
+      [
+        "Action",
+        "superscript-ordinal-negative",
+        "[n] children/*[1]; [t] \"の\"; [n] children/*[2] (pause:short, grammar:noArticle)"
+      ],
+      [
+        "Action",
+        "superscript-ordinal-default",
+        "[n] children/*[1]; [t] \"の指数\" (pause:short); [n] children/*[2] (pause:short); [t] \"乗\" (pause:short)"
+      ],
+      [
+        "Action",
+        "superscript-ordinal-power-number",
+        "[n] children/*[1]; [t] \"の\"; [n] children/*[2] (grammar:ordinal:noArticle); [t] \"乗\" (pause:short)"
+      ],
+      [
+        "Action",
+        "superscript-ordinal-power-negative",
+        "[n] children/*[1]; [t] \"の\"; [n] children/*[2] (grammar:noArticle); [t] \"乗\" (pause:short)"
+      ],
+      [
+        "Action",
+        "superscript-ordinal-power-identifier",
+        "[n] children/*[1]; [t] \"の\"; [n] children/*[2] (grammar:ordinal:noArticle); [t] \"乗\" (pause:short)"
+      ],
+      [
+        "Action",
+        "superscript-ordinal-power-default",
+        "[n] children/*[1]; [t] \"の指数\" (pause:short); [n] children/*[2] (pause:short); [t] \"乗\" (pause:short)"
+      ],
+      [
+        "Action",
+        "superscript-power",
+        "[n] children/*[1]; [t] \"の\"; [n] children/*[2] (pause:short, grammar:afterPower); [t] \"乗\""
+      ],
+      [
+        "Action",
+        "superscript-power-default",
+        "[n] children/*[1]; [t] \"の指数\" (pause:short); [n] children/*[2] (pause:short); [t] \"乗\" (pause:short)"
+      ],
+      [
+        "Action",
+        "exponent",
+        "[n] text() (join:\"-\"); [t] \"番目\""
+      ],
+      [
+        "Action",
+        "exponent-number",
+        "[t] CSFordinalExponent"
+      ],
+      [
+        "Action",
+        "exponent-ordinal",
+        "[t] CSFwordOrdinal"
+      ],
+      [
+        "Action",
+        "exponent-ordinal-zero",
+        "[t] \"零\""
+      ],
+      [
+        "Action",
+        "exponent-ordinalpower",
+        "[t] CSFwordOrdinal"
+      ],
+      [
+        "Action",
+        "exponent-ordinalpower-zero",
+        "[t] \"零\""
+      ],
+      [
+        "Action",
+        "square",
+        "[n] children/*[1]; [t] \"の2乗\" (span:children/*[2])"
+      ],
+      [
+        "Action",
+        "cube",
+        "[n] children/*[1]; [t] \"の3乗\" (span:children/*[2])"
+      ],
+      [
+        "Action",
+        "fences-points",
+        "[t] \"座標\"; [n] children/*[1]"
+      ],
+      [
+        "Action",
+        "fences-interval",
+        "[t] \"区間\"; [n] children/*[1]/children/*[1]; [t] \"から\"; [n] children/*[1]/children/*[3] (pause:short); [n] . (grammar:interval)"
+      ],
+      [
+        "Action",
+        "interval-open",
+        "[t] \"を含まない\"; [n] children/*[1]/children/*[1]; [t] \"と\"; [n] children/*[1]/children/*[3]; [t] \"を含まない\""
+      ],
+      [
+        "Action",
+        "interval-closed-open",
+        "[t] \"を含む\"; [n] children/*[1]/children/*[1] (pause:short); [t] \"を含まない\"; [n] children/*[1]/children/*[3]"
+      ],
+      [
+        "Action",
+        "interval-open-closed",
+        "[t] \"を含まない\"; [n] children/*[1]/children/*[1] (pause:short); [t] \"を含む\"; [n] children/*[1]/children/*[3]"
+      ],
+      [
+        "Action",
+        "interval-closed",
+        "[t] \"を含む\"; [n] children/*[1]/children/*[1]; [t] \"と\"; [n] children/*[1]/children/*[3]; [t] \"を含む\""
+      ],
+      [
+        "Action",
+        "interval-open-inf-r",
+        "[t] \"を含まない\"; [n] children/*[1]/children/*[1]"
+      ],
+      [
+        "Action",
+        "interval-open-inf-l",
+        "[t] \"を含まない\"; [n] children/*[1]/children/*[3]"
+      ],
+      [
+        "Action",
+        "interval-closed-open-inf",
+        "[t] \"を含む\"; [n] children/*[1]/children/*[1]"
+      ],
+      [
+        "Action",
+        "interval-open-closed-inf",
+        "[t] \"を含む\"; [n] children/*[1]/children/*[3]"
+      ],
+      [
+        "Action",
+        "set-empty",
+        "[t] \"空集合\""
+      ],
+      [
+        "Action",
+        "set-extended",
+        "[t] \"集合\"; [n] children/*[1]/children/*[1]; [t] \"であって\"; [n] children/*[1]/children/*[3]; [t] \"を満たすもの\""
+      ],
+      [
+        "Action",
+        "set-collection",
+        "[t] \"集合\"; [n] children/*[1]"
+      ],
+      [
+        "Action",
+        "set-extended-woall",
+        "[t] \"集合\"; [n] children/*[1]/children/*[1]; [t] \"であって\"; [n] children/*[1]/children/*[3]; [t] \"を満たすもの\""
+      ],
+      [
+        "Action",
+        "subscript",
+        "[p] (pause:short); [n] children/*[1]; [t] \"の下付き\"; [n] children/*[2] (pause:short)"
+      ],
+      [
+        "Action",
+        "logarithm-base",
+        "[n] children/*[1]; [t] \"を底とする\"; [n] children/*[2]"
+      ],
+      [
+        "Action",
+        "subscript-index",
+        "[n] children/*[1]; [t] \"の下付き\"; [n] children/*[2]"
+      ],
+      [
+        "Action",
+        "fraction",
+        "[p] (pause:short); [t] \"分数\" (grammar:article); [t] \"分子\"; [n] children/*[1] (pause:short); [t] \"分母\"; [n] children/*[2] (pause:short)"
+      ],
+      [
+        "Action",
+        "fraction-none",
+        "[p] (pause:short); [t] \"分数\" (grammar:article); [t] \"分子\"; [n] children/*[1] (pause:short); [t] \"分母\"; [n] children/*[2] (pause:short)"
+      ],
+      [
+        "Action",
+        "simple-fraction",
+        "[p] (pause:short); [n] children/*[1]; [t] \"分の\"; [n] children/*[2] (pause:short)"
+      ],
+      [
+        "Action",
+        "simple-vulgar-fraction",
+        "[p] (pause:short); [n] children/*[1]; [t] \"分の\"; [n] children/*[2] (pause:short)"
+      ],
+      [
+        "Action",
+        "simple-text-fraction",
+        "[p] (pause:short); [n] children/*[1]; [t] \"分の\"; [n] children/*[2] (pause:short)"
+      ],
+      [
+        "Action",
+        "vulgar-fraction",
+        "[t] CSFvulgarFraction"
+      ],
+      [
+        "Action",
+        "fraction-over",
+        "[p] (pause:short); [n] children/*[1]; [t] \"分の\"; [n] children/*[2] (pause:short)"
+      ],
+      [
+        "Action",
+        "fraction-overendfrac",
+        "[p] (pause:short); [n] children/*[1]; [t] \"分の\"; [n] children/*[2] (pause:short); [t] \"分数終わり\" (pause:short)"
+      ],
+      [
+        "Action",
+        "fraction-fracover",
+        "[p] (pause:short); [t] \"分数\"; [n] children/*[1]; [t] \"分の\"; [n] children/*[2] (pause:short)"
+      ],
+      [
+        "Action",
+        "fraction-per",
+        "[p] (pause:short); [n] children/*[1]; [t] \"あたり\"; [n] children/*[2] (pause:short)"
+      ],
+      [
+        "Action",
+        "fraction-generalendfrac",
+        "[p] (pause:short); [t] \"分数分子\"; [n] children/*[1] (pause:short); [t] \"分母\"; [n] children/*[2] (pause:short); [t] \"分数終わり\" (pause:short)"
+      ],
+      [
+        "Action",
+        "fraction-general",
+        "[p] (pause:short); [t] \"分数分子\"; [n] children/*[1] (pause:short); [t] \"分母\"; [n] children/*[2] (pause:short)"
+      ],
+      [
+        "Action",
+        "simple-vulgar-fraction-ordinal",
+        "[t] CSFvulgarFraction"
+      ],
+      [
+        "Action",
+        "fraction-endfrac",
+        "[p] (pause:short); [n] . (grammar:endfrac); [t] \"分数終わり\" (pause:short)"
+      ],
+      [
+        "Action",
+        "vulgar-fraction-endfrac",
+        "[p] (pause:short); [n] children/*[1]; [t] \"分の\"; [n] children/*[2] (pause:short)"
+      ],
+      [
+        "Action",
+        "simple-vulgar-fraction-endfrac",
+        "[t] CSFvulgarFraction"
+      ],
+      [
+        "Action",
+        "sqrt",
+        "[t] \"平方根\"; [n] children/*[1] (pause:short)"
+      ],
+      [
+        "Action",
+        "sqrt-nested",
+        "[p] (pause:\"short\"); [t] \"平方根\"; [n] children/*[1] (pause:short)"
+      ],
+      [
+        "Action",
+        "negative-sqrt",
+        "[t] \"マイナス平方根\"; [n] children/*[1]/children/*[1] (pause:short)"
+      ],
+      [
+        "Action",
+        "negative-sqrt-default",
+        "[p] (pause:\"short\"); [t] \"マイナス平方根\"; [n] children/*[1]/children/*[1] (pause:short)"
+      ],
+      [
+        "Action",
+        "sqrt-plus-minus",
+        "[t] \"プラスの平方根\"; [n] children/*[1] (pause:short)"
+      ],
+      [
+        "Action",
+        "sqrt-nested-plus-minus",
+        "[p] (pause:\"short\"); [t] \"プラスの平方根\"; [n] children/*[1] (pause:short)"
+      ],
+      [
+        "Action",
+        "sqrt-plus-minus-posnegsqrootend",
+        "[t] \"プラスの平方根\"; [n] children/*[1] (pause:short)"
+      ],
+      [
+        "Action",
+        "sqrt-nested-plus-minus-posnegsqrootend",
+        "[p] (pause:\"short\"); [t] \"プラスの平方根\"; [n] children/*[1] (pause:short)"
+      ],
+      [
+        "Action",
+        "sqrt-endroot",
+        "[n] . (grammar:?EndRoot); [t] \"根号終わり\" (pause:short)"
+      ],
+      [
+        "Action",
+        "negative-sqrt-endroot",
+        "[n] . (grammar:?EndRoot); [t] \"根号終わり\" (pause:short)"
+      ],
+      [
+        "Action",
+        "sqrt-posnegsqrootend",
+        "[n] . (grammar:?EndRoot); [t] \"根号終わり\" (pause:short)"
+      ],
+      [
+        "Action",
+        "negative-sqrt-posnegsqrootend",
+        "[n] . (grammar:?EndRoot); [t] \"根号終わり\" (pause:short)"
+      ],
+      [
+        "Action",
+        "cubic",
+        "[t] \"立方根\"; [n] children/*[2] (pause:short)"
+      ],
+      [
+        "Action",
+        "cubic-nested",
+        "[p] (pause:short); [t] \"立方根\"; [n] children/*[2] (pause:short)"
+      ],
+      [
+        "Action",
+        "root",
+        "[n] children/*[1] (grammar:ordinal:addArticle); [t] \"乗根\"; [n] children/*[2] (pause:short)"
+      ],
+      [
+        "Action",
+        "root-nested",
+        "[p] (pause:short); [n] children/*[1] (grammar:ordinal:addArticle); [t] \"乗根\"; [n] children/*[2] (pause:short)"
+      ],
+      [
+        "Action",
+        "root-endroot",
+        "[n] . (grammar:?EndRoot); [t] \"根号終わり\" (pause:short)"
+      ],
+      [
+        "Action",
+        "root-posnegsqrootend",
+        "[n] . (grammar:?EndRoot); [t] \"根号終わり\" (pause:short)"
+      ],
+      [
+        "Action",
+        "negative",
+        "[t] \"マイナス\" (span:content/*[1]); [n] children/*[1]"
+      ],
+      [
+        "Action",
+        "positive",
+        "[t] \"プラス\" (span:content/*[1]); [n] children/*[1]"
+      ],
+      [
+        "Action",
+        "angle-measure",
+        "[n] content/*[1]; [t] \"の大きさ\"; [n] children/*[2] (grammar:angle)"
+      ],
+      [
+        "Action",
+        "set-prefix-operators",
+        "[n] . (grammar:addArticle); [t] \"の\""
+      ],
+      [
+        "Action",
+        "division",
+        "[n] children/*[1]; [t] \"割る\" (span:content/*[1]); [n] children/*[2]"
+      ],
+      [
+        "Action",
+        "operators-after-power",
+        "[m] children/* (rate:\"0.5\")"
+      ],
+      [
+        "Action",
+        "natural-numbers",
+        "[t] \"自然数\""
+      ],
+      [
+        "Action",
+        "integers",
+        "[t] \"整数\""
+      ],
+      [
+        "Action",
+        "rational-numbers",
+        "[t] \"有理数\""
+      ],
+      [
+        "Action",
+        "real-numbers",
+        "[t] \"実数\""
+      ],
+      [
+        "Action",
+        "complex-numbers",
+        "[t] \"複素数\""
+      ],
+      [
+        "Action",
+        "natural-numbers-with-zero",
+        "[t] \"零を含む自然数\""
+      ],
+      [
+        "Action",
+        "positive-integers",
+        "[t] \"正の整数\""
+      ],
+      [
+        "Action",
+        "negative-integers",
+        "[t] \"負の整数\""
+      ],
+      [
+        "Action",
+        "positive-rational-numbers",
+        "[t] \"正の有理数\""
+      ],
+      [
+        "Action",
+        "negative-rational-numbers",
+        "[t] \"負の有理数\""
+      ],
+      [
+        "Action",
+        "fences-neutral",
+        "[p] (pause:short); [t] \"絶対値\"; [n] children/*[1] (pause:short)"
+      ],
+      [
+        "Action",
+        "fences-neutral-absend",
+        "[p] (pause:short); [t] \"絶対値\" (span:content/*[1]); [n] children/*[1] (pause:short); [t] \"絶対値終わり\" (span:content/*[1], pause:short)"
+      ],
+      [
+        "Action",
+        "fences-neutral-cardinality",
+        "[p] (pause:short); [t] \"濃度\"; [n] children/*[1] (pause:short)"
+      ],
+      [
+        "Action",
+        "fences-neutral-determinant",
+        "[p] (pause:short); [t] \"行列式\"; [n] children/*[1] (pause:short)"
+      ],
+      [
+        "Action",
+        "fences-metric",
+        "[p] (pause:short); [t] \"距離\"; [n] children/*[1] (pause:short)"
+      ],
+      [
+        "Action",
+        "fences-metric-absend",
+        "[p] (pause:short); [t] \"距離\" (span:content/*[1]); [n] children/*[1] (pause:short); [t] \"距離終わり\" (span:content/*[1], pause:short)"
+      ],
+      [
+        "Action",
+        "matrix",
+        "[t] count(children/*); [t] \"行\"; [t] count(children/*[1]/children/*); [t] \"列の行列\" (pause:long); [m] children/* (ctxtFunc:CTFnodeCounter, context:\"行-:\", pause:long)"
+      ],
+      [
+        "Action",
+        "matrix-simple",
+        "[t] count(children/*); [t] \"行\"; [t] count(children/*[1]/children/*); [t] \"列の行列\" (pause:long); [m] children/* (ctxtFunc:CTFnodeCounter, context:\"行-:\", pause:long, grammar:simpleDet)"
+      ],
+      [
+        "Action",
+        "matrix-trivial",
+        "[t] \"1行1列の行列で要素は\"; [n] children/*[1] (pause:long)"
+      ],
+      [
+        "Action",
+        "determinant", 
+        "[t] count(children/*); [t] \"行\"; [t] count(children/*[1]/children/*); [t] \"列の行列式\" (pause:long); [m] children/* (ctxtFunc:CTFnodeCounter, context:\"行-:\", pause:long, grammar:simpleDet)"
+      ],
+      [
+        "Action",
+        "determinant-simple",
+        "[t] count(children/*); [t] \"行\"; [t] count(children/*[1]/children/*); [t] \"列の行列式\" (pause:long); [m] children/* (ctxtFunc:CTFnodeCounter, context:\"行-:\", pause:long)"
+      ],
+      [
+        "Action", 
+        "matrix-vector",
+        "[t] count(children/*); [t] \"行\"; [t] count(children/*[1]/children/*); [t] \"列のベクトル\" (pause:long); [m] children/* (ctxtFunc:CTFnodeCounter, context:\"行-:\", pause:long, grammar:simpleDet)"
+      ],
+      [
+        "Action",
+        "matrix-vector-simple",
+        "[t] count(children/*); [t] \"行\"; [t] count(children/*[1]/children/*); [t] \"列のベクトル\" (pause:long); [m] children/* (sepFunc:CTFpauseSeparator, separator:\"short\", pause:long, grammar:simpleDet)"
+      ],
+      [
+        "Action",
+        "matrix-vector-simple-silentcolnum",
+        "[t] count(children/*); [t] \"行\"; [t] count(children/*[1]/children/*); [t] \"列のベクトル\" (pause:long); [m] children/* (sepFunc:CTFpauseSeparator, separator:\"short\", pause:long, grammar:simpleDet)"
+      ],
+      [
+        "Action",
+        "matrix-row-vector",
+        "[t] count(children/*); [t] \"行\"; [t] count(children/*[1]/children/*); [t] \"列の行ベクトル\" (pause:long); [m] children/*[1]/children/* (ctxtFunc:CTFnodeCounter, context:\"列-:\", pause:long, grammar:simpleDet)"
+      ],
+      [
+        "Action",
+        "matrix-row-vector-simple",
+        "[t] count(children/*); [t] \"行\"; [t] count(children/*[1]/children/*); [t] \"列の行ベクトル\" (pause:long); [m] children/*[1]/children/* (sepFunc:CTFpauseSeparator, separator:\"short\", pause:long, grammar:simpleDet)"
+      ],
+      [
+        "Action",
+        "matrix-row-vector-simple-silentcolnum",
+        "[t] count(children/*); [t] \"行\"; [t] count(children/*[1]/children/*); [t] \"列の行ベクトル\" (pause:long); [m] children/*[1]/children/* (sepFunc:CTFpauseSeparator, separator:\"short\", pause:long, grammar:simpleDet)"
+      ],
+      [
+        "Action",
+        "matrix-row",
+        "[m] children/* (ctxtFunc:CTFnodeCounter, context:\"列-、\", sepFunc:CTFpauseSeparator, separator:\"medium\", pause:long)"
+      ],
+      [
+        "Action",
+        "matrix-end-matrix",
+        "[n] . (grammar:?EndMatrix); [t] \"行列終わり\""
+      ],
+      [
+        "Action",
+        "matrix-end-vector",
+        "[n] . (grammar:?EndMatrix); [t] \"ベクトル終わり\""
+      ],
+      [
+        "Action",
+        "matrix-end-determinant",
+        "[n] . (grammar:?EndMatrix); [t] \"行列式終わり\""
+      ],
+      [
+        "Action",
+        "vector",
+        "[t] count(children/*); [t] \"行\"; [t] count(children/*[1]/children/*); [t] \"列のベクトル\" (pause:long); [m] children/* (ctxtFunc:CTFnodeCounter, context:\"行-:\", pause:long, grammar:simpleDet)"
+      ],
+      [
+        "Action",
+        "vector-simple",
+        "[t] count(children/*); [t] \"行\"; [t] count(children/*[1]/children/*); [t] \"列のベクトル\" (pause:long); [m] children/* (sepFunc:CTFpauseSeparator, separator:\"short\", pause:long, grammar:simpleDet)"
+      ],
+      [
+        "Action",
+        "row-vector",
+        "[t] count(children/*); [t] \"行\"; [t] count(children/*[1]/children/*); [t] \"列の行ベクトル\" (pause:long); [m] children/*[1]/children/* (ctxtFunc:CTFnodeCounter, context:\"列-:\", pause:long, grammar:simpleDet)"
+      ],
+      [
+        "Action",
+        "row-vector-simple",
+        "[t] count(children/*); [t] \"行\"; [t] count(children/*[1]/children/*); [t] \"列の行ベクトル\" (pause:long); [m] children/*[1]/children/* (sepFunc:CTFpauseSeparator, separator:\"short\", pause:long, grammar:simpleDet)"
+      ],
+      [
+        "Action",
+        "vector-end-matrix",
+        "[n] . (grammar:?EndMatrix); [t] \"行列終わり\""
+      ],
+      [
+        "Action",
+        "vector-end-vector",
+        "[n] . (grammar:?EndMatrix); [t] \"ベクトル終わり\""
+      ],
+      [
+        "Action",
+        "vector-end-vector-endvector",
+        "[n] . (grammar:?EndMatrix); [t] \"ベクトル終わり\""
+      ],
+      [
+        "Action",
+        "vector-end-determinant",
+        "[n] . (grammar:?EndMatrix); [t] \"行列式終わり\""
+      ],
+      [
+        "Action",
+        "binomial",
+        "[n] children/*[1]/children/*[1]; [t] \"から\"; [n] children/*[2]/children/*[1]; [t] \"個を選ぶ組み合わせ\""
+      ],
+      [
+        "Action",
+        "lines-summary",
+        "[p] (pause:short); [t] count(children/*); [t] \"行\"; [n] . (grammar:?layoutSummary)"
+      ],
+      [
+        "Action",
+        "cases-summary",
+        "[p] (pause:short); [t] count(children/*); [t] \"個の場合\"; [n] . (grammar:?layoutSummary)"
+      ],
+      [
+        "Action",
+        "lines",
+        "[p] (pause:short); [m] children/* (ctxtFunc:CTFnodeCounter, context:\"行-:\", sepFunc:CTFpauseSeparator, separator:\"long\", pause:long)"
+      ],
+      [
+        "Action",
+        "blank-cell",
+        "[t] \"空白\""
+      ],
+      [
+        "Action",
+        "blank-line",
+        "[t] \"空白\""
+      ],
+      [
+        "Action",
+        "blank-cell-empty",
+        "[t] \"空白\""
+      ],
+      [
+        "Action",
+        "blank-line-empty",
+        "[t] \"空白\""
+      ],
+      [
+        "Action",
+        "cases",
+        "[p] (pause:short); [m] children/* (ctxtFunc:CTFnodeCounter, context:\"場合-:\", sepFunc:CTFpauseSeparator, separator:\"long\", pause:long)"
+      ],
+      [
+        "Action",
+        "lines-cases-summary",
+        "[p] (pause:short); [t] count(children/*); [t] \"個の場合\"; [n] . (grammar:?layoutSummary)"
+      ],
+      [
+        "Action",
+        "lines-cases",
+        "[p] (pause:short); [m] children/* (ctxtFunc:CTFnodeCounter, context:\"場合-:\", sepFunc:CTFpauseSeparator, separator:\"long\", pause:long)"
+      ],
+      [
+        "Action",
+        "lines-equations-summary",
+        "[p] (pause:short); [t] count(children/*); [t] \"個の方程式\"; [n] . (grammar:?layoutSummary)"
+      ],
+      [
+        "Action",
+        "lines-equations",
+        "[p] (pause:short); [m] children/* (ctxtFunc:CTFnodeCounter, context:\"方程式-:\", sepFunc:CTFpauseSeparator, separator:\"long\", pause:long)"
+      ],
+      [
+        "Action",
+        "lines-steps-summary",
+        "[p] (pause:short); [t] count(children/*); [t] \"個のステップ\"; [n] . (grammar:?layoutSummary)"
+      ],
+      [
+        "Action",
+        "lines-steps",
+        "[p] (pause:short); [m] children/* (ctxtFunc:CTFnodeCounter, context:\"ステップ-:\", sepFunc:CTFpauseSeparator, separator:\"long\", pause:long)"
+      ],
+      [
+        "Action",
+        "lines-rows-summary",
+        "[p] (pause:short); [t] count(children/*); [t] \"行\"; [n] . (grammar:?layoutSummary)"
+      ],
+      [
+        "Action",
+        "lines-rows",
+        "[p] (pause:short); [m] children/* (ctxtFunc:CTFnodeCounter, context:\"行-:\", sepFunc:CTFpauseSeparator, separator:\"long\", pause:long)"
+      ],
+      [
+        "Action",
+        "lines-constraints-summary",
+        "[p] (pause:short); [t] count(children/*); [t] \"個の制約\"; [n] . (grammar:?layoutSummary)"
+      ],
+      [
+        "Action",
+        "lines-constraints",
+        "[p] (pause:short); [m] children/* (ctxtFunc:CTFnodeCounter, context:\"制約-:\", sepFunc:CTFpauseSeparator, separator:\"long\", pause:long)"
+      ],
+      [
+        "Action",
+        "bigop",
+        "[n] children/*[2]; [t] \"の\"; [n] children/*[1] (pause:short)"
+      ],
+      [
+        "Action",
+        "limboth",
+        "[n] children/*[2]; [t] \"から\"; [n] children/*[3]; [t] \"まで\"; [n] children/*[1]"
+      ],
+      [
+        "Action",
+        "limlower",
+        "[n] children/*[2]; [t] \"に関して\"; [n] children/*[1] (pause:short)"
+      ],
+      [
+        "Action",
+        "limupper",
+        "[n] children/*[2]; [t] \"に関して\"; [n] children/*[1] (pause:short)"
+      ],
+      [
+        "Action",
+        "integral",
+        "[n] children/*[2]; [t] \"に関して\"; [n] children/*[1]; [t] \"を\"; [n] children/*[3] (pause:short)"
+      ],
+      [
+        "Action",
+        "integral-novar",
+        "[n] children/*[2]; [t] \"の\"; [n] children/*[1] (pause:short)"
+      ],
+      [
+        "Action",
+        "overscript",
+        "[n] children/*[2]; [t] \"の下に\"; [n] children/*[1] (pause:short)"
+      ],
+      [
+        "Action",
+        "overscript-limits",
+        "[n] children/*[2]; [t] \"まで\"; [n] children/*[1]"
+      ],
+      [
+        "Action",
+        "underscript",
+        "[n] children/*[2]; [t] \"の上に\"; [n] children/*[1] (pause:short)"
+      ],
+      [
+        "Action",
+        "underscript-limits",
+        "[n] children/*[2]; [t] \"から\"; [n] children/*[1]"
+      ],
+      [
+        "Action",
+        "mixed-number",
+        "[n] children/*[1]; [t] \"と\"; [n] children/*[2]"
+      ],
+      [
+        "Action",
+        "number-with-chars",
+        "[t] \"数\"; [m] CQFspaceoutNumber (grammar:protected)"
+      ],
+      [
+        "Action",
+        "decimal-period",
+        "[t] \"循環小数\"; [n] children/*[1] (grammar:spaceout); [t] \"小数点の後に循環する数字\"; [n] children/*[3]/children/*[1] (grammar:spaceout)"
+      ],
+      [
+        "Action",
+        "decimal-period-float",
+        "[t] \"循環小数\"; [n] children/*[1] (grammar:spaceout); [t] \"の後に循環する数字\"; [n] children/*[2]/children/*[1] (grammar:spaceout)"
+      ],
+      [
+        "Action",
+        "decimal-period-singular",
+        "[t] \"循環小数\"; [n] children/*[1] (grammar:spaceout); [t] \"小数点の後に循環する数字\"; [n] children/*[3]/children/*[1] (grammar:spaceout)"
+      ],
+      [
+        "Action",
+        "decimal-period-singular-float",
+        "[t] \"循環小数\"; [n] children/*[1] (grammar:spaceout); [t] \"の後に循環する数字\"; [n] children/*[2]/children/*[1] (grammar:spaceout)"
+      ],
+      [
+        "Action",
+        "decimal-point",
+        "[t] \"点\""
+      ],
+      [
+        "Action",
+        "line-segment",
+        "[t] \"線分\"; [n] children/*[1]/children/*[1]; [n] children/*[1]/children/*[2] (pause:short)"
+      ],
+      [
+        "Action",
+        "conjugate",
+        "[t] \"複素共役\"; [n] children/*[1]"
+      ],
+      [
+        "Action",
+        "defined-by",
+        "[t] \"と定義する\" (pause:short)"
+      ],
+      [
+        "Action",
+        "adorned-sign",
+        "[n] children/*[1]; [t] \"記号の上に\"; [n] children/*[2]; [t] \"がある\""
+      ],
+      [
+        "Action",
+        "factorial",
+        "[t] \"階乗\""
+      ],
+      [
+        "Action",
+        "left-super",
+        "[t] \"左上付き\"; [n] text()"
+      ],
+      [
+        "Action",
+        "left-super-list",
+        "[t] \"左上付き\"; [m] children/*"
+      ],
+      [
+        "Action",
+        "left-sub",
+        "[t] \"左下付き\"; [n] text()"
+      ],
+      [
+        "Action",
+        "left-sub-list",
+        "[t] \"左下付き\"; [m] children/*"
+      ],
+      [
+        "Action",
+        "right-super",
+        "[t] \"右上付き\"; [n] text()"
+      ],
+      [
+        "Action",
+        "right-super-list",
+        "[t] \"右上付き\"; [m] children/*"
+      ],
+      [
+        "Action",
+        "right-sub",
+        "[t] \"右下付き\"; [n] text()"
+      ],
+      [
+        "Action",
+        "right-sub-list",
+        "[t] \"右下付き\"; [m] children/*"
+      ],
+      [
+        "Action",
+        "choose",
+        "[n] children/*[2] (grammar:combinatorics); [t] \"から\"; [n] children/*[4] (grammar:combinatorics); [t] \"個選ぶ組み合わせ\""
+      ],
+      [
+        "Action",
+        "permute",
+        "[n] children/*[2] (grammar:combinatorics); [t] \"から\"; [n] children/*[4] (grammar:combinatorics); [t] \"個選ぶ順列\""
+      ],
+      [
+        "Action",
+        "unit-square",
+        "[t] \"平方\"; [n] children/*[1]"
+      ],
+      [
+        "Action",
+        "unit-cubic",
+        "[t] \"立方\"; [n] children/*[1]"
+      ],
+      [
+        "Action",
+        "unit-reciprocal",
+        "[t] \"逆数\"; [n] children/*[1]"
+      ],
+      [
+        "Action",
+        "unit-reciprocal-singular",
+        "[t] \"毎\"; [n] children/*[1] (grammar:singular)"
+      ],
+      [
+        "Action",
+        "unit-divide",
+        "[n] children/*[1]; [t] \"毎\"; [n] children/*[2] (grammar:singular)"
+      ],
+      [
+        "Action",
+        "enclose",
+        "[t] @role (grammar:localEnclose); [t] \"で囲まれた\"; [n] children/*[1]"
+      ],
+      [
+        "Action",
+        "enclose-end",
+        "[t] @role (grammar:localEnclose); [t] \"で囲まれた\"; [n] children/*[1]; [t] \"囲み終わり\""
+      ],
+      [
+        "Action",
+        "overbar",
+        "[n] children/*[1]; [t] \"に横線\""
+      ],
+      [
+        "Action",
+        "underbar",
+        "[n] children/*[1]; [t] \"の下に横線\""
+      ],
+      [
+        "Action",
+        "leftbar",
+        "[t] \"縦線\"; [n] children/*[1]"
+      ],
+      [
+        "Action",
+        "rightbar",
+        "[n] children/*[1]; [t] \"縦線\""
+      ],
+      [
+        "Action",
+        "crossout",
+        "[t] \"取り消し線\"; [n] children/*[1]"
+      ],
+      [
+        "Action",
+        "crossout-end",
+        "[t] \"取り消し線\"; [n] children/*[1]; [t] \"取り消し終わり\""
+      ],
+      [
+        "Action",
+        "cancel-over",
+        "[n] children/*[1]/children/*[1]; [t] \"を\"; [n] children/*[2]; [t] \"で消す\""
+      ],
+      [
+        "Action",
+        "cancel-under",
+        "[n] children/*[2]/children/*[1]; [t] \"を\"; [n] children/*[1]; [t] \"で消す\""
+      ],
+      [
+        "Action",
+        "cancel-over-end",
+        "[n] children/*[1]/children/*[1]; [t] \"を\"; [n] children/*[2]; [t] \"で消す\"; [t] \"取り消し終わり\""
+      ],
+      [
+        "Action",
+        "cancel-under-end",
+        "[n] children/*[2]/children/*[1]; [t] \"を\"; [n] children/*[1]; [t] \"で消す\"; [t] \"取り消し終わり\""
+      ]
     ]
-  ]
-} 
+  }

@@ -6,7 +6,7 @@
     "key": "210E",
     "mappings": {
       "default": {
-        "default": "斜体h",
+        "default": "イタリック体のh",
         "physics": "プランク定数"
       }
     }
@@ -15,7 +15,7 @@
     "key": "0363",
     "mappings": {
       "default": {
-        "default": "結合文字a"
+        "default": "合成文字a"
       }
     }
   },
@@ -23,7 +23,7 @@
     "key": "0364",
     "mappings": {
       "default": {
-        "default": "結合文字e"
+        "default": "合成文字e"
       }
     }
   },
@@ -31,8 +31,475 @@
     "key": "0365",
     "mappings": {
       "default": {
-        "default": "結合文字i"
+        "default": "合成文字i"
+      }
+    }
+  },
+  {
+    "key": "0366",
+    "mappings": {
+      "default": {
+        "default": "合成文字o"
+      }
+    }
+  },
+  {
+    "key": "0367",
+    "mappings": {
+      "default": {
+        "default": "合成文字u"
+      }
+    }
+  },
+  {
+    "key": "0368",
+    "mappings": {
+      "default": {
+        "default": "合成文字c"
+      }
+    }
+  },
+  {
+    "key": "0369",
+    "mappings": {
+      "default": {
+        "default": "合成文字d"
+      }
+    }
+  },
+  {
+    "key": "036A",
+    "mappings": {
+      "default": {
+        "default": "合成文字h"
+      }
+    }
+  },
+  {
+    "key": "036B",
+    "mappings": {
+      "default": {
+        "default": "合成文字m"
+      }
+    }
+  },
+  {
+    "key": "036C",
+    "mappings": {
+      "default": {
+        "default": "合成文字r"
+      }
+    }
+  },
+  {
+    "key": "036D",
+    "mappings": {
+      "default": {
+        "default": "合成文字t"
+      }
+    }
+  },
+  {
+    "key": "036E",
+    "mappings": {
+      "default": {
+        "default": "合成文字v"
+      }
+    }
+  },
+  {
+    "key": "036F",
+    "mappings": {
+      "default": {
+        "default": "合成文字x"
+      }
+    }
+  },
+  {
+    "key": "1D62",
+    "mappings": {
+      "default": {
+        "default": "下付きi"
+      }
+    }
+  },
+  {
+    "key": "1D63",
+    "mappings": {
+      "default": {
+        "default": "下付きr"
+      }
+    }
+  },
+  {
+    "key": "1D64",
+    "mappings": {
+      "default": {
+        "default": "下付きu"
+      }
+    }
+  },
+  {
+    "key": "1D65",
+    "mappings": {
+      "default": {
+        "default": "下付きv"
+      }
+    }
+  },
+  {
+    "key": "1DCA",
+    "mappings": {
+      "default": {
+        "default": "下付き合成文字r"
+      }
+    }
+  },
+  {
+    "key": "1DD3",
+    "mappings": {
+      "default": {
+        "default": "上付き平坦化された開いたa"
+      }
+    }
+  },
+  {
+    "key": "1DD4",
+    "mappings": {
+      "default": {
+        "default": "合成文字ae"
+      }
+    }
+  },
+  {
+    "key": "1DD5",
+    "mappings": {
+      "default": {
+        "default": "合成文字ao"
+      }
+    }
+  },
+  {
+    "key": "1DD6",
+    "mappings": {
+      "default": {
+        "default": "合成文字av"
+      }
+    }
+  },
+  {
+    "key": "1DD7",
+    "mappings": {
+      "default": {
+        "default": "セディーユ付き合成文字c"
+      }
+    }
+  },
+  {
+    "key": "1DD8",
+    "mappings": {
+      "default": {
+        "default": "インシュラーd合成文字"
+      }
+    }
+  },
+  {
+    "key": "1DD9",
+    "mappings": {
+      "default": {
+        "default": "合成文字eth"
+      }
+    }
+  },
+  {
+    "key": "1DDA",
+    "mappings": {
+      "default": {
+        "default": "合成文字g"
+      }
+    }
+  },
+  {
+    "key": "1DDB",
+    "mappings": {
+      "default": {
+        "default": "小文字大文字G合成文字"
+      },
+      "mathspeak": {
+        "default": "小文字大文字G合成文字"
+      }
+    }
+  },
+  {
+    "key": "1DDC",
+    "mappings": {
+      "default": {
+        "default": "合成文字k"
+      }
+    }
+  },
+  {
+    "key": "1DDD",
+    "mappings": {
+      "default": {
+        "default": "合成文字l"
+      }
+    }
+  },
+  {
+    "key": "1DDE",
+    "mappings": {
+      "default": {
+        "default": "小文字大文字L合成文字"
+      },
+      "mathspeak": {
+        "default": "小文字大文字L合成文字"
+      }
+    }
+  },
+  {
+    "key": "1DDF",
+    "mappings": {
+      "default": {
+        "default": "小文字大文字M合成文字"
+      },
+      "mathspeak": {
+        "default": "小文字大文字M合成文字"
+      }
+    }
+  },
+  {
+    "key": "1DE0",
+    "mappings": {
+      "default": {
+        "default": "合成文字n"
+      }
+    }
+  },
+  {
+    "key": "1DE1",
+    "mappings": {
+      "default": {
+        "default": "小文字大文字N合成文字"
+      },
+      "mathspeak": {
+        "default": "小文字大文字N合成文字"
+      }
+    }
+  },
+  {
+    "key": "1DE2",
+    "mappings": {
+      "default": {
+        "default": "小文字大文字R合成文字"
+      },
+      "mathspeak": {
+        "default": "小文字大文字R合成文字"
+      }
+    }
+  },
+  {
+    "key": "1DE3",
+    "mappings": {
+      "default": {
+        "default": "ロトゥンダr合成文字"
+      }
+    }
+  },
+  {
+    "key": "1DE4",
+    "mappings": {
+      "default": {
+        "default": "合成文字s"
+      }
+    }
+  },
+  {
+    "key": "1DE5",
+    "mappings": {
+      "default": {
+        "default": "長いs合成文字"
+      }
+    }
+  },
+  {
+    "key": "1DE6",
+    "mappings": {
+      "default": {
+        "default": "合成文字z"
+      }
+    }
+  },
+  {
+    "key": "2071",
+    "mappings": {
+      "default": {
+        "default": "上付きi"
+      }
+    }
+  },
+  {
+    "key": "207F",
+    "mappings": {
+      "default": {
+        "default": "上付きn"
+      }
+    }
+  },
+  {
+    "key": "2090",
+    "mappings": {
+      "default": {
+        "default": "下付きa"
+      }
+    }
+  },
+  {
+    "key": "2091",
+    "mappings": {
+      "default": {
+        "default": "下付きe"
+      }
+    }
+  },
+  {
+    "key": "2092",
+    "mappings": {
+      "default": {
+        "default": "下付きo"
+      }
+    }
+  },
+  {
+    "key": "2093",
+    "mappings": {
+      "default": {
+        "default": "下付きx"
+      }
+    }
+  },
+  {
+    "key": "2094",
+    "mappings": {
+      "default": {
+        "default": "下付きシュワー"
+      }
+    }
+  },
+  {
+    "key": "2095",
+    "mappings": {
+      "default": {
+        "default": "下付きh"
+      }
+    }
+  },
+  {
+    "key": "2096",
+    "mappings": {
+      "default": {
+        "default": "下付きk"
+      }
+    }
+  },
+  {
+    "key": "2097",
+    "mappings": {
+      "default": {
+        "default": "下付きl"
+      }
+    }
+  },
+  {
+    "key": "2098",
+    "mappings": {
+      "default": {
+        "default": "下付きm"
+      }
+    }
+  },
+  {
+    "key": "2099",
+    "mappings": {
+      "default": {
+        "default": "下付きn"
+      }
+    }
+  },
+  {
+    "key": "209A",
+    "mappings": {
+      "default": {
+        "default": "下付きp"
+      }
+    }
+  },
+  {
+    "key": "209B",
+    "mappings": {
+      "default": {
+        "default": "下付きs"
+      }
+    }
+  },
+  {
+    "key": "209C",
+    "mappings": {
+      "default": {
+        "default": "下付きt"
+      }
+    }
+  },
+  {
+    "key": "2C7C",
+    "mappings": {
+      "default": {
+        "default": "下付きj"
+      }
+    }
+  },
+  {
+    "key": "1F12A",
+    "mappings": {
+      "default": {
+        "default": "亀甲括弧付き大文字S"
+      },
+      "mathspeak": {
+        "default": "亀甲括弧付き大文字S"
+      }
+    }
+  },
+  {
+    "key": "1F12B",
+    "mappings": {
+      "default": {
+        "default": "丸付きイタリック体大文字C"
+      },
+      "mathspeak": {
+        "default": "丸付きイタリック体大文字C"
+      }
+    }
+  },
+  {
+    "key": "1F12C",
+    "mappings": {
+      "default": {
+        "default": "丸付きイタリック体大文字R"
+      },
+      "mathspeak": {
+        "default": "丸付きイタリック体大文字R"
+      }
+    }
+  },
+  {
+    "key": "1F18A",
+    "mappings": {
+      "default": {
+        "default": "バツ付き白抜き四角付き大文字P"
+      },
+      "mathspeak": {
+        "default": "バツ付き白抜き四角付き大文字P"
       }
     }
   }
-] 
+]

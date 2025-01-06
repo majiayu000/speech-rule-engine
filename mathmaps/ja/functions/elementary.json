@@ -1,28 +1,248 @@
-{
-  "key": "elementary",
-  "mappings": {
-    "default": {
-      "exp": "指数関数",
-      "log": "対数",
-      "ln": "自然対数",
-      "lim": "極限",
-      "liminf": "下極限",
-      "limsup": "上極限",
-      "max": "最大値",
-      "min": "最小値",
-      "sup": "上限",
-      "inf": "下限",
-      "arg": "偏角",
-      "ker": "核",
-      "dim": "次元",
-      "hom": "準同型",
-      "det": "行列式",
-      "deg": "次数",
-      "gcd": "最大公約数",
-      "lcm": "最小公倍数",
-      "mod": "合同式",
-      "Re": "実部",
-      "Im": "虚部"
+[
+  {
+    "locale": "ja"
+  },
+  {
+    "key": "log",
+    "mappings": {
+      "default": {
+        "default": "対数"
+      }
+    }
+  },
+  {
+    "key": "ln",
+    "mappings": {
+      "default": {
+        "default": "自然対数"
+      },
+      "mathspeak": {
+        "default": "ln"
+      },
+      "clearspeak": {
+        "default": "l n",
+        "Log_LnAsNaturalLog": "自然対数"
+      }
+    }
+  },
+  {
+    "key": "lg",
+    "mappings": {
+      "default": {
+        "default": "常用対数"
+      }
+    }
+  },
+  {
+    "key": "exp",
+    "mappings": {
+      "default": {
+        "default": "指数関数"
+      },
+      "mathspeak": {
+        "default": "exp"
+      },
+      "clearspeak": {
+        "default": "exp"
+      }
+    }
+  },
+  {
+    "key": "gcd",
+    "mappings": {
+      "default": {
+        "default": "最大公約数"
+      },
+      "mathspeak": {
+        "default": "gcd"
+      },
+      "clearspeak": {
+        "default": "gcd"
+      }
+    }
+  },
+  {
+    "key": "lcm",
+    "mappings": {
+      "default": {
+        "default": "最小公倍数"
+      },
+      "mathspeak": {
+        "default": "lcm"
+      },
+      "clearspeak": {
+        "default": "lcm"
+      }
+    }
+  },
+  {
+    "key": "arg",
+    "mappings": {
+      "default": {
+        "default": "偏角"
+      },
+      "mathspeak": {
+        "default": "arg"
+      },
+      "clearspeak": {
+        "default": "arg"
+      }
+    }
+  },
+  {
+    "key": "im",
+    "mappings": {
+      "default": {
+        "default": "虚部"
+      },
+      "mathspeak": {
+        "default": "im"
+      },
+      "clearspeak": {
+        "default": "虚部"
+      }
+    }
+  },
+  {
+    "key": "re",
+    "mappings": {
+      "default": {
+        "default": "実部"
+      },
+      "mathspeak": {
+        "default": "re"
+      },
+      "clearspeak": {
+        "default": "実部"
+      }
+    }
+  },
+  {
+    "key": "inf",
+    "mappings": {
+      "default": {
+        "default": "下限"
+      },
+      "mathspeak": {
+        "default": "inf"
+      },
+      "clearspeak": {
+        "default": "inf"
+      }
+    }
+  },
+  {
+    "key": "lim",
+    "mappings": {
+      "default": {
+        "default": "極限"
+      },
+      "mathspeak": {
+        "default": "limit"
+      },
+      "clearspeak": {
+        "default": "lim"
+      }
+    }
+  },
+  {
+    "key": "liminf",
+    "mappings": {
+      "default": {
+        "default": "下極限"
+      },
+      "mathspeak": {
+        "default": "liminf"
+      },
+      "clearspeak": {
+        "default": "liminf"
+      }
+    }
+  },
+  {
+    "key": "limsup",
+    "mappings": {
+      "default": {
+        "default": "上極限"
+      },
+      "mathspeak": {
+        "default": "limsup"
+      },
+      "clearspeak": {
+        "default": "limsup"
+      }
+    }
+  },
+  {
+    "key": "max",
+    "mappings": {
+      "default": {
+        "default": "最大値"
+      },
+      "mathspeak": {
+        "default": "max"
+      },
+      "clearspeak": {
+        "default": "max"
+      }
+    }
+  },
+  {
+    "key": "min",
+    "mappings": {
+      "default": {
+        "default": "最小値"
+      },
+      "mathspeak": {
+        "default": "min"
+      },
+      "clearspeak": {
+        "default": "min"
+      }
+    }
+  },
+  {
+    "key": "sup",
+    "mappings": {
+      "default": {
+        "default": "上限"
+      },
+      "mathspeak": {
+        "default": "sup"
+      },
+      "clearspeak": {
+        "default": "sup"
+      }
+    }
+  },
+  {
+    "key": "injlim",
+    "mappings": {
+      "default": {
+        "default": "帰納的極限"
+      }
+    }
+  },
+  {
+    "key": "projlim",
+    "mappings": {
+      "default": {
+        "default": "射影極限"
+      }
+    }
+  },
+  {
+    "key": "mod",
+    "mappings": {
+      "default": {
+        "default": "合同式"
+      },
+      "mathspeak": {
+        "default": "mod"
+      },
+      "clearspeak": {
+        "default": "mod"
+      }
     }
   }
-} 
+] 

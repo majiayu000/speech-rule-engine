@@ -89,6 +89,8 @@ export interface Numbers {
   numericOrdinal?: tr.Transformer;
   numberToWords?: tr.Transformer;
   numberToOrdinal?: tr.GrammarCase;
+  numberWithCounter?: (num: number, counter: string, style?: string) => string;
+  getCounter?: (category: string) => string;
 
   vulgarSep?: string;
   numSep?: string;
@@ -110,6 +112,8 @@ export function NUMBERS(numbers: Numbers = {}): Numbers {
       numericOrdinal: tr.identityTransformer,
       numberToWords: tr.identityTransformer,
       numberToOrdinal: tr.pluralCase,
+      numberWithCounter: (num: number, _counter: string, _style?: string) => num.toString(),
+      getCounter: (_category: string) => '',
       vulgarSep: ' ',
       numSep: ' '
     },

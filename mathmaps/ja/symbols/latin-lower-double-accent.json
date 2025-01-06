@@ -3,27 +3,1683 @@
     "locale": "ja"
   },
   {
-    "key": "01D6",
+    "key": "00F8",
     "mappings": {
       "default": {
-        "default": "ウムラウトとオーバーライン付きu"
+        "default": "スラッシュ付きo"
       }
     }
   },
   {
-    "key": "01D8",
+    "key": "0111",
     "mappings": {
       "default": {
-        "default": "ウムラウトとアキュートアクセント付きu"
+        "default": "スラッシュ付きd"
       }
     }
   },
   {
-    "key": "01DA",
+    "key": "0127",
     "mappings": {
       "default": {
-        "default": "ウムラウトとハーチェック付きu"
+        "default": "スラッシュ付きh"
+      }
+    }
+  },
+  {
+    "key": "0142",
+    "mappings": {
+      "default": {
+        "default": "スラッシュ付きl"
+      }
+    }
+  },
+  {
+    "key": "0167",
+    "mappings": {
+      "default": {
+        "default": "スラッシュ付きt"
+      }
+    }
+  },
+  {
+    "key": "0180",
+    "mappings": {
+      "default": {
+        "default": "スラッシュ付きb"
+      }
+    }
+  },
+  {
+    "key": "019B",
+    "mappings": {
+      "default": {
+        "default": "スラッシュ付きラムダ"
+      }
+    }
+  },
+  {
+    "key": "01B6",
+    "mappings": {
+      "default": {
+        "default": "スラッシュ付きz"
+      }
+    }
+  },
+  {
+    "key": "01BE",
+    "mappings": {
+      "default": {
+        "default": "スラッシュ付き反転声門閉鎖音"
+      }
+    }
+  },
+  {
+    "key": "01E5",
+    "mappings": {
+      "default": {
+        "default": "スラッシュ付きg"
+      }
+    }
+  },
+  {
+    "key": "01FF",
+    "mappings": {
+      "default": {
+        "default": "スラッシュとアキュート付きo"
+      }
+    }
+  },
+  {
+    "key": "023C",
+    "mappings": {
+      "default": {
+        "default": "スラッシュ付きc"
+      }
+    }
+  },
+  {
+    "key": "0247",
+    "mappings": {
+      "default": {
+        "default": "スラッシュ付きe"
+      }
+    }
+  },
+  {
+    "key": "0249",
+    "mappings": {
+      "default": {
+        "default": "スラッシュ付きj"
+      }
+    }
+  },
+  {
+    "key": "024D",
+    "mappings": {
+      "default": {
+        "default": "スラッシュ付きr"
+      }
+    }
+  },
+  {
+    "key": "024F",
+    "mappings": {
+      "default": {
+        "default": "スラッシュ付きy"
+      }
+    }
+  },
+  {
+    "key": "025F",
+    "mappings": {
+      "default": {
+        "default": "スラッシュ付き点なしj"
+      }
+    }
+  },
+  {
+    "key": "0268",
+    "mappings": {
+      "default": {
+        "default": "スラッシュ付きi"
+      }
+    }
+  },
+  {
+    "key": "0284",
+    "mappings": {
+      "default": {
+        "default": "フック付きスラッシュ付き点なしj"
+      }
+    }
+  },
+  {
+    "key": "02A1",
+    "mappings": {
+      "default": {
+        "default": "スラッシュ付き声門閉鎖音"
+      }
+    }
+  },
+  {
+    "key": "02A2",
+    "mappings": {
+      "default": {
+        "default": "スラッシュ付き反転声門閉鎖音"
+      }
+    }
+  },
+  {
+    "key": "1D13",
+    "mappings": {
+      "default": {
+        "default": "スラッシュ付き横向きo"
+      }
+    }
+  },
+  {
+    "key": "1D7C",
+    "mappings": {
+      "default": {
+        "default": "スラッシュ付きイオータ"
+      }
+    }
+  },
+  {
+    "key": "1D7D",
+    "mappings": {
+      "default": {
+        "default": "スラッシュ付きp"
+      }
+    }
+  },
+  {
+    "key": "1D7F",
+    "mappings": {
+      "default": {
+        "default": "スラッシュ付きウプシロン"
+      }
+    }
+  },
+  {
+    "key": "1E9C",
+    "mappings": {
+      "default": {
+        "default": "斜めスラッシュ付き長いs"
+      }
+    }
+  },
+  {
+    "key": "1E9D",
+    "mappings": {
+      "default": {
+        "default": "高いスラッシュ付き長いs"
+      }
+    }
+  },
+  {
+    "key": "018D",
+    "mappings": {
+      "default": {
+        "default": "反転デルタ"
+      }
+    }
+  },
+  {
+    "key": "1E9B",
+    "mappings": {
+      "default": {
+        "default": "上付き点付き長いs"
+      }
+    }
+  },
+  {
+    "key": "1E9F",
+    "mappings": {
+      "default": {
+        "default": "デルタ"
+      }
+    }
+  },
+  {
+    "key": "0138",
+    "mappings": {
+      "default": {
+        "default": "クラ"
+      }
+    }
+  },
+  {
+    "key": "017F",
+    "mappings": {
+      "default": {
+        "default": "長いs"
+      }
+    }
+  },
+  {
+    "key": "0183",
+    "mappings": {
+      "default": {
+        "default": "上バー付きb"
+      }
+    }
+  },
+  {
+    "key": "0185",
+    "mappings": {
+      "default": {
+        "default": "声調6"
+      }
+    }
+  },
+  {
+    "key": "0188",
+    "mappings": {
+      "default": {
+        "default": "フック付きc"
+      }
+    }
+  },
+  {
+    "key": "018C",
+    "mappings": {
+      "default": {
+        "default": "上バー付きd"
+      }
+    }
+  },
+  {
+    "key": "0192",
+    "mappings": {
+      "default": {
+        "default": "フック付きf"
+      }
+    }
+  },
+  {
+    "key": "0195",
+    "mappings": {
+      "default": {
+        "default": "hv"
+      }
+    }
+  },
+  {
+    "key": "0199",
+    "mappings": {
+      "default": {
+        "default": "フック付きk"
+      }
+    }
+  },
+  {
+    "key": "019A",
+    "mappings": {
+      "default": {
+        "default": "バー付きl"
+      }
+    }
+  },
+  {
+    "key": "019E",
+    "mappings": {
+      "default": {
+        "default": "右脚の長いn"
+      }
+    }
+  },
+  {
+    "key": "01A1",
+    "mappings": {
+      "default": {
+        "default": "ホーン付きo"
+      }
+    }
+  },
+  {
+    "key": "01A3",
+    "mappings": {
+      "default": {
+        "default": "oi"
+      }
+    }
+  },
+  {
+    "key": "01A5",
+    "mappings": {
+      "default": {
+        "default": "フック付きp"
+      }
+    }
+  },
+  {
+    "key": "01A8",
+    "mappings": {
+      "default": {
+        "default": "声調2"
+      }
+    }
+  },
+  {
+    "key": "01AA",
+    "mappings": {
+      "default": {
+        "default": "反転エッシュループ"
+      }
+    }
+  },
+  {
+    "key": "01AB",
+    "mappings": {
+      "default": {
+        "default": "口蓋フック付きt"
+      }
+    }
+  },
+  {
+    "key": "01AD",
+    "mappings": {
+      "default": {
+        "default": "フック付きt"
+      }
+    }
+  },
+  {
+    "key": "01B0",
+    "mappings": {
+      "default": {
+        "default": "ホーン付きu"
+      }
+    }
+  },
+  {
+    "key": "01B4",
+    "mappings": {
+      "default": {
+        "default": "フック付きy"
+      }
+    }
+  },
+  {
+    "key": "01B9",
+    "mappings": {
+      "default": {
+        "default": "反転エズ"
+      }
+    }
+  },
+  {
+    "key": "01BA",
+    "mappings": {
+      "default": {
+        "default": "テール付きエズ"
+      }
+    }
+  },
+  {
+    "key": "01BD",
+    "mappings": {
+      "default": {
+        "default": "声調5"
+      }
+    }
+  },
+  {
+    "key": "01BF",
+    "mappings": {
+      "default": {
+        "default": "ウィン"
+      }
+    }
+  },
+  {
+    "key": "01C6",
+    "mappings": {
+      "default": {
+        "default": "キャロン付きdz"
+      }
+    }
+  },
+  {
+    "key": "01C9",
+    "mappings": {
+      "default": {
+        "default": "lj"
+      }
+    }
+  },
+  {
+    "key": "01CC",
+    "mappings": {
+      "default": {
+        "default": "nj"
+      }
+    }
+  },
+  {
+    "key": "01E3",
+    "mappings": {
+      "default": {
+        "default": "マクロン付きae"
+      }
+    }
+  },
+  {
+    "key": "01EF",
+    "mappings": {
+      "default": {
+        "default": "キャロン付きエズ"
+      }
+    }
+  },
+  {
+    "key": "01F3",
+    "mappings": {
+      "default": {
+        "default": "dz"
+      }
+    }
+  },
+  {
+    "key": "021D",
+    "mappings": {
+      "default": {
+        "default": "ヨッホ"
+      }
+    }
+  },
+  {
+    "key": "026E",
+    "mappings": {
+      "default": {
+        "default": "レズ"
+      }
+    }
+  },
+  {
+    "key": "0292",
+    "mappings": {
+      "default": {
+        "default": "エズ"
+      }
+    }
+  },
+  {
+    "key": "0293",
+    "mappings": {
+      "default": {
+        "default": "カール付きエズ"
+      }
+    }
+  },
+  {
+    "key": "02A4",
+    "mappings": {
+      "default": {
+        "default": "デズ二重字"
+      }
+    }
+  },
+  {
+    "key": "01DD",
+    "mappings": {
+      "default": {
+        "default": "反転e"
+      }
+    }
+  },
+  {
+    "key": "01FD",
+    "mappings": {
+      "default": {
+        "default": "アキュート付きae"
+      }
+    }
+  },
+  {
+    "key": "0221",
+    "mappings": {
+      "default": {
+        "default": "カール付きd"
+      }
+    }
+  },
+  {
+    "key": "0223",
+    "mappings": {
+      "default": {
+        "default": "ou"
+      }
+    }
+  },
+  {
+    "key": "0225",
+    "mappings": {
+      "default": {
+        "default": "フック付きz"
+      }
+    }
+  },
+  {
+    "key": "0234",
+    "mappings": {
+      "default": {
+        "default": "カール付きl"
+      }
+    }
+  },
+  {
+    "key": "0235",
+    "mappings": {
+      "default": {
+        "default": "カール付きn"
+      }
+    }
+  },
+  {
+    "key": "0236",
+    "mappings": {
+      "default": {
+        "default": "カール付きt"
+      }
+    }
+  },
+  {
+    "key": "0238",
+    "mappings": {
+      "default": {
+        "default": "db二重字"
+      }
+    }
+  },
+  {
+    "key": "0239",
+    "mappings": {
+      "default": {
+        "default": "qp二重字"
+      }
+    }
+  },
+  {
+    "key": "023F",
+    "mappings": {
+      "default": {
+        "default": "スワッシュテール付きs"
+      }
+    }
+  },
+  {
+    "key": "0240",
+    "mappings": {
+      "default": {
+        "default": "スワッシュテール付きz"
+      }
+    }
+  },
+  {
+    "key": "0242",
+    "mappings": {
+      "default": {
+        "default": "声門閉鎖音"
+      }
+    }
+  },
+  {
+    "key": "024B",
+    "mappings": {
+      "default": {
+        "default": "フックテール付きq"
+      }
+    }
+  },
+  {
+    "key": "0250",
+    "mappings": {
+      "default": {
+        "default": "反転a"
+      }
+    }
+  },
+  {
+    "key": "0251",
+    "mappings": {
+      "default": {
+        "default": "アルファ"
+      }
+    }
+  },
+  {
+    "key": "0252",
+    "mappings": {
+      "default": {
+        "default": "反転アルファ"
+      }
+    }
+  },
+  {
+    "key": "0253",
+    "mappings": {
+      "default": {
+        "default": "フック付きb"
+      }
+    }
+  },
+  {
+    "key": "0254",
+    "mappings": {
+      "default": {
+        "default": "開いたo"
+      }
+    }
+  },
+  {
+    "key": "0255",
+    "mappings": {
+      "default": {
+        "default": "カール付きc"
+      }
+    }
+  },
+  {
+    "key": "0256",
+    "mappings": {
+      "default": {
+        "default": "テール付きd"
+      }
+    }
+  },
+  {
+    "key": "0257",
+    "mappings": {
+      "default": {
+        "default": "フック付きd"
+      }
+    }
+  },
+  {
+    "key": "0258",
+    "mappings": {
+      "default": {
+        "default": "反転e"
+      }
+    }
+  },
+  {
+    "key": "0259",
+    "mappings": {
+      "default": {
+        "default": "シュワー"
+      }
+    }
+  },
+  {
+    "key": "025A",
+    "mappings": {
+      "default": {
+        "default": "フック付きシュワー"
+      }
+    }
+  },
+  {
+    "key": "025B",
+    "mappings": {
+      "default": {
+        "default": "開いたe"
+      }
+    }
+  },
+  {
+    "key": "025C",
+    "mappings": {
+      "default": {
+        "default": "反転開いたe"
+      }
+    }
+  },
+  {
+    "key": "025D",
+    "mappings": {
+      "default": {
+        "default": "フック付き反転開いたe"
+      }
+    }
+  },
+  {
+    "key": "025E",
+    "mappings": {
+      "default": {
+        "default": "閉じた反転開いたe"
+      }
+    }
+  },
+  {
+    "key": "0260",
+    "mappings": {
+      "default": {
+        "default": "フック付きg"
+      }
+    }
+  },
+  {
+    "key": "0261",
+    "mappings": {
+      "default": {
+        "default": "筆記体g"
+      }
+    }
+  },
+  {
+    "key": "0263",
+    "mappings": {
+      "default": {
+        "default": "ガンマ"
+      }
+    }
+  },
+  {
+    "key": "0264",
+    "mappings": {
+      "default": {
+        "default": "ラムズホーン"
+      }
+    }
+  },
+  {
+    "key": "0265",
+    "mappings": {
+      "default": {
+        "default": "反転h"
+      }
+    }
+  },
+  {
+    "key": "0266",
+    "mappings": {
+      "default": {
+        "default": "フック付きh"
+      }
+    }
+  },
+  {
+    "key": "0267",
+    "mappings": {
+      "default": {
+        "default": "フック付きヘング"
+      }
+    }
+  },
+  {
+    "key": "0269",
+    "mappings": {
+      "default": {
+        "default": "イオータ"
+      }
+    }
+  },
+  {
+    "key": "026B",
+    "mappings": {
+      "default": {
+        "default": "中チルド付きl"
+      }
+    }
+  },
+  {
+    "key": "026C",
+    "mappings": {
+      "default": {
+        "default": "ベルト付きl"
+      }
+    }
+  },
+  {
+    "key": "026D",
+    "mappings": {
+      "default": {
+        "default": "反り舌フック付きl"
+      }
+    }
+  },
+  {
+    "key": "026F",
+    "mappings": {
+      "default": {
+        "default": "反転m"
+      }
+    }
+  },
+  {
+    "key": "0270",
+    "mappings": {
+      "default": {
+        "default": "長い脚付き反転m"
+      }
+    }
+  },
+  {
+    "key": "0271",
+    "mappings": {
+      "default": {
+        "default": "フック付きm"
+      }
+    }
+  },
+  {
+    "key": "0272",
+    "mappings": {
+      "default": {
+        "default": "左フック付きn"
+      }
+    }
+  },
+  {
+    "key": "0273",
+    "mappings": {
+      "default": {
+        "default": "反り舌フック付きn"
+      }
+    }
+  },
+  {
+    "key": "0275",
+    "mappings": {
+      "default": {
+        "default": "バー付きo"
+      }
+    }
+  },
+  {
+    "key": "0277",
+    "mappings": {
+      "default": {
+        "default": "閉じたオメガ"
+      }
+    }
+  },
+  {
+    "key": "0278",
+    "mappings": {
+      "default": {
+        "default": "ファイ"
+      }
+    }
+  },
+  {
+    "key": "0279",
+    "mappings": {
+      "default": {
+        "default": "反転r"
+      }
+    }
+  },
+  {
+    "key": "027A",
+    "mappings": {
+      "default": {
+        "default": "長い脚付き反転r"
+      }
+    }
+  },
+  {
+    "key": "027B",
+    "mappings": {
+      "default": {
+        "default": "フック付き反転r"
+      }
+    }
+  },
+  {
+    "key": "027C",
+    "mappings": {
+      "default": {
+        "default": "長い脚付きr"
+      }
+    }
+  },
+  {
+    "key": "027D",
+    "mappings": {
+      "default": {
+        "default": "テール付きr"
+      }
+    }
+  },
+  {
+    "key": "027E",
+    "mappings": {
+      "default": {
+        "default": "フィッシュフック付きr"
+      }
+    }
+  },
+  {
+    "key": "027F",
+    "mappings": {
+      "default": {
+        "default": "反転フィッシュフック付きr"
+      }
+    }
+  },
+  {
+    "key": "0282",
+    "mappings": {
+      "default": {
+        "default": "フック付きs"
+      }
+    }
+  },
+  {
+    "key": "0283",
+    "mappings": {
+      "default": {
+        "default": "エッシュ"
+      }
+    }
+  },
+  {
+    "key": "0285",
+    "mappings": {
+      "default": {
+        "default": "扁平反転エッシュ"
+      }
+    }
+  },
+  {
+    "key": "0286",
+    "mappings": {
+      "default": {
+        "default": "カール付きエッシュ"
+      }
+    }
+  },
+  {
+    "key": "0287",
+    "mappings": {
+      "default": {
+        "default": "反転t"
+      }
+    }
+  },
+  {
+    "key": "0288",
+    "mappings": {
+      "default": {
+        "default": "反り舌フック付きt"
+      }
+    }
+  },
+  {
+    "key": "0289",
+    "mappings": {
+      "default": {
+        "default": "バー付きu"
+      }
+    }
+  },
+  {
+    "key": "028A",
+    "mappings": {
+      "default": {
+        "default": "ウプシロン"
+      }
+    }
+  },
+  {
+    "key": "028B",
+    "mappings": {
+      "default": {
+        "default": "フック付きv"
+      }
+    }
+  },
+  {
+    "key": "028C",
+    "mappings": {
+      "default": {
+        "default": "反転v"
+      }
+    }
+  },
+  {
+    "key": "028D",
+    "mappings": {
+      "default": {
+        "default": "反転w"
+      }
+    }
+  },
+  {
+    "key": "028E",
+    "mappings": {
+      "default": {
+        "default": "反転y"
+      }
+    }
+  },
+  {
+    "key": "0290",
+    "mappings": {
+      "default": {
+        "default": "反り舌フック付きz"
+      }
+    }
+  },
+  {
+    "key": "0291",
+    "mappings": {
+      "default": {
+        "default": "カール付きz"
+      }
+    }
+  },
+  {
+    "key": "0295",
+    "mappings": {
+      "default": {
+        "default": "有声咽頭摩擦音"
+      }
+    }
+  },
+  {
+    "key": "0296",
+    "mappings": {
+      "default": {
+        "default": "反転声門閉鎖音"
+      }
+    }
+  },
+  {
+    "key": "0297",
+    "mappings": {
+      "default": {
+        "default": "引き伸ばしたc"
+      }
+    }
+  },
+  {
+    "key": "0298",
+    "mappings": {
+      "default": {
+        "default": "両唇クリック"
+      }
+    }
+  },
+  {
+    "key": "029A",
+    "mappings": {
+      "default": {
+        "default": "閉じた開いたe"
+      }
+    }
+  },
+  {
+    "key": "029E",
+    "mappings": {
+      "default": {
+        "default": "反転k"
+      }
+    }
+  },
+  {
+    "key": "02A0",
+    "mappings": {
+      "default": {
+        "default": "フック付きq"
+      }
+    }
+  },
+  {
+    "key": "02A3",
+    "mappings": {
+      "default": {
+        "default": "dz二重字"
+      }
+    }
+  },
+  {
+    "key": "02A5",
+    "mappings": {
+      "default": {
+        "default": "カール付きdz二重字"
+      }
+    }
+  },
+  {
+    "key": "02A6",
+    "mappings": {
+      "default": {
+        "default": "ts二重字"
+      }
+    }
+  },
+  {
+    "key": "02A7",
+    "mappings": {
+      "default": {
+        "default": "テッシュ二重字"
+      }
+    }
+  },
+  {
+    "key": "02A8",
+    "mappings": {
+      "default": {
+        "default": "カール付きtc二重字"
+      }
+    }
+  },
+  {
+    "key": "02A9",
+    "mappings": {
+      "default": {
+        "default": "フェング二重字"
+      }
+    }
+  },
+  {
+    "key": "02AA",
+    "mappings": {
+      "default": {
+        "default": "ls二重字"
+      }
+    }
+  },
+  {
+    "key": "02AB",
+    "mappings": {
+      "default": {
+        "default": "lz二重字"
+      }
+    }
+  },
+  {
+    "key": "02AC",
+    "mappings": {
+      "default": {
+        "default": "両唇打音"
+      }
+    }
+  },
+  {
+    "key": "02AD",
+    "mappings": {
+      "default": {
+        "default": "二歯打音"
+      }
+    }
+  },
+  {
+    "key": "02AE",
+    "mappings": {
+      "default": {
+        "default": "フィッシュフック付き反転h"
+      }
+    }
+  },
+  {
+    "key": "02AF",
+    "mappings": {
+      "default": {
+        "default": "テール付きフィッシュフック付き反転h"
+      }
+    }
+  },
+  {
+    "key": "1D02",
+    "mappings": {
+      "default": {
+        "default": "反転ae"
+      }
+    }
+  },
+  {
+    "key": "1D08",
+    "mappings": {
+      "default": {
+        "default": "反転開いたe"
+      }
+    }
+  },
+  {
+    "key": "1D09",
+    "mappings": {
+      "default": {
+        "default": "反転i"
+      }
+    }
+  },
+  {
+    "key": "1D11",
+    "mappings": {
+      "default": {
+        "default": "横向きo"
+      }
+    }
+  },
+  {
+    "key": "1D12",
+    "mappings": {
+      "default": {
+        "default": "横向き開いたo"
+      }
+    }
+  },
+  {
+    "key": "1D14",
+    "mappings": {
+      "default": {
+        "default": "反転oe"
+      }
+    }
+  },
+  {
+    "key": "1D16",
+    "mappings": {
+      "default": {
+        "default": "上半分o"
+      }
+    }
+  },
+  {
+    "key": "1D17",
+    "mappings": {
+      "default": {
+        "default": "下半分o"
+      }
+    }
+  },
+  {
+    "key": "1D1D",
+    "mappings": {
+      "default": {
+        "default": "横向きu"
+      }
+    }
+  },
+  {
+    "key": "1D1E",
+    "mappings": {
+      "default": {
+        "default": "横向き分音符付きu"
+      }
+    }
+  },
+  {
+    "key": "1D1F",
+    "mappings": {
+      "default": {
+        "default": "横向き反転m"
+      }
+    }
+  },
+  {
+    "key": "1D24",
+    "mappings": {
+      "default": {
+        "default": "有声喉頭気音"
+      }
+    }
+  },
+  {
+    "key": "1D25",
+    "mappings": {
+      "default": {
+        "default": "アイン"
+      }
+    }
+  },
+  {
+    "key": "1D6B",
+    "mappings": {
+      "default": {
+        "default": "ue"
+      }
+    }
+  },
+  {
+    "key": "1D6C",
+    "mappings": {
+      "default": {
+        "default": "中線チルダ付きb"
+      }
+    }
+  },
+  {
+    "key": "1D6D",
+    "mappings": {
+      "default": {
+        "default": "中線チルダ付きd"
+      }
+    }
+  },
+  {
+    "key": "1D6E",
+    "mappings": {
+      "default": {
+        "default": "中線チルダ付きf"
+      }
+    }
+  },
+  {
+    "key": "1D6F",
+    "mappings": {
+      "default": {
+        "default": "中線チルダ付きm"
+      }
+    }
+  },
+  {
+    "key": "1D70",
+    "mappings": {
+      "default": {
+        "default": "中線チルダ付きn"
+      }
+    }
+  },
+  {
+    "key": "1D71",
+    "mappings": {
+      "default": {
+        "default": "中線チルダ付きp"
+      }
+    }
+  },
+  {
+    "key": "1D72",
+    "mappings": {
+      "default": {
+        "default": "中線チルダ付きr"
+      }
+    }
+  },
+  {
+    "key": "1D73",
+    "mappings": {
+      "default": {
+        "default": "フックと中線チルダ付きr"
+      }
+    }
+  },
+  {
+    "key": "1D74",
+    "mappings": {
+      "default": {
+        "default": "中線チルダ付きs"
+      }
+    }
+  },
+  {
+    "key": "1D75",
+    "mappings": {
+      "default": {
+        "default": "中線チルダ付きt"
+      }
+    }
+  },
+  {
+    "key": "1D76",
+    "mappings": {
+      "default": {
+        "default": "中線チルダ付きz"
+      }
+    }
+  },
+  {
+    "key": "1D77",
+    "mappings": {
+      "default": {
+        "default": "反転g"
+      }
+    }
+  },
+  {
+    "key": "1D79",
+    "mappings": {
+      "default": {
+        "default": "インシュラーg"
+      }
+    }
+  },
+  {
+    "key": "1D7A",
+    "mappings": {
+      "default": {
+        "default": "取り消し線付きth"
+      }
+    }
+  },
+  {
+    "key": "1D80",
+    "mappings": {
+      "default": {
+        "default": "口蓋フック付きb"
+      }
+    }
+  },
+  {
+    "key": "1D81",
+    "mappings": {
+      "default": {
+        "default": "口蓋フック付きd"
+      }
+    }
+  },
+  {
+    "key": "1D82",
+    "mappings": {
+      "default": {
+        "default": "口蓋フック付きf"
+      }
+    }
+  },
+  {
+    "key": "1D83",
+    "mappings": {
+      "default": {
+        "default": "口蓋フック付きg"
+      }
+    }
+  },
+  {
+    "key": "1D84",
+    "mappings": {
+      "default": {
+        "default": "口蓋フック付きk"
+      }
+    }
+  },
+  {
+    "key": "1D85",
+    "mappings": {
+      "default": {
+        "default": "口蓋フック付きl"
+      }
+    }
+  },
+  {
+    "key": "1D86",
+    "mappings": {
+      "default": {
+        "default": "口蓋フック付きm"
+      }
+    }
+  },
+  {
+    "key": "1D87",
+    "mappings": {
+      "default": {
+        "default": "口蓋フック付きn"
+      }
+    }
+  },
+  {
+    "key": "1D88",
+    "mappings": {
+      "default": {
+        "default": "口蓋フック付きp"
+      }
+    }
+  },
+  {
+    "key": "1D89",
+    "mappings": {
+      "default": {
+        "default": "口蓋フック付きr"
+      }
+    }
+  },
+  {
+    "key": "1D8A",
+    "mappings": {
+      "default": {
+        "default": "口蓋フック付きs"
+      }
+    }
+  },
+  {
+    "key": "1D8B",
+    "mappings": {
+      "default": {
+        "default": "口蓋フック付きエッシュ"
+      }
+    }
+  },
+  {
+    "key": "1D8C",
+    "mappings": {
+      "default": {
+        "default": "口蓋フック付きv"
+      }
+    }
+  },
+  {
+    "key": "1D8D",
+    "mappings": {
+      "default": {
+        "default": "口蓋フック付きx"
+      }
+    }
+  },
+  {
+    "key": "1D8E",
+    "mappings": {
+      "default": {
+        "default": "口蓋フック付きz"
+      }
+    }
+  },
+  {
+    "key": "1D8F",
+    "mappings": {
+      "default": {
+        "default": "反り舌フック付きa"
+      }
+    }
+  },
+  {
+    "key": "1D90",
+    "mappings": {
+      "default": {
+        "default": "反り舌フック付きアルファ"
+      }
+    }
+  },
+  {
+    "key": "1D91",
+    "mappings": {
+      "default": {
+        "default": "フックとテール付きd"
+      }
+    }
+  },
+  {
+    "key": "1D92",
+    "mappings": {
+      "default": {
+        "default": "反り舌フック付きe"
+      }
+    }
+  },
+  {
+    "key": "1D93",
+    "mappings": {
+      "default": {
+        "default": "反り舌フック付き開いたe"
+      }
+    }
+  },
+  {
+    "key": "1D94",
+    "mappings": {
+      "default": {
+        "default": "反り舌フック付き反転開いたe"
+      }
+    }
+  },
+  {
+    "key": "1D95",
+    "mappings": {
+      "default": {
+        "default": "反り舌フック付きシュワー"
+      }
+    }
+  },
+  {
+    "key": "1D96",
+    "mappings": {
+      "default": {
+        "default": "反り舌フック付きi"
+      }
+    }
+  },
+  {
+    "key": "1D97",
+    "mappings": {
+      "default": {
+        "default": "反り舌フック付き開いたo"
+      }
+    }
+  },
+  {
+    "key": "1D98",
+    "mappings": {
+      "default": {
+        "default": "反り舌フック付きエッシュ"
+      }
+    }
+  },
+  {
+    "key": "1D99",
+    "mappings": {
+      "default": {
+        "default": "反り舌フック付きu"
+      }
+    }
+  },
+  {
+    "key": "1D9A",
+    "mappings": {
+      "default": {
+        "default": "反り舌フック付きエズ"
+      }
+    }
+  },
+  {
+    "key": "0149",
+    "mappings": {
+      "default": {
+        "default": "アポストロフィ付きn"
+      }
+    }
+  },
+  {
+    "key": "014B",
+    "mappings": {
+      "default": {
+        "default": "エング"
       }
     }
   }
-] 
+]

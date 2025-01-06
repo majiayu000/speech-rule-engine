@@ -1,33 +1,101 @@
-{
-  "key": "hyperbolic",
-  "mappings": {
-    "default": {
-      "sinh": "ハイパボリックサイン",
-      "cosh": "ハイパボリックコサイン",
-      "tanh": "ハイパボリックタンジェント",
-      "sech": "ハイパボリックセカント",
-      "csch": "ハイパボリックコセカント",
-      "coth": "ハイパボリックコタンジェント",
-      "arcsinh": "逆ハイパボリックサイン",
-      "arccosh": "逆ハイパボリックコサイン",
-      "arctanh": "逆ハイパボリックタンジェント",
-      "arcsech": "逆ハイパボリックセカント",
-      "arccsch": "逆ハイパボリックコセカント",
-      "arccoth": "逆ハイパボリックコタンジェント"
-    },
-    "brief": {
-      "sinh": "ハイパサイン",
-      "cosh": "ハイパコス",
-      "tanh": "ハイパタン",
-      "sech": "ハイパセク",
-      "csch": "ハイパコセク",
-      "coth": "ハイパコット",
-      "arcsinh": "逆ハイパサイン",
-      "arccosh": "逆ハイパコス",
-      "arctanh": "逆ハイパタン",
-      "arcsech": "逆ハイパセク",
-      "arccsch": "逆ハイパコセク",
-      "arccoth": "逆ハイパコット"
+[
+  {
+    "locale": "ja"
+  },
+  {
+    "key": "cosh",
+    "mappings": {
+      "default": {
+        "default": "ハイパボリックコサイン"
+      }
+    }
+  },
+  {
+    "key": "coth",
+    "mappings": {
+      "default": {
+        "default": "ハイパボリックコタンジェント"
+      }
+    }
+  },
+  {
+    "key": "csch",
+    "mappings": {
+      "default": {
+        "default": "ハイパボリックコセカント"
+      }
+    }
+  },
+  {
+    "key": "sech",
+    "mappings": {
+      "default": {
+        "default": "ハイパボリックセカント"
+      }
+    }
+  },
+  {
+    "key": "sinh",
+    "mappings": {
+      "default": {
+        "default": "ハイパボリックサイン"
+      }
+    }
+  },
+  {
+    "key": "tanh",
+    "mappings": {
+      "default": {
+        "default": "ハイパボリックタンジェント"
+      }
+    }
+  },
+  {
+    "key": "arcosh",
+    "mappings": {
+      "default": {
+        "default": "逆ハイパボリックコサイン"
+      }
+    }
+  },
+  {
+    "key": "arcoth",
+    "mappings": {
+      "default": {
+        "default": "逆ハイパボリックコタンジェント"
+      }
+    }
+  },
+  {
+    "key": "arcsch",
+    "mappings": {
+      "default": {
+        "default": "逆ハイパボリックコセカント"
+      }
+    }
+  },
+  {
+    "key": "arsech",
+    "mappings": {
+      "default": {
+        "default": "逆ハイパボリックセカント"
+      }
+    }
+  },
+  {
+    "key": "arsinh",
+    "mappings": {
+      "default": {
+        "default": "逆ハイパボリックサイン"
+      }
+    }
+  },
+  {
+    "key": "artanh",
+    "mappings": {
+      "default": {
+        "default": "逆ハイパボリックタンジェント"
+      }
     }
   }
-} 
+] 

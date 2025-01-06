@@ -6,7 +6,7 @@
     "key": "23E8",
     "mappings": {
       "default": {
-        "default": "10進指数記号"
+        "default": "指数記号"
       }
     }
   },
@@ -31,7 +31,7 @@
     "mappings": {
       "default": {
         "default": "白丸",
-        "alternative": "中サイズ白丸"
+        "alternative": "中白丸"
       }
     }
   },
@@ -40,7 +40,7 @@
     "mappings": {
       "default": {
         "default": "黒丸",
-        "alternative": "中サイズ黒丸"
+        "alternative": "中黒丸"
       }
     }
   },
@@ -49,7 +49,7 @@
     "mappings": {
       "default": {
         "default": "白チェックマーク",
-        "alternative": "太い白チェックマーク"
+        "alternative": "白太チェックマーク"
       }
     }
   },
@@ -65,7 +65,7 @@
     "key": "2714",
     "mappings": {
       "default": {
-        "default": "太いチェックマーク"
+        "default": "太チェックマーク"
       }
     }
   },
@@ -73,7 +73,7 @@
     "key": "2715",
     "mappings": {
       "default": {
-        "default": "乗算バツ印"
+        "default": "乗算記号"
       }
     }
   },
@@ -81,7 +81,7 @@
     "key": "2716",
     "mappings": {
       "default": {
-        "default": "太い乗算バツ印"
+        "default": "太乗算記号"
       }
     }
   },
@@ -97,7 +97,7 @@
     "key": "2718",
     "mappings": {
       "default": {
-        "default": "太い投票用バツ印"
+        "default": "太投票用バツ印"
       }
     }
   },
@@ -113,7 +113,7 @@
     "key": "271C",
     "mappings": {
       "default": {
-        "default": "太い中抜き十字"
+        "default": "太中抜き十字"
       }
     }
   },
@@ -153,7 +153,7 @@
     "key": "2724",
     "mappings": {
       "default": {
-        "default": "太い四つ風船型アスタリスク"
+        "default": "太四つ風船型アスタリスク"
       }
     }
   },
@@ -193,7 +193,7 @@
     "key": "2729",
     "mappings": {
       "default": {
-        "default": "強調輪郭白星"
+        "default": "強調白星"
       }
     }
   },
@@ -233,7 +233,7 @@
     "key": "272E",
     "mappings": {
       "default": {
-        "default": "太い輪郭黒星"
+        "default": "太輪郭黒星"
       }
     }
   },
@@ -244,5 +244,229 @@
         "default": "風車型星"
       }
     }
+  },
+  {
+    "key": "2730",
+    "mappings": {
+      "default": {
+        "default": "影付き白星"
+      }
+    }
+  },
+  {
+    "key": "2731",
+    "mappings": {
+      "default": {
+        "default": "太アスタリスク"
+      }
+    }
+  },
+  {
+    "key": "2732",
+    "mappings": {
+      "default": {
+        "default": "中抜きアスタリスク"
+      }
+    }
+  },
+  {
+    "key": "2733",
+    "mappings": {
+      "default": {
+        "default": "八輻アスタリスク"
+      }
+    }
+  },
+  {
+    "key": "2734",
+    "mappings": {
+      "default": {
+        "default": "黒八芒星"
+      }
+    }
+  },
+  {
+    "key": "2735",
+    "mappings": {
+      "default": {
+        "default": "八芒風車型星"
+      }
+    }
+  },
+  {
+    "key": "2736",
+    "mappings": {
+      "default": {
+        "default": "黒六芒星"
+      }
+    }
+  },
+  {
+    "key": "2739",
+    "mappings": {
+      "default": {
+        "default": "黒十二芒星"
+      }
+    }
+  },
+  {
+    "key": "273A",
+    "mappings": {
+      "default": {
+        "default": "十六輻アスタリスク"
+      }
+    }
+  },
+  {
+    "key": "273B",
+    "mappings": {
+      "default": {
+        "default": "涙型アスタリスク"
+      }
+    }
+  },
+  {
+    "key": "273C",
+    "mappings": {
+      "default": {
+        "default": "中抜き涙型アスタリスク"
+      }
+    }
+  },
+  {
+    "key": "273D",
+    "mappings": {
+      "default": {
+        "default": "太涙型アスタリスク"
+      }
+    }
+  },
+  {
+    "key": "273E",
+    "mappings": {
+      "default": {
+        "default": "六弁白黒花"
+      }
+    }
+  },
+  {
+    "key": "273F",
+    "mappings": {
+      "default": {
+        "default": "黒花"
+      }
+    }
+  },
+  {
+    "key": "2740",
+    "mappings": {
+      "default": {
+        "default": "白花"
+      }
+    }
+  },
+  {
+    "key": "2741",
+    "mappings": {
+      "default": {
+        "default": "八弁輪郭黒花"
+      }
+    }
+  },
+  {
+    "key": "2742",
+    "mappings": {
+      "default": {
+        "default": "丸囲み中抜き八芒星"
+      }
+    }
+  },
+  {
+    "key": "2743",
+    "mappings": {
+      "default": {
+        "default": "太涙型風車アスタリスク"
+      }
+    }
+  },
+  {
+    "key": "2744",
+    "mappings": {
+      "default": {
+        "default": "雪の結晶"
+      }
+    }
+  },
+  {
+    "key": "2745",
+    "mappings": {
+      "default": {
+        "default": "密三つ葉雪の結晶"
+      }
+    }
+  },
+  {
+    "key": "2746",
+    "mappings": {
+      "default": {
+        "default": "太シェブロン雪の結晶"
+      }
+    }
+  },
+  {
+    "key": "2747",
+    "mappings": {
+      "default": {
+        "default": "きらめき"
+      }
+    }
+  },
+  {
+    "key": "2748",
+    "mappings": {
+      "default": {
+        "default": "太きらめき"
+      }
+    }
+  },
+  {
+    "key": "2749",
+    "mappings": {
+      "default": {
+        "default": "風船型アスタリスク"
+      }
+    }
+  },
+  {
+    "key": "274A",
+    "mappings": {
+      "default": {
+        "default": "八涙型プロペラアスタリスク"
+      }
+    }
+  },
+  {
+    "key": "274B",
+    "mappings": {
+      "default": {
+        "default": "太八涙型プロペラアスタリスク"
+      }
+    }
+  },
+  {
+    "key": "274C",
+    "mappings": {
+      "default": {
+        "default": "バツ印"
+      }
+    }
+  },
+  {
+    "key": "274D",
+    "mappings": {
+      "default": {
+        "default": "影付き白丸"
+      }
+    }
   }
-] 
+]

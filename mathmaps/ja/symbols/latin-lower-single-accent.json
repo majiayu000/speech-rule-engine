@@ -6,25 +6,25 @@
     "key": "00E0",
     "mappings": {
       "default": {
-        "default": "グレーブアクセント付きa"
+        "default": "アクサングラーブ付きa"
       },
       "mathspeak": {
-        "default": "グレーブアクセントで修飾されたa",
-        "brief": "グレーブアクセント付きa",
-        "sbrief": "グレーブアクセント付きa"
+        "default": "アクサングラーブ付きa",
+        "brief": "アクサングラーブ付きa",
+        "sbrief": "アクサングラーブ付きa"
       }
     }
   },
   {
-    "key": "00E1",
+    "key": "00E1", 
     "mappings": {
       "default": {
-        "default": "アキュートアクセント付きa"
+        "default": "アクサンテギュ付きa"
       },
       "mathspeak": {
-        "default": "アキュートアクセントで修飾されたa",
-        "brief": "アキュートアクセント付きa",
-        "sbrief": "アキュートアクセント付きa"
+        "default": "アクサンテギュ付きa",
+        "brief": "アクサンテギュ付きa", 
+        "sbrief": "アクサンテギュ付きa"
       }
     }
   },
@@ -32,12 +32,12 @@
     "key": "00E2",
     "mappings": {
       "default": {
-        "default": "サーカムフレックスアクセント付きa"
+        "default": "サーカムフレックス付きa"
       },
       "mathspeak": {
-        "default": "サーカムフレックスアクセントで修飾されたa",
-        "brief": "サーカムフレックスアクセント付きa",
-        "sbrief": "サーカムフレックスアクセント付きa"
+        "default": "サーカムフレックス付きa",
+        "brief": "サーカムフレックス付きa",
+        "sbrief": "サーカムフレックス付きa"
       }
     }
   },
@@ -48,7 +48,7 @@
         "default": "チルダ付きa"
       },
       "mathspeak": {
-        "default": "チルダで修飾されたa",
+        "default": "チルダ付きa",
         "brief": "チルダ付きa",
         "sbrief": "チルダ付きa"
       }
@@ -61,7 +61,7 @@
         "default": "ウムラウト付きa"
       },
       "mathspeak": {
-        "default": "ウムラウトで修飾されたa",
+        "default": "ウムラウト付きa",
         "brief": "ウムラウト付きa",
         "sbrief": "ウムラウト付きa"
       }
@@ -74,7 +74,7 @@
         "default": "リング付きa"
       },
       "mathspeak": {
-        "default": "リングで修飾されたa",
+        "default": "リング付きa",
         "brief": "リング付きa",
         "sbrief": "リング付きa"
       }
@@ -87,7 +87,7 @@
         "default": "セディーユ付きc"
       },
       "mathspeak": {
-        "default": "セディーユで修飾されたc",
+        "default": "セディーユ付きc",
         "brief": "セディーユ付きc",
         "sbrief": "セディーユ付きc"
       }
@@ -97,12 +97,12 @@
     "key": "00E8",
     "mappings": {
       "default": {
-        "default": "グレーブアクセント付きe"
+        "default": "アクサングラーブ付きe"
       },
       "mathspeak": {
-        "default": "グレーブアクセントで修飾されたe",
-        "brief": "グレーブアクセント付きe",
-        "sbrief": "グレーブアクセント付きe"
+        "default": "アクサングラーブ付きe",
+        "brief": "アクサングラーブ付きe",
+        "sbrief": "アクサングラーブ付きe"
       }
     }
   },
@@ -110,12 +110,12 @@
     "key": "00E9",
     "mappings": {
       "default": {
-        "default": "アキュートアクセント付きe"
+        "default": "アクサンテギュ付きe"
       },
       "mathspeak": {
-        "default": "アキュートアクセントで修飾されたe",
-        "brief": "アキュートアクセント付きe",
-        "sbrief": "アキュートアクセント付きe"
+        "default": "アクサンテギュ付きe",
+        "brief": "アクサンテギュ付きe",
+        "sbrief": "アクサンテギュ付きe"
       }
     }
   },
@@ -123,12 +123,12 @@
     "key": "00EA",
     "mappings": {
       "default": {
-        "default": "サーカムフレックスアクセント付きe"
+        "default": "サーカムフレックス付きe"
       },
       "mathspeak": {
-        "default": "サーカムフレックスアクセントで修飾されたe",
-        "brief": "サーカムフレックスアクセント付きe",
-        "sbrief": "サーカムフレックスアクセント付きe"
+        "default": "サーカムフレックス付きe",
+        "brief": "サーカムフレックス付きe",
+        "sbrief": "サーカムフレックス付きe"
       }
     }
   },
@@ -139,7 +139,7 @@
         "default": "ウムラウト付きe"
       },
       "mathspeak": {
-        "default": "ウムラウトで修飾されたe",
+        "default": "ウムラウト付きe",
         "brief": "ウムラウト付きe",
         "sbrief": "ウムラウト付きe"
       }
@@ -149,12 +149,12 @@
     "key": "00EC",
     "mappings": {
       "default": {
-        "default": "グレーブアクセント付きi"
+        "default": "アクサングラーブ付きi"
       },
       "mathspeak": {
-        "default": "グレーブアクセントで修飾されたi",
-        "brief": "グレーブアクセント付きi",
-        "sbrief": "グレーブアクセント付きi"
+        "default": "アクサングラーブ付きi",
+        "brief": "アクサングラーブ付きi",
+        "sbrief": "アクサングラーブ付きi"
       }
     }
   },
@@ -162,12 +162,12 @@
     "key": "00ED",
     "mappings": {
       "default": {
-        "default": "アキュートアクセント付きi"
+        "default": "アクサンテギュ付きi"
       },
       "mathspeak": {
-        "default": "アキュートアクセントで修飾されたi",
-        "brief": "アキュートアクセント付きi",
-        "sbrief": "アキュートアクセント付きi"
+        "default": "アクサンテギュ付きi",
+        "brief": "アクサンテギュ付きi",
+        "sbrief": "アクサンテギュ付きi"
       }
     }
   },
@@ -175,12 +175,12 @@
     "key": "00EE",
     "mappings": {
       "default": {
-        "default": "サーカムフレックスアクセント付きi"
+        "default": "サーカムフレックス付きi"
       },
       "mathspeak": {
-        "default": "サーカムフレックスアクセントで修飾されたi",
-        "brief": "サーカムフレックスアクセント付きi",
-        "sbrief": "サーカムフレックスアクセント付きi"
+        "default": "サーカムフレックス付きi",
+        "brief": "サーカムフレックス付きi",
+        "sbrief": "サーカムフレックス付きi"
       }
     }
   },
@@ -191,7 +191,7 @@
         "default": "ウムラウト付きi"
       },
       "mathspeak": {
-        "default": "ウムラウトで修飾されたi",
+        "default": "ウムラウト付きi",
         "brief": "ウムラウト付きi",
         "sbrief": "ウムラウト付きi"
       }
@@ -204,7 +204,7 @@
         "default": "チルダ付きn"
       },
       "mathspeak": {
-        "default": "チルダで修飾されたn",
+        "default": "チルダ付きn",
         "brief": "チルダ付きn",
         "sbrief": "チルダ付きn"
       }
@@ -214,12 +214,12 @@
     "key": "00F2",
     "mappings": {
       "default": {
-        "default": "グレーブアクセント付きo"
+        "default": "アクサングラーブ付きo"
       },
       "mathspeak": {
-        "default": "グレーブアクセントで修飾されたo",
-        "brief": "グレーブアクセント付きo",
-        "sbrief": "グレーブアクセント付きo"
+        "default": "アクサングラーブ付きo",
+        "brief": "アクサングラーブ付きo",
+        "sbrief": "アクサングラーブ付きo"
       }
     }
   },
@@ -227,12 +227,12 @@
     "key": "00F3",
     "mappings": {
       "default": {
-        "default": "アキュートアクセント付きo"
+        "default": "アクサンテギュ付きo"
       },
       "mathspeak": {
-        "default": "アキュートアクセントで修飾されたo",
-        "brief": "アキュートアクセント付きo",
-        "sbrief": "アキュートアクセント付きo"
+        "default": "アクサンテギュ付きo",
+        "brief": "アクサンテギュ付きo",
+        "sbrief": "アクサンテギュ付きo"
       }
     }
   },
@@ -240,12 +240,12 @@
     "key": "00F4",
     "mappings": {
       "default": {
-        "default": "サーカムフレックスアクセント付きo"
+        "default": "サーカムフレックス付きo"
       },
       "mathspeak": {
-        "default": "サーカムフレックスアクセントで修飾されたo",
-        "brief": "サーカムフレックスアクセント付きo",
-        "sbrief": "サーカムフレックスアクセント付きo"
+        "default": "サーカムフレックス付きo",
+        "brief": "サーカムフレックス付きo",
+        "sbrief": "サーカムフレックス付きo"
       }
     }
   },
@@ -256,7 +256,7 @@
         "default": "チルダ付きo"
       },
       "mathspeak": {
-        "default": "チルダで修飾されたo",
+        "default": "チルダ付きo",
         "brief": "チルダ付きo",
         "sbrief": "チルダ付きo"
       }
@@ -269,7 +269,7 @@
         "default": "ウムラウト付きo"
       },
       "mathspeak": {
-        "default": "ウムラウトで修飾されたo",
+        "default": "ウムラウト付きo",
         "brief": "ウムラウト付きo",
         "sbrief": "ウムラウト付きo"
       }
@@ -279,12 +279,12 @@
     "key": "00F9",
     "mappings": {
       "default": {
-        "default": "グレーブアクセント付きu"
+        "default": "アクサングラーブ付きu"
       },
       "mathspeak": {
-        "default": "グレーブアクセントで修飾されたu",
-        "brief": "グレーブアクセント付きu",
-        "sbrief": "グレーブアクセント付きu"
+        "default": "アクサングラーブ付きu",
+        "brief": "アクサングラーブ付きu",
+        "sbrief": "アクサングラーブ付きu"
       }
     }
   },
@@ -292,12 +292,12 @@
     "key": "00FA",
     "mappings": {
       "default": {
-        "default": "アキュートアクセント付きu"
+        "default": "アクサンテギュ付きu"
       },
       "mathspeak": {
-        "default": "アキュートアクセントで修飾されたu",
-        "brief": "アキュートアクセント付きu",
-        "sbrief": "アキュートアクセント付きu"
+        "default": "アクサンテギュ付きu",
+        "brief": "アクサンテギュ付きu",
+        "sbrief": "アクサンテギュ付きu"
       }
     }
   },
@@ -305,12 +305,12 @@
     "key": "00FB",
     "mappings": {
       "default": {
-        "default": "サーカムフレックスアクセント付きu"
+        "default": "サーカムフレックス付きu"
       },
       "mathspeak": {
-        "default": "サーカムフレックスアクセントで修飾されたu",
-        "brief": "サーカムフレックスアクセント付きu",
-        "sbrief": "サーカムフレックスアクセント付きu"
+        "default": "サーカムフレックス付きu",
+        "brief": "サーカムフレックス付きu",
+        "sbrief": "サーカムフレックス付きu"
       }
     }
   },
@@ -321,7 +321,7 @@
         "default": "ウムラウト付きu"
       },
       "mathspeak": {
-        "default": "ウムラウトで修飾されたu",
+        "default": "ウムラウト付きu",
         "brief": "ウムラウト付きu",
         "sbrief": "ウムラウト付きu"
       }
@@ -331,12 +331,12 @@
     "key": "00FD",
     "mappings": {
       "default": {
-        "default": "アキュートアクセント付きy"
+        "default": "アクサンテギュ付きy"
       },
       "mathspeak": {
-        "default": "アキュートアクセントで修飾されたy",
-        "brief": "アキュートアクセント付きy",
-        "sbrief": "アキュートアクセント付きy"
+        "default": "アクサンテギュ付きy",
+        "brief": "アクサンテギュ付きy",
+        "sbrief": "アクサンテギュ付きy"
       }
     }
   },
@@ -347,7 +347,7 @@
         "default": "ウムラウト付きy"
       },
       "mathspeak": {
-        "default": "ウムラウトで修飾されたy",
+        "default": "ウムラウト付きy",
         "brief": "ウムラウト付きy",
         "sbrief": "ウムラウト付きy"
       }
@@ -357,12 +357,12 @@
     "key": "0101",
     "mappings": {
       "default": {
-        "default": "オーバーバー付きa"
+        "default": "マクロン付きa"
       },
       "mathspeak": {
-        "default": "オーバーバーで修飾されたa",
-        "brief": "オーバーバー付きa",
-        "sbrief": "オーバーバー付きa"
+        "default": "マクロン付きa",
+        "brief": "マクロン付きa",
+        "sbrief": "マクロン付きa"
       }
     }
   },
@@ -373,7 +373,7 @@
         "default": "ブレーベ付きa"
       },
       "mathspeak": {
-        "default": "ブレーベで修飾されたa",
+        "default": "ブレーベ付きa",
         "brief": "ブレーベ付きa",
         "sbrief": "ブレーベ付きa"
       }
@@ -386,7 +386,7 @@
         "default": "オゴネク付きa"
       },
       "mathspeak": {
-        "default": "オゴネクで修飾されたa",
+        "default": "オゴネク付きa",
         "brief": "オゴネク付きa",
         "sbrief": "オゴネク付きa"
       }
@@ -396,12 +396,12 @@
     "key": "0107",
     "mappings": {
       "default": {
-        "default": "アキュートアクセント付きc"
+        "default": "アクサンテギュ付きc"
       },
       "mathspeak": {
-        "default": "アキュートアクセントで修飾されたc",
-        "brief": "アキュートアクセント付きc",
-        "sbrief": "アキュートアクセント付きc"
+        "default": "アクサンテギュ付きc",
+        "brief": "アクサンテギュ付きc",
+        "sbrief": "アクサンテギュ付きc"
       }
     }
   },
@@ -409,12 +409,12 @@
     "key": "0109",
     "mappings": {
       "default": {
-        "default": "サーカムフレックスアクセント付きc"
+        "default": "サーカムフレックス付きc"
       },
       "mathspeak": {
-        "default": "サーカムフレックスアクセントで修飾されたc",
-        "brief": "サーカムフレックスアクセント付きc",
-        "sbrief": "サーカムフレックスアクセント付きc"
+        "default": "サーカムフレックス付きc",
+        "brief": "サーカムフレックス付きc",
+        "sbrief": "サーカムフレックス付きc"
       }
     }
   },
@@ -422,12 +422,12 @@
     "key": "010B",
     "mappings": {
       "default": {
-        "default": "上付きドット付きc"
+        "default": "上ドット付きc"
       },
       "mathspeak": {
-        "default": "上付きドットで修飾されたc",
-        "brief": "上付きドット付きc",
-        "sbrief": "上付きドット付きc"
+        "default": "上ドット付きc",
+        "brief": "上ドット付きc",
+        "sbrief": "上ドット付きc"
       }
     }
   },
@@ -438,7 +438,7 @@
         "default": "キャロン付きc"
       },
       "mathspeak": {
-        "default": "キャロンで修飾されたc",
+        "default": "キャロン付きc",
         "brief": "キャロン付きc",
         "sbrief": "キャロン付きc"
       }
@@ -451,7 +451,7 @@
         "default": "キャロン付きd"
       },
       "mathspeak": {
-        "default": "キャロンで修飾されたd",
+        "default": "キャロン付きd",
         "brief": "キャロン付きd",
         "sbrief": "キャロン付きd"
       }
@@ -461,12 +461,12 @@
     "key": "0113",
     "mappings": {
       "default": {
-        "default": "オーバーバー付きe"
+        "default": "マクロン付きe"
       },
       "mathspeak": {
-        "default": "オーバーバーで修飾されたe",
-        "brief": "オーバーバー付きe",
-        "sbrief": "オーバーバー付きe"
+        "default": "マクロン付きe",
+        "brief": "マクロン付きe",
+        "sbrief": "マクロン付きe"
       }
     }
   },
@@ -477,7 +477,7 @@
         "default": "ブレーベ付きe"
       },
       "mathspeak": {
-        "default": "ブレーベで修飾されたe",
+        "default": "ブレーベ付きe",
         "brief": "ブレーベ付きe",
         "sbrief": "ブレーベ付きe"
       }
@@ -487,12 +487,12 @@
     "key": "0117",
     "mappings": {
       "default": {
-        "default": "上付きドット付きe"
+        "default": "上ドット付きe"
       },
       "mathspeak": {
-        "default": "上付きドットで修飾されたe",
-        "brief": "上付きドット付きe",
-        "sbrief": "上付きドット付きe"
+        "default": "上ドット付きe",
+        "brief": "上ドット付きe",
+        "sbrief": "上ドット付きe"
       }
     }
   },
@@ -503,7 +503,7 @@
         "default": "オゴネク付きe"
       },
       "mathspeak": {
-        "default": "オゴネクで修飾されたe",
+        "default": "オゴネク付きe",
         "brief": "オゴネク付きe",
         "sbrief": "オゴネク付きe"
       }
@@ -516,7 +516,7 @@
         "default": "キャロン付きe"
       },
       "mathspeak": {
-        "default": "キャロンで修飾されたe",
+        "default": "キャロン付きe",
         "brief": "キャロン付きe",
         "sbrief": "キャロン付きe"
       }
@@ -526,12 +526,12 @@
     "key": "011D",
     "mappings": {
       "default": {
-        "default": "サーカムフレックスアクセント付きg"
+        "default": "サーカムフレックス付きg"
       },
       "mathspeak": {
-        "default": "サーカムフレックスアクセントで修飾されたg",
-        "brief": "サーカムフレックスアクセント付きg",
-        "sbrief": "サーカムフレックスアクセント付きg"
+        "default": "サーカムフレックス付きg",
+        "brief": "サーカムフレックス付きg",
+        "sbrief": "サーカムフレックス付きg"
       }
     }
   },
@@ -542,7 +542,7 @@
         "default": "ブレーベ付きg"
       },
       "mathspeak": {
-        "default": "ブレーベで修飾されたg",
+        "default": "ブレーベ付きg",
         "brief": "ブレーベ付きg",
         "sbrief": "ブレーベ付きg"
       }
@@ -552,12 +552,12 @@
     "key": "0121",
     "mappings": {
       "default": {
-        "default": "上付きドット付きg"
+        "default": "上ドット付きg"
       },
       "mathspeak": {
-        "default": "上付きドットで修飾されたg",
-        "brief": "上付きドット付きg",
-        "sbrief": "上付きドット付きg"
+        "default": "上ドット付きg",
+        "brief": "上ドット付きg",
+        "sbrief": "上ドット付きg"
       }
     }
   },
@@ -568,7 +568,7 @@
         "default": "セディーユ付きg"
       },
       "mathspeak": {
-        "default": "セディーユで修飾されたg",
+        "default": "セディーユ付きg",
         "brief": "セディーユ付きg",
         "sbrief": "セディーユ付きg"
       }
@@ -578,12 +578,12 @@
     "key": "0125",
     "mappings": {
       "default": {
-        "default": "サーカムフレックスアクセント付きh"
+        "default": "サーカムフレックス付きh"
       },
       "mathspeak": {
-        "default": "サーカムフレックスアクセントで修飾され��h",
-        "brief": "サーカムフレックスアクセント付きh",
-        "sbrief": "サーカムフレックスアクセント付きh"
+        "default": "サーカムフレックス付きh",
+        "brief": "サーカムフレックス付きh",
+        "sbrief": "サーカムフレックス付きh"
       }
     }
   },
@@ -594,7 +594,7 @@
         "default": "チルダ付きi"
       },
       "mathspeak": {
-        "default": "チルダで修飾されたi",
+        "default": "チルダ付きi",
         "brief": "チルダ付きi",
         "sbrief": "チルダ付きi"
       }
@@ -604,12 +604,12 @@
     "key": "012B",
     "mappings": {
       "default": {
-        "default": "オーバーバー付きi"
+        "default": "マクロン付きi"
       },
       "mathspeak": {
-        "default": "オーバーバーで修飾されたi",
-        "brief": "オーバーバー付きi",
-        "sbrief": "オーバーバー付きi"
+        "default": "マクロン付きi",
+        "brief": "マクロン付きi",
+        "sbrief": "マクロン付きi"
       }
     }
   },
@@ -620,7 +620,7 @@
         "default": "ブレーベ付きi"
       },
       "mathspeak": {
-        "default": "ブレーベで修飾されたi",
+        "default": "ブレーベ付きi",
         "brief": "ブレーベ付きi",
         "sbrief": "ブレーベ付きi"
       }
@@ -633,7 +633,7 @@
         "default": "オゴネク付きi"
       },
       "mathspeak": {
-        "default": "オゴネクで修飾されたi",
+        "default": "オゴネク付きi",
         "brief": "オゴネク付きi",
         "sbrief": "オゴネク付きi"
       }
@@ -656,12 +656,12 @@
     "key": "0135",
     "mappings": {
       "default": {
-        "default": "サーカムフレックスアクセント付きj"
+        "default": "サーカムフレックス付きj"
       },
       "mathspeak": {
-        "default": "サーカムフレックスアクセントで修飾されたj",
-        "brief": "サーカムフレックスアクセント付きj",
-        "sbrief": "サーカムフレックスアクセント付きj"
+        "default": "サーカムフレックス付きj",
+        "brief": "サーカムフレックス付きj",
+        "sbrief": "サーカムフレックス付きj"
       }
     }
   },
@@ -672,7 +672,7 @@
         "default": "セディーユ付きk"
       },
       "mathspeak": {
-        "default": "セディーユで修飾されたk",
+        "default": "セディーユ付きk",
         "brief": "セディーユ付きk",
         "sbrief": "セディーユ付きk"
       }
@@ -682,12 +682,12 @@
     "key": "013A",
     "mappings": {
       "default": {
-        "default": "アキュートアクセント付きl"
+        "default": "アクサンテギュ付きl"
       },
       "mathspeak": {
-        "default": "アキュートアクセントで修飾されたl",
-        "brief": "アキュートアクセント付きl",
-        "sbrief": "アキュートアクセント付きl"
+        "default": "アクサンテギュ付きl",
+        "brief": "アクサンテギュ付きl",
+        "sbrief": "アクサンテギュ付きl"
       }
     }
   },
@@ -698,7 +698,7 @@
         "default": "セディーユ付きl"
       },
       "mathspeak": {
-        "default": "セディーユで修飾されたl",
+        "default": "セディーユ付きl",
         "brief": "セディーユ付きl",
         "sbrief": "セディーユ付きl"
       }
@@ -711,7 +711,7 @@
         "default": "キャロン付きl"
       },
       "mathspeak": {
-        "default": "キャロンで修飾されたl",
+        "default": "キャロン付きl",
         "brief": "キャロン付きl",
         "sbrief": "キャロン付きl"
       }
@@ -724,7 +724,7 @@
         "default": "中点付きl"
       },
       "mathspeak": {
-        "default": "中点で修飾されたl",
+        "default": "中点付きl",
         "brief": "中点付きl",
         "sbrief": "中点付きl"
       }
@@ -734,12 +734,12 @@
     "key": "0144",
     "mappings": {
       "default": {
-        "default": "アキュートアクセント付きn"
+        "default": "アクサンテギュ付きn"
       },
       "mathspeak": {
-        "default": "アキュートアクセントで修飾されたn",
-        "brief": "アキュートアクセント付きn",
-        "sbrief": "アキュートアクセント付きn"
+        "default": "アクサンテギュ付きn",
+        "brief": "アクサンテギュ付きn",
+        "sbrief": "アクサンテギュ付きn"
       }
     }
   },
@@ -750,7 +750,7 @@
         "default": "セディーユ付きn"
       },
       "mathspeak": {
-        "default": "セディーユで修飾されたn",
+        "default": "セディーユ付きn",
         "brief": "セディーユ付きn",
         "sbrief": "セディーユ付きn"
       }
@@ -763,7 +763,7 @@
         "default": "キャロン付きn"
       },
       "mathspeak": {
-        "default": "キャロンで修飾されたn",
+        "default": "キャロン付きn",
         "brief": "キャロン付きn",
         "sbrief": "キャロン付きn"
       }
@@ -773,12 +773,12 @@
     "key": "014D",
     "mappings": {
       "default": {
-        "default": "オーバーバー付きo"
+        "default": "マクロン付きo"
       },
       "mathspeak": {
-        "default": "オーバーバーで修飾されたo",
-        "brief": "オーバーバー付きo",
-        "sbrief": "オーバーバー付きo"
+        "default": "マクロン付きo",
+        "brief": "マクロン付きo",
+        "sbrief": "マクロン付きo"
       }
     }
   },
@@ -789,7 +789,7 @@
         "default": "ブレーベ付きo"
       },
       "mathspeak": {
-        "default": "ブレーベで修飾されたo",
+        "default": "ブレーベ付きo",
         "brief": "ブレーベ付きo",
         "sbrief": "ブレーベ付きo"
       }
@@ -799,12 +799,12 @@
     "key": "0151",
     "mappings": {
       "default": {
-        "default": "ダブルアキュートアクセント付きo"
+        "default": "二重アクサンテギュ付きo"
       },
       "mathspeak": {
-        "default": "ダブルアキュートアクセントで修飾されたo",
-        "brief": "ダブルアキュートアクセント付きo",
-        "sbrief": "ダブルアキュートアクセント付きo"
+        "default": "二重アクサンテギュ付きo",
+        "brief": "二重アクサンテギュ付きo",
+        "sbrief": "二重アクサンテギュ付きo"
       }
     }
   },
@@ -812,12 +812,12 @@
     "key": "0155",
     "mappings": {
       "default": {
-        "default": "アキュートアクセント付きr"
+        "default": "アクサンテギュ付きr"
       },
       "mathspeak": {
-        "default": "アキュートアクセントで修飾されたr",
-        "brief": "アキュートアクセント付きr",
-        "sbrief": "アキュートアクセント付きr"
+        "default": "アクサンテギュ付きr",
+        "brief": "アクサンテギュ付きr",
+        "sbrief": "アクサンテギュ付きr"
       }
     }
   },
@@ -828,7 +828,7 @@
         "default": "セディーユ付きr"
       },
       "mathspeak": {
-        "default": "セディーユで修飾されたr",
+        "default": "セディーユ付きr",
         "brief": "セディーユ付きr",
         "sbrief": "セディーユ付きr"
       }
@@ -841,7 +841,7 @@
         "default": "キャロン付きr"
       },
       "mathspeak": {
-        "default": "キャロンで修飾されたr",
+        "default": "キャロン付きr",
         "brief": "キャロン付きr",
         "sbrief": "キャロン付きr"
       }
@@ -851,12 +851,12 @@
     "key": "015B",
     "mappings": {
       "default": {
-        "default": "アキュートアクセント付きs"
+        "default": "アクサンテギュ付きs"
       },
       "mathspeak": {
-        "default": "アキュートアクセントで修飾されたs",
-        "brief": "アキュートアクセント付きs",
-        "sbrief": "アキュートアクセント付きs"
+        "default": "アクサンテギュ付きs",
+        "brief": "アクサンテギュ付きs",
+        "sbrief": "アクサンテギュ付きs"
       }
     }
   },
@@ -864,12 +864,12 @@
     "key": "015D",
     "mappings": {
       "default": {
-        "default": "サーカムフレックスアクセント付きs"
+        "default": "サーカムフレックス付きs"
       },
       "mathspeak": {
-        "default": "サーカムフレックスアクセントで修飾されたs",
-        "brief": "サーカムフレックスアクセント付きs",
-        "sbrief": "サーカムフレックスアクセント付きs"
+        "default": "サーカムフレックス付きs",
+        "brief": "サーカムフレックス付きs",
+        "sbrief": "サーカムフレックス付きs"
       }
     }
   },
@@ -880,7 +880,7 @@
         "default": "セディーユ付きs"
       },
       "mathspeak": {
-        "default": "セディーユで修飾されたs",
+        "default": "セディーユ付きs",
         "brief": "セディーユ付きs",
         "sbrief": "セディーユ付きs"
       }
@@ -893,7 +893,7 @@
         "default": "キャロン付きs"
       },
       "mathspeak": {
-        "default": "キャロンで修飾されたs",
+        "default": "キャロン付きs",
         "brief": "キャロン付きs",
         "sbrief": "キャロン付きs"
       }
@@ -906,7 +906,7 @@
         "default": "セディーユ付きt"
       },
       "mathspeak": {
-        "default": "セディーユで修飾されたt",
+        "default": "セディーユ付きt",
         "brief": "セディーユ付きt",
         "sbrief": "セディーユ付きt"
       }
@@ -919,7 +919,7 @@
         "default": "キャロン付きt"
       },
       "mathspeak": {
-        "default": "キャロンで修飾されたt",
+        "default": "キャロン付きt",
         "brief": "キャロン付きt",
         "sbrief": "キャロン付きt"
       }
@@ -932,9 +932,11 @@
         "default": "チルダ付きu"
       },
       "mathspeak": {
-        "default": "チルダで修飾されたu",
+        "default": "チルダ付きu",
         "brief": "チルダ付きu",
-        "sbrief": "チルダ付きu"
+        "sbrief": "チルダ付きu",
+        "brief": "チルダ付きu",
+        "default": "チルダ付きu"
       }
     }
   },
@@ -945,7 +947,7 @@
         "default": "オーバーバー付きu"
       },
       "mathspeak": {
-        "default": "オーバーバーで修飾されたu",
+        "default": "オーバーバー付きu",
         "brief": "オーバーバー付きu",
         "sbrief": "オーバーバー付きu"
       }
@@ -958,7 +960,7 @@
         "default": "ブレーベ付きu"
       },
       "mathspeak": {
-        "default": "ブレーベで修飾されたu",
+        "default": "ブレーベ付きu",
         "brief": "ブレーベ付きu",
         "sbrief": "ブレーベ付きu"
       }
@@ -971,7 +973,7 @@
         "default": "リング付きu"
       },
       "mathspeak": {
-        "default": "リングで修飾されたu",
+        "default": "リング付きu",
         "brief": "リング付きu",
         "sbrief": "リング付きu"
       }
@@ -981,12 +983,12 @@
     "key": "0171",
     "mappings": {
       "default": {
-        "default": "ダブルアキュートアクセント付きu"
+        "default": "ダブルアキュート付きu"
       },
       "mathspeak": {
-        "default": "ダブルアキュートアクセントで修飾されたu",
-        "brief": "ダブルアキュートアクセント付きu",
-        "sbrief": "ダブルアキュートアクセント付きu"
+        "default": "ダブルアキュート付きu",
+        "brief": "ダブルアキュート付きu",
+        "sbrief": "ダブルアキュート付きu"
       }
     }
   },
@@ -997,7 +999,7 @@
         "default": "オゴネク付きu"
       },
       "mathspeak": {
-        "default": "オゴネクで修飾されたu",
+        "default": "オゴネク付きu",
         "brief": "オゴネク付きu",
         "sbrief": "オゴネク付きu"
       }
@@ -1007,12 +1009,12 @@
     "key": "0175",
     "mappings": {
       "default": {
-        "default": "サーカムフレックスアクセント付きw"
+        "default": "サーカムフレックス付きw"
       },
       "mathspeak": {
-        "default": "サーカムフレックスアクセントで修飾されたw",
-        "brief": "サーカムフレックスアクセント付きw",
-        "sbrief": "サーカムフレックスアクセント付きw"
+        "default": "サーカムフレックス付きw",
+        "brief": "サーカムフレックス付きw",
+        "sbrief": "サーカムフレックス付きw"
       }
     }
   },
@@ -1020,12 +1022,12 @@
     "key": "0177",
     "mappings": {
       "default": {
-        "default": "サーカムフレックスアクセント付きy"
+        "default": "サーカムフレックス付きy"
       },
       "mathspeak": {
-        "default": "サーカムフレックスアクセントで修飾されたy",
-        "brief": "サーカムフレックスアクセント付きy",
-        "sbrief": "サーカムフレックスアクセント付きy"
+        "default": "サーカムフレックス付きy",
+        "brief": "サーカムフレックス付きy",
+        "sbrief": "サーカムフレックス付きy"
       }
     }
   },
@@ -1033,12 +1035,12 @@
     "key": "017A",
     "mappings": {
       "default": {
-        "default": "アキュートアクセント付きz"
+        "default": "アキュート付きz"
       },
       "mathspeak": {
-        "default": "アキュートアクセントで修飾されたz",
-        "brief": "アキュートアクセント付きz",
-        "sbrief": "アキュートアクセント付きz"
+        "default": "アキュート付きz",
+        "brief": "アキュート付きz",
+        "sbrief": "アキュート付きz"
       }
     }
   },
@@ -1049,7 +1051,7 @@
         "default": "上付きドット付きz"
       },
       "mathspeak": {
-        "default": "上付きドットで修飾されたz",
+        "default": "上付きドット付きz",
         "brief": "上付きドット付きz",
         "sbrief": "上付きドット付きz"
       }
@@ -1062,7 +1064,7 @@
         "default": "キャロン付きz"
       },
       "mathspeak": {
-        "default": "キャロンで修飾されたz",
+        "default": "キャロン付きz",
         "brief": "キャロン付きz",
         "sbrief": "キャロン付きz"
       }
@@ -1075,7 +1077,7 @@
         "default": "キャロン付きa"
       },
       "mathspeak": {
-        "default": "キャロンで修飾されたa",
+        "default": "キャロン付きa",
         "brief": "キャロン付きa",
         "sbrief": "キャロン付きa"
       }
@@ -1088,7 +1090,7 @@
         "default": "キャロン付きi"
       },
       "mathspeak": {
-        "default": "キャロンで修飾されたi",
+        "default": "キャロン付きi",
         "brief": "キャロン付きi",
         "sbrief": "キャロン付きi"
       }
@@ -1101,7 +1103,7 @@
         "default": "キャロン付きo"
       },
       "mathspeak": {
-        "default": "キャロンで修飾されたo",
+        "default": "キャロン付きo",
         "brief": "キャロン付きo",
         "sbrief": "キャロン付きo"
       }
@@ -1114,7 +1116,7 @@
         "default": "キャロン付きu"
       },
       "mathspeak": {
-        "default": "キャロンで修飾されたu",
+        "default": "キャロン付きu",
         "brief": "キャロン付きu",
         "sbrief": "キャロン付きu"
       }
@@ -1127,7 +1129,7 @@
         "default": "キャロン付きg"
       },
       "mathspeak": {
-        "default": "キャロンで修飾されたg",
+        "default": "キャロン付きg",
         "brief": "キャロン付きg",
         "sbrief": "キャロン付きg"
       }
@@ -1140,7 +1142,7 @@
         "default": "キャロン付きk"
       },
       "mathspeak": {
-        "default": "キャロンで修飾されたk",
+        "default": "キャロン付きk",
         "brief": "キャロン付きk",
         "sbrief": "キャロン付きk"
       }
@@ -1153,7 +1155,7 @@
         "default": "オゴネク付きo"
       },
       "mathspeak": {
-        "default": "オゴネクで修飾されたo",
+        "default": "オゴネク付きo",
         "brief": "オゴネク付きo",
         "sbrief": "オゴネク付きo"
       }
@@ -1166,7 +1168,7 @@
         "default": "キャロン付きj"
       },
       "mathspeak": {
-        "default": "キャロンで修飾されたj",
+        "default": "キャロン付きj",
         "brief": "キャロン付きj",
         "sbrief": "キャロン付きj"
       }
@@ -1176,12 +1178,12 @@
     "key": "01F5",
     "mappings": {
       "default": {
-        "default": "アキュートアクセント付きg"
+        "default": "アキュート付きg"
       },
       "mathspeak": {
-        "default": "アキュートアクセントで修飾されたg",
-        "brief": "アキュートアクセント付きg",
-        "sbrief": "アキュートアクセント付きg"
+        "default": "アキュート付きg",
+        "brief": "アキュート付きg",
+        "sbrief": "アキュート付きg"
       }
     }
   },
@@ -1189,12 +1191,12 @@
     "key": "01F9",
     "mappings": {
       "default": {
-        "default": "グレーブアクセント付きn"
+        "default": "アクサングラーブ付きn"
       },
       "mathspeak": {
-        "default": "グレーブアクセントで修飾されたn",
-        "brief": "グレーブアクセント付きn",
-        "sbrief": "グレーブアクセント付きn"
+        "default": "アクサングラーブ付きn",
+        "brief": "アクサングラーブ付きn",
+        "sbrief": "アクサングラーブ付きn"
       }
     }
   },
@@ -1202,12 +1204,12 @@
     "key": "0201",
     "mappings": {
       "default": {
-        "default": "ダブルグレーブアクセント付きa"
+        "default": "ダブルアクサングラーブ付きa"
       },
       "mathspeak": {
-        "default": "ダブルグレーブアクセントで修飾されたa",
-        "brief": "ダブルグレーブアクセント付きa",
-        "sbrief": "ダブルグレーブアクセント付きa"
+        "default": "ダブルアクサングラーブ付きa",
+        "brief": "ダブルアクサングラーブ付きa",
+        "sbrief": "ダブルアクサングラーブ付きa"
       }
     }
   },
@@ -1218,7 +1220,7 @@
         "default": "反転ブレーベ付きa"
       },
       "mathspeak": {
-        "default": "反転ブレーベで修飾されたa",
+        "default": "反転ブレーベ付きa",
         "brief": "反転ブレーベ付きa",
         "sbrief": "反転ブレーベ付きa"
       }
@@ -1228,12 +1230,12 @@
     "key": "0205",
     "mappings": {
       "default": {
-        "default": "ダブルグレーブアクセント付きe"
+        "default": "ダブルアクサングラーブ付きe"
       },
       "mathspeak": {
-        "default": "ダブルグレーブアクセントで修飾されたe",
-        "brief": "ダブルグレーブアクセント付きe",
-        "sbrief": "ダブルグレーブアクセント付きe"
+        "default": "ダブルアクサングラーブ付きe",
+        "brief": "ダブルアクサングラーブ付きe",
+        "sbrief": "ダブルアクサングラーブ付きe"
       }
     }
   },
@@ -1244,7 +1246,7 @@
         "default": "反転ブレーベ付きe"
       },
       "mathspeak": {
-        "default": "反転ブレーベで修飾されたe",
+        "default": "反転ブレーベ付きe",
         "brief": "反転ブレーベ付きe",
         "sbrief": "反転ブレーベ付きe"
       }
@@ -1254,12 +1256,12 @@
     "key": "0209",
     "mappings": {
       "default": {
-        "default": "ダブルグレーブアクセント付きi"
+        "default": "ダブルアクサングラーブ付きi"
       },
       "mathspeak": {
-        "default": "ダブルグレーブアクセントで修飾されたi",
-        "brief": "ダブルグレーブアクセント付きi",
-        "sbrief": "ダブルグレーブアクセント付きi"
+        "default": "ダブルアクサングラーブ付きi",
+        "brief": "ダブルアクサングラーブ付きi",
+        "sbrief": "ダブルアクサングラーブ付きi"
       }
     }
   },
@@ -1270,7 +1272,7 @@
         "default": "反転ブレーベ付きi"
       },
       "mathspeak": {
-        "default": "反転ブレーベで修飾されたi",
+        "default": "反転ブレーベ付きi",
         "brief": "反転ブレーベ付きi",
         "sbrief": "反転ブレーベ付きi"
       }
@@ -1280,12 +1282,12 @@
     "key": "020D",
     "mappings": {
       "default": {
-        "default": "ダブルグレーブアクセント付きo"
+        "default": "ダブルアクサングラーブ付きo"
       },
       "mathspeak": {
-        "default": "ダブルグレーブアクセントで修飾されたo",
-        "brief": "ダブルグレーブアクセント付きo",
-        "sbrief": "ダブルグレーブアクセント付きo"
+        "default": "ダブルアクサングラーブ付きo",
+        "brief": "ダブルアクサングラーブ付きo",
+        "sbrief": "ダブルアクサングラーブ付きo"
       }
     }
   },
@@ -1296,7 +1298,7 @@
         "default": "反転ブレーベ付きo"
       },
       "mathspeak": {
-        "default": "反転ブレーベで修飾されたo",
+        "default": "反転ブレーベ付きo",
         "brief": "反転ブレーベ付きo",
         "sbrief": "反転ブレーベ付きo"
       }
@@ -1306,12 +1308,12 @@
     "key": "0211",
     "mappings": {
       "default": {
-        "default": "ダブルグレーブアクセント付きr"
+        "default": "ダブルアクサングラーブ付きr"
       },
       "mathspeak": {
-        "default": "ダブルグレーブアクセントで修飾されたr",
-        "brief": "ダブルグレーブアクセント付きr",
-        "sbrief": "ダブルグレーブアクセント付きr"
+        "default": "ダブルアクサングラーブ付きr",
+        "brief": "ダブルアクサングラーブ付きr",
+        "sbrief": "ダブルアクサングラーブ付きr"
       }
     }
   },
@@ -1322,7 +1324,7 @@
         "default": "反転ブレーベ付きr"
       },
       "mathspeak": {
-        "default": "反転ブレーベで修飾されたr",
+        "default": "反転ブレーベ付きr",
         "brief": "反転ブレーベ付きr",
         "sbrief": "反転ブレーベ付きr"
       }
@@ -1332,12 +1334,12 @@
     "key": "0215",
     "mappings": {
       "default": {
-        "default": "ダブルグレーブアクセント付きu"
+        "default": "ダブルアクサングラーブ付きu"
       },
       "mathspeak": {
-        "default": "ダブルグレーブアクセントで修飾されたu",
-        "brief": "ダブルグレーブアクセント付きu",
-        "sbrief": "ダブルグレーブアクセント付きu"
+        "default": "ダブルアクサングラーブ付きu",
+        "brief": "ダブルアクサングラーブ付きu",
+        "sbrief": "ダブルアクサングラーブ付きu"
       }
     }
   },
@@ -1348,7 +1350,7 @@
         "default": "反転ブレーベ付きu"
       },
       "mathspeak": {
-        "default": "反転ブレーベで修飾されたu",
+        "default": "反転ブレーベ付きu",
         "brief": "反転ブレーベ付きu",
         "sbrief": "反転ブレーベ付きu"
       }
@@ -1361,7 +1363,7 @@
         "default": "下付きコンマ付きs"
       },
       "mathspeak": {
-        "default": "下付きコンマで修飾されたs",
+        "default": "下付きコンマ付きs",
         "brief": "下付きコンマ付きs",
         "sbrief": "下付きコンマ付きs"
       }
@@ -1374,7 +1376,7 @@
         "default": "下付きコンマ付きt"
       },
       "mathspeak": {
-        "default": "下付きコンマで修飾されたt",
+        "default": "下付きコンマ付きt",
         "brief": "下付きコンマ付きt",
         "sbrief": "下付きコンマ付きt"
       }
@@ -1387,7 +1389,7 @@
         "default": "キャロン付きh"
       },
       "mathspeak": {
-        "default": "キャロンで修飾されたh",
+        "default": "キャロン付きh",
         "brief": "キャロン付きh",
         "sbrief": "キャロン付きh"
       }
@@ -1400,7 +1402,7 @@
         "default": "上付きドット付きa"
       },
       "mathspeak": {
-        "default": "上付きドットで修飾されたa",
+        "default": "上付きドット付きa",
         "brief": "上付きドット付きa",
         "sbrief": "上付きドット付きa"
       }
@@ -1413,7 +1415,7 @@
         "default": "セディーユ付きe"
       },
       "mathspeak": {
-        "default": "セディーユで修飾されたe",
+        "default": "セディーユ付きe",
         "brief": "セディーユ付きe",
         "sbrief": "セディーユ付きe"
       }
@@ -1426,7 +1428,7 @@
         "default": "上付きドット付きo"
       },
       "mathspeak": {
-        "default": "上付きドットで修飾されたo",
+        "default": "上付きドット付きo",
         "brief": "上付きドット付きo",
         "sbrief": "上付きドット付きo"
       }
@@ -1439,7 +1441,7 @@
         "default": "オーバーバー付きy"
       },
       "mathspeak": {
-        "default": "オーバーバーで修飾されたy",
+        "default": "オーバーバー付きy",
         "brief": "オーバーバー付きy",
         "sbrief": "オーバーバー付きy"
       }
@@ -1449,12 +1451,51 @@
     "key": "0237",
     "mappings": {
       "default": {
-        "default": "ドットなしj"
+        "default": "ドットレスj"
       },
       "mathspeak": {
-        "default": "ドットなしj",
-        "brief": "ドットなしj",
-        "sbrief": "ドットなしj"
+        "default": "ドットレスj",
+        "brief": "ドットレスj",
+        "sbrief": "ドットレスj"
+      }
+    }
+  },
+  {
+    "key": "1E01",
+    "mappings": {
+      "default": {
+        "default": "下付きリング付きa"
+      },
+      "mathspeak": {
+        "default": "下付きリング付きa",
+        "brief": "下付きリング付きa",
+        "sbrief": "下付きリング付きa"
+      }
+    }
+  },
+  {
+    "key": "1E03",
+    "mappings": {
+      "default": {
+        "default": "上付きドット付きb"
+      },
+      "mathspeak": {
+        "default": "上付きドット付きb",
+        "brief": "上付きドット付きb",
+        "sbrief": "上付きドット付きb"
+      }
+    }
+  },
+  {
+    "key": "1E05",
+    "mappings": {
+      "default": {
+        "default": "下付きドット付きb"
+      },
+      "mathspeak": {
+        "default": "下付きドット付きb",
+        "brief": "下付きドット付きb",
+        "sbrief": "下付きドット付きb"
       }
     }
   },
@@ -1465,7 +1506,7 @@
         "default": "下付きバー付きb"
       },
       "mathspeak": {
-        "default": "下付きバーで修飾されたb",
+        "default": "下付きバー付きb",
         "brief": "下付きバー付きb",
         "sbrief": "下付きバー付きb"
       }
@@ -1478,7 +1519,7 @@
         "default": "上付きドット付きd"
       },
       "mathspeak": {
-        "default": "上付きドットで修飾されたd",
+        "default": "上付きドット付きd",
         "brief": "上付きドット付きd",
         "sbrief": "上付きドット付きd"
       }
@@ -1491,7 +1532,7 @@
         "default": "下付きドット付きd"
       },
       "mathspeak": {
-        "default": "下付きドットで修飾されたd",
+        "default": "下付きドット付きd",
         "brief": "下付きドット付きd",
         "sbrief": "下付きドット付きd"
       }
@@ -1504,7 +1545,7 @@
         "default": "下付きバー付きd"
       },
       "mathspeak": {
-        "default": "下付きバーで修飾されたd",
+        "default": "下付きバー付きd",
         "brief": "下付きバー付きd",
         "sbrief": "下付きバー付きd"
       }
@@ -1517,7 +1558,7 @@
         "default": "セディーユ付きd"
       },
       "mathspeak": {
-        "default": "セディーユで修飾されたd",
+        "default": "セディーユ付きd",
         "brief": "セディーユ付きd",
         "sbrief": "セディーユ付きd"
       }
@@ -1527,12 +1568,12 @@
     "key": "1E13",
     "mappings": {
       "default": {
-        "default": "下付きサーカムフレックスアクセント付きd"
+        "default": "下付きサーカムフレックス付きd"
       },
       "mathspeak": {
-        "default": "下付きサーカムフレックスアクセントで修飾されたd",
-        "brief": "下付きサーカムフレックスアクセント付きd",
-        "sbrief": "下付きサーカムフレックスアクセント付きd"
+        "default": "下付きサーカムフレックス付きd",
+        "brief": "下付きサーカムフレックス付きd",
+        "sbrief": "下付きサーカムフレックス付きd"
       }
     }
   },
@@ -1540,12 +1581,12 @@
     "key": "1E19",
     "mappings": {
       "default": {
-        "default": "下付きサーカムフレックスアクセント付きe"
+        "default": "下付きサーカムフレックス付きe"
       },
       "mathspeak": {
-        "default": "下付きサーカムフレックスアクセントで修飾されたe",
-        "brief": "下付きサーカムフレックスアクセント付きe",
-        "sbrief": "下付きサーカムフレック��アクセント付きe"
+        "default": "下付きサーカムフレックス付きe",
+        "brief": "下付きサーカムフレックス付きe",
+        "sbrief": "下付きサーカムフレックス付きe"
       }
     }
   },
@@ -1556,7 +1597,7 @@
         "default": "下付きチルダ付きe"
       },
       "mathspeak": {
-        "default": "下付きチルダで修飾されたe",
+        "default": "下付きチルダ付きe",
         "brief": "下付きチルダ付きe",
         "sbrief": "下付きチルダ付きe"
       }
@@ -1569,7 +1610,7 @@
         "default": "上付きドット付きf"
       },
       "mathspeak": {
-        "default": "上付きドットで修飾されたf",
+        "default": "上付きドット付きf",
         "brief": "上付きドット付きf",
         "sbrief": "上付きドット付きf"
       }
@@ -1582,7 +1623,7 @@
         "default": "オーバーバー付きg"
       },
       "mathspeak": {
-        "default": "オーバーバーで修飾されたg",
+        "default": "オーバーバー付きg",
         "brief": "オーバーバー付きg",
         "sbrief": "オーバーバー付きg"
       }
@@ -1595,7 +1636,7 @@
         "default": "上付きドット付きh"
       },
       "mathspeak": {
-        "default": "上付きドットで修飾されたh",
+        "default": "上付きドット付きh",
         "brief": "上付きドット付きh",
         "sbrief": "上付きドット付きh"
       }
@@ -1608,7 +1649,7 @@
         "default": "下付きドット付きh"
       },
       "mathspeak": {
-        "default": "下付きドットで修飾されたh",
+        "default": "下付きドット付きh",
         "brief": "下付きドット付きh",
         "sbrief": "下付きドット付きh"
       }
@@ -1618,12 +1659,12 @@
     "key": "1E27",
     "mappings": {
       "default": {
-        "default": "ダイアレシス付きh"
+        "default": "上付きダブルドット付きh"
       },
       "mathspeak": {
-        "default": "ダイアレシスで修飾されたh",
-        "brief": "ダイアレシス付きh",
-        "sbrief": "ダイアレシス付きh"
+        "default": "上付きダブルドット付きh",
+        "brief": "上付きダブルドット付きh",
+        "sbrief": "上付きダブルドット付きh"
       }
     }
   },
@@ -1634,7 +1675,7 @@
         "default": "セディーユ付きh"
       },
       "mathspeak": {
-        "default": "セディーユで修飾されたh",
+        "default": "セディーユ付きh",
         "brief": "セディーユ付きh",
         "sbrief": "セディーユ付きh"
       }
@@ -1644,12 +1685,12 @@
     "key": "1E2B",
     "mappings": {
       "default": {
-        "default": "ブレーベ下付きh"
+        "default": "下付きブレーベ付きh"
       },
       "mathspeak": {
-        "default": "ブレーベ下付きで修飾されたh",
-        "brief": "ブレーベ下付きh",
-        "sbrief": "ブレーベ下付きh"
+        "default": "下付きブレーベ付きh",
+        "brief": "下付きブレーベ付きh",
+        "sbrief": "下付きブレーベ付きh"
       }
     }
   },
@@ -1657,25 +1698,12 @@
     "key": "1E2D",
     "mappings": {
       "default": {
-        "default": "チルダ下付きi"
+        "default": "下付きチルダ付きi"
       },
       "mathspeak": {
-        "default": "チルダ下付きで修飾されたi",
-        "brief": "チルダ下付きi",
-        "sbrief": "チルダ下付きi"
-      }
-    }
-  },
-  {
-    "key": "1E2F",
-    "mappings": {
-      "default": {
-        "default": "ダイアレシスとアキュート付きi"
-      },
-      "mathspeak": {
-        "default": "ダイアレシスとアキュートで修飾されたi",
-        "brief": "ダイアレシスとアキュート付きi",
-        "sbrief": "ダイアレシスとアキュート付きi"
+        "default": "下付きチルダ付きi",
+        "brief": "下付きチルダ付きi",
+        "sbrief": "下付きチルダ付きi"
       }
     }
   },
@@ -1686,7 +1714,7 @@
         "default": "アキュート付きk"
       },
       "mathspeak": {
-        "default": "アキュートで修飾されたk",
+        "default": "アキュート付きk",
         "brief": "アキュート付きk",
         "sbrief": "アキュート付きk"
       }
@@ -1699,7 +1727,7 @@
         "default": "下付きドット付きk"
       },
       "mathspeak": {
-        "default": "下付きドットで修飾されたk",
+        "default": "下付きドット付きk",
         "brief": "下付きドット付きk",
         "sbrief": "下付きドット付きk"
       }
@@ -1709,12 +1737,12 @@
     "key": "1E35",
     "mappings": {
       "default": {
-        "default": "下線付きk"
+        "default": "下付きバー付きk"
       },
       "mathspeak": {
-        "default": "下線で修飾されたk",
-        "brief": "下線付きk",
-        "sbrief": "下線付きk"
+        "default": "下付きバー付きk",
+        "brief": "下付きバー付きk",
+        "sbrief": "下付きバー付きk"
       }
     }
   },
@@ -1725,22 +1753,9 @@
         "default": "下付きドット付きl"
       },
       "mathspeak": {
-        "default": "下付きドットで修飾されたl",
+        "default": "下付きドット付きl",
         "brief": "下付きドット付きl",
         "sbrief": "下付きドット付きl"
-      }
-    }
-  },
-  {
-    "key": "1E39",
-    "mappings": {
-      "default": {
-        "default": "下付きドットとオーバーバー付きl"
-      },
-      "mathspeak": {
-        "default": "下付きドットとオーバーバーで修飾されたl",
-        "brief": "下付きドットとオーバーバー付きl",
-        "sbrief": "下付きドットとオーバーバー付きl"
       }
     }
   },
@@ -1748,12 +1763,12 @@
     "key": "1E3B",
     "mappings": {
       "default": {
-        "default": "下線付きl"
+        "default": "下付きバー付きl"
       },
       "mathspeak": {
-        "default": "下線で修飾されたl",
-        "brief": "下線付きl",
-        "sbrief": "下線付きl"
+        "default": "下付きバー付きl",
+        "brief": "下付きバー付きl",
+        "sbrief": "下付きバー付きl"
       }
     }
   },
@@ -1761,12 +1776,12 @@
     "key": "1E3D",
     "mappings": {
       "default": {
-        "default": "サーカムフレックス下付きl"
+        "default": "下付きサーカムフレックス付きl"
       },
       "mathspeak": {
-        "default": "サーカムフレックス下付きで修飾されたl",
-        "brief": "サーカムフレックス下付きl",
-        "sbrief": "サーカムフレックス下付きl"
+        "default": "下付きサーカムフレックス付きl",
+        "brief": "下付きサーカムフレックス付きl",
+        "sbrief": "下付きサーカムフレックス付きl"
       }
     }
   },
@@ -1777,7 +1792,7 @@
         "default": "アキュート付きm"
       },
       "mathspeak": {
-        "default": "アキュートで修飾されたm",
+        "default": "アキュート付きm",
         "brief": "アキュート付きm",
         "sbrief": "アキュート付きm"
       }
@@ -1790,7 +1805,7 @@
         "default": "上付きドット付きm"
       },
       "mathspeak": {
-        "default": "上付きドットで修飾されたm",
+        "default": "上付きドット付きm",
         "brief": "上付きドット付きm",
         "sbrief": "上付きドット付きm"
       }
@@ -1803,7 +1818,7 @@
         "default": "下付きドット付きm"
       },
       "mathspeak": {
-        "default": "下付きド���トで修飾されたm",
+        "default": "下付きドット付きm",
         "brief": "下付きドット付きm",
         "sbrief": "下付きドット付きm"
       }
@@ -1816,7 +1831,7 @@
         "default": "上付きドット付きn"
       },
       "mathspeak": {
-        "default": "上付きドットで修飾されたn",
+        "default": "上付きドット付きn",
         "brief": "上付きドット付きn",
         "sbrief": "上付きドット付きn"
       }
@@ -1829,7 +1844,7 @@
         "default": "下付きドット付きn"
       },
       "mathspeak": {
-        "default": "下付きドットで修飾されたn",
+        "default": "下付きドット付きn",
         "brief": "下付きドット付きn",
         "sbrief": "下付きドット付きn"
       }
@@ -1839,12 +1854,12 @@
     "key": "1E49",
     "mappings": {
       "default": {
-        "default": "下線付きn"
+        "default": "下付きバー付きn"
       },
       "mathspeak": {
-        "default": "下線で修飾されたn",
-        "brief": "下線付きn",
-        "sbrief": "下線付きn"
+        "default": "下付きバー付きn",
+        "brief": "下付きバー付きn", 
+        "sbrief": "下付きバー付きn"
       }
     }
   },
@@ -1852,51 +1867,12 @@
     "key": "1E4B",
     "mappings": {
       "default": {
-        "default": "サーカムフレックス下付きn"
+        "default": "下付きキャレット付きn"
       },
       "mathspeak": {
-        "default": "サーカムフレックス下付きで修飾されたn",
-        "brief": "サーカムフレックス下付きn",
-        "sbrief": "サーカムフレックス下付きn"
-      }
-    }
-  },
-  {
-    "key": "1E4F",
-    "mappings": {
-      "default": {
-        "default": "チルダとダイアレシス付きo"
-      },
-      "mathspeak": {
-        "default": "チルダとダイアレシスで修飾されたo",
-        "brief": "チルダとダイアレシス付きo",
-        "sbrief": "チルダとダイアレシス付きo"
-      }
-    }
-  },
-  {
-    "key": "1E51",
-    "mappings": {
-      "default": {
-        "default": "オーバーバーとグレーブ付きo"
-      },
-      "mathspeak": {
-        "default": "オーバーバーとグレーブで修飾されたo",
-        "brief": "オーバーバーとグレーブ付きo",
-        "sbrief": "オーバーバーとグレーブ付きo"
-      }
-    }
-  },
-  {
-    "key": "1E53",
-    "mappings": {
-      "default": {
-        "default": "オーバーバーとアキュート付きo"
-      },
-      "mathspeak": {
-        "default": "オーバーバーとアキュートで修飾されたo",
-        "brief": "オーバーバーとアキュート付きo",
-        "sbrief": "オーバーバーとアキュート付きo"
+        "default": "下付きキャレット付きn",
+        "brief": "下付きキャレット付きn",
+        "sbrief": "下付きキャレット付きn"
       }
     }
   },
@@ -1907,9 +1883,9 @@
         "default": "アキュート付きp"
       },
       "mathspeak": {
-        "default": "アキュートで修飾されたp",
-        "brief": "アキュート付きp",
-        "sbrief": "アキュート付きp"
+        "default": "上付きアキュート付きp",
+        "brief": "上付きアキュート付きp",
+        "sbrief": "上付きアキュート付きp"
       }
     }
   },
@@ -1920,7 +1896,7 @@
         "default": "上付きドット付きp"
       },
       "mathspeak": {
-        "default": "上付きドットで修飾されたp",
+        "default": "上付きドット付きp",
         "brief": "上付きドット付きp",
         "sbrief": "上付きドット付きp"
       }
@@ -1933,7 +1909,7 @@
         "default": "上付きドット付きr"
       },
       "mathspeak": {
-        "default": "上付きドットで修飾されたr",
+        "default": "上付きドット付きr",
         "brief": "上付きドット付きr",
         "sbrief": "上付きドット付きr"
       }
@@ -1946,22 +1922,9 @@
         "default": "下付きドット付きr"
       },
       "mathspeak": {
-        "default": "下付きドットで修飾されたr",
+        "default": "下付きドット付きr",
         "brief": "下付きドット付きr",
         "sbrief": "下付きドット付きr"
-      }
-    }
-  },
-  {
-    "key": "1E5D",
-    "mappings": {
-      "default": {
-        "default": "下付きドットとオーバーバー付きr"
-      },
-      "mathspeak": {
-        "default": "下付きドットとオーバーバーで修飾されたr",
-        "brief": "下付きドットとオーバーバー付きr",
-        "sbrief": "下付きドットとオーバーバー付きr"
       }
     }
   },
@@ -1969,12 +1932,12 @@
     "key": "1E5F",
     "mappings": {
       "default": {
-        "default": "下線付きr"
+        "default": "下付きバー付きr"
       },
       "mathspeak": {
-        "default": "下線で修飾されたr",
-        "brief": "下線付きr",
-        "sbrief": "下線付きr"
+        "default": "下付きバー付きr",
+        "brief": "下付きバー付きr",
+        "sbrief": "下付きバー付きr"
       }
     }
   },
@@ -1985,7 +1948,7 @@
         "default": "上付きドット付きs"
       },
       "mathspeak": {
-        "default": "上付きドットで修飾されたs",
+        "default": "上付きドット付きs",
         "brief": "上付きドット付きs",
         "sbrief": "上付きドット付きs"
       }
@@ -1998,48 +1961,9 @@
         "default": "下付きドット付きs"
       },
       "mathspeak": {
-        "default": "下付きドットで修飾されたs",
+        "default": "下付きドット付きs",
         "brief": "下付きドット付きs",
         "sbrief": "下付きドット付きs"
-      }
-    }
-  },
-  {
-    "key": "1E65",
-    "mappings": {
-      "default": {
-        "default": "アキュートと上付きドット付きs"
-      },
-      "mathspeak": {
-        "default": "アキュートと上付きドットで修飾されたs",
-        "brief": "アキュートと上付きドット付きs",
-        "sbrief": "アキュートと上付きドット付きs"
-      }
-    }
-  },
-  {
-    "key": "1E67",
-    "mappings": {
-      "default": {
-        "default": "キャロンと上付きドット付きs"
-      },
-      "mathspeak": {
-        "default": "キャロンと上付きドットで修飾されたs",
-        "brief": "キャロンと上付きドット付きs",
-        "sbrief": "キャロンと上付きドット付きs"
-      }
-    }
-  },
-  {
-    "key": "1E69",
-    "mappings": {
-      "default": {
-        "default": "上付きドットと下付きドット付きs"
-      },
-      "mathspeak": {
-        "default": "上付きドットと下付きドットで修飾されたs",
-        "brief": "上付きドットと下付きドット付きs",
-        "sbrief": "上付きドットと下付きドット付きs"
       }
     }
   },
@@ -2050,7 +1974,7 @@
         "default": "上付きドット付きt"
       },
       "mathspeak": {
-        "default": "上付きドットで修飾されたt",
+        "default": "上付きドット付きt",
         "brief": "上付きドット付きt",
         "sbrief": "上付きドット付きt"
       }
@@ -2063,10 +1987,504 @@
         "default": "下付きドット付きt"
       },
       "mathspeak": {
-        "default": "下付きドットで修飾されたt",
+        "default": "下付きドット付きt",
         "brief": "下付きドット付きt",
         "sbrief": "下付きドット付きt"
       }
     }
+  },
+  {
+    "key": "1E6F",
+    "mappings": {
+      "default": {
+        "default": "下付きバー付きt"
+      },
+      "mathspeak": {
+        "default": "下付きバー付きt",
+        "brief": "下付きバー付きt",
+        "sbrief": "下付きバー付きt"
+      }
+    }
+  },
+  {
+    "key": "1E71",
+    "mappings": {
+      "default": {
+        "default": "下付きキャレット付きt"
+      },
+      "mathspeak": {
+        "default": "下付きキャレット付きt",
+        "brief": "下付きキャレット付きt",
+        "sbrief": "下付きキャレット付きt"
+      }
+    }
+  },
+  {
+    "key": "1E73",
+    "mappings": {
+      "default": {
+        "default": "下付きダブルドット付きu"
+      },
+      "mathspeak": {
+        "default": "下付きダブルドット付きu",
+        "brief": "下付きダブルドット付きu",
+        "sbrief": "下付きダブルドット付きu"
+      }
+    }
+  },
+  {
+    "key": "1E75",
+    "mappings": {
+      "default": {
+        "default": "下付きチルダ付きu"
+      },
+      "mathspeak": {
+        "default": "下付きチルダ付きu",
+        "brief": "下付きチルダ付きu",
+        "sbrief": "下付きチルダ付きu"
+      }
+    }
+  },
+  {
+    "key": "1E77",
+    "mappings": {
+      "default": {
+        "default": "下付きキャレット付きu"
+      },
+      "mathspeak": {
+        "default": "下付きキャレット付きu",
+        "brief": "下付きキャレット付きu",
+        "sbrief": "下付きキャレット付きu"
+      }
+    }
+  },
+  {
+    "key": "1E7D",
+    "mappings": {
+      "default": {
+        "default": "チルダ付きv"
+      },
+      "mathspeak": {
+        "default": "上付きチルダ付きv",
+        "brief": "上付きチルダ付きv",
+        "sbrief": "上付きチルダ付きv"
+      }
+    }
+  },
+  {
+    "key": "1E7F",
+    "mappings": {
+      "default": {
+        "default": "下付きドット付きv"
+      },
+      "mathspeak": {
+        "default": "下付きドット付きv",
+        "brief": "下付きドット付きv",
+        "sbrief": "下付きドット付きv"
+      }
+    }
+  },
+  {
+    "key": "1E81",
+    "mappings": {
+      "default": {
+        "default": "グレーブ付きw"
+      },
+      "mathspeak": {
+        "default": "上付きグレーブ付きw",
+        "brief": "上付きグレーブ付きw",
+        "sbrief": "上付きグレーブ付きw"
+      }
+    }
+  },
+  {
+    "key": "1E83",
+    "mappings": {
+      "default": {
+        "default": "アキュート付きw"
+      },
+      "mathspeak": {
+        "default": "上付きアキュート付きw",
+        "brief": "上付きアキュート付きw",
+        "sbrief": "上付きアキュート付きw"
+      }
+    }
+  },
+  {
+    "key": "1E85",
+    "mappings": {
+      "default": {
+        "default": "上付きダブルドット付きw"
+      },
+      "mathspeak": {
+        "default": "上付きダブルドット付きw",
+        "brief": "上付きダブルドット付きw",
+        "sbrief": "上付きダブルドット付きw"
+      }
+    }
+  },
+  {
+    "key": "1E87",
+    "mappings": {
+      "default": {
+        "default": "上付きドット付きw"
+      },
+      "mathspeak": {
+        "default": "上付きドット付きw",
+        "brief": "上付きドット付きw",
+        "sbrief": "上付きドット付きw"
+      }
+    }
+  },
+  {
+    "key": "1E89",
+    "mappings": {
+      "default": {
+        "default": "下付きドット付きw"
+      },
+      "mathspeak": {
+        "default": "下付きドット付きw",
+        "brief": "下付きドット付きw",
+        "sbrief": "下付きドット付きw"
+      }
+    }
+  },
+  {
+    "key": "1E8B",
+    "mappings": {
+      "default": {
+        "default": "上付きドット付きx"
+      },
+      "mathspeak": {
+        "default": "上付きドット付きx",
+        "brief": "上付きドット付きx",
+        "sbrief": "上付きドット付きx"
+      }
+    }
+  },
+  {
+    "key": "1E8D",
+    "mappings": {
+      "default": {
+        "default": "上付きダブルドット付きx"
+      },
+      "mathspeak": {
+        "default": "上付きダブルドット付きx",
+        "brief": "上付きダブルドット付きx",
+        "sbrief": "上付きダブルドット付きx"
+      }
+    }
+  },
+  {
+    "key": "1E8F",
+    "mappings": {
+      "default": {
+        "default": "上付きドット付きy"
+      },
+      "mathspeak": {
+        "default": "上付きドット付きy",
+        "brief": "上付きドット付きy",
+        "sbrief": "上付きドット付きy"
+      }
+    }
+  },
+  {
+    "key": "1E91",
+    "mappings": {
+      "default": {
+        "default": "キャレット付きz"
+      },
+      "mathspeak": {
+        "default": "上付きキャレット付きz",
+        "brief": "上付きキャレット付きz",
+        "sbrief": "上付きキャレット付きz"
+      }
+    }
+  },
+  {
+    "key": "1E93",
+    "mappings": {
+      "default": {
+        "default": "下付きドット付きz"
+      },
+      "mathspeak": {
+        "default": "下付きドット付きz",
+        "brief": "下付きドット付きz",
+        "sbrief": "下付きドット付きz"
+      }
+    }
+  },
+  {
+    "key": "1E95",
+    "mappings": {
+      "default": {
+        "default": "下付きバー付きz"
+      },
+      "mathspeak": {
+        "default": "下付きバー付きz",
+        "brief": "下付きバー付きz",
+        "sbrief": "下付きバー付きz"
+      }
+    }
+  },
+  {
+    "key": "1E96",
+    "mappings": {
+      "default": {
+        "default": "下付きバー付きh"
+      },
+      "mathspeak": {
+        "default": "下付きバー付きh",
+        "brief": "下付きバー付きh",
+        "sbrief": "下付きバー付きh"
+      }
+    }
+  },
+  {
+    "key": "1E97",
+    "mappings": {
+      "default": {
+        "default": "上付きダブルドット付きt"
+      },
+      "mathspeak": {
+        "default": "上付きダブルドット付きt",
+        "brief": "上付きダブルドット付きt",
+        "sbrief": "上付きダブルドット付きt"
+      }
+    }
+  },
+  {
+    "key": "1E98",
+    "mappings": {
+      "default": {
+        "default": "リング付きw"
+      },
+      "mathspeak": {
+        "default": "上付きリング付きw",
+        "brief": "上付きリング付きw",
+        "sbrief": "上付きリング付きw"
+      }
+    }
+  },
+  {
+    "key": "1E99",
+    "mappings": {
+      "default": {
+        "default": "リング付きy"
+      },
+      "mathspeak": {
+        "default": "上付きリング付きy",
+        "brief": "上付きリング付きy",
+        "sbrief": "上付きリング付きy"
+      }
+    }
+  },
+  {
+    "key": "1E9A",
+    "mappings": {
+      "default": {
+        "default": "右半リング付きa"
+      },
+      "mathspeak": {
+        "default": "上付き右半リング付きa",
+        "brief": "上付き右半リング付きa",
+        "sbrief": "上付き右半リング付きa"
+      }
+    }
+  },
+  {
+    "key": "1EA1",
+    "mappings": {
+      "default": {
+        "default": "下付きドット付きa"
+      },
+      "mathspeak": {
+        "default": "下付きドット付きa",
+        "brief": "下付きドット付きa",
+        "sbrief": "下付きドット付きa"
+      }
+    }
+  },
+  {
+    "key": "1EA3",
+    "mappings": {
+      "default": {
+        "default": "フック付きa"
+      },
+      "mathspeak": {
+        "default": "上付きフック付きa",
+        "brief": "上付きフック付きa",
+        "sbrief": "上付きフック付きa"
+      }
+    }
+  },
+  {
+    "key": "1EB9",
+    "mappings": {
+      "default": {
+        "default": "下付きドット付きe"
+      },
+      "mathspeak": {
+        "default": "下付きドット付きe",
+        "brief": "下付きドット付きe",
+        "sbrief": "下付きドット付きe"
+      }
+    }
+  },
+  {
+    "key": "1EBB",
+    "mappings": {
+      "default": {
+        "default": "フック付きe"
+      },
+      "mathspeak": {
+        "default": "上付きフック付きe",
+        "brief": "上付きフック付きe",
+        "sbrief": "上付きフック付きe"
+      }
+    }
+  },
+  {
+    "key": "1EBD",
+    "mappings": {
+      "default": {
+        "default": "チルダ付きe"
+      },
+      "mathspeak": {
+        "default": "上付きチルダ付きe",
+        "brief": "上付きチルダ付きe",
+        "sbrief": "上付きチルダ付きe"
+      }
+    }
+  },
+  {
+    "key": "1EC9",
+    "mappings": {
+      "default": {
+        "default": "フック付きi"
+      },
+      "mathspeak": {
+        "default": "上付きフック付きi",
+        "brief": "上付きフック付きi",
+        "sbrief": "上付きフック付きi"
+      }
+    }
+  },
+  {
+    "key": "1ECB",
+    "mappings": {
+      "default": {
+        "default": "下付きドット付きi"
+      },
+      "mathspeak": {
+        "default": "下付きドット付きi",
+        "brief": "下付きドット付きi",
+        "sbrief": "下付きドット付きi"
+      }
+    }
+  },
+  {
+    "key": "1ECD",
+    "mappings": {
+      "default": {
+        "default": "下付きドット付きo"
+      },
+      "mathspeak": {
+        "default": "下付きドット付きo",
+        "brief": "下付きドット付きo",
+        "sbrief": "下付きドット付きo"
+      }
+    }
+  },
+  {
+    "key": "1ECF",
+    "mappings": {
+      "default": {
+        "default": "フック付きo"
+      },
+      "mathspeak": {
+        "default": "上付きフック付きo",
+        "brief": "上付きフック付きo",
+        "sbrief": "上付きフック付きo"
+      }
+    }
+  },
+  {
+    "key": "1EE5",
+    "mappings": {
+      "default": {
+        "default": "下付きドット付きu"
+      },
+      "mathspeak": {
+        "default": "下付きドット付きu",
+        "brief": "下付きドット付きu",
+        "sbrief": "下付きドット付きu"
+      }
+    }
+  },
+  {
+    "key": "1EE7",
+    "mappings": {
+      "default": {
+        "default": "フック付きu"
+      },
+      "mathspeak": {
+        "default": "上付きフック付きu",
+        "brief": "上付きフック付きu",
+        "sbrief": "上付きフック付きu"
+      }
+    }
+  },
+  {
+    "key": "1EF3",
+    "mappings": {
+      "default": {
+        "default": "グレーブ付きy"
+      },
+      "mathspeak": {
+        "default": "上付きグレーブ付きy",
+        "brief": "上付きグレーブ付きy",
+        "sbrief": "上付きグレーブ付きy"
+      }
+    }
+  },
+  {
+    "key": "1EF5",
+    "mappings": {
+      "default": {
+        "default": "下付きドット付きy"
+      },
+      "mathspeak": {
+        "default": "下付きドット付きy",
+        "brief": "下付きドット付きy",
+        "sbrief": "下付きドット付きy"
+      }
+    }
+  },
+  {
+    "key": "1EF7",
+    "mappings": {
+      "default": {
+        "default": "フック付きy"
+      },
+      "mathspeak": {
+        "default": "上付きフック付きy",
+        "brief": "上付きフック付きy",
+        "sbrief": "上付きフック付きy"
+      }
+    }
+  },
+  {
+    "key": "1EF9",
+    "mappings": {
+      "default": {
+        "default": "チルダ付きy"
+      },
+      "mathspeak": {
+        "default": "上付きチルダ付きy",
+        "brief": "上付きチルダ付きy",
+        "sbrief": "上付きチルダ付きy"
+      }
+    }
   }
-] 
+]

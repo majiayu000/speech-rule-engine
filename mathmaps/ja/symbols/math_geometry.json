@@ -6,7 +6,7 @@
     "key": "2500",
     "mappings": {
       "default": {
-        "default": "軽い水平線"
+        "default": "細い横線"
       }
     }
   },
@@ -14,7 +14,7 @@
     "key": "2501",
     "mappings": {
       "default": {
-        "default": "太い水平線"
+        "default": "太い横線"
       }
     }
   },
@@ -22,7 +22,7 @@
     "key": "2502",
     "mappings": {
       "default": {
-        "default": "軽い垂直線"
+        "default": "細い縦線"
       }
     }
   },
@@ -30,7 +30,7 @@
     "key": "2503",
     "mappings": {
       "default": {
-        "default": "太い垂直線"
+        "default": "太い縦線"
       }
     }
   },
@@ -38,7 +38,7 @@
     "key": "2504",
     "mappings": {
       "default": {
-        "default": "軽い三重破線水平線"
+        "default": "細い三点破線横線"
       }
     }
   },
@@ -46,7 +46,7 @@
     "key": "2505",
     "mappings": {
       "default": {
-        "default": "太い三重破線水平線"
+        "default": "太い三点破線横線"
       }
     }
   },
@@ -54,7 +54,7 @@
     "key": "2506",
     "mappings": {
       "default": {
-        "default": "軽い三重破線垂直線"
+        "default": "細い三点破線縦線"
       }
     }
   },
@@ -62,7 +62,7 @@
     "key": "2507",
     "mappings": {
       "default": {
-        "default": "太い三重破線垂直線"
+        "default": "太い三点破線縦線"
       }
     }
   },
@@ -70,7 +70,7 @@
     "key": "2508",
     "mappings": {
       "default": {
-        "default": "軽い四重破線水平線"
+        "default": "細い四点破線横線"
       }
     }
   },
@@ -78,7 +78,7 @@
     "key": "2509",
     "mappings": {
       "default": {
-        "default": "太い四重破線水平線"
+        "default": "太い四点破線横線"
       }
     }
   },
@@ -86,7 +86,7 @@
     "key": "250A",
     "mappings": {
       "default": {
-        "default": "軽い四重破線垂直線"
+        "default": "細い四点破線縦線"
       }
     }
   },
@@ -94,7 +94,7 @@
     "key": "250B",
     "mappings": {
       "default": {
-        "default": "太い四重破線垂直線"
+        "default": "太い四点破線縦線"
       }
     }
   },
@@ -102,7 +102,7 @@
     "key": "250C",
     "mappings": {
       "default": {
-        "default": "軽い下と右の線"
+        "default": "細い下右コーナー"
       }
     }
   },
@@ -110,7 +110,7 @@
     "key": "250D",
     "mappings": {
       "default": {
-        "default": "下が軽く右が太い線"
+        "default": "下細く右太いコーナー"
       }
     }
   },
@@ -118,7 +118,7 @@
     "key": "250E",
     "mappings": {
       "default": {
-        "default": "下が太く右が軽い線"
+        "default": "下太く右細いコーナー"
       }
     }
   },
@@ -126,7 +126,7 @@
     "key": "250F",
     "mappings": {
       "default": {
-        "default": "太い下と右の線"
+        "default": "太い下右コーナー"
       }
     }
   },
@@ -134,7 +134,7 @@
     "key": "2510",
     "mappings": {
       "default": {
-        "default": "軽い下と左の線"
+        "default": "細い下左コーナー"
       }
     }
   },
@@ -142,7 +142,7 @@
     "key": "2511",
     "mappings": {
       "default": {
-        "default": "下が軽く左が太い線"
+        "default": "下細く左太いコーナー"
       }
     }
   },
@@ -150,7 +150,7 @@
     "key": "2512",
     "mappings": {
       "default": {
-        "default": "下が太く左が軽い線"
+        "default": "下太く左細いコーナー"
       }
     }
   },
@@ -158,7 +158,7 @@
     "key": "2513",
     "mappings": {
       "default": {
-        "default": "太い下と左の線"
+        "default": "太い下左コーナー"
       }
     }
   },
@@ -166,7 +166,7 @@
     "key": "2514",
     "mappings": {
       "default": {
-        "default": "軽い上と右の線"
+        "default": "細い上右コーナー"
       }
     }
   },
@@ -174,7 +174,7 @@
     "key": "2515",
     "mappings": {
       "default": {
-        "default": "上が軽く右が太い線"
+        "default": "上細く右太いコーナー"
       }
     }
   },
@@ -182,7 +182,7 @@
     "key": "2516",
     "mappings": {
       "default": {
-        "default": "上が太く右が軽い線"
+        "default": "上太く右細いコーナー"
       }
     }
   },
@@ -190,7 +190,7 @@
     "key": "2517",
     "mappings": {
       "default": {
-        "default": "太い上と右の線"
+        "default": "太い上右コーナー"
       }
     }
   },
@@ -198,7 +198,7 @@
     "key": "2518",
     "mappings": {
       "default": {
-        "default": "軽い上と左の線"
+        "default": "細い上左コーナー"
       }
     }
   },
@@ -206,7 +206,7 @@
     "key": "2519",
     "mappings": {
       "default": {
-        "default": "上が軽く左が太い線"
+        "default": "上細く左太いコーナー"
       }
     }
   },
@@ -214,7 +214,7 @@
     "key": "251A",
     "mappings": {
       "default": {
-        "default": "上が太く左が軽い線"
+        "default": "上太く左細いコーナー"
       }
     }
   },
@@ -222,7 +222,7 @@
     "key": "251B",
     "mappings": {
       "default": {
-        "default": "太い上と左の線"
+        "default": "太い上左コーナー"
       }
     }
   },
@@ -230,7 +230,7 @@
     "key": "251C",
     "mappings": {
       "default": {
-        "default": "軽い垂直と右の線"
+        "default": "細い縦右T字"
       }
     }
   },
@@ -238,7 +238,7 @@
     "key": "251D",
     "mappings": {
       "default": {
-        "default": "垂直が軽く右が太い線"
+        "default": "縦細く右太いT字"
       }
     }
   },
@@ -246,8 +246,2128 @@
     "key": "251E",
     "mappings": {
       "default": {
-        "default": "上が太く右が下が軽い線"
+        "default": "上太く右下細いT字"
+      }
+    }
+  },
+  {
+    "key": "251F",
+    "mappings": {
+      "default": {
+        "default": "下太く右上細いT字"
+      }
+    }
+  },
+  {
+    "key": "2520",
+    "mappings": {
+      "default": {
+        "default": "縦太く右細いT字"
+      }
+    }
+  },
+  {
+    "key": "2521",
+    "mappings": {
+      "default": {
+        "default": "下細く右上太いT字"
+      }
+    }
+  },
+  {
+    "key": "2522",
+    "mappings": {
+      "default": {
+        "default": "上細く右下太いT字"
+      }
+    }
+  },
+  {
+    "key": "2523",
+    "mappings": {
+      "default": {
+        "default": "太い縦右T字"
+      }
+    }
+  },
+  {
+    "key": "2524",
+    "mappings": {
+      "default": {
+        "default": "細い縦左T字"
+      }
+    }
+  },
+  {
+    "key": "2525",
+    "mappings": {
+      "default": {
+        "default": "縦細く左太いT字"
+      }
+    }
+  },
+  {
+    "key": "2526",
+    "mappings": {
+      "default": {
+        "default": "上太く左下細いT字"
+      }
+    }
+  },
+  {
+    "key": "2527",
+    "mappings": {
+      "default": {
+        "default": "下太く左上細いT字"
+      }
+    }
+  },
+  {
+    "key": "2528",
+    "mappings": {
+      "default": {
+        "default": "縦太く左細いT字"
+      }
+    }
+  },
+  {
+    "key": "2529",
+    "mappings": {
+      "default": {
+        "default": "下細く左上太いT字"
+      }
+    }
+  },
+  {
+    "key": "252A",
+    "mappings": {
+      "default": {
+        "default": "上細く左下太いT字"
+      }
+    }
+  },
+  {
+    "key": "252B",
+    "mappings": {
+      "default": {
+        "default": "太い縦左T字"
+      }
+    }
+  },
+  {
+    "key": "252C",
+    "mappings": {
+      "default": {
+        "default": "細い下横T字"
+      }
+    }
+  },
+  {
+    "key": "252D",
+    "mappings": {
+      "default": {
+        "default": "左太く右下細いT字"
+      }
+    }
+  },
+  {
+    "key": "252E",
+    "mappings": {
+      "default": {
+        "default": "右太く左下細いT字"
+      }
+    }
+  },
+  {
+    "key": "252F",
+    "mappings": {
+      "default": {
+        "default": "下細く横太いT字"
+      }
+    }
+  },
+  {
+    "key": "2530",
+    "mappings": {
+      "default": {
+        "default": "下太く横細いT字"
+      }
+    }
+  },
+  {
+    "key": "2531",
+    "mappings": {
+      "default": {
+        "default": "右細く左下太いT字"
+      }
+    }
+  },
+  {
+    "key": "2532",
+    "mappings": {
+      "default": {
+        "default": "左細く右下太いT字"
+      }
+    }
+  },
+  {
+    "key": "2533",
+    "mappings": {
+      "default": {
+        "default": "太い下横T字"
+      }
+    }
+  },
+  {
+    "key": "2534",
+    "mappings": {
+      "default": {
+        "default": "細い上横T字"
+      }
+    }
+  },
+  {
+    "key": "2535",
+    "mappings": {
+      "default": {
+        "default": "左太く右上細いT字"
+      }
+    }
+  },
+  {
+    "key": "2536",
+    "mappings": {
+      "default": {
+        "default": "右太く左上細いT字"
+      }
+    }
+  },
+  {
+    "key": "2537",
+    "mappings": {
+      "default": {
+        "default": "上細く横太いT字"
+      }
+    }
+  },
+  {
+    "key": "2538",
+    "mappings": {
+      "default": {
+        "default": "上太く横細いT字"
+      }
+    }
+  },
+  {
+    "key": "2539",
+    "mappings": {
+      "default": {
+        "default": "右細く左上太いT字"
+      }
+    }
+  },
+  {
+    "key": "253A",
+    "mappings": {
+      "default": {
+        "default": "左細く右上太いT字"
+      }
+    }
+  },
+  {
+    "key": "253B",
+    "mappings": {
+      "default": {
+        "default": "太い上横T字"
+      }
+    }
+  },
+  {
+    "key": "253C",
+    "mappings": {
+      "default": {
+        "default": "細い十字"
+      }
+    }
+  },
+  {
+    "key": "253D",
+    "mappings": {
+      "default": {
+        "default": "左太く右縦細い十字"
+      }
+    }
+  },
+  {
+    "key": "253E",
+    "mappings": {
+      "default": {
+        "default": "右太く左縦細い十字"
+      }
+    }
+  },
+  {
+    "key": "253F",
+    "mappings": {
+      "default": {
+        "default": "縦細く横太い十字"
+      }
+    }
+  },
+  {
+    "key": "2540",
+    "mappings": {
+      "default": {
+        "default": "上太く下横細い十字"
+      }
+    }
+  },
+  {
+    "key": "2541",
+    "mappings": {
+      "default": {
+        "default": "下太く上横細い十字"
+      }
+    }
+  },
+  {
+    "key": "2542",
+    "mappings": {
+      "default": {
+        "default": "縦太く横細い十字"
+      }
+    }
+  },
+  {
+    "key": "2543",
+    "mappings": {
+      "default": {
+        "default": "左上太く右下細い十字"
+      }
+    }
+  },
+  {
+    "key": "2544",
+    "mappings": {
+      "default": {
+        "default": "右上太く左下細い十字"
+      }
+    }
+  },
+  {
+    "key": "2545",
+    "mappings": {
+      "default": {
+        "default": "左下太く右上細い十字"
+      }
+    }
+  },
+  {
+    "key": "2546",
+    "mappings": {
+      "default": {
+        "default": "右下太く左上細い十字"
+      }
+    }
+  },
+  {
+    "key": "2547",
+    "mappings": {
+      "default": {
+        "default": "下細く上横太い十字"
+      }
+    }
+  },
+  {
+    "key": "2548",
+    "mappings": {
+      "default": {
+        "default": "上細く下横太い十字"
+      }
+    }
+  },
+  {
+    "key": "2549",
+    "mappings": {
+      "default": {
+        "default": "右細く左縦太い十字"
+      }
+    }
+  },
+  {
+    "key": "254A",
+    "mappings": {
+      "default": {
+        "default": "左細く右縦太い十字"
+      }
+    }
+  },
+  {
+    "key": "254B",
+    "mappings": {
+      "default": {
+        "default": "太い十字"
+      }
+    }
+  },
+  {
+    "key": "254C",
+    "mappings": {
+      "default": {
+        "default": "細い二点破線横線"
+      }
+    }
+  },
+  {
+    "key": "254D",
+    "mappings": {
+      "default": {
+        "default": "太い二点破線横線"
+      }
+    }
+  },
+  {
+    "key": "254E",
+    "mappings": {
+      "default": {
+        "default": "細い二点破線縦線"
+      }
+    }
+  },
+  {
+    "key": "254F",
+    "mappings": {
+      "default": {
+        "default": "太い二点破線縦線"
+      }
+    }
+  },
+  {
+    "key": "2550",
+    "mappings": {
+      "default": {
+        "default": "二重横線"
+      }
+    }
+  },
+  {
+    "key": "2551",
+    "mappings": {
+      "default": {
+        "default": "二重縦線"
+      }
+    }
+  },
+  {
+    "key": "2552",
+    "mappings": {
+      "default": {
+        "default": "下一重右二重コーナー"
+      }
+    }
+  },
+  {
+    "key": "2553",
+    "mappings": {
+      "default": {
+        "default": "下二重右一重コーナー"
+      }
+    }
+  },
+  {
+    "key": "2554",
+    "mappings": {
+      "default": {
+        "default": "二重下右コーナー"
+      }
+    }
+  },
+  {
+    "key": "2555",
+    "mappings": {
+      "default": {
+        "default": "下一重左二重コーナー"
+      }
+    }
+  },
+  {
+    "key": "2556",
+    "mappings": {
+      "default": {
+        "default": "下二重左一重コーナー"
+      }
+    }
+  },
+  {
+    "key": "2557",
+    "mappings": {
+      "default": {
+        "default": "二重下左コーナー"
+      }
+    }
+  },
+  {
+    "key": "2558",
+    "mappings": {
+      "default": {
+        "default": "上一重右二重コーナー"
+      }
+    }
+  },
+  {
+    "key": "2559",
+    "mappings": {
+      "default": {
+        "default": "上二重右一重コーナー"
+      }
+    }
+  },
+  {
+    "key": "255A",
+    "mappings": {
+      "default": {
+        "default": "二重上右コーナー"
+      }
+    }
+  },
+  {
+    "key": "255B",
+    "mappings": {
+      "default": {
+        "default": "上一重左二重コーナー"
+      }
+    }
+  },
+  {
+    "key": "255C",
+    "mappings": {
+      "default": {
+        "default": "上二重左一重コーナー"
+      }
+    }
+  },
+  {
+    "key": "255D",
+    "mappings": {
+      "default": {
+        "default": "二重上左コーナー"
+      }
+    }
+  },
+  {
+    "key": "255E",
+    "mappings": {
+      "default": {
+        "default": "縦一重右二重T字"
+      }
+    }
+  },
+  {
+    "key": "255F",
+    "mappings": {
+      "default": {
+        "default": "縦二重右一重T字"
+      }
+    }
+  },
+  {
+    "key": "2560",
+    "mappings": {
+      "default": {
+        "default": "二重縦右T字"
+      }
+    }
+  },
+  {
+    "key": "2561",
+    "mappings": {
+      "default": {
+        "default": "縦一重左二重T字"
+      }
+    }
+  },
+  {
+    "key": "2562",
+    "mappings": {
+      "default": {
+        "default": "縦二重左一重T字"
+      }
+    }
+  },
+  {
+    "key": "2563",
+    "mappings": {
+      "default": {
+        "default": "二重縦左T字"
+      }
+    }
+  },
+  {
+    "key": "2564",
+    "mappings": {
+      "default": {
+        "default": "下一重横二重T字"
+      }
+    }
+  },
+  {
+    "key": "2565",
+    "mappings": {
+      "default": {
+        "default": "下二重横一重T字"
+      }
+    }
+  },
+  {
+    "key": "2566",
+    "mappings": {
+      "default": {
+        "default": "二重下横T字"
+      }
+    }
+  },
+  {
+    "key": "2567",
+    "mappings": {
+      "default": {
+        "default": "上一重横二重T字"
+      }
+    }
+  },
+  {
+    "key": "2568",
+    "mappings": {
+      "default": {
+        "default": "上二重横一重T字"
+      }
+    }
+  },
+  {
+    "key": "2569",
+    "mappings": {
+      "default": {
+        "default": "二重上横T字"
+      }
+    }
+  },
+  {
+    "key": "256A",
+    "mappings": {
+      "default": {
+        "default": "縦一重横二重十字"
+      }
+    }
+  },
+  {
+    "key": "256B",
+    "mappings": {
+      "default": {
+        "default": "縦二重横一重十字"
+      }
+    }
+  },
+  {
+    "key": "256C",
+    "mappings": {
+      "default": {
+        "default": "二重十字"
+      }
+    }
+  },
+  {
+    "key": "256D",
+    "mappings": {
+      "default": {
+        "default": "細い下右円弧"
+      }
+    }
+  },
+  {
+    "key": "256E",
+    "mappings": {
+      "default": {
+        "default": "細い下左円弧"
+      }
+    }
+  },
+  {
+    "key": "256F",
+    "mappings": {
+      "default": {
+        "default": "細い上左円弧"
+      }
+    }
+  },
+  {
+    "key": "2570",
+    "mappings": {
+      "default": {
+        "default": "細い上右円弧"
+      }
+    }
+  },
+  {
+    "key": "2571",
+    "mappings": {
+      "default": {
+        "default": "細い右上がり斜線"
+      }
+    }
+  },
+  {
+    "key": "2572",
+    "mappings": {
+      "default": {
+        "default": "細い右下がり斜線"
+      }
+    }
+  },
+  {
+    "key": "2573",
+    "mappings": {
+      "default": {
+        "default": "細い斜線十字"
+      }
+    }
+  },
+  {
+    "key": "2574",
+    "mappings": {
+      "default": {
+        "default": "細い左向き線"
+      }
+    }
+  },
+  {
+    "key": "2575",
+    "mappings": {
+      "default": {
+        "default": "細い上向き線"
+      }
+    }
+  },
+  {
+    "key": "2576",
+    "mappings": {
+      "default": {
+        "default": "細い右向き線"
+      }
+    }
+  },
+  {
+    "key": "2577",
+    "mappings": {
+      "default": {
+        "default": "細い下向き線"
+      }
+    }
+  },
+  {
+    "key": "2578",
+    "mappings": {
+      "default": {
+        "default": "太い左向き線"
+      }
+    }
+  },
+  {
+    "key": "2579",
+    "mappings": {
+      "default": {
+        "default": "太い上向き線"
+      }
+    }
+  },
+  {
+    "key": "257A",
+    "mappings": {
+      "default": {
+        "default": "太い右向き線"
+      }
+    }
+  },
+  {
+    "key": "257B",
+    "mappings": {
+      "default": {
+        "default": "太い下向き線"
+      }
+    }
+  },
+  {
+    "key": "257C",
+    "mappings": {
+      "default": {
+        "default": "左細く右太い横線"
+      }
+    }
+  },
+  {
+    "key": "257D",
+    "mappings": {
+      "default": {
+        "default": "上細く下太い縦線"
+      }
+    }
+  },
+  {
+    "key": "257E",
+    "mappings": {
+      "default": {
+        "default": "左太く右細い横線"
+      }
+    }
+  },
+  {
+    "key": "257F",
+    "mappings": {
+      "default": {
+        "default": "上太く下細い縦線"
+      }
+    }
+  },
+  {
+    "key": "2580",
+    "mappings": {
+      "default": {
+        "default": "上半ブロック"
+      }
+    }
+  },
+  {
+    "key": "2581",
+    "mappings": {
+      "default": {
+        "default": "下8分の1ブロック"
+      }
+    }
+  },
+  {
+    "key": "2582",
+    "mappings": {
+      "default": {
+        "default": "下4分の1ブロック"
+      }
+    }
+  },
+  {
+    "key": "2583",
+    "mappings": {
+      "default": {
+        "default": "下8分の3ブロック"
+      }
+    }
+  },
+  {
+    "key": "2584",
+    "mappings": {
+      "default": {
+        "default": "下半ブロック"
+      }
+    }
+  },
+  {
+    "key": "2585",
+    "mappings": {
+      "default": {
+        "default": "下8分の5ブロック"
+      }
+    }
+  },
+  {
+    "key": "2586",
+    "mappings": {
+      "default": {
+        "default": "下4分の3ブロック"
+      }
+    }
+  },
+  {
+    "key": "2587",
+    "mappings": {
+      "default": {
+        "default": "下8分の7ブロック"
+      }
+    }
+  },
+  {
+    "key": "2588",
+    "mappings": {
+      "default": {
+        "default": "全ブロック"
+      }
+    }
+  },
+  {
+    "key": "2589",
+    "mappings": {
+      "default": {
+        "default": "左8分の7ブロック"
+      }
+    }
+  },
+  {
+    "key": "258A",
+    "mappings": {
+      "default": {
+        "default": "左4分の3ブロック"
+      }
+    }
+  },
+  {
+    "key": "258B",
+    "mappings": {
+      "default": {
+        "default": "左8分の5ブロック"
+      }
+    }
+  },
+  {
+    "key": "258C",
+    "mappings": {
+      "default": {
+        "default": "左半ブロック"
+      }
+    }
+  },
+  {
+    "key": "258D",
+    "mappings": {
+      "default": {
+        "default": "左8分の3ブロック"
+      }
+    }
+  },
+  {
+    "key": "258E",
+    "mappings": {
+      "default": {
+        "default": "左4分の1ブロック"
+      }
+    }
+  },
+  {
+    "key": "258F",
+    "mappings": {
+      "default": {
+        "default": "左8分の1ブロック"
+      }
+    }
+  },
+  {
+    "key": "2590",
+    "mappings": {
+      "default": {
+        "default": "右半ブロック"
+      }
+    }
+  },
+  {
+    "key": "2591",
+    "mappings": {
+      "default": {
+        "default": "薄い網掛け"
+      }
+    }
+  },
+  {
+    "key": "2592",
+    "mappings": {
+      "default": {
+        "default": "中程度の網掛け"
+      }
+    }
+  },
+  {
+    "key": "2593",
+    "mappings": {
+      "default": {
+        "default": "濃い網掛け"
+      }
+    }
+  },
+  {
+    "key": "2594",
+    "mappings": {
+      "default": {
+        "default": "上8分の1ブロック"
+      }
+    }
+  },
+  {
+    "key": "2595",
+    "mappings": {
+      "default": {
+        "default": "右8分の1ブロック"
+      }
+    }
+  },
+  {
+    "key": "2596",
+    "mappings": {
+      "default": {
+        "default": "左下4分の1ブロック"
+      }
+    }
+  },
+  {
+    "key": "2597",
+    "mappings": {
+      "default": {
+        "default": "右下4分の1ブロック"
+      }
+    }
+  },
+  {
+    "key": "2598",
+    "mappings": {
+      "default": {
+        "default": "左上4分の1ブロック"
+      }
+    }
+  },
+  {
+    "key": "2599",
+    "mappings": {
+      "default": {
+        "default": "左上左下右下4分の1ブロック"
+      }
+    }
+  },
+  {
+    "key": "259A",
+    "mappings": {
+      "default": {
+        "default": "左上右下4分の1ブロック"
+      }
+    }
+  },
+  {
+    "key": "259B",
+    "mappings": {
+      "default": {
+        "default": "左上右上左下4分の1ブロック"
+      }
+    }
+  },
+  {
+    "key": "259C",
+    "mappings": {
+      "default": {
+        "default": "左上右上右下4分の1ブロック"
+      }
+    }
+  },
+  {
+    "key": "259D",
+    "mappings": {
+      "default": {
+        "default": "右上4分の1ブロック"
+      }
+    }
+  },
+  {
+    "key": "259E",
+    "mappings": {
+      "default": {
+        "default": "右上左下4分の1ブロック"
+      }
+    }
+  },
+  {
+    "key": "259F",
+    "mappings": {
+      "default": {
+        "default": "右上左下右下4分の1ブロック"
+      }
+    }
+  },
+  {
+    "key": "25A0",
+    "mappings": {
+      "default": {
+        "default": "黒四角"
+      }
+    }
+  },
+  {
+    "key": "25A1",
+    "mappings": {
+      "default": {
+        "default": "白四角"
+      }
+    }
+  },
+  {
+    "key": "25A2",
+    "mappings": {
+      "default": {
+        "default": "丸みを帯びた白四角"
+      }
+    }
+  },
+  {
+    "key": "25A3",
+    "mappings": {
+      "default": {
+        "default": "小さい黒四角を含む白四角"
+      }
+    }
+  },
+  {
+    "key": "25A4",
+    "mappings": {
+      "default": {
+        "default": "横線で塗りつぶされた四角"
+      }
+    }
+  },
+  {
+    "key": "25A5",
+    "mappings": {
+      "default": {
+        "default": "縦線で塗りつぶされた四角"
+      }
+    }
+  },
+  {
+    "key": "25A6",
+    "mappings": {
+      "default": {
+        "default": "格子模様で塗りつぶされた四角"
+      }
+    }
+  },
+  {
+    "key": "25A7",
+    "mappings": {
+      "default": {
+        "default": "左上から右下の斜線で塗りつぶされた四角"
+      }
+    }
+  },
+  {
+    "key": "25A8",
+    "mappings": {
+      "default": {
+        "default": "右上から左下の斜線で塗りつぶされた四角"
+      }
+    }
+  },
+  {
+    "key": "25A9",
+    "mappings": {
+      "default": {
+        "default": "斜め格子模様で塗りつぶされた四角"
+      }
+    }
+  },
+  {
+    "key": "25AA",
+    "mappings": {
+      "default": {
+        "default": "小さい黒四角"
+      }
+    }
+  },
+  {
+    "key": "25AB",
+    "mappings": {
+      "default": {
+        "default": "小さい白四角"
+      }
+    }
+  },
+  {
+    "key": "25AC",
+    "mappings": {
+      "default": {
+        "default": "黒長方形"
+      }
+    }
+  },
+  {
+    "key": "25AD",
+    "mappings": {
+      "default": {
+        "default": "白長方形"
+      }
+    }
+  },
+  {
+    "key": "25AE",
+    "mappings": {
+      "default": {
+        "default": "黒縦長方形"
+      }
+    }
+  },
+  {
+    "key": "25AF",
+    "mappings": {
+      "default": {
+        "default": "白縦長方形"
+      }
+    }
+  },
+  {
+    "key": "25B0",
+    "mappings": {
+      "default": {
+        "default": "黒平行四辺形"
+      }
+    }
+  },
+  {
+    "key": "25B1",
+    "mappings": {
+      "default": {
+        "default": "白平行四辺形"
+      }
+    }
+  },
+  {
+    "key": "25B2",
+    "mappings": {
+      "default": {
+        "default": "上向き黒三角形"
+      }
+    }
+  },
+  {
+    "key": "25B3",
+    "mappings": {
+      "default": {
+        "default": "上向き白三角形"
+      }
+    }
+  },
+  {
+    "key": "25B4",
+    "mappings": {
+      "default": {
+        "default": "上向き小さい黒三角形"
+      }
+    }
+  },
+  {
+    "key": "25B5",
+    "mappings": {
+      "default": {
+        "default": "上向き小さい白三角形"
+      }
+    }
+  },
+  {
+    "key": "25B6",
+    "mappings": {
+      "default": {
+        "default": "右向き黒三角形"
+      }
+    }
+  },
+  {
+    "key": "25B7",
+    "mappings": {
+      "default": {
+        "default": "右向き白三角形"
+      }
+    }
+  },
+  {
+    "key": "25B8",
+    "mappings": {
+      "default": {
+        "default": "右向き小さい黒三角形"
+      }
+    }
+  },
+  {
+    "key": "25B9",
+    "mappings": {
+      "default": {
+        "default": "右向き小さい白三角形"
+      }
+    }
+  },
+  {
+    "key": "25BA",
+    "mappings": {
+      "default": {
+        "default": "右向き黒ポインター"
+      }
+    }
+  },
+  {
+    "key": "25BB",
+    "mappings": {
+      "default": {
+        "default": "右向き白ポインター"
+      }
+    }
+  },
+  {
+    "key": "25BC",
+    "mappings": {
+      "default": {
+        "default": "下向き黒三角形"
+      }
+    }
+  },
+  {
+    "key": "25BD",
+    "mappings": {
+      "default": {
+        "default": "下向き白三角形"
+      }
+    }
+  },
+  {
+    "key": "25BE",
+    "mappings": {
+      "default": {
+        "default": "下向き小さい黒三角形"
+      }
+    }
+  },
+  {
+    "key": "25BF",
+    "mappings": {
+      "default": {
+        "default": "下向き小さい白三角形"
+      }
+    }
+  },
+  {
+    "key": "25C0",
+    "mappings": {
+      "default": {
+        "default": "左向き黒三角形"
+      }
+    }
+  },
+  {
+    "key": "25C1",
+    "mappings": {
+      "default": {
+        "default": "左向き白三角形"
+      }
+    }
+  },
+  {
+    "key": "25C2",
+    "mappings": {
+      "default": {
+        "default": "左向き小さい黒三角形"
+      }
+    }
+  },
+  {
+    "key": "25C3",
+    "mappings": {
+      "default": {
+        "default": "左向き小さい白三角形"
+      }
+    }
+  },
+  {
+    "key": "25C4",
+    "mappings": {
+      "default": {
+        "default": "左向き黒ポインター"
+      }
+    }
+  },
+  {
+    "key": "25C5",
+    "mappings": {
+      "default": {
+        "default": "左向き白ポインター"
+      }
+    }
+  },
+  {
+    "key": "25C6",
+    "mappings": {
+      "default": {
+        "default": "黒ダイヤ"
+      }
+    }
+  },
+  {
+    "key": "25C7",
+    "mappings": {
+      "default": {
+        "default": "白ダイヤ"
+      }
+    }
+  },
+  {
+    "key": "25C8",
+    "mappings": {
+      "default": {
+        "default": "小さい黒ダイヤを含む白ダイヤ"
+      }
+    }
+  },
+  {
+    "key": "25C9",
+    "mappings": {
+      "default": {
+        "default": "フィッシュアイ"
+      }
+    }
+  },
+  {
+    "key": "25CA",
+    "mappings": {
+      "default": {
+        "default": "菱形"
+      }
+    }
+  },
+  {
+    "key": "25CB",
+    "mappings": {
+      "default": {
+        "default": "白丸"
+      }
+    }
+  },
+  {
+    "key": "25CC",
+    "mappings": {
+      "default": {
+        "default": "点線の丸"
+      }
+    }
+  },
+  {
+    "key": "25CD",
+    "mappings": {
+      "default": {
+        "default": "縦線で塗りつぶされた丸"
+      }
+    }
+  },
+  {
+    "key": "25CE",
+    "mappings": {
+      "default": {
+        "default": "ブルズアイ"
+      }
+    }
+  },
+  {
+    "key": "25CF",
+    "mappings": {
+      "default": {
+        "default": "黒丸"
+      }
+    }
+  },
+  {
+    "key": "25D0",
+    "mappings": {
+      "default": {
+        "default": "左半分が黒い丸"
+      }
+    }
+  },
+  {
+    "key": "25D1",
+    "mappings": {
+      "default": {
+        "default": "右半分が黒い丸"
+      }
+    }
+  },
+  {
+    "key": "25D2",
+    "mappings": {
+      "default": {
+        "default": "下半分が黒い丸"
+      }
+    }
+  },
+  {
+    "key": "25D3",
+    "mappings": {
+      "default": {
+        "default": "上半分が黒い丸"
+      }
+    }
+  },
+  {
+    "key": "25D4",
+    "mappings": {
+      "default": {
+        "default": "右上4分の1が黒い丸"
+      }
+    }
+  },
+  {
+    "key": "25D5",
+    "mappings": {
+      "default": {
+        "default": "左上4分の1以外が黒い丸"
+      }
+    }
+  },
+  {
+    "key": "25D6",
+    "mappings": {
+      "default": {
+        "default": "左半黒丸"
+      }
+    }
+  },
+  {
+    "key": "25D7",
+    "mappings": {
+      "default": {
+        "default": "右半黒丸"
+      }
+    }
+  },
+  {
+    "key": "25D8",
+    "mappings": {
+      "default": {
+        "default": "反転黒丸"
+      }
+    }
+  },
+  {
+    "key": "25D9",
+    "mappings": {
+      "default": {
+        "default": "反転白丸"
+      }
+    }
+  },
+  {
+    "key": "25DA",
+    "mappings": {
+      "default": {
+        "default": "上半分反転白丸"
+      }
+    }
+  },
+  {
+    "key": "25DB",
+    "mappings": {
+      "default": {
+        "default": "下半分反転白丸"
+      }
+    }
+  },
+  {
+    "key": "25DC",
+    "mappings": {
+      "default": {
+        "default": "左上4分の1円弧"
+      }
+    }
+  },
+  {
+    "key": "25DD",
+    "mappings": {
+      "default": {
+        "default": "右上4分の1円弧"
+      }
+    }
+  },
+  {
+    "key": "25DE",
+    "mappings": {
+      "default": {
+        "default": "右下4分の1円弧"
+      }
+    }
+  },
+  {
+    "key": "25DF",
+    "mappings": {
+      "default": {
+        "default": "左下4分の1円弧"
+      }
+    }
+  },
+  {
+    "key": "25E0",
+    "mappings": {
+      "default": {
+        "default": "上半円"
+      }
+    }
+  },
+  {
+    "key": "25E1",
+    "mappings": {
+      "default": {
+        "default": "下半円"
+      }
+    }
+  },
+  {
+    "key": "25E2",
+    "mappings": {
+      "default": {
+        "default": "右下黒三角形"
+      }
+    }
+  },
+  {
+    "key": "25E3",
+    "mappings": {
+      "default": {
+        "default": "左下黒三角形"
+      }
+    }
+  },
+  {
+    "key": "25E4",
+    "mappings": {
+      "default": {
+        "default": "左上黒三角形"
+      }
+    }
+  },
+  {
+    "key": "25E5",
+    "mappings": {
+      "default": {
+        "default": "右上黒三角形"
+      }
+    }
+  },
+  {
+    "key": "25E6",
+    "mappings": {
+      "default": {
+        "default": "白丸点"
+      }
+    }
+  },
+  {
+    "key": "25E7",
+    "mappings": {
+      "default": {
+        "default": "左半分が黒い四角"
+      }
+    }
+  },
+  {
+    "key": "25E8",
+    "mappings": {
+      "default": {
+        "default": "右半分が黒い四角"
+      }
+    }
+  },
+  {
+    "key": "25E9",
+    "mappings": {
+      "default": {
+        "default": "左上対角線半分が黒い四角"
+      }
+    }
+  },
+  {
+    "key": "25EA",
+    "mappings": {
+      "default": {
+        "default": "右下対角線半分が黒い四角"
+      }
+    }
+  },
+  {
+    "key": "25EB",
+    "mappings": {
+      "default": {
+        "default": "縦線で二分された白四角"
+      }
+    }
+  },
+  {
+    "key": "25EC",
+    "mappings": {
+      "default": {
+        "default": "点付き上向き白三角形"
+      }
+    }
+  },
+  {
+    "key": "25ED",
+    "mappings": {
+      "default": {
+        "default": "左半分が黒い上向き三角形"
+      }
+    }
+  },
+  {
+    "key": "25EE",
+    "mappings": {
+      "default": {
+        "default": "右半分が黒い上向き三角形"
+      }
+    }
+  },
+  {
+    "key": "25EF",
+    "mappings": {
+      "default": {
+        "default": "大きい丸"
+      }
+    }
+  },
+  {
+    "key": "25F0",
+    "mappings": {
+      "default": {
+        "default": "左上4分の1が白い四角"
+      }
+    }
+  },
+  {
+    "key": "25F1",
+    "mappings": {
+      "default": {
+        "default": "左下4分の1が白い四角"
+      }
+    }
+  },
+  {
+    "key": "25F2",
+    "mappings": {
+      "default": {
+        "default": "右下4分の1が白い四角"
+      }
+    }
+  },
+  {
+    "key": "25F3",
+    "mappings": {
+      "default": {
+        "default": "右上4分の1が白い四角"
+      }
+    }
+  },
+  {
+    "key": "25F4",
+    "mappings": {
+      "default": {
+        "default": "左上4分の1が白い丸"
+      }
+    }
+  },
+  {
+    "key": "25F5",
+    "mappings": {
+      "default": {
+        "default": "左下4分の1が白い丸"
+      }
+    }
+  },
+  {
+    "key": "25F6",
+    "mappings": {
+      "default": {
+        "default": "右下4分の1が白い丸"
+      }
+    }
+  },
+  {
+    "key": "25F7",
+    "mappings": {
+      "default": {
+        "default": "右上4分の1が白い丸"
+      }
+    }
+  },
+  {
+    "key": "25F8",
+    "mappings": {
+      "default": {
+        "default": "左上三角形"
+      }
+    }
+  },
+  {
+    "key": "25F9",
+    "mappings": {
+      "default": {
+        "default": "右上三角形"
+      }
+    }
+  },
+  {
+    "key": "25FA",
+    "mappings": {
+      "default": {
+        "default": "左下三角形"
+      }
+    }
+  },
+  {
+    "key": "25FB",
+    "mappings": {
+      "default": {
+        "default": "中サイズ白四角"
+      }
+    }
+  },
+  {
+    "key": "25FC",
+    "mappings": {
+      "default": {
+        "default": "中サイズ黒四角"
+      }
+    }
+  },
+  {
+    "key": "25FD",
+    "mappings": {
+      "default": {
+        "default": "中小サイズ白四角"
+      }
+    }
+  },
+  {
+    "key": "25FE",
+    "mappings": {
+      "default": {
+        "default": "中小サイズ黒四角"
+      }
+    }
+  },
+  {
+    "key": "25FF",
+    "mappings": {
+      "default": {
+        "default": "右下三角形"
+      }
+    }
+  },
+  {
+    "key": "2B12",
+    "mappings": {
+      "default": {
+        "default": "上半分が黒い四角"
+      }
+    }
+  },
+  {
+    "key": "2B13",
+    "mappings": {
+      "default": {
+        "default": "下半分が黒い四角"
+      }
+    }
+  },
+  {
+    "key": "2B14",
+    "mappings": {
+      "default": {
+        "default": "右上対角線半分が黒い四角"
+      }
+    }
+  },
+  {
+    "key": "2B15",
+    "mappings": {
+      "default": {
+        "default": "左下対角線半分が黒い四角"
+      }
+    }
+  },
+  {
+    "key": "2B16",
+    "mappings": {
+      "default": {
+        "default": "左半分が黒いダイヤ"
+      }
+    }
+  },
+  {
+    "key": "2B17",
+    "mappings": {
+      "default": {
+        "default": "右半分が黒いダイヤ"
+      }
+    }
+  },
+  {
+    "key": "2B18",
+    "mappings": {
+      "default": {
+        "default": "上半分が黒いダイヤ"
+      }
+    }
+  },
+  {
+    "key": "2B19",
+    "mappings": {
+      "default": {
+        "default": "下半分が黒いダイヤ"
+      }
+    }
+  },
+  {
+    "key": "2B1A",
+    "mappings": {
+      "default": {
+        "default": "点線の四角"
+      }
+    }
+  },
+  {
+    "key": "2B1B",
+    "mappings": {
+      "default": {
+        "default": "大きい黒四角"
+      }
+    }
+  },
+  {
+    "key": "2B1C",
+    "mappings": {
+      "default": {
+        "default": "大きい白四角"
+      }
+    }
+  },
+  {
+    "key": "2B1D",
+    "mappings": {
+      "default": {
+        "default": "極小黒四角"
+      }
+    }
+  },
+  {
+    "key": "2B1E",
+    "mappings": {
+      "default": {
+        "default": "極小白四角"
+      }
+    }
+  },
+  {
+    "key": "2B1F",
+    "mappings": {
+      "default": {
+        "default": "黒五角形"
+      }
+    }
+  },
+  {
+    "key": "2B20",
+    "mappings": {
+      "default": {
+        "default": "白五角形"
+      }
+    }
+  },
+  {
+    "key": "2B21",
+    "mappings": {
+      "default": {
+        "default": "白六角形"
+      }
+    }
+  },
+  {
+    "key": "2B22",
+    "mappings": {
+      "default": {
+        "default": "黒六角形"
+      }
+    }
+  },
+  {
+    "key": "2B23",
+    "mappings": {
+      "default": {
+        "default": "横向き黒六角形"
+      }
+    }
+  },
+  {
+    "key": "2B24",
+    "mappings": {
+      "default": {
+        "default": "大きい黒丸"
+      }
+    }
+  },
+  {
+    "key": "2B25",
+    "mappings": {
+      "default": {
+        "default": "中黒ダイヤ"
+      }
+    }
+  },
+  {
+    "key": "2B26",
+    "mappings": {
+      "default": {
+        "default": "中白ダイヤ"
+      }
+    }
+  },
+  {
+    "key": "2B27",
+    "mappings": {
+      "default": {
+        "default": "中黒菱形"
+      }
+    }
+  },
+  {
+    "key": "2B28",
+    "mappings": {
+      "default": {
+        "default": "中白菱形"
+      }
+    }
+  },
+  {
+    "key": "2B29",
+    "mappings": {
+      "default": {
+        "default": "小黒ダイヤ"
+      }
+    }
+  },
+  {
+    "key": "2B2A",
+    "mappings": {
+      "default": {
+        "default": "小黒菱形"
+      }
+    }
+  },
+  {
+    "key": "2B2B",
+    "mappings": {
+      "default": {
+        "default": "小白菱形"
+      }
+    }
+  },
+  {
+    "key": "2B2C",
+    "mappings": {
+      "default": {
+        "default": "横向き黒楕円"
+      }
+    }
+  },
+  {
+    "key": "2B2D",
+    "mappings": {
+      "default": {
+        "default": "横向き白楕円"
+      }
+    }
+  },
+  {
+    "key": "2B2E",
+    "mappings": {
+      "default": {
+        "default": "縦向き黒楕円"
+      }
+    }
+  },
+  {
+    "key": "2B2F",
+    "mappings": {
+      "default": {
+        "default": "縦向き白楕円"
+      }
+    }
+  },
+  {
+    "key": "2B50",
+    "mappings": {
+      "default": {
+        "default": "中白星"
+      }
+    }
+  },
+  {
+    "key": "2B51",
+    "mappings": {
+      "default": {
+        "default": "小黒星"
+      }
+    }
+  },
+  {
+    "key": "2B52",
+    "mappings": {
+      "default": {
+        "default": "小白星"
+      }
+    }
+  },
+  {
+    "key": "2B53",
+    "mappings": {
+      "default": {
+        "default": "右向き黒五角形"
+      }
+    }
+  },
+  {
+    "key": "2B54",
+    "mappings": {
+      "default": {
+        "default": "右向き白五角形"
+      }
+    }
+  },
+  {
+    "key": "2B55",
+    "mappings": {
+      "default": {
+        "default": "太い大丸"
+      }
+    }
+  },
+  {
+    "key": "2B56",
+    "mappings": {
+      "default": {
+        "default": "二重太楕円"
+      }
+    }
+  },
+  {
+    "key": "2B57",
+    "mappings": {
+      "default": {
+        "default": "二重太丸"
+      }
+    }
+  },
+  {
+    "key": "2B58",
+    "mappings": {
+      "default": {
+        "default": "太丸"
+      }
+    }
+  },
+  {
+    "key": "2B59",
+    "mappings": {
+      "default": {
+        "default": "丸付き太バツ印"
       }
     }
   }
-] 
+]

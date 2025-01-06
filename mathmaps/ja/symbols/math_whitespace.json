@@ -23,7 +23,7 @@
     "key": "00AD",
     "mappings": {
       "default": {
-        "default": "任意ハイフン"
+        "default": "ソフトハイフン"
       }
     }
   },
@@ -31,7 +31,7 @@
     "key": "2000",
     "mappings": {
       "default": {
-        "default": "全角スペース"
+        "default": "enクォード"
       }
     }
   },
@@ -39,7 +39,7 @@
     "key": "2001",
     "mappings": {
       "default": {
-        "default": "二倍全角スペース"
+        "default": "emクォード"
       }
     }
   },
@@ -47,7 +47,7 @@
     "key": "2002",
     "mappings": {
       "default": {
-        "default": "半角スペース"
+        "default": "enスペース"
       }
     }
   },
@@ -55,7 +55,7 @@
     "key": "2003",
     "mappings": {
       "default": {
-        "default": "全角スペース"
+        "default": "emスペース"
       }
     }
   },
@@ -63,7 +63,7 @@
     "key": "2004",
     "mappings": {
       "default": {
-        "default": "三分の一全角スペース"
+        "default": "3分のemスペース"
       }
     }
   },
@@ -71,7 +71,7 @@
     "key": "2005",
     "mappings": {
       "default": {
-        "default": "四分の一全角スペース"
+        "default": "4分のemスペース"
       }
     }
   },
@@ -79,7 +79,7 @@
     "key": "2006",
     "mappings": {
       "default": {
-        "default": "六分の一全角スペース"
+        "default": "6分のemスペース"
       }
     }
   },
@@ -87,7 +87,7 @@
     "key": "2007",
     "mappings": {
       "default": {
-        "default": "数字幅スペース"
+        "default": "図形スペース"
       }
     }
   },
@@ -95,7 +95,7 @@
     "key": "2008",
     "mappings": {
       "default": {
-        "default": "約物幅スペース"
+        "default": "句読点スペース"
       }
     }
   },
@@ -127,7 +127,7 @@
     "key": "200C",
     "mappings": {
       "default": {
-        "default": "幅ゼロ非結合子"
+        "default": "幅ゼロ非接合子"
       }
     }
   },
@@ -135,7 +135,7 @@
     "key": "200D",
     "mappings": {
       "default": {
-        "default": "幅ゼロ結合子"
+        "default": "幅ゼロ接合子"
       }
     }
   },
@@ -191,7 +191,7 @@
     "key": "202C",
     "mappings": {
       "default": {
-        "default": "方向書式ポップ"
+        "default": "方向書式制御解除"
       }
     }
   },
@@ -223,7 +223,7 @@
     "key": "205F",
     "mappings": {
       "default": {
-        "default": "中幅数式スペース"
+        "default": "中間数学スペース"
       }
     }
   },
@@ -231,7 +231,7 @@
     "key": "2060",
     "mappings": {
       "default": {
-        "default": "単語結合子"
+        "default": "単語接合子"
       }
     }
   },
@@ -248,8 +248,8 @@
     "key": "2062",
     "mappings": {
       "default": {
-        "default": "×",
-        "alternative": "不可視の乗算"
+        "default": "掛ける",
+        "alternative": "不可視の掛ける"
       }
     }
   },
@@ -257,8 +257,8 @@
     "key": "2063",
     "mappings": {
       "default": {
-        "default": ",",
-        "alternative": "不可視のカンマ"
+        "default": "コンマ",
+        "alternative": "不可視の区切り"
       }
     }
   },
@@ -266,9 +266,74 @@
     "key": "2064",
     "mappings": {
       "default": {
-        "default": "+",
+        "default": "プラス",
         "alternative": "不可視のプラス"
       }
     }
+  },
+  {
+    "key": "206A",
+    "mappings": {
+      "default": {
+        "default": "対称入れ替え抑制"
+      }
+    }
+  },
+  {
+    "key": "206B",
+    "mappings": {
+      "default": {
+        "default": "対称入れ替え有効化"
+      }
+    }
+  },
+  {
+    "key": "206E",
+    "mappings": {
+      "default": {
+        "default": "各国の数字形"
+      }
+    }
+  },
+  {
+    "key": "206F",
+    "mappings": {
+      "default": {
+        "default": "名目上の数字形"
+      }
+    }
+  },
+  {
+    "key": "FEFF",
+    "mappings": {
+      "default": {
+        "default": "幅ゼロ改行なしスペース",
+        "alternative": "バイトオーダーマーク"
+      }
+    }
+  },
+  {
+    "key": "FFF9",
+    "mappings": {
+      "default": {
+        "default": "行間注釈アンカー"
+      }
+    }
+  },
+  {
+    "key": "FFFA",
+    "mappings": {
+      "default": {
+        "default": "行間注釈区切り"
+      }
+    }
+  },
+  {
+    "key": "FFFB",
+    "mappings": {
+      "default": {
+        "default": "行間注釈終端"
+      }
+    }
   }
-] 
+]

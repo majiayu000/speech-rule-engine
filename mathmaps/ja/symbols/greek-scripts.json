@@ -6,10 +6,10 @@
     "key": "1D26",
     "mappings": {
       "default": {
-        "default": "小型大文字ガンマ"
+        "default": "小文字のガンマ"
       },
       "mathspeak": {
-        "default": "小型大文字ガンマ"
+        "default": "小文字の大文字ガンマ"
       }
     }
   },
@@ -17,10 +17,10 @@
     "key": "1D27",
     "mappings": {
       "default": {
-        "default": "小型大文字ラムダ"
+        "default": "小文字のラムダ"
       },
       "mathspeak": {
-        "default": "小型大文字ラムダ"
+        "default": "小文字の大文字ラムダ"
       }
     }
   },
@@ -28,11 +28,89 @@
     "key": "1D28",
     "mappings": {
       "default": {
-        "default": "小型大文字パイ"
+        "default": "小文字のパイ"
       },
       "mathspeak": {
-        "default": "小型大文字パイ"
+        "default": "小文字の大文字パイ"
+      }
+    }
+  },
+  {
+    "key": "1D29",
+    "mappings": {
+      "default": {
+        "default": "小文字のロー"
+      },
+      "mathspeak": {
+        "default": "小文字の大文字ロー"
+      }
+    }
+  },
+  {
+    "key": "1D2A",
+    "mappings": {
+      "default": {
+        "default": "小文字のプサイ"
+      },
+      "mathspeak": {
+        "default": "小文字の大文字プサイ"
+      }
+    }
+  },
+  {
+    "key": "1D5E",
+    "mappings": {
+      "default": {
+        "default": "上付きガンマ"
+      }
+    }
+  },
+  {
+    "key": "1D60",
+    "mappings": {
+      "default": {
+        "default": "上付きファイ"
+      }
+    }
+  },
+  {
+    "key": "1D66",
+    "mappings": {
+      "default": {
+        "default": "下付きベータ"
+      }
+    }
+  },
+  {
+    "key": "1D67",
+    "mappings": {
+      "default": {
+        "default": "下付きガンマ"
+      }
+    }
+  },
+  {
+    "key": "1D68",
+    "mappings": {
+      "default": {
+        "default": "下付きロー"
+      }
+    }
+  },
+  {
+    "key": "1D69",
+    "mappings": {
+      "default": {
+        "default": "下付きファイ"
+      }
+    }
+  },
+  {
+    "key": "1D6A",
+    "mappings": {
+      "default": {
+        "default": "下付きカイ"
       }
     }
   }
-] 
+]

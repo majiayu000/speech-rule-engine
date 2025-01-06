@@ -1,34 +1,62 @@
-{
-  "key": "algebra",
-  "mappings": {
-    "default": {
-      "lim": "極限",
-      "max": "最大値",
-      "min": "最小値",
-      "glb": "最大下界",
-      "lub": "最小上界",
-      "ker": "核",
-      "hom": "準同型",
-      "grad": "勾配",
-      "div": "発散",
-      "rot": "回転",
-      "curl": "回転",
-      "laplacian": "ラプラシアン",
-      "Pr": "射影",
-      "sgn": "符号関数",
-      "sign": "符号関数",
-      "span": "生成空間",
-      "proj": "射影",
-      "stab": "安定化群",
-      "char": "標数",
-      "codim": "余次元",
-      "coker": "余核",
-      "eval": "評価",
-      "ord": "位数",
-      "rank": "階数",
-      "spec": "スペクトル",
-      "tr": "跡",
-      "vol": "体積"
+[
+  {
+    "locale": "ja"
+  },
+  {
+    "key": "deg",
+    "mappings": {
+      "default": {
+        "default": "次数"
+      }
+    }
+  },
+  {
+    "key": "det",
+    "mappings": {
+      "default": {
+        "default": "行列式"
+      },
+      "mathspeak": {
+        "default": "det"
+      }
+    }
+  },
+  {
+    "key": "dim",
+    "mappings": {
+      "default": {
+        "default": "次元"
+      }
+    }
+  },
+  {
+    "key": "hom",
+    "mappings": {
+      "default": {
+        "default": "準同型"
+      },
+      "mathspeak": {
+        "default": "hom"
+      },
+      "clearspeak": {
+        "default": "hom"
+      }
+    }
+  },
+  {
+    "key": "ker",
+    "mappings": {
+      "default": {
+        "default": "核"
+      }
+    }
+  },
+  {
+    "key": "Tr",
+    "mappings": {
+      "default": {
+        "default": "跡"
+      }
     }
   }
-} 
+] 

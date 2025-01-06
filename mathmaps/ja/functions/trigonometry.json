@@ -1,33 +1,119 @@
-{
-  "key": "trigonometry",
-  "mappings": {
-    "default": {
-      "sin": "サイン",
-      "cos": "コサイン",
-      "tan": "タンジェント",
-      "sec": "セカント",
-      "csc": "コセカント",
-      "cot": "コタンジェント",
-      "arcsin": "アークサイン",
-      "arccos": "アークコサイン",
-      "arctan": "アークタンジェント",
-      "arcsec": "アークセカント",
-      "arccsc": "アークコセカント",
-      "arccot": "アークコタンジェント"
-    },
-    "brief": {
-      "sin": "サイン",
-      "cos": "コス",
-      "tan": "タン",
-      "sec": "セク",
-      "csc": "コセク",
-      "cot": "コット",
-      "arcsin": "アークサイン",
-      "arccos": "アークコス",
-      "arctan": "アークタン",
-      "arcsec": "アークセク",
-      "arccsc": "アークコセク",
-      "arccot": "アークコット"
+[
+  {
+    "locale": "ja"
+  },
+  {
+    "key": "cos",
+    "mappings": {
+      "default": {
+        "default": "コサイン"
+      }
+    }
+  },
+  {
+    "key": "cot",
+    "mappings": {
+      "default": {
+        "default": "コタンジェント"
+      }
+    }
+  },
+  {
+    "key": "csc",
+    "mappings": {
+      "default": {
+        "default": "コセカント"
+      }
+    }
+  },
+  {
+    "key": "sec",
+    "mappings": {
+      "default": {
+        "default": "セカント"
+      }
+    }
+  },
+  {
+    "key": "sin",
+    "mappings": {
+      "default": {
+        "default": "サイン"
+      }
+    }
+  },
+  {
+    "key": "tan",
+    "mappings": {
+      "default": {
+        "default": "タンジェント"
+      }
+    }
+  },
+  {
+    "key": "arccos",
+    "mappings": {
+      "default": {
+        "default": "アークコサイン"
+      },
+      "clearspeak": {
+        "Trig_TrigInverse": "逆コサイン"
+      }
+    }
+  },
+  {
+    "key": "arccot",
+    "mappings": {
+      "default": {
+        "default": "アークコタンジェント"
+      },
+      "clearspeak": {
+        "Trig_TrigInverse": "逆コタンジェント"
+      }
+    }
+  },
+  {
+    "key": "arccsc",
+    "mappings": {
+      "default": {
+        "default": "アークコセカント"
+      },
+      "clearspeak": {
+        "Trig_TrigInverse": "逆コセカント"
+      }
+    }
+  },
+  {
+    "key": "arcsec",
+    "mappings": {
+      "default": {
+        "default": "アークセカント"
+      },
+      "clearspeak": {
+        "Trig_TrigInverse": "逆セカント"
+      }
+    }
+  },
+  {
+    "key": "arcsin",
+    "mappings": {
+      "default": {
+        "default": "アークサイン"
+      },
+      "clearspeak": {
+        "Trig_TrigInverse": "逆サイン"
+      }
+    }
+  },
+  {
+    "key": "arctan",
+    "mappings": {
+      "default": {
+        "default": "アークタンジェント"
+      },
+      "clearspeak": {
+        "Trig_TrigInverse": "逆タンジェント"
+      }
     }
   }
-} 
+] 

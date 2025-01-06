@@ -1,22 +1,71 @@
 {
-  "domain": "mathspeak",
-  "locale": "ja",
-  "modality": "speech",
-  "inherits": "base",
-  "rules": [
-    [
-      "Precondition",
-      "german-font",
-      "default",
-      "self::*[@font=\"fraktur\"]",
-      "not(contains(@grammar, \"ignoreFont\"))"
-    ],
-    [
-      "Precondition",
-      "german-font-bold",
-      "default",
-      "self::*[@font=\"bold-fraktur\"]",
-      "not(contains(@grammar, \"ignoreFont\"))"
+    "domain": "mathspeak", 
+    "locale": "ja",
+    "modality": "speech",
+    "inherits": "base",
+    "rules": [
+      [
+        "Precondition",
+        "simple-fraction",
+        "default",
+        "self::mfrac",
+        "not(@role=\"vulgar\") and count(./*)=2 and not(./mn[text()='+'])"
+      ],
+      [
+        "Precondition",
+        "vulgar-fraction",
+        "default",
+        "self::mfrac[@role=\"vulgar\"]",
+        "count(./*)=2"
+      ],
+      [
+        "Precondition",
+        "fraction",
+        "default",
+        "self::mfrac",
+        "not(@role=\"vulgar\") and count(./*)=2"
+      ],
+      [
+        "Precondition",
+        "fraction-with-operation",
+        "default",
+        "self::mfrac",
+        "count(./*)=2 and ./mn[text()='+']"
+      ],
+      [
+        "Precondition",
+        "fraction-addition",
+        "default",
+        "self::mrow",
+        "count(./mfrac)=2 and count(./mo[text()='+'])=1 and count(./*[not(self::mfrac) and not(self::mo[text()='+'])])=0"
+      ],
+      [
+        "Precondition",
+        "addition",
+        "default",
+        "self::mo",
+        "text()='+'"
+      ],
+      [
+        "Precondition",
+        "equality",
+        "default",
+        "self::mo",
+        "text()='='"
+      ],
+      [
+        "Precondition",
+        "german-font",
+        "default",
+        "self::*[@font=\"fraktur\"]",
+        "not(contains(@grammar, \"ignoreFont\"))"
+      ],
+      [
+        "Precondition",
+        "german-font-bold",
+        "default",
+        "self::*[@font=\"bold-fraktur\"]",
+        "not(contains(@grammar, \"ignoreFont\"))"
+      ]
     ]
-  ]
-} 
+  }

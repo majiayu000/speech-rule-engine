@@ -116,10 +116,10 @@
     "key": "219A",
     "mappings": {
       "default": {
-        "default": "斜線付き左矢印"
+        "default": "打ち消し線付き左矢印"
       },
       "mathspeak": {
-        "sbrief": "斜線付き左矢印"
+        "sbrief": "打ち消し線付き左矢印"
       }
     }
   },
@@ -127,10 +127,10 @@
     "key": "219B",
     "mappings": {
       "default": {
-        "default": "斜線付き右矢印"
+        "default": "打ち消し線付き右矢印"
       },
       "mathspeak": {
-        "sbrief": "斜線付き右矢印"
+        "sbrief": "打ち消し線付き右矢印"
       }
     }
   },
@@ -138,10 +138,10 @@
     "key": "219C",
     "mappings": {
       "default": {
-        "default": "左波矢印"
+        "default": "波形左矢印"
       },
       "mathspeak": {
-        "sbrief": "左波矢印"
+        "sbrief": "波形左矢印"
       }
     }
   },
@@ -149,10 +149,10 @@
     "key": "219D",
     "mappings": {
       "default": {
-        "default": "右波矢印"
+        "default": "波形右矢印"
       },
       "mathspeak": {
-        "sbrief": "右波矢印"
+        "sbrief": "波形右矢印"
       }
     }
   },
@@ -160,10 +160,10 @@
     "key": "219E",
     "mappings": {
       "default": {
-        "default": "二重頭左矢印"
+        "default": "二重頭部左矢印"
       },
       "mathspeak": {
-        "sbrief": "二重頭左矢印"
+        "sbrief": "二重頭部左矢印"
       }
     }
   },
@@ -171,10 +171,10 @@
     "key": "219F",
     "mappings": {
       "default": {
-        "default": "二重頭上矢印"
+        "default": "二重頭部上矢印"
       },
       "mathspeak": {
-        "sbrief": "二重頭上矢印"
+        "sbrief": "二重頭部上矢印"
       }
     }
   },
@@ -182,10 +182,10 @@
     "key": "21A0",
     "mappings": {
       "default": {
-        "default": "二重頭右矢印"
+        "default": "二重頭部右矢印"
       },
       "mathspeak": {
-        "sbrief": "二重頭右矢印"
+        "sbrief": "二重頭部右矢印"
       }
     }
   },
@@ -193,10 +193,10 @@
     "key": "21A1",
     "mappings": {
       "default": {
-        "default": "二重頭下矢印"
+        "default": "二重頭部下矢印"
       },
       "mathspeak": {
-        "sbrief": "二重頭下矢印"
+        "sbrief": "二重頭部下矢印"
       }
     }
   },
@@ -259,7 +259,10 @@
     "key": "21A7",
     "mappings": {
       "default": {
-        "default": "下矢印と水平線"
+        "default": "バーから下矢印"
+      },
+      "mathspeak": {
+        "sbrief": "バーから下矢印"
       }
     }
   },
@@ -267,7 +270,10 @@
     "key": "21A8",
     "mappings": {
       "default": {
-        "default": "上下矢印と底線"
+        "default": "ベース付き上下矢印"
+      },
+      "mathspeak": {
+        "sbrief": "ベース付き上下矢印"
       }
     }
   },
@@ -275,7 +281,10 @@
     "key": "21A9",
     "mappings": {
       "default": {
-        "default": "左フック矢印"
+        "default": "フック付き左矢印"
+      },
+      "mathspeak": {
+        "sbrief": "フック付き左矢印"
       }
     }
   },
@@ -283,7 +292,10 @@
     "key": "21AA",
     "mappings": {
       "default": {
-        "default": "右フック矢印"
+        "default": "フック付き右矢印"
+      },
+      "mathspeak": {
+        "sbrief": "フック付き右矢印"
       }
     }
   },
@@ -291,7 +303,10 @@
     "key": "21AB",
     "mappings": {
       "default": {
-        "default": "左ループ矢印"
+        "default": "ループ付き左矢印"
+      },
+      "mathspeak": {
+        "sbrief": "ループ付き左矢印"
       }
     }
   },
@@ -299,7 +314,10 @@
     "key": "21AC",
     "mappings": {
       "default": {
-        "default": "右ループ矢印"
+        "default": "ループ付き右矢印"
+      },
+      "mathspeak": {
+        "sbrief": "ループ付き右矢印"
       }
     }
   },
@@ -307,7 +325,10 @@
     "key": "21AD",
     "mappings": {
       "default": {
-        "default": "左右波形矢印"
+        "default": "波形左右矢印"
+      },
+      "mathspeak": {
+        "sbrief": "波形左右矢印"
       }
     }
   },
@@ -315,7 +336,10 @@
     "key": "21AE",
     "mappings": {
       "default": {
-        "default": "左右矢印に斜線"
+        "default": "打ち消し線付き左右矢印"
+      },
+      "mathspeak": {
+        "sbrief": "打ち消し線付き左右矢印"
       }
     }
   },
@@ -323,7 +347,10 @@
     "key": "21AF",
     "mappings": {
       "default": {
-        "default": "ジグザグ矢印"
+        "default": "ジグザグ下矢印"
+      },
+      "mathspeak": {
+        "sbrief": "ジグザグ下矢印"
       }
     }
   },
@@ -331,7 +358,10 @@
     "key": "21B0",
     "mappings": {
       "default": {
-        "default": "上から左矢印"
+        "default": "左向き先端付き上矢印"
+      },
+      "mathspeak": {
+        "sbrief": "左向き先端付き上矢印"
       }
     }
   },
@@ -339,7 +369,10 @@
     "key": "21B1",
     "mappings": {
       "default": {
-        "default": "上から右矢印"
+        "default": "右向き先端付き上矢印"
+      },
+      "mathspeak": {
+        "sbrief": "右向き先端付き上矢印"
       }
     }
   },
@@ -347,7 +380,10 @@
     "key": "21B2",
     "mappings": {
       "default": {
-        "default": "下から左矢印"
+        "default": "左向き先端付き下矢印"
+      },
+      "mathspeak": {
+        "sbrief": "左向き先端付き下矢印"
       }
     }
   },
@@ -355,7 +391,10 @@
     "key": "21B3",
     "mappings": {
       "default": {
-        "default": "下から右矢印"
+        "default": "右向き先端付き下矢印"
+      },
+      "mathspeak": {
+        "sbrief": "右向き先端付き下矢印"
       }
     }
   },
@@ -363,7 +402,10 @@
     "key": "21B4",
     "mappings": {
       "default": {
-        "default": "右下カーブ矢印"
+        "default": "下向きコーナー付き右矢印"
+      },
+      "mathspeak": {
+        "sbrief": "下向きコーナー付き右矢印"
       }
     }
   },
@@ -371,7 +413,10 @@
     "key": "21B5",
     "mappings": {
       "default": {
-        "default": "改行矢印"
+        "default": "左向きコーナー付き下矢印"
+      },
+      "mathspeak": {
+        "sbrief": "左向きコーナー付き下矢印"
       }
     }
   },
@@ -379,7 +424,7 @@
     "key": "21B6",
     "mappings": {
       "default": {
-        "default": "反時計回り上部半円矢印"
+        "default": "反時計回り上半円矢印"
       }
     }
   },
@@ -387,7 +432,7 @@
     "key": "21B7",
     "mappings": {
       "default": {
-        "default": "時計回り上部半円矢印"
+        "default": "時計回り上半円矢印"
       }
     }
   },
@@ -395,7 +440,10 @@
     "key": "21B8",
     "mappings": {
       "default": {
-        "default": "北西矢印と長い水平線"
+        "default": "長いバーへの左上矢印"
+      },
+      "mathspeak": {
+        "sbrief": "長いバーへの左上矢印"
       }
     }
   },
@@ -403,7 +451,10 @@
     "key": "21B9",
     "mappings": {
       "default": {
-        "default": "左右矢印と短い垂直線"
+        "default": "バーへの左矢印の上にバーへの右矢印"
+      },
+      "mathspeak": {
+        "sbrief": "バーへの左矢印の上にバーへの右矢印"
       }
     }
   },
@@ -424,74 +475,13 @@
     }
   },
   {
-    "key": "21BC",
-    "mappings": {
-      "default": {
-        "default": "左ハープーン上向き"
-      }
-    }
-  },
-  {
-    "key": "21BD",
-    "mappings": {
-      "default": {
-        "default": "左ハープーン下向き"
-      }
-    }
-  },
-  {
-    "key": "21BE",
-    "mappings": {
-      "default": {
-        "default": "上ハープーン右向き"
-      }
-    }
-  },
-  {
-    "key": "21BF",
-    "mappings": {
-      "default": {
-        "default": "上ハープーン左向き"
-      }
-    }
-  },
-  {
-    "key": "21C0",
-    "mappings": {
-      "default": {
-        "default": "右ハープーン上向き"
-      }
-    }
-  },
-  {
-    "key": "21C1",
-    "mappings": {
-      "default": {
-        "default": "右ハープーン下向き"
-      }
-    }
-  },
-  {
-    "key": "21C2",
-    "mappings": {
-      "default": {
-        "default": "下ハープーン右向き"
-      }
-    }
-  },
-  {
-    "key": "21C3",
-    "mappings": {
-      "default": {
-        "default": "下ハープーン左向き"
-      }
-    }
-  },
-  {
     "key": "21C4",
     "mappings": {
       "default": {
-        "default": "右上から左下矢印"
+        "default": "左矢印の上の右矢印"
+      },
+      "mathspeak": {
+        "sbrief": "左矢印の上の右矢印"
       }
     }
   },
@@ -499,7 +489,10 @@
     "key": "21C5",
     "mappings": {
       "default": {
-        "default": "上向き矢印と下向き矢印"
+        "default": "下矢印の左の上矢印"
+      },
+      "mathspeak": {
+        "sbrief": "下矢印の左の上矢印"
       }
     }
   },
@@ -507,7 +500,10 @@
     "key": "21C6",
     "mappings": {
       "default": {
-        "default": "左上から右下矢印"
+        "default": "右矢印の上の左矢印"
+      },
+      "mathspeak": {
+        "sbrief": "右矢印の上の左矢印"
       }
     }
   },
@@ -515,7 +511,10 @@
     "key": "21C7",
     "mappings": {
       "default": {
-        "default": "二重左矢印"
+        "default": "左向き対矢印"
+      },
+      "mathspeak": {
+        "sbrief": "左向き対矢印"
       }
     }
   },
@@ -523,7 +522,10 @@
     "key": "21C8",
     "mappings": {
       "default": {
-        "default": "二重上矢印"
+        "default": "上向き対矢印"
+      },
+      "mathspeak": {
+        "sbrief": "上向き対矢印"
       }
     }
   },
@@ -531,7 +533,10 @@
     "key": "21C9",
     "mappings": {
       "default": {
-        "default": "二重右矢印"
+        "default": "右向き対矢印"
+      },
+      "mathspeak": {
+        "sbrief": "右向き対矢印"
       }
     }
   },
@@ -539,23 +544,10 @@
     "key": "21CA",
     "mappings": {
       "default": {
-        "default": "二重下矢印"
-      }
-    }
-  },
-  {
-    "key": "21CB",
-    "mappings": {
-      "default": {
-        "default": "左ハープーンと右ハープーン"
-      }
-    }
-  },
-  {
-    "key": "21CC",
-    "mappings": {
-      "default": {
-        "default": "右ハープーンと左ハープーン"
+        "default": "下向き対矢印"
+      },
+      "mathspeak": {
+        "sbrief": "下向き対矢印"
       }
     }
   },
@@ -563,7 +555,10 @@
     "key": "21CD",
     "mappings": {
       "default": {
-        "default": "左二重矢印に斜線"
+        "default": "打ち消し線付き左二重矢印"
+      },
+      "mathspeak": {
+        "sbrief": "打ち消し線付き左二重矢印"
       }
     }
   },
@@ -571,7 +566,10 @@
     "key": "21CE",
     "mappings": {
       "default": {
-        "default": "左右二重矢印に斜線"
+        "default": "打ち消し線付き左右二重矢印"
+      },
+      "mathspeak": {
+        "sbrief": "打ち消し線付き左右二重矢印"
       }
     }
   },
@@ -579,7 +577,10 @@
     "key": "21CF",
     "mappings": {
       "default": {
-        "default": "右二重矢印に斜線"
+        "default": "打ち消し線付き右二重矢印"
+      },
+      "mathspeak": {
+        "sbrief": "打ち消し線付き右二重矢印"
       }
     }
   },
@@ -587,7 +588,10 @@
     "key": "21D0",
     "mappings": {
       "default": {
-        "default": "二重左矢印"
+        "default": "左二重矢印"
+      },
+      "mathspeak": {
+        "sbrief": "左二重矢印"
       }
     }
   },
@@ -595,311 +599,10 @@
     "key": "21D1",
     "mappings": {
       "default": {
-        "default": "二重上矢印"
-      }
-    }
-  },
-  {
-    "key": "21D3",
-    "mappings": {
-      "default": {
-        "default": "二重下矢印"
-      }
-    }
-  },
-  {
-    "key": "21D5",
-    "mappings": {
-      "default": {
-        "default": "二重上下矢印"
-      }
-    }
-  },
-  {
-    "key": "21D6",
-    "mappings": {
-      "default": {
-        "default": "二重左上矢印"
-      }
-    }
-  },
-  {
-    "key": "21D7",
-    "mappings": {
-      "default": {
-        "default": "二重右上矢印"
-      }
-    }
-  },
-  {
-    "key": "21D8",
-    "mappings": {
-      "default": {
-        "default": "二重右下矢印"
-      }
-    }
-  },
-  {
-    "key": "21D9",
-    "mappings": {
-      "default": {
-        "default": "二重左下矢印"
-      }
-    }
-  },
-  {
-    "key": "21DA",
-    "mappings": {
-      "default": {
-        "default": "三重左矢印"
-      }
-    }
-  },
-  {
-    "key": "21DB",
-    "mappings": {
-      "default": {
-        "default": "三重右矢印"
-      }
-    }
-  },
-  {
-    "key": "21DC",
-    "mappings": {
-      "default": {
-        "default": "左波形矢印"
-      }
-    }
-  },
-  {
-    "key": "21DD",
-    "mappings": {
-      "default": {
-        "default": "右波形矢印"
-      }
-    }
-  },
-  {
-    "key": "21DE",
-    "mappings": {
-      "default": {
-        "default": "上向き二重矢印と縦線"
-      }
-    }
-  },
-  {
-    "key": "21DF",
-    "mappings": {
-      "default": {
-        "default": "下向き二重矢印と縦線"
-      }
-    }
-  },
-  {
-    "key": "21E0",
-    "mappings": {
-      "default": {
-        "default": "左向き破線矢印"
-      }
-    }
-  },
-  {
-    "key": "21E1",
-    "mappings": {
-      "default": {
-        "default": "上向き破線矢印"
-      }
-    }
-  },
-  {
-    "key": "21E2",
-    "mappings": {
-      "default": {
-        "default": "右向き破線矢印"
-      }
-    }
-  },
-  {
-    "key": "21E3",
-    "mappings": {
-      "default": {
-        "default": "下向き破線矢印"
-      }
-    }
-  },
-  {
-    "key": "21E4",
-    "mappings": {
-      "default": {
-        "default": "左向き矢印と縦線"
-      }
-    }
-  },
-  {
-    "key": "21E5",
-    "mappings": {
-      "default": {
-        "default": "右向き矢印と縦線"
-      }
-    }
-  },
-  {
-    "key": "21E6",
-    "mappings": {
-      "default": {
-        "default": "白抜き左矢印"
-      }
-    }
-  },
-  {
-    "key": "21E7",
-    "mappings": {
-      "default": {
-        "default": "白抜き上矢印"
-      }
-    }
-  },
-  {
-    "key": "21E8",
-    "mappings": {
-      "default": {
-        "default": "白抜き右矢印"
-      }
-    }
-  },
-  {
-    "key": "21E9",
-    "mappings": {
-      "default": {
-        "default": "白抜き下矢印"
-      }
-    }
-  },
-  {
-    "key": "21EA",
-    "mappings": {
-      "default": {
-        "default": "白抜き上二重矢印"
-      }
-    }
-  },
-  {
-    "key": "21F5",
-    "mappings": {
-      "default": {
-        "default": "下向き矢印と上向き矢印"
-      }
-    }
-  },
-  {
-    "key": "21FD",
-    "mappings": {
-      "default": {
-        "default": "左向き開き矢印"
-      }
-    }
-  },
-  {
-    "key": "21FE",
-    "mappings": {
-      "default": {
-        "default": "右向き開き矢印"
-      }
-    }
-  },
-  {
-    "key": "21FF",
-    "mappings": {
-      "default": {
-        "default": "左右開き矢印"
-      }
-    }
-  },
-  {
-    "key": "27F5",
-    "mappings": {
-      "default": {
-        "default": "長い左矢印"
-      }
-    }
-  },
-  {
-    "key": "27F6",
-    "mappings": {
-      "default": {
-        "default": "長い右矢印"
-      }
-    }
-  },
-  {
-    "key": "27F7",
-    "mappings": {
-      "default": {
-        "default": "長い左右矢印"
-      }
-    }
-  },
-  {
-    "key": "27F8",
-    "mappings": {
-      "default": {
-        "default": "長い左二重矢印"
-      }
-    }
-  },
-  {
-    "key": "27F9",
-    "mappings": {
-      "default": {
-        "default": "長い右二重矢印"
-      }
-    }
-  },
-  {
-    "key": "27FA",
-    "mappings": {
-      "default": {
-        "default": "長い左右二重矢印"
-      }
-    }
-  },
-  {
-    "key": "27FB",
-    "mappings": {
-      "default": {
-        "default": "長い左矢印とバー"
-      }
-    }
-  },
-  {
-    "key": "27FC",
-    "mappings": {
-      "default": {
-        "default": "長い右矢印とバー"
-      }
-    }
-  },
-  {
-    "key": "27FD",
-    "mappings": {
-      "default": {
-        "default": "長い左二重矢印とバー"
-      }
-    }
-  },
-  {
-    "key": "27FE",
-    "mappings": {
-      "default": {
-        "default": "長い右二重矢印とバー"
-      }
-    }
-  },
-  {
-    "key": "27FF",
-    "mappings": {
-      "default": {
-        "default": "長い右波形矢印"
+        "default": "上二重矢印"
+      },
+      "mathspeak": {
+        "sbrief": "上二重矢印"
       }
     }
   },
@@ -908,6 +611,20 @@
     "mappings": {
       "default": {
         "default": "右二重矢印"
+      },
+      "mathspeak": {
+        "sbrief": "右二重矢印"
+      }
+    }
+  },
+  {
+    "key": "21D3",
+    "mappings": {
+      "default": {
+        "default": "下二重矢印"
+      },
+      "mathspeak": {
+        "sbrief": "下二重矢印"
       }
     }
   },
@@ -916,7 +633,2577 @@
     "mappings": {
       "default": {
         "default": "左右二重矢印"
+      },
+      "mathspeak": {
+        "sbrief": "左右二重矢印"
+      }
+    }
+  },
+  {
+    "key": "21D5",
+    "mappings": {
+      "default": {
+        "default": "上下二重矢印"
+      },
+      "mathspeak": {
+        "sbrief": "上下二重矢印"
+      }
+    }
+  },
+  {
+    "key": "21D6",
+    "mappings": {
+      "default": {
+        "default": "左上二重矢印"
+      },
+      "mathspeak": {
+        "sbrief": "左上二重矢印"
+      }
+    }
+  },
+  {
+    "key": "21D7",
+    "mappings": {
+      "default": {
+        "default": "右上二重矢印"
+      },
+      "mathspeak": {
+        "sbrief": "右上二重矢印"
+      }
+    }
+  },
+  {
+    "key": "21D8",
+    "mappings": {
+      "default": {
+        "default": "右下二重矢印"
+      },
+      "mathspeak": {
+        "sbrief": "右下二重矢印"
+      }
+    }
+  },
+  {
+    "key": "21D9",
+    "mappings": {
+      "default": {
+        "default": "左下二重矢印"
+      },
+      "mathspeak": {
+        "sbrief": "左下二重矢印"
+      }
+    }
+  },
+  {
+    "key": "21DA",
+    "mappings": {
+      "default": {
+        "default": "左三重矢印"
+      },
+      "mathspeak": {
+        "sbrief": "左三重矢印"
+      }
+    }
+  },
+  {
+    "key": "21DB",
+    "mappings": {
+      "default": {
+        "default": "右三重矢印"
+      },
+      "mathspeak": {
+        "sbrief": "右三重矢印"
+      }
+    }
+  },
+  {
+    "key": "21DC",
+    "mappings": {
+      "default": {
+        "default": "左スクイグル矢印"
+      },
+      "mathspeak": {
+        "sbrief": "左スクイグル矢印"
+      }
+    }
+  },
+  {
+    "key": "21DD",
+    "mappings": {
+      "default": {
+        "default": "右スクイグル矢印"
+      },
+      "mathspeak": {
+        "sbrief": "右スクイグル矢印"
+      }
+    }
+  },
+  {
+    "key": "21DE",
+    "mappings": {
+      "default": {
+        "default": "二重線付き上矢印"
+      },
+      "mathspeak": {
+        "sbrief": "二重線付き上矢印"
+      }
+    }
+  },
+  {
+    "key": "21DF",
+    "mappings": {
+      "default": {
+        "default": "二重線付き下矢印"
+      },
+      "mathspeak": {
+        "sbrief": "二重線付き下矢印"
+      }
+    }
+  },
+  {
+    "key": "21E0",
+    "mappings": {
+      "default": {
+        "default": "破線左矢印"
+      },
+      "mathspeak": {
+        "sbrief": "破線左矢印"
+      }
+    }
+  },
+  {
+    "key": "21E1",
+    "mappings": {
+      "default": {
+        "default": "破線上矢印"
+      },
+      "mathspeak": {
+        "sbrief": "破線上矢印"
+      }
+    }
+  },
+  {
+    "key": "21E2",
+    "mappings": {
+      "default": {
+        "default": "破線右矢印"
+      },
+      "mathspeak": {
+        "sbrief": "破線右矢印"
+      }
+    }
+  },
+  {
+    "key": "21E3",
+    "mappings": {
+      "default": {
+        "default": "破線下矢印"
+      },
+      "mathspeak": {
+        "sbrief": "破線下矢印"
+      }
+    }
+  },
+  {
+    "key": "21E4",
+    "mappings": {
+      "default": {
+        "default": "バーへの左矢印"
+      },
+      "mathspeak": {
+        "sbrief": "バーへの左矢印"
+      }
+    }
+  },
+  {
+    "key": "21E5",
+    "mappings": {
+      "default": {
+        "default": "バーへの右矢印"
+      },
+      "mathspeak": {
+        "sbrief": "バーへの右矢印"
+      }
+    }
+  },
+  {
+    "key": "21E6",
+    "mappings": {
+      "default": {
+        "default": "白抜き左矢印"
+      },
+      "mathspeak": {
+        "sbrief": "白抜き左矢印"
+      }
+    }
+  },
+  {
+    "key": "21E7",
+    "mappings": {
+      "default": {
+        "default": "白抜き上矢印"
+      },
+      "mathspeak": {
+        "sbrief": "白抜き上矢印"
+      }
+    }
+  },
+  {
+    "key": "21E8",
+    "mappings": {
+      "default": {
+        "default": "白抜き右矢印"
+      },
+      "mathspeak": {
+        "sbrief": "白抜き右矢印"
+      }
+    }
+  },
+  {
+    "key": "21E9",
+    "mappings": {
+      "default": {
+        "default": "白抜き下矢印"
+      },
+      "mathspeak": {
+        "sbrief": "白抜き下矢印"
+      }
+    }
+  },
+  {
+    "key": "21EA",
+    "mappings": {
+      "default": {
+        "default": "バーからの白抜き上矢印"
+      },
+      "mathspeak": {
+        "sbrief": "バーからの白抜き上矢印"
+      }
+    }
+  },
+  {
+    "key": "21EB",
+    "mappings": {
+      "default": {
+        "default": "台座上の白抜き上矢印"
+      },
+      "mathspeak": {
+        "sbrief": "台座上の白抜き上矢印"
+      }
+    }
+  },
+  {
+    "key": "21EC",
+    "mappings": {
+      "default": {
+        "default": "水平バー付き台座上の白抜き上矢印"
+      },
+      "mathspeak": {
+        "sbrief": "水平バー付き台座上の白抜き上矢印"
+      }
+    }
+  },
+  {
+    "key": "21ED",
+    "mappings": {
+      "default": {
+        "default": "垂直バー付き台座上の白抜き上矢印"
+      },
+      "mathspeak": {
+        "sbrief": "垂直バー付き台座上の白抜き上矢印"
+      }
+    }
+  },
+  {
+    "key": "21EE",
+    "mappings": {
+      "default": {
+        "default": "白抜き上二重矢印"
+      },
+      "mathspeak": {
+        "sbrief": "白抜き上二重矢印"
+      }
+    }
+  },
+  {
+    "key": "21EF",
+    "mappings": {
+      "default": {
+        "default": "台座上の白抜き上二重矢印"
+      },
+      "mathspeak": {
+        "sbrief": "台座上の白抜き上二重矢印"
+      }
+    }
+  },
+  {
+    "key": "21F0",
+    "mappings": {
+      "default": {
+        "default": "壁からの白抜き右矢印"
+      },
+      "mathspeak": {
+        "sbrief": "壁からの白抜き右矢印"
+      }
+    }
+  },
+  {
+    "key": "21F1",
+    "mappings": {
+      "default": {
+        "default": "コーナーへの北西矢印"
+      }
+    }
+  },
+  {
+    "key": "21F2",
+    "mappings": {
+      "default": {
+        "default": "コーナーへの南東矢印"
+      }
+    }
+  },
+  {
+    "key": "21F3",
+    "mappings": {
+      "default": {
+        "default": "白抜き上下矢印"
+      },
+      "mathspeak": {
+        "sbrief": "白抜き上下矢印"
+      }
+    }
+  },
+  {
+    "key": "21F4",
+    "mappings": {
+      "default": {
+        "default": "小円付き右矢印"
+      },
+      "mathspeak": {
+        "sbrief": "小円付き右矢印"
+      }
+    }
+  },
+  {
+    "key": "21F5",
+    "mappings": {
+      "default": {
+        "default": "上矢印の左の下矢印"
+      },
+      "mathspeak": {
+        "sbrief": "上矢印の左の下矢印"
+      }
+    }
+  },
+  {
+    "key": "21F6",
+    "mappings": {
+      "default": {
+        "default": "三重右矢印"
+      },
+      "mathspeak": {
+        "sbrief": "三重右矢印"
+      }
+    }
+  },
+  {
+    "key": "21F7",
+    "mappings": {
+      "default": {
+        "default": "垂直線付き左矢印"
+      },
+      "mathspeak": {
+        "sbrief": "垂直線付き左矢印"
+      }
+    }
+  },
+  {
+    "key": "21F8",
+    "mappings": {
+      "default": {
+        "default": "垂直線付き右矢印"
+      },
+      "mathspeak": {
+        "sbrief": "垂直線付き右矢印"
+      }
+    }
+  },
+  {
+    "key": "21F9",
+    "mappings": {
+      "default": {
+        "default": "垂直線付き左右矢印"
+      },
+      "mathspeak": {
+        "sbrief": "垂直線付き左右矢印"
+      }
+    }
+  },
+  {
+    "key": "21FA",
+    "mappings": {
+      "default": {
+        "default": "二重垂直線付き左矢印"
+      },
+      "mathspeak": {
+        "sbrief": "二重垂直線付き左矢印"
+      }
+    }
+  },
+  {
+    "key": "21FB",
+    "mappings": {
+      "default": {
+        "default": "二重垂直線付き右矢印"
+      },
+      "mathspeak": {
+        "sbrief": "二重垂直線付き右矢印"
+      }
+    }
+  },
+  {
+    "key": "21FC",
+    "mappings": {
+      "default": {
+        "default": "二重垂直線付き左右矢印"
+      },
+      "mathspeak": {
+        "sbrief": "二重垂直線付き左右矢印"
+      }
+    }
+  },
+  {
+    "key": "21FD",
+    "mappings": {
+      "default": {
+        "default": "開頭部左矢印"
+      },
+      "mathspeak": {
+        "sbrief": "開頭部左矢印"
+      }
+    }
+  },
+  {
+    "key": "21FE",
+    "mappings": {
+      "default": {
+        "default": "開頭部右矢印"
+      },
+      "mathspeak": {
+        "sbrief": "開頭部右矢印"
+      }
+    }
+  },
+  {
+    "key": "21FF",
+    "mappings": {
+      "default": {
+        "default": "開頭部左右矢印"
+      },
+      "mathspeak": {
+        "sbrief": "開頭部左右矢印"
+      }
+    }
+  },
+  {
+    "key": "2301",
+    "mappings": {
+      "default": {
+        "default": "電気矢印"
+      }
+    }
+  },
+  {
+    "key": "2303",
+    "mappings": {
+      "default": {
+        "default": "上向き矢印頭"
+      },
+      "mathspeak": {
+        "sbrief": "上向き矢印頭"
+      }
+    }
+  },
+  {
+    "key": "2304",
+    "mappings": {
+      "default": {
+        "default": "下向き矢印頭"
+      },
+      "mathspeak": {
+        "sbrief": "下向き矢印頭"
+      }
+    }
+  },
+  {
+    "key": "2324",
+    "mappings": {
+      "default": {
+        "default": "二本の水平線の間の上向き矢印頭",
+        "alternative": "エンターキー"
+      },
+      "mathspeak": {
+        "sbrief": "二本の水平線の間の上向き矢印頭"
+      }
+    }
+  },
+  {
+    "key": "238B",
+    "mappings": {
+      "default": {
+        "default": "北西矢印付き破線円"
+      }
+    }
+  },
+  {
+    "key": "2794",
+    "mappings": {
+      "default": {
+        "default": "太い幅広頭部右矢印"
+      },
+      "mathspeak": {
+        "sbrief": "太い幅広頭部右矢印"
+      }
+    }
+  },
+  {
+    "key": "2798",
+    "mappings": {
+      "default": {
+        "default": "太い右下矢印"
+      },
+      "mathspeak": {
+        "sbrief": "太い右下矢印"
+      }
+    }
+  },
+  {
+    "key": "2799",
+    "mappings": {
+      "default": {
+        "default": "太い右矢印"
+      },
+      "mathspeak": {
+        "sbrief": "太い右矢印"
+      }
+    }
+  },
+  {
+    "key": "279A",
+    "mappings": {
+      "default": {
+        "default": "太い右上矢印"
+      },
+      "mathspeak": {
+        "sbrief": "太い右上矢印"
+      }
+    }
+  },
+  {
+    "key": "279B",
+    "mappings": {
+      "default": {
+        "default": "製図用右矢印"
+      },
+      "mathspeak": {
+        "sbrief": "製図用右矢印"
+      }
+    }
+  },
+  {
+    "key": "279C",
+    "mappings": {
+      "default": {
+        "default": "太い丸頭右矢印"
+      },
+      "mathspeak": {
+        "sbrief": "太い丸頭右矢印"
+      }
+    }
+  },
+  {
+    "key": "279D",
+    "mappings": {
+      "default": {
+        "default": "三角頭右矢印"
+      },
+      "mathspeak": {
+        "sbrief": "三角頭右矢印"
+      }
+    }
+  },
+  {
+    "key": "279E",
+    "mappings": {
+      "default": {
+        "default": "太い三角頭右矢印"
+      },
+      "mathspeak": {
+        "sbrief": "太い三角頭右矢印"
+      }
+    }
+  },
+  {
+    "key": "279F",
+    "mappings": {
+      "default": {
+        "default": "破線三角頭右矢印"
+      },
+      "mathspeak": {
+        "sbrief": "破線三角頭右矢印"
+      }
+    }
+  },
+  {
+    "key": "27A0",
+    "mappings": {
+      "default": {
+        "default": "太い破線三角頭右矢印"
+      },
+      "mathspeak": {
+        "sbrief": "太い破線三角頭右矢印"
+      }
+    }
+  },
+  {
+    "key": "27A1",
+    "mappings": {
+      "default": {
+        "default": "黒右矢印"
+      },
+      "mathspeak": {
+        "sbrief": "黒右矢印"
+      }
+    }
+  },
+  {
+    "key": "27A2",
+    "mappings": {
+      "default": {
+        "default": "上部照明三次元右矢印頭"
+      },
+      "mathspeak": {
+        "sbrief": "上部照明三次元右矢印頭"
+      }
+    }
+  },
+  {
+    "key": "27A3",
+    "mappings": {
+      "default": {
+        "default": "下部照明三次元右矢印頭"
+      },
+      "mathspeak": {
+        "sbrief": "下部照明三次元右矢印頭"
+      }
+    }
+  },
+  {
+    "key": "27A4",
+    "mappings": {
+      "default": {
+        "default": "黒右矢印頭"
+      },
+      "mathspeak": {
+        "sbrief": "黒右矢印頭"
+      }
+    }
+  },
+  {
+    "key": "27A5",
+    "mappings": {
+      "default": {
+        "default": "太い黒下右曲がり矢印"
+      },
+      "mathspeak": {
+        "sbrief": "太い黒下右曲がり矢印"
+      }
+    }
+  },
+  {
+    "key": "27A6",
+    "mappings": {
+      "default": {
+        "default": "太い黒上右曲がり矢印"
+      },
+      "mathspeak": {
+        "sbrief": "太い黒上右曲がり矢印"
+      }
+    }
+  },
+  {
+    "key": "27A7",
+    "mappings": {
+      "default": {
+        "default": "扁平黒右矢印"
+      },
+      "mathspeak": {
+        "sbrief": "扁平黒右矢印"
+      }
+    }
+  },
+  {
+    "key": "27A8",
+    "mappings": {
+      "default": {
+        "default": "太い凹型先端黒右矢印"
+      },
+      "mathspeak": {
+        "sbrief": "太い凹型先端黒右矢印"
+      }
+    }
+  },
+  {
+    "key": "27A9",
+    "mappings": {
+      "default": {
+        "default": "右陰影白右矢印"
+      },
+      "mathspeak": {
+        "sbrief": "右陰影白右矢印"
+      }
+    }
+  },
+  {
+    "key": "27AA",
+    "mappings": {
+      "default": {
+        "default": "左陰影白右矢印"
+      },
+      "mathspeak": {
+        "sbrief": "左陰影白右矢印"
+      }
+    }
+  },
+  {
+    "key": "27AB",
+    "mappings": {
+      "default": {
+        "default": "後方傾斜陰影白右矢印"
+      },
+      "mathspeak": {
+        "sbrief": "後方傾斜陰影白右矢印"
+      }
+    }
+  },
+  {
+    "key": "27AC",
+    "mappings": {
+      "default": {
+        "default": "前方傾斜陰影白右矢印"
+      },
+      "mathspeak": {
+        "sbrief": "前方傾斜陰影白右矢印"
+      }
+    }
+  },
+  {
+    "key": "27AD",
+    "mappings": {
+      "default": {
+        "default": "太い右下陰影白右矢印"
+      },
+      "mathspeak": {
+        "sbrief": "太い右下陰影白右矢印"
+      }
+    }
+  },
+  {
+    "key": "27AE",
+    "mappings": {
+      "default": {
+        "default": "太い右上陰影白右矢印"
+      },
+      "mathspeak": {
+        "sbrief": "太い右上陰影白右矢印"
+      }
+    }
+  },
+  {
+    "key": "27AF",
+    "mappings": {
+      "default": {
+        "default": "切欠き右下陰影白右矢印"
+      },
+      "mathspeak": {
+        "sbrief": "切欠き右下陰影白右矢印"
+      }
+    }
+  },
+  {
+    "key": "27B1",
+    "mappings": {
+      "default": {
+        "default": "切欠き右上陰影白右矢印"
+      },
+      "mathspeak": {
+        "sbrief": "切欠き右上陰影白右矢印"
+      }
+    }
+  },
+  {
+    "key": "27B2",
+    "mappings": {
+      "default": {
+        "default": "丸囲み太い白右矢印"
+      },
+      "mathspeak": {
+        "sbrief": "丸囲み太い白右矢印"
+      }
+    }
+  },
+  {
+    "key": "27B3",
+    "mappings": {
+      "default": {
+        "default": "白羽根付き右矢印"
+      },
+      "mathspeak": {
+        "sbrief": "白羽根付き右矢印"
+      }
+    }
+  },
+  {
+    "key": "27B4",
+    "mappings": {
+      "default": {
+        "default": "黒羽根付き右下矢印"
+      },
+      "mathspeak": {
+        "sbrief": "黒羽根付き右下矢印"
+      }
+    }
+  },
+  {
+    "key": "27B5",
+    "mappings": {
+      "default": {
+        "default": "黒羽根付き右矢印"
+      },
+      "mathspeak": {
+        "sbrief": "黒羽根付き右矢印"
+      }
+    }
+  },
+  {
+    "key": "27B6",
+    "mappings": {
+      "default": {
+        "default": "黒羽根付き右上矢印"
+      },
+      "mathspeak": {
+        "sbrief": "黒羽根付き右上矢印"
+      }
+    }
+  },
+  {
+    "key": "27B7",
+    "mappings": {
+      "default": {
+        "default": "太い黒羽根付き右下矢印"
+      },
+      "mathspeak": {
+        "sbrief": "太い黒羽根付き右下矢印"
+      }
+    }
+  },
+  {
+    "key": "27B8",
+    "mappings": {
+      "default": {
+        "default": "太い黒羽根付き右矢印"
+      },
+      "mathspeak": {
+        "sbrief": "太い黒羽根付き右矢印"
+      }
+    }
+  },
+  {
+    "key": "27B9",
+    "mappings": {
+      "default": {
+        "default": "太い黒羽根付き右上矢印"
+      },
+      "mathspeak": {
+        "sbrief": "太い黒羽根付き右上矢印"
+      }
+    }
+  },
+  {
+    "key": "27BA",
+    "mappings": {
+      "default": {
+        "default": "涙滴型返し付き右矢印"
+      },
+      "mathspeak": {
+        "sbrief": "涙滴型返し付き右矢印"
+      }
+    }
+  },
+  {
+    "key": "27BB",
+    "mappings": {
+      "default": {
+        "default": "太い涙滴型柄付き右矢印"
+      },
+      "mathspeak": {
+        "sbrief": "太い涙滴型柄付き右矢印"
+      }
+    }
+  },
+  {
+    "key": "27BC",
+    "mappings": {
+      "default": {
+        "default": "楔形尾付き右矢印"
+      },
+      "mathspeak": {
+        "sbrief": "楔形尾付き右矢印"
+      }
+    }
+  },
+  {
+    "key": "27BD",
+    "mappings": {
+      "default": {
+        "default": "太い楔形尾付き右矢印"
+      },
+      "mathspeak": {
+        "sbrief": "太い楔形尾付き右矢印"
+      }
+    }
+  },
+  {
+    "key": "27BE",
+    "mappings": {
+      "default": {
+        "default": "白抜き右矢印"
+      },
+      "mathspeak": {
+        "sbrief": "白抜き右矢印"
+      }
+    }
+  },
+  {
+    "key": "27F0",
+    "mappings": {
+      "default": {
+        "default": "上向き四重矢印"
+      },
+      "mathspeak": {
+        "sbrief": "上向き四重矢印"
+      }
+    }
+  },
+  {
+    "key": "27F1",
+    "mappings": {
+      "default": {
+        "default": "下向き四重矢印"
+      },
+      "mathspeak": {
+        "sbrief": "下向き四重矢印"
+      }
+    }
+  },
+  {
+    "key": "27F2",
+    "mappings": {
+      "default": {
+        "default": "反時計回り隙間付き円形矢印"
+      }
+    }
+  },
+  {
+    "key": "27F3",
+    "mappings": {
+      "default": {
+        "default": "時計回り隙間付き円形矢印"
+      }
+    }
+  },
+  {
+    "key": "27F4",
+    "mappings": {
+      "default": {
+        "default": "丸付きプラス記号付き右矢印"
+      },
+      "mathspeak": {
+        "sbrief": "丸付きプラス記号付き右矢印"
+      }
+    }
+  },
+  {
+    "key": "27F5",
+    "mappings": {
+      "default": {
+        "default": "長い左矢印"
+      },
+      "mathspeak": {
+        "sbrief": "長い左矢印"
+      }
+    }
+  },
+  {
+    "key": "27F6",
+    "mappings": {
+      "default": {
+        "default": "長い右矢印"
+      },
+      "mathspeak": {
+        "sbrief": "長い右矢印"
+      }
+    }
+  },
+  {
+    "key": "27F7",
+    "mappings": {
+      "default": {
+        "default": "長い左右矢印"
+      },
+      "mathspeak": {
+        "sbrief": "長い左右矢印"
+      }
+    }
+  },
+  {
+    "key": "27F8",
+    "mappings": {
+      "default": {
+        "default": "長い左二重矢印"
+      },
+      "mathspeak": {
+        "sbrief": "長い左二重矢印"
+      }
+    }
+  },
+  {
+    "key": "27F9",
+    "mappings": {
+      "default": {
+        "default": "長い右二重矢印"
+      },
+      "mathspeak": {
+        "sbrief": "長い右二重矢印"
+      }
+    }
+  },
+  {
+    "key": "27FA",
+    "mappings": {
+      "default": {
+        "default": "長い左右二重矢印"
+      },
+      "mathspeak": {
+        "sbrief": "長い左右二重矢印"
+      }
+    }
+  },
+  {
+    "key": "27FB",
+    "mappings": {
+      "default": {
+        "default": "バーから長い左矢印"
+      },
+      "mathspeak": {
+        "sbrief": "バーから長い左矢印"
+      }
+    }
+  },
+  {
+    "key": "27FC",
+    "mappings": {
+      "default": {
+        "default": "バーから長い右矢印"
+      },
+      "mathspeak": {
+        "sbrief": "バーから長い右矢印"
+      }
+    }
+  },
+  {
+    "key": "27FD",
+    "mappings": {
+      "default": {
+        "default": "バーから長い左二重矢印"
+      },
+      "mathspeak": {
+        "sbrief": "バーから長い左二重矢印"
+      }
+    }
+  },
+  {
+    "key": "27FE",
+    "mappings": {
+      "default": {
+        "default": "バーから長い右二重矢印"
+      },
+      "mathspeak": {
+        "sbrief": "バーから長い右二重矢印"
+      }
+    }
+  },
+  {
+    "key": "27FF",
+    "mappings": {
+      "default": {
+        "default": "長い右波矢印"
+      },
+      "mathspeak": {
+        "sbrief": "長い右波矢印"
+      }
+    }
+  },
+  {
+    "key": "2900",
+    "mappings": {
+      "default": {
+        "default": "縦線付き二頭右矢印"
+      },
+      "mathspeak": {
+        "sbrief": "縦線付き二頭右矢印"
+      }
+    }
+  },
+  {
+    "key": "2901",
+    "mappings": {
+      "default": {
+        "default": "二重縦線付き二頭右矢印"
+      },
+      "mathspeak": {
+        "sbrief": "二重縦線付き二頭右矢印"
+      }
+    }
+  },
+  {
+    "key": "2902",
+    "mappings": {
+      "default": {
+        "default": "縦線付き左二重矢印"
+      },
+      "mathspeak": {
+        "sbrief": "縦線付き左二重矢印"
+      }
+    }
+  },
+  {
+    "key": "2903",
+    "mappings": {
+      "default": {
+        "default": "縦線付き右二重矢印"
+      },
+      "mathspeak": {
+        "sbrief": "縦線付き右二重矢印"
+      }
+    }
+  },
+  {
+    "key": "2904",
+    "mappings": {
+      "default": {
+        "default": "縦線付き左右二重矢印"
+      },
+      "mathspeak": {
+        "sbrief": "縦線付き左右二重矢印"
+      }
+    }
+  },
+  {
+    "key": "2905",
+    "mappings": {
+      "default": {
+        "default": "バーから二頭右矢印"
+      },
+      "mathspeak": {
+        "sbrief": "バーから二頭右矢印"
+      }
+    }
+  },
+  {
+    "key": "2906",
+    "mappings": {
+      "default": {
+        "default": "バーから左二重矢印"
+      },
+      "mathspeak": {
+        "sbrief": "バーから左二重矢印"
+      }
+    }
+  },
+  {
+    "key": "2907",
+    "mappings": {
+      "default": {
+        "default": "バーから右二重矢印"
+      },
+      "mathspeak": {
+        "sbrief": "バーから右二重矢印"
+      }
+    }
+  },
+  {
+    "key": "2908",
+    "mappings": {
+      "default": {
+        "default": "横線付き下向き矢印"
+      }
+    }
+  },
+  {
+    "key": "2909",
+    "mappings": {
+      "default": {
+        "default": "横線付き上向き矢印"
+      },
+      "mathspeak": {
+        "sbrief": "横線付き上向き矢印"
+      }
+    }
+  },
+  {
+    "key": "290A",
+    "mappings": {
+      "default": {
+        "default": "上向き三重矢印"
+      },
+      "mathspeak": {
+        "sbrief": "上向き三重矢印"
+      }
+    }
+  },
+  {
+    "key": "290B",
+    "mappings": {
+      "default": {
+        "default": "下向き三重矢印"
+      },
+      "mathspeak": {
+        "sbrief": "下向き三重矢印"
+      }
+    }
+  },
+  {
+    "key": "290C",
+    "mappings": {
+      "default": {
+        "default": "二重破線左矢印"
+      },
+      "mathspeak": {
+        "sbrief": "二重破線左矢印"
+      }
+    }
+  },
+  {
+    "key": "290D",
+    "mappings": {
+      "default": {
+        "default": "二重破線右矢印"
+      },
+      "mathspeak": {
+        "sbrief": "二重破線右矢印"
+      }
+    }
+  },
+  {
+    "key": "290E",
+    "mappings": {
+      "default": {
+        "default": "三重破線左矢印"
+      },
+      "mathspeak": {
+        "sbrief": "三重破線左矢印"
+      }
+    }
+  },
+  {
+    "key": "290F",
+    "mappings": {
+      "default": {
+        "default": "三重破線右矢印"
+      },
+      "mathspeak": {
+        "sbrief": "三重破線右矢印"
+      }
+    }
+  },
+  {
+    "key": "2910",
+    "mappings": {
+      "default": {
+        "default": "二頭三重破線右矢印"
+      },
+      "mathspeak": {
+        "sbrief": "二頭三重破線右矢印"
+      }
+    }
+  },
+  {
+    "key": "2911",
+    "mappings": {
+      "default": {
+        "default": "点線柄右矢印"
+      },
+      "mathspeak": {
+        "sbrief": "点線柄右矢印"
+      }
+    }
+  },
+  {
+    "key": "2912",
+    "mappings": {
+      "default": {
+        "default": "バーへの上向き矢印"
+      },
+      "mathspeak": {
+        "sbrief": "バーへの上向き矢印"
+      }
+    }
+  },
+  {
+    "key": "2913",
+    "mappings": {
+      "default": {
+        "default": "バーへの下向き矢印"
+      },
+      "mathspeak": {
+        "sbrief": "バーへの下向き矢印"
+      }
+    }
+  },
+  {
+    "key": "2914",
+    "mappings": {
+      "default": {
+        "default": "縦線付き尾付き右矢印"
+      },
+      "mathspeak": {
+        "sbrief": "縦線付き尾付き右矢印"
+      }
+    }
+  },
+  {
+    "key": "2915",
+    "mappings": {
+      "default": {
+        "default": "二重縦線付き尾付き右矢印"
+      },
+      "mathspeak": {
+        "sbrief": "二重縦線付き尾付き右矢印"
+      }
+    }
+  },
+  {
+    "key": "2916",
+    "mappings": {
+      "default": {
+        "default": "尾付き二頭右矢印"
+      },
+      "mathspeak": {
+        "sbrief": "尾付き二頭右矢印"
+      }
+    }
+  },
+  {
+    "key": "2917",
+    "mappings": {
+      "default": {
+        "default": "縦線付き尾付き二頭右矢印"
+      },
+      "mathspeak": {
+        "sbrief": "縦線付き尾付き二頭右矢印"
+      }
+    }
+  },
+  {
+    "key": "2918",
+    "mappings": {
+      "default": {
+        "default": "二重縦線付き尾付き二頭右矢印"
+      },
+      "mathspeak": {
+        "sbrief": "二重縦線付き尾付き二頭右矢印"
+      }
+    }
+  },
+  {
+    "key": "2919",
+    "mappings": {
+      "default": {
+        "default": "左矢印尾"
+      },
+      "mathspeak": {
+        "sbrief": "左矢印尾"
+      }
+    }
+  },
+  {
+    "key": "291A",
+    "mappings": {
+      "default": {
+        "default": "右矢印尾"
+      },
+      "mathspeak": {
+        "sbrief": "右矢印尾"
+      }
+    }
+  },
+  {
+    "key": "291B",
+    "mappings": {
+      "default": {
+        "default": "左二重矢印尾"
+      },
+      "mathspeak": {
+        "sbrief": "左二重矢印尾"
+      }
+    }
+  },
+  {
+    "key": "291C",
+    "mappings": {
+      "default": {
+        "default": "右二重矢印尾"
+      },
+      "mathspeak": {
+        "sbrief": "右二重矢印尾"
+      }
+    }
+  },
+  {
+    "key": "291D",
+    "mappings": {
+      "default": {
+        "default": "黒菱形への左矢印"
+      },
+      "mathspeak": {
+        "sbrief": "黒菱形への左矢印"
+      }
+    }
+  },
+  {
+    "key": "291E",
+    "mappings": {
+      "default": {
+        "default": "黒菱形への右矢印"
+      },
+      "mathspeak": {
+        "sbrief": "黒菱形への右矢印"
+      }
+    }
+  },
+  {
+    "key": "291F",
+    "mappings": {
+      "default": {
+        "default": "黒菱形への縦線付き左矢印"
+      },
+      "mathspeak": {
+        "sbrief": "黒菱形への縦線付き左矢印"
+      }
+    }
+  },
+  {
+    "key": "2920",
+    "mappings": {
+      "default": {
+        "default": "黒菱形への縦線付き右矢印"
+      },
+      "mathspeak": {
+        "sbrief": "黒菱形への縦線付き右矢印"
+      }
+    }
+  },
+  {
+    "key": "2921",
+    "mappings": {
+      "default": {
+        "default": "北西および南東矢印"
+      }
+    }
+  },
+  {
+    "key": "2922",
+    "mappings": {
+      "default": {
+        "default": "北東および南西矢印"
+      }
+    }
+  },
+  {
+    "key": "2923",
+    "mappings": {
+      "default": {
+        "default": "フック付き北西矢印"
+      }
+    }
+  },
+  {
+    "key": "2924",
+    "mappings": {
+      "default": {
+        "default": "フック付き北東矢印"
+      }
+    }
+  },
+  {
+    "key": "2925",
+    "mappings": {
+      "default": {
+        "default": "フック付き南東矢印"
+      }
+    }
+  },
+  {
+    "key": "2926",
+    "mappings": {
+      "default": {
+        "default": "フック付き南西矢印"
+      }
+    }
+  },
+  {
+    "key": "2927",
+    "mappings": {
+      "default": {
+        "default": "北西矢印および北東矢印"
+      }
+    }
+  },
+  {
+    "key": "2928",
+    "mappings": {
+      "default": {
+        "default": "北東矢印および南東矢印"
+      }
+    }
+  },
+  {
+    "key": "2929",
+    "mappings": {
+      "default": {
+        "default": "南東矢印および南西矢印"
+      }
+    }
+  },
+  {
+    "key": "292A",
+    "mappings": {
+      "default": {
+        "default": "南西矢印および北西矢印"
+      }
+    }
+  },
+  {
+    "key": "292D",
+    "mappings": {
+      "default": {
+        "default": "北東矢印を横切る南東矢印"
+      }
+    }
+  },
+  {
+    "key": "292E",
+    "mappings": {
+      "default": {
+        "default": "南東矢印を横切る北東矢印"
+      }
+    }
+  },
+  {
+    "key": "292F",
+    "mappings": {
+      "default": {
+        "default": "北東矢印を横切る下降対角線"
+      }
+    }
+  },
+  {
+    "key": "2930",
+    "mappings": {
+      "default": {
+        "default": "南東矢印を横切る上昇対角線"
+      }
+    }
+  },
+  {
+    "key": "2931",
+    "mappings": {
+      "default": {
+        "default": "北西矢印を横切る北東矢印"
+      }
+    }
+  },
+  {
+    "key": "2932",
+    "mappings": {
+      "default": {
+        "default": "北東矢印を横切る北西矢印"
+      }
+    }
+  },
+  {
+    "key": "2933",
+    "mappings": {
+      "default": {
+        "default": "右向き波矢印"
+      }
+    }
+  },
+  {
+    "key": "2934",
+    "mappings": {
+      "default": {
+        "default": "上向きに曲がる右矢印"
+      }
+    }
+  },
+  {
+    "key": "2935",
+    "mappings": {
+      "default": {
+        "default": "下向きに曲がる右矢印"
+      }
+    }
+  },
+  {
+    "key": "2936",
+    "mappings": {
+      "default": {
+        "default": "左向きに曲がる下矢印"
+      }
+    }
+  },
+  {
+    "key": "2937",
+    "mappings": {
+      "default": {
+        "default": "右向きに曲がる下矢印"
+      }
+    }
+  },
+  {
+    "key": "2938",
+    "mappings": {
+      "default": {
+        "default": "時計回り右側弧矢印"
+      },
+      "mathspeak": {
+        "sbrief": "時計回り右側弧矢印"
+      }
+    }
+  },
+  {
+    "key": "2939",
+    "mappings": {
+      "default": {
+        "default": "反時計回り左側弧矢印"
+      },
+      "mathspeak": {
+        "sbrief": "反時計回り左側弧矢印"
+      }
+    }
+  },
+  {
+    "key": "293A",
+    "mappings": {
+      "default": {
+        "default": "反時計回り上部弧矢印"
+      }
+    }
+  },
+  {
+    "key": "293B",
+    "mappings": {
+      "default": {
+        "default": "反時計回り下部弧矢印"
+      }
+    }
+  },
+  {
+    "key": "293C",
+    "mappings": {
+      "default": {
+        "default": "マイナス付き時計回り上部弧矢印"
+      }
+    }
+  },
+  {
+    "key": "293D",
+    "mappings": {
+      "default": {
+        "default": "プラス付き反時計回り上部弧矢印"
+      }
+    }
+  },
+  {
+    "key": "293E",
+    "mappings": {
+      "default": {
+        "default": "時計回り右下半円矢印"
+      },
+      "mathspeak": {
+        "sbrief": "時計回り右下半円矢印"
+      }
+    }
+  },
+  {
+    "key": "293F",
+    "mappings": {
+      "default": {
+        "default": "反時計回り左下半円矢印"
+      },
+      "mathspeak": {
+        "sbrief": "反時計回り左下半円矢印"
+      }
+    }
+  },
+  {
+    "key": "2940",
+    "mappings": {
+      "default": {
+        "default": "反時計回り閉円矢印"
+      }
+    }
+  },
+  {
+    "key": "2941",
+    "mappings": {
+      "default": {
+        "default": "時計回り閉円矢印"
+      }
+    }
+  },
+  {
+    "key": "2942",
+    "mappings": {
+      "default": {
+        "default": "短い左矢印の上の右矢印"
+      },
+      "mathspeak": {
+        "sbrief": "短い左矢印の上の右矢印"
+      }
+    }
+  },
+  {
+    "key": "2943",
+    "mappings": {
+      "default": {
+        "default": "短い右矢印の上の左矢印"
+      },
+      "mathspeak": {
+        "sbrief": "短い右矢印の上の左矢印"
+      }
+    }
+  },
+  {
+    "key": "2944",
+    "mappings": {
+      "default": {
+        "default": "左矢印の上の短い右矢印"
+      },
+      "mathspeak": {
+        "sbrief": "左矢印の上の短い右矢印"
+      }
+    }
+  },
+  {
+    "key": "2945",
+    "mappings": {
+      "default": {
+        "default": "下にプラスのある右矢印"
+      },
+      "mathspeak": {
+        "sbrief": "下にプラスのある右矢印"
+      }
+    }
+  },
+  {
+    "key": "2946",
+    "mappings": {
+      "default": {
+        "default": "下にプラスのある左矢印"
+      },
+      "mathspeak": {
+        "sbrief": "下にプラスのある左矢印"
+      }
+    }
+  },
+  {
+    "key": "2947",
+    "mappings": {
+      "default": {
+        "default": "×を通る右矢印"
+      },
+      "mathspeak": {
+        "sbrief": "×を通る右矢印"
+      }
+    }
+  },
+  {
+    "key": "2948",
+    "mappings": {
+      "default": {
+        "default": "小円を通る左右矢印"
+      },
+      "mathspeak": {
+        "sbrief": "小円を通る左右矢印"
+      }
+    }
+  },
+  {
+    "key": "2949",
+    "mappings": {
+      "default": {
+        "default": "小円からの上向き二頭矢印"
+      },
+      "mathspeak": {
+        "sbrief": "小円からの上向き二頭矢印"
+      }
+    }
+  },
+  {
+    "key": "2970",
+    "mappings": {
+      "default": {
+        "default": "丸頭付き右二重矢印"
+      },
+      "mathspeak": {
+        "sbrief": "丸頭付き右二重矢印"
+      }
+    }
+  },
+  {
+    "key": "2971",
+    "mappings": {
+      "default": {
+        "default": "右矢印の上の等号"
+      },
+      "mathspeak": {
+        "sbrief": "右矢印の上の等号"
+      }
+    }
+  },
+  {
+    "key": "2972",
+    "mappings": {
+      "default": {
+        "default": "右矢印の上のチルダ演算子"
+      },
+      "mathspeak": {
+        "sbrief": "右矢印の上のチルダ演算子"
+      }
+    }
+  },
+  {
+    "key": "2973",
+    "mappings": {
+      "default": {
+        "default": "チルダ演算子の上の左矢印"
+      },
+      "mathspeak": {
+        "sbrief": "チルダ演算子の上の左矢印"
+      }
+    }
+  },
+  {
+    "key": "2974",
+    "mappings": {
+      "default": {
+        "default": "チルダ演算子の上の右矢印"
+      },
+      "mathspeak": {
+        "sbrief": "チルダ演算子の上の右矢印"
+      }
+    }
+  },
+  {
+    "key": "2975",
+    "mappings": {
+      "default": {
+        "default": "ほぼ等しいの上の右矢印"
+      },
+      "mathspeak": {
+        "sbrief": "ほぼ等しいの上の右矢印"
+      }
+    }
+  },
+  {
+    "key": "2976",
+    "mappings": {
+      "default": {
+        "default": "左矢印の上の小なり"
+      },
+      "mathspeak": {
+        "sbrief": "左矢印の上の小なり"
+      }
+    }
+  },
+  {
+    "key": "2977",
+    "mappings": {
+      "default": {
+        "default": "小なりを通る左矢印"
+      },
+      "mathspeak": {
+        "sbrief": "小なりを通る左矢印"
+      }
+    }
+  },
+  {
+    "key": "2978",
+    "mappings": {
+      "default": {
+        "default": "右矢印の上の大なり"
+      },
+      "mathspeak": {
+        "sbrief": "右矢印の上の大なり"
+      }
+    }
+  },
+  {
+    "key": "2979",
+    "mappings": {
+      "default": {
+        "default": "右矢印の上の部分集合"
+      },
+      "mathspeak": {
+        "sbrief": "右矢印の上の部分集合"
+      }
+    }
+  },
+  {
+    "key": "297A",
+    "mappings": {
+      "default": {
+        "default": "部分集合を通る左矢印"
+      },
+      "mathspeak": {
+        "sbrief": "部分集合を通る左矢印"
+      }
+    }
+  },
+  {
+    "key": "297B",
+    "mappings": {
+      "default": {
+        "default": "左矢印の上の上位集合"
+      },
+      "mathspeak": {
+        "sbrief": "左矢印の上の上位集合"
+      }
+    }
+  },
+  {
+    "key": "29B3",
+    "mappings": {
+      "default": {
+        "default": "上に右矢印のある空集合"
+      },
+      "mathspeak": {
+        "sbrief": "上に右矢印のある空集合"
+      }
+    }
+  },
+  {
+    "key": "29B4",
+    "mappings": {
+      "default": {
+        "default": "上に左矢印のある空集合"
+      },
+      "mathspeak": {
+        "sbrief": "上に左矢印のある空集合"
+      }
+    }
+  },
+  {
+    "key": "29BD",
+    "mappings": {
+      "default": {
+        "default": "円を通る上矢印"
+      },
+      "mathspeak": {
+        "sbrief": "円を通る上矢印"
+      }
+    }
+  },
+  {
+    "key": "29EA",
+    "mappings": {
+      "default": {
+        "default": "下矢印付き黒菱形"
+      },
+      "mathspeak": {
+        "sbrief": "下矢印付き黒菱形"
+      }
+    }
+  },
+  {
+    "key": "29EC",
+    "mappings": {
+      "default": {
+        "default": "下矢印付き白丸"
+      },
+      "mathspeak": {
+        "sbrief": "下矢印付き白丸"
+      }
+    }
+  },
+  {
+    "key": "29ED",
+    "mappings": {
+      "default": {
+        "default": "下矢印付き黒丸"
+      },
+      "mathspeak": {
+        "sbrief": "下矢印付き黒丸"
+      }
+    }
+  },
+  {
+    "key": "2A17",
+    "mappings": {
+      "default": {
+        "default": "フック付き左矢印付き積分"
+      },
+      "mathspeak": {
+        "sbrief": "フック付き左矢印付き積分"
+      }
+    }
+  },
+  {
+    "key": "2B00",
+    "mappings": {
+      "default": {
+        "default": "北東白矢印"
+      }
+    }
+  },
+  {
+    "key": "2B01",
+    "mappings": {
+      "default": {
+        "default": "北西白矢印"
+      }
+    }
+  },
+  {
+    "key": "2B02",
+    "mappings": {
+      "default": {
+        "default": "南東白矢印"
+      }
+    }
+  },
+  {
+    "key": "2B03",
+    "mappings": {
+      "default": {
+        "default": "南西白矢印"
+      }
+    }
+  },
+  {
+    "key": "2B04",
+    "mappings": {
+      "default": {
+        "default": "左右白矢印"
+      },
+      "mathspeak": {
+        "sbrief": "左右白矢印"
+      }
+    }
+  },
+  {
+    "key": "2B05",
+    "mappings": {
+      "default": {
+        "default": "左黒矢印"
+      },
+      "mathspeak": {
+        "sbrief": "左黒矢印"
+      }
+    }
+  },
+  {
+    "key": "2B06",
+    "mappings": {
+      "default": {
+        "default": "上黒矢印"
+      },
+      "mathspeak": {
+        "sbrief": "上黒矢印"
+      }
+    }
+  },
+  {
+    "key": "2B07",
+    "mappings": {
+      "default": {
+        "default": "下黒矢印"
+      },
+      "mathspeak": {
+        "sbrief": "下黒矢印"
+      }
+    }
+  },
+  {
+    "key": "2B08",
+    "mappings": {
+      "default": {
+        "default": "北東黒矢印"
+      }
+    }
+  },
+  {
+    "key": "2B09",
+    "mappings": {
+      "default": {
+        "default": "北西黒矢印"
+      }
+    }
+  },
+  {
+    "key": "2B0A",
+    "mappings": {
+      "default": {
+        "default": "南東黒矢印"
+      }
+    }
+  },
+  {
+    "key": "2B0B",
+    "mappings": {
+      "default": {
+        "default": "南西黒矢印"
+      }
+    }
+  },
+  {
+    "key": "2B0C",
+    "mappings": {
+      "default": {
+        "default": "左右黒矢印"
+      },
+      "mathspeak": {
+        "sbrief": "左右黒矢印"
+      }
+    }
+  },
+  {
+    "key": "2B0D",
+    "mappings": {
+      "default": {
+        "default": "上下黒矢印"
+      },
+      "mathspeak": {
+        "sbrief": "上下黒矢印"
+      }
+    }
+  },
+  {
+    "key": "2B0E",
+    "mappings": {
+      "default": {
+        "default": "下向き先端付き右矢印"
+      },
+      "mathspeak": {
+        "sbrief": "下向き先端付き右矢印"
+      }
+    }
+  },
+  {
+    "key": "2B0F",
+    "mappings": {
+      "default": {
+        "default": "上向き先端付き右矢印"
+      },
+      "mathspeak": {
+        "sbrief": "上向き先端付き右矢印"
+      }
+    }
+  },
+  {
+    "key": "2B10",
+    "mappings": {
+      "default": {
+        "default": "下向き先端付き左矢印"
+      },
+      "mathspeak": {
+        "sbrief": "下向き先端付き左矢印"
+      }
+    }
+  },
+  {
+    "key": "2B11",
+    "mappings": {
+      "default": {
+        "default": "上向き先端付き左矢印"
+      },
+      "mathspeak": {
+        "sbrief": "上向き先端付き左矢印"
+      }
+    }
+  },
+  {
+    "key": "2B30",
+    "mappings": {
+      "default": {
+        "default": "小円付き左矢印"
+      },
+      "mathspeak": {
+        "sbrief": "小円付き左矢印"
+      }
+    }
+  },
+  {
+    "key": "2B31",
+    "mappings": {
+      "default": {
+        "default": "三重左矢印"
+      },
+      "mathspeak": {
+        "sbrief": "三重左矢印"
+      }
+    }
+  },
+  {
+    "key": "2B32",
+    "mappings": {
+      "default": {
+        "default": "丸付きプラス付き左矢印"
+      },
+      "mathspeak": {
+        "sbrief": "丸付きプラス付き左矢印"
+      }
+    }
+  },
+  {
+    "key": "2B33",
+    "mappings": {
+      "default": {
+        "default": "長い左波矢印"
+      },
+      "mathspeak": {
+        "sbrief": "長い左波矢印"
+      }
+    }
+  },
+  {
+    "key": "2B34",
+    "mappings": {
+      "default": {
+        "default": "縦線付き左二頭矢印"
+      },
+      "mathspeak": {
+        "sbrief": "縦線付き左二頭矢印"
+      }
+    }
+  },
+  {
+    "key": "2B35",
+    "mappings": {
+      "default": {
+        "default": "二重縦線付き左二頭矢印"
+      },
+      "mathspeak": {
+        "sbrief": "二重縦線付き左二頭矢印"
+      }
+    }
+  },
+  {
+    "key": "2B36",
+    "mappings": {
+      "default": {
+        "default": "縦線からの左二頭矢印"
+      },
+      "mathspeak": {
+        "sbrief": "縦線からの左二頭矢印"
+      }
+    }
+  },
+  {
+    "key": "2B37",
+    "mappings": {
+      "default": {
+        "default": "三重破線付き左二頭矢印"
+      },
+      "mathspeak": {
+        "sbrief": "三重破線付き左二頭矢印"
+      }
+    }
+  },
+  {
+    "key": "2B38",
+    "mappings": {
+      "default": {
+        "default": "点線付き左矢印"
+      },
+      "mathspeak": {
+        "sbrief": "点線付き左矢印"
+      }
+    }
+  },
+  {
+    "key": "2B39",
+    "mappings": {
+      "default": {
+        "default": "縦線付き尾付き左矢印"
+      },
+      "mathspeak": {
+        "sbrief": "縦線付き尾付き左矢印"
+      }
+    }
+  },
+  {
+    "key": "2B3A",
+    "mappings": {
+      "default": {
+        "default": "二重縦線付き尾付き左矢印"
+      },
+      "mathspeak": {
+        "sbrief": "二重縦線付き尾付き左矢印"
+      }
+    }
+  },
+  {
+    "key": "2B3B",
+    "mappings": {
+      "default": {
+        "default": "尾付き左二頭矢印"
+      },
+      "mathspeak": {
+        "sbrief": "尾付き左二頭矢印"
+      }
+    }
+  },
+  {
+    "key": "2B3C",
+    "mappings": {
+      "default": {
+        "default": "縦線付き尾付き左二頭矢印"
+      },
+      "mathspeak": {
+        "sbrief": "縦線付き尾付き左二頭矢印"
+      }
+    }
+  },
+  {
+    "key": "2B3D",
+    "mappings": {
+      "default": {
+        "default": "二重縦線付き尾付き左二頭矢印"
+      },
+      "mathspeak": {
+        "sbrief": "二重縦線付き尾付き左二頭矢印"
+      }
+    }
+  },
+  {
+    "key": "2B3E",
+    "mappings": {
+      "default": {
+        "default": "×を通る左矢印"
+      },
+      "mathspeak": {
+        "sbrief": "×を通る左矢印"
+      }
+    }
+  },
+  {
+    "key": "2B3F",
+    "mappings": {
+      "default": {
+        "default": "左向き波矢印"
+      }
+    }
+  },
+  {
+    "key": "2B40",
+    "mappings": {
+      "default": {
+        "default": "左矢印の上の等号"
+      },
+      "mathspeak": {
+        "sbrief": "左矢印の上の等号"
+      }
+    }
+  },
+  {
+    "key": "2B41",
+    "mappings": {
+      "default": {
+        "default": "左矢印の上の逆チルダ演算子"
+      },
+      "mathspeak": {
+        "sbrief": "左矢印の上の逆チルダ演算子"
+      }
+    }
+  },
+  {
+    "key": "2B42",
+    "mappings": {
+      "default": {
+        "default": "逆ほぼ等しいの上の左矢印"
+      },
+      "mathspeak": {
+        "sbrief": "逆ほぼ等しいの上の左矢印"
+      }
+    }
+  },
+  {
+    "key": "2B43",
+    "mappings": {
+      "default": {
+        "default": "大なりを通る右矢印"
+      },
+      "mathspeak": {
+        "sbrief": "大なりを通る右矢印"
+      }
+    }
+  },
+  {
+    "key": "2B44",
+    "mappings": {
+      "default": {
+        "default": "上位集合を通る右矢印"
+      },
+      "mathspeak": {
+        "sbrief": "上位集合を通る右矢印"
+      }
+    }
+  },
+  {
+    "key": "2B45",
+    "mappings": {
+      "default": {
+        "default": "左四重矢印"
+      },
+      "mathspeak": {
+        "sbrief": "左四重矢印"
+      }
+    }
+  },
+  {
+    "key": "2B46",
+    "mappings": {
+      "default": {
+        "default": "右四重矢印"
+      },
+      "mathspeak": {
+        "sbrief": "右四重矢印"
+      }
+    }
+  },
+  {
+    "key": "2B47",
+    "mappings": {
+      "default": {
+        "default": "右矢印の上の逆チルダ演算子"
+      },
+      "mathspeak": {
+        "sbrief": "右矢印の上の逆チルダ演算子"
+      }
+    }
+  },
+  {
+    "key": "2B48",
+    "mappings": {
+      "default": {
+        "default": "逆ほぼ等しいの上の右矢印"
+      },
+      "mathspeak": {
+        "sbrief": "逆ほぼ等しいの上の右矢印"
+      }
+    }
+  },
+  {
+    "key": "2B49",
+    "mappings": {
+      "default": {
+        "default": "左矢印の上のチルダ演算子"
+      },
+      "mathspeak": {
+        "sbrief": "左矢印の上のチルダ演算子"
+      }
+    }
+  },
+  {
+    "key": "2B4A",
+    "mappings": {
+      "default": {
+        "default": "ほぼ等しいの上の左矢印"
+      },
+      "mathspeak": {
+        "sbrief": "ほぼ等しいの上の左矢印"
+      }
+    }
+  },
+  {
+    "key": "2B4B",
+    "mappings": {
+      "default": {
+        "default": "逆チルダ演算子の上の左矢印"
+      },
+      "mathspeak": {
+        "sbrief": "逆チルダ演算子の上の左矢印"
+      }
+    }
+  },
+  {
+    "key": "2B4C",
+    "mappings": {
+      "default": {
+        "default": "逆チルダ演算子の上の右矢印"
+      },
+      "mathspeak": {
+        "sbrief": "逆チルダ演算子の上の右矢印"
+      }
+    }
+  },
+  {
+    "key": "FFE9",
+    "mappings": {
+      "default": {
+        "default": "半角左矢印"
+      },
+      "mathspeak": {
+        "sbrief": "半角左矢印"
+      }
+    }
+  },
+  {
+    "key": "FFEA",
+    "mappings": {
+      "default": {
+        "default": "半角上矢印"
+      },
+      "mathspeak": {
+        "sbrief": "半角上矢印"
+      }
+    }
+  },
+  {
+    "key": "FFEB",
+    "mappings": {
+      "default": {
+        "default": "半角右矢印"
+      },
+      "mathspeak": {
+        "sbrief": "半角右矢印"
+      }
+    }
+  },
+  {
+    "key": "FFEC",
+    "mappings": {
+      "default": {
+        "default": "半角下矢印"
+      },
+      "mathspeak": {
+        "sbrief": "半角下矢印"
       }
     }
   }
-] 
+]
