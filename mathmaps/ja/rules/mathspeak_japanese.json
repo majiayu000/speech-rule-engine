@@ -6,6 +6,24 @@
     "rules": [
       [
         "Precondition",
+        "ordinal",
+        "default",
+        "self::number[@role=\"ordinal\"]"
+      ],
+      [
+        "Precondition",
+        "multiplication",
+        "default",
+        "self::times"
+      ],
+      [
+        "Precondition",
+        "equals",
+        "default",
+        "self::equals"
+      ],
+      [
+        "Precondition",
         "simple-fraction",
         "default",
         "self::mfrac",

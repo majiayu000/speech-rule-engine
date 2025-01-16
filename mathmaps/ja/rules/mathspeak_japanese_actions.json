@@ -451,8 +451,18 @@
     ],
     [
       "Action",
+      "fraction-with-operation",
+      "[n] children/*[2]; [t] \"分の\"; [t] \"(\"; [n] children/*[1]; [t] \")\""
+    ],
+    [
+      "Action",
       "number",
       "[t] CSFnumberToWords"
+    ],
+    [
+      "Action",
+      "ordinal",
+      "[n] text(); [t] \"番目\""
     ],
     [
       "Action",
@@ -462,36 +472,40 @@
     [
       "Action",
       "multiplication",
-      "[m] children/* (separator:\"かける\")"
+      "[n] children/*[1]; [t] \"かける\"; [n] children/*[2]"
     ],
     [
       "Action",
       "equals",
-      "[t] \"イコール\""
+      "[n] children/*[1]; [t] \"イコール\"; [n] children/*[2]"
+    ],
+    [
+      "Precondition",
+      "fraction",
+      "default",
+      "self::fraction",
+      "not(children/*[1][self::plus or self::minus or self::times or self::divide])"
+    ],
+    [
+      "Precondition",
+      "fraction-with-operation",
+      "default",
+      "self::fraction",
+      "children/*[1][self::plus or self::minus or self::times or self::divide]"
     ],
     [
       "Precondition",
       "number",
       "default",
-      "self::number"
+      "self::number",
+      "not(ancestor::fraction)"
     ],
     [
       "Precondition",
-      "addition",
+      "ordinal",
       "default",
-      "self::plus"
-    ],
-    [
-      "Precondition",
-      "multiplication",
-      "default",
-      "self::times"
-    ],
-    [
-      "Precondition",
-      "equals",
-      "default",
-      "self::equals"
+      "self::number",
+      "ancestor::ordinal"
     ]
   ]
 }

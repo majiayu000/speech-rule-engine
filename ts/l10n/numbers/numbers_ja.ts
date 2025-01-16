@@ -1,279 +1,348 @@
 /**
  * @file Japanese number file.
- * @author Optimized version
+ * @author Enhanced version with better context support
  */
 
 import { Numbers, NUMBERS as NUMB } from '../messages.js';
+import { Grammar } from '../../rule_engine/grammar.js';
 
 interface NumberDictionary {
   [key: string]: string;
 }
 
-// Basic Japanese numbers with both 音読み and 訓読み options
-const ONES: string[] = ['零', '一', '二', '三', '四', '五', '六', '七', '八', '九'];
-const ONES_KANA: string[] = ['れい', 'いち', 'に', 'さん', 'よん', 'ご', 'ろく', 'なな', 'はち', 'きゅう'];
-const TENS: string[] = ['', '十', '百', '千'];
-const TENS_KANA: string[] = ['', 'じゅう', 'ひゃく', 'せん'];
-const LARGE_NUMBERS: string[] = ['', '万', '億', '兆', '京', '垓', '秭', '穣', '溝', '澗', '正', '載', '極'];
-const LARGE_NUMBERS_KANA: string[] = ['', 'まん', 'おく', 'ちょう', 'けい', 'がい', 'し', 'じょう', 'こう', 'かん', 'せい', 'さい', 'ごく'];
+interface NumberContext {
+  type?: 'date' | 'time' | 'phone' | 'price' | 'counter' | 'age' | 'general';
+  counter?: keyof typeof COUNTERS;
+  style?: 'formal' | 'casual';
+}
 
-// Special readings for numbers
+// 基本数字 - 音読み
+const ONES: string[] = ['零', '一', '二', '三', '四', '五', '六', '七', '八', '九'];
+const ONES_KUNYOMI: string[] = ['ゼロ', 'ひと', 'ふた', 'み', 'よ', 'いつ', 'む', 'なな', 'や', 'ここの'];
+const TENS: string[] = ['', '十', '百', '千'];
+const LARGE_NUMBERS: string[] = ['', '万', '億', '兆', '京', '垓', '秭', '穣', '溝', '澗', '正', '載', '極'];
+
+// 助数词表
+const COUNTERS = {
+  general: '個',
+  cylindrical: '本',
+  flat: '枚',
+  machine: '台',
+  people: '人',
+  age: '歳',
+  time: '時',
+  minute: '分',
+  second: '秒',
+  year: '年',
+  month: '月',
+  day: '日',
+  floor: '階',
+  frequency: '回',
+  books: '冊',
+  small_animals: '匹',
+  long_objects: '本',
+  vehicles: '台'
+} as const;
+
+// 特殊读法
 const SPECIAL_READINGS: NumberDictionary = {
-  // 特殊な読み方（音読み）
-  '300': '三百',
-  '600': '六百',
-  '800': '八百',
-  '1000': '千',
-  '3000': '三千',
-  '8000': '八千',
-  // 4と7の特殊な読み方
+  // 基本特殊读法
+  '0': 'れい',
   '4': 'よん',
   '7': 'なな',
+  '9': 'きゅう',
+  // 十位数特殊读法
   '40': 'よんじゅう',
-  '400': 'よんひゃく',
-  '4000': 'よんせん',
   '70': 'ななじゅう',
+  '90': 'きゅうじゅう',
+  // 百位数特殊读法
+  '300': '三百',
+  '400': 'よんひゃく',
+  '600': '六百',
   '700': 'ななひゃく',
+  '800': '八百',
+  '900': 'きゅうひゃく',
+  // 千位数特殊读法
+  '1000': '千',
+  '3000': '三千',
+  '4000': 'よんせん',
   '7000': 'ななせん',
-  // 100, 1000の特殊な読み方
-  '100': 'ひゃく',
-  // 特殊な読み方（訓読み）
-  'hitotsu': '一つ',
-  'futatsu': '二つ',
-  'mittsu': '三つ',
-  'yottsu': '四つ',
-  'itsutsu': '五つ',
-  'muttsu': '六つ',
-  'nanatsu': '七つ',
-  'yattsu': '八つ',
-  'kokonotsu': '九つ',
-  'too': '十'
+  '8000': '八千',
+  // 年号特殊读法
+  '2024年': '二千二十四年',
+  // 时间特殊读法
+  '時': 'じ',
+  '分': 'ふん',
+  '秒': 'びょう',
+  // 金额特殊读法
+  '円': 'えん',
+  '銭': 'せん'
 };
 
-// 助数詞の辞書
-const COUNTERS: NumberDictionary = {
-  'general': '個',
-  'people': '人',
-  'time': '回',
-  'age': '歳',
-  'hour': '時',
-  'minute': '分',
-  'month': '月',
-  'day': '日',
-  'floor': '階',
-  'books': '冊',
-  'small_animals': '匹',
-  'long_objects': '本',
-  'flat_objects': '枚',
-  'machines': '台',
-  'buildings': '棟'
+// 序数表
+const SPECIAL_ORDINALS: NumberDictionary = {
+  '1': '一番目',
+  '2': '二番目',
+  '3': '三番目',
+  '4': 'よん番目',
+  '5': '五番目',
+  '6': '六番目',
+  '7': 'なな番目',
+  '8': '八番目',
+  '9': '九番目',
+  '10': '十番目'
 };
 
 /**
- * Convert a number to Japanese words with optional reading style.
- * @param num The number to convert.
- * @param style The reading style ('kanji' or 'kana', defaults to 'kanji').
- * @param counter Optional counter suffix.
- * @returns The Japanese reading of the number.
+ * 处理分数
+ * @param numerator 分子
+ * @param denominator 分母
+ * @returns 分数的日语读法
  */
-function numberToWords(num: number, style: 'kanji' | 'kana' = 'kanji', counter?: string): string {
-  console.log('[numberToWords] Input:', { num, style, counter });
-  
-  if (num === 0) {
-    const result = style === 'kanji' ? ONES[0] : ONES_KANA[0];
-    console.log('[numberToWords] Zero case:', result);
-    return result;
+function processFraction(numerator: number, denominator: number): string {
+  // 特殊分数处理
+  if (numerator === 1) {
+    if (denominator === 2) return '二分の一';
+    if (denominator === 3) return '三分の一';
+    if (denominator === 4) return '四分の一';
   }
   
-  if (num < 0) {
-    const prefix = style === 'kanji' ? 'マイナス' : 'まいなす';
-    const result = prefix + numberToWords(Math.abs(num), style);
-    console.log('[numberToWords] Negative case:', result);
-    return result;
-  }
-  
-  // Check for special readings first
-  const specialReading = SPECIAL_READINGS[num.toString()];
-  if (specialReading && !counter) {
-    console.log('[numberToWords] Special reading:', specialReading);
-    return specialReading;
-  }
-
-  let result = '';
-  let groupCount = 0;
-  let tempNum = num;
-  
-  console.log('[numberToWords] Starting group processing for:', tempNum);
-  
-  while (tempNum > 0) {
-    const group = tempNum % 10000;
-    if (group !== 0) {
-      const groupText = convertGroup(group, style);
-      console.log('[numberToWords] Group processing:', { 
-        group, 
-        groupText, 
-        groupCount,
-        currentResult: result 
-      });
-      
-      if (groupCount > 0) {
-        result = groupText + (style === 'kanji' ? LARGE_NUMBERS[groupCount] : LARGE_NUMBERS_KANA[groupCount]) + result;
-      } else {
-        result = groupText + result;
-      }
-    }
-    tempNum = Math.floor(tempNum / 10000);
-    groupCount++;
-  }
-  
-  // Add counter if specified
-  if (counter && COUNTERS[counter]) {
-    console.log('[numberToWords] Adding counter:', counter);
-    result += COUNTERS[counter];
-  }
-  
-  console.log('[numberToWords] Final result:', result);
-  return result;
+  return `${numberToWords(numerator)}分の${numberToWords(denominator)}`;
 }
 
 /**
- * Convert a group of up to 4 digits to Japanese.
- * @param num The number group to convert (0-9999).
- * @param style The reading style ('kanji' or 'kana').
- * @returns The Japanese reading of the number group.
+ * 获取数字的训读み
+ * @param num 数字
+ * @returns 训读み形式
  */
-function convertGroup(num: number, style: 'kanji' | 'kana' = 'kanji'): string {
-  console.log('[convertGroup] Input:', { num, style });
-  
+function getKunyomi(num: number): string {
+  if (num < 10) {
+    return ONES_KUNYOMI[num];
+  }
+  return numberToWords(num); // 大于9的数字使用音读み
+}
+
+/**
+ * 处理时间表达
+ * @param hour 小时
+ * @param minute 分钟
+ * @returns 时间的日语表达
+ */
+function processTime(hour: number, minute: number): string {
   let result = '';
-  let digits = num.toString().split('').map(Number).reverse();
   
-  console.log('[convertGroup] Digits:', digits);
+  // 处理小时
+  if (hour === 0) {
+    result = '零時';
+  } else if (hour === 1) {
+    result = '一時';
+  } else {
+    result = numberToWords(hour) + '時';
+  }
   
-  for (let i = 0; i < digits.length; i++) {
-    if (digits[i] === 0) {
-      console.log('[convertGroup] Skipping zero at position:', i);
-      continue;
-    }
-    
-    // Special handling for 4 and 7
-    if (style === 'kana' && (digits[i] === 4 || digits[i] === 7)) {
-      const reading = digits[i] === 4 ? 'よん' : 'なな';
-      const suffix = i > 0 ? TENS_KANA[i] : '';
-      result = reading + suffix + result;
-      console.log('[convertGroup] Special reading for 4/7:', { 
-        digit: digits[i], 
-        reading, 
-        suffix, 
-        result 
-      });
-      continue;
-    }
-    
-    if (digits[i] === 1 && i > 0) {
-      result = (style === 'kanji' ? TENS[i] : TENS_KANA[i]) + result;
-      console.log('[convertGroup] Single digit case:', result);
+  // 处理分钟
+  if (minute > 0) {
+    if (minute === 30) {
+      result += '半';
     } else {
-      const digitReading = style === 'kanji' ? ONES[digits[i]] : ONES_KANA[digits[i]];
-      const positionReading = i > 0 ? (style === 'kanji' ? TENS[i] : TENS_KANA[i]) : '';
-      result = digitReading + positionReading + result;
-      console.log('[convertGroup] Normal case:', { 
-        digit: digits[i], 
-        digitReading, 
-        positionReading, 
-        result 
-      });
+      result += numberToWords(minute) + '分';
     }
   }
   
-  console.log('[convertGroup] Final result:', result);
   return result;
 }
 
 /**
- * Convert a number to Japanese ordinal form.
- * @param num The number to convert.
- * @param plural A flag indicating plural (not used in Japanese).
- * @returns The Japanese ordinal form of the number.
+ * 处理日期表达
+ * @param year 年
+ * @param month 月
+ * @param day 日
+ * @returns 日期的日语表达
  */
-function numberToOrdinal(num: number, _plural: boolean): string {
-  // 先获取数字的基本读法，总是使用假名形式
-  const baseReading = numberToWords(num, 'kana');
-  // 添加序数后缀
-  return baseReading + '番目';
+function processDate(year: number, month: number, day: number): string {
+  let result = '';
+  
+  // 处理年
+  if (year) {
+    result = numberToWords(year) + '年';
+  }
+  
+  // 处理月
+  if (month) {
+    result += numberToWords(month) + '月';
+  }
+  
+  // 处理日
+  if (day) {
+    result += numberToWords(day) + '日';
+  }
+  
+  return result;
 }
 
 /**
- * Convert a number to Japanese counter form.
- * @param num The number to convert.
- * @param counter The type of counter to use.
- * @param style The reading style ('kanji' or 'kana').
- * @returns The Japanese counter form of the number.
+ * 转换数字为日语表达
+ * @param num 要转换的数字
+ * @param context 上下文信息
+ * @returns 数字的日语读法
  */
-function numberWithCounter(num: number, counter: string, style: 'kanji' | 'kana' = 'kanji'): string {
-  return numberToWords(num, style, counter);
+function numberToWords(num: number, context?: NumberContext): string {
+  // 处理0
+  if (num === 0) return context?.style === 'formal' ? '零' : 'れい';
+  
+  // 处理大数
+  if (num >= Math.pow(10, 36)) return num.toString();
+  
+  // 检查特殊读法
+  const specialKey = num.toString() + (context?.counter || '');
+  if (SPECIAL_READINGS[specialKey]) {
+    return SPECIAL_READINGS[specialKey];
+  }
+  
+  // 根据上下文选择处理方式
+  switch (context?.type) {
+    case 'time':
+      const hour = Math.floor(num / 100);
+      const minute = num % 100;
+      return processTime(hour, minute);
+      
+    case 'date':
+      const year = Math.floor(num / 10000);
+      const month = Math.floor((num % 10000) / 100);
+      const day = num % 100;
+      return processDate(year, month, day);
+      
+    case 'age':
+      return processNumber(num) + COUNTERS.age;
+      
+    case 'counter':
+      if (context.counter && context.counter in COUNTERS) {
+        return processNumber(num) + COUNTERS[context.counter];
+      }
+      return processNumber(num) + COUNTERS.general;
+  }
+  
+  return processNumber(num);
 }
 
 /**
- * Get the appropriate counter for a given category.
- * @param category The category of items being counted.
- * @returns The appropriate counter or the general counter if not found.
+ * 处理数字转换的核心逻辑
+ * @param num 要转换的数字
+ * @returns 数字的日语读法
  */
-function getCounter(category: string): string {
-  return COUNTERS[category] || COUNTERS['general'];
+function processNumber(num: number): string {
+  let str = '';
+  let temp = num;
+  
+  // 处理大数
+  for (let i = LARGE_NUMBERS.length - 1; i >= 0; i--) {
+    const div = Math.pow(10000, i);
+    if (temp >= div) {
+      const count = Math.floor(temp / div);
+      if (count > 1 || i === 0) {
+        str += processSmallNumber(count);
+      }
+      str += LARGE_NUMBERS[i];
+      temp = temp % div;
+    }
+  }
+  
+  if (temp > 0) {
+    str += processSmallNumber(temp);
+  }
+  
+  return str || NUMBERS.zero;
 }
 
-// Export the Japanese number functions
-export const NUMBERS: Numbers = {
-  ...NUMB(),
-  numberToWords: (num: number, style?: string) => {
-    console.log('[NUMBERS.numberToWords] Called with:', { num, style });
-    try {
-      // 如果没有指定 style，默认使用 kana 形式
-      const actualStyle = style || 'kana';
-      const result = numberToWords(num, actualStyle as 'kanji' | 'kana');
-      console.log('[NUMBERS.numberToWords] Result:', result);
-      return result;
-    } catch (error) {
-      console.error('[NUMBERS.numberToWords] Error:', error);
-      throw error;
+/**
+ * 处理小于10000的数字
+ * @param num 要转换的数字
+ * @returns 数字的日语读法
+ */
+function processSmallNumber(num: number): string {
+  let str = '';
+  let temp = num;
+  
+  // 处理千位
+  if (temp >= 1000) {
+    const thousands = Math.floor(temp / 1000);
+    if (thousands > 1) str += ONES[thousands];
+    str += TENS[3];
+    temp = temp % 1000;
+  }
+  
+  // 处理百位
+  if (temp >= 100) {
+    const hundreds = Math.floor(temp / 100);
+    if (hundreds > 1) str += ONES[hundreds];
+    str += TENS[2];
+    temp = temp % 100;
+  }
+  
+  // 处理十位
+  if (temp >= 10) {
+    const tens = Math.floor(temp / 10);
+    if (tens > 1) str += ONES[tens];
+    str += TENS[1];
+    temp = temp % 10;
+  }
+  
+  // 处理个位
+  if (temp > 0) {
+    str += ONES[temp];
+  }
+  
+  return str;
+}
+
+export const NUMBERS: Numbers = NUMB({
+  numberToWords,
+  
+  numberToOrdinal: (num: number, _plural: boolean) => {
+    const context = Grammar.getInstance().getParameter('context');
+    
+    // 分数上下文
+    if (context === 'fraction') {
+      const parts = num.toString().split('/');
+      if (parts.length === 2) {
+        return processFraction(parseInt(parts[0]), parseInt(parts[1]));
+      }
+      return NUMBERS.numberToWords(num);
     }
-  },
-  numberToOrdinal: (num: number, plural: boolean) => {
-    console.log('[NUMBERS.numberToOrdinal] Called with:', { num, plural });
-    try {
-      const result = numberToOrdinal(num, plural);
-      console.log('[NUMBERS.numberToOrdinal] Result:', result);
-      return result;
-    } catch (error) {
-      console.error('[NUMBERS.numberToOrdinal] Error:', error);
-      throw error;
+    
+    // 特殊序数
+    if (SPECIAL_ORDINALS[num]) {
+      return SPECIAL_ORDINALS[num];
     }
+    
+    // 一般序数
+    return NUMBERS.numberToWords(num) + '番目';
   },
+  
   wordOrdinal: (num: number) => {
-    console.log('[NUMBERS.wordOrdinal] Called with:', num);
-    try {
-      const result = numberToOrdinal(num, false);
-      console.log('[NUMBERS.wordOrdinal] Result:', result);
-      return result;
-    } catch (error) {
-      console.error('[NUMBERS.wordOrdinal] Error:', error);
-      return num.toString() + '番目';
+    const context = Grammar.getInstance().getParameter('context');
+    
+    if (context === 'fraction') {
+      return NUMBERS.numberToWords(num);
     }
+    
+    if (SPECIAL_ORDINALS[num]) {
+      return SPECIAL_ORDINALS[num];
+    }
+    
+    return NUMBERS.numberToWords(num) + '番目';
   },
+  
   numericOrdinal: (num: number) => {
-    console.log('[NUMBERS.numericOrdinal] Called with:', num);
-    try {
-      const result = num.toString() + '番';
-      console.log('[NUMBERS.numericOrdinal] Result:', result);
-      return result;
-    } catch (error) {
-      console.error('[NUMBERS.numericOrdinal] Error:', error);
-      return num.toString() + '番';
+    const context = Grammar.getInstance().getParameter('context');
+    
+    if (context === 'fraction') {
+      return num.toString();
     }
+    
+    return num.toString() + '番';
   },
-  numberWithCounter,
-  getCounter,
+  
   zero: '零',
   ones: ONES,
   tens: TENS,
@@ -281,10 +350,8 @@ export const NUMBERS: Numbers = {
   numSep: '',
   vulgarSep: '分の',
   special: {
-    counters: Object.entries(COUNTERS).map(([key, value]) => `${key}:${value}`),
-    readings: Object.entries(SPECIAL_READINGS).map(([key, value]) => `${key}:${value}`),
-    ordinals: ['零番目', '一番目', '二番目', '三番目', 'よん番目', '五番目', '六番目', 'なな番目', '八番目', '九番目'],
-    smallOrdinals: ['零番目', '一番目', '二番目', '三番目', 'よん番目', '五番目', '六番目', 'なな番目', '八番目', '九番目'],
-    fractions: ['よん分の一', 'よん分の二', 'よん分の三', '二分の一', '三分の一', '三分の二']
+    ordinals: Object.values(SPECIAL_ORDINALS),
+    counters: Object.values(COUNTERS),
+    readings: Object.entries(SPECIAL_READINGS).map(([key, value]) => `${key}:${value}`)
   }
-}; 
+}); 

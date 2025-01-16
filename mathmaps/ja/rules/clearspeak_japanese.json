@@ -1,58 +1,115 @@
 {
-    "domain": "clearspeak", 
-    "locale": "ja",
-    "modality": "speech",
-    "inherits": "base",
-    "rules": [
-      [
-        "Precondition",
-        "german-font",
-        "default",
-        "self::*[@font=\"fraktur\"]",
-        "not(contains(@grammar, \"ignoreFont\"))"
+  "domain": "clearspeak",
+  "locale": "ja",
+  "modality": "speech",
+  "inherits": "base",
+  "rules": [
+    {
+      "name": "german-font",
+      "type": "Rule",
+      "match": "self::*[@font=\"fraktur\"]",
+      "replace": "[n] ."
+    },
+    {
+      "name": "german-font-bold",
+      "type": "Rule",
+      "match": "self::*[@font=\"bold-fraktur\"]",
+      "replace": "[n] ."
+    },
+    {
+      "name": "fraction",
+      "type": "Rule",
+      "match": "self::fraction",
+      "constraints": [
+        "not(children/*[1][self::plus or self::minus or self::times or self::divide])"
       ],
-      [
-        "Precondition", 
-        "german-font-bold",
-        "default",
-        "self::*[@font=\"bold-fraktur\"]",
-        "not(contains(@grammar, \"ignoreFont\"))"
+      "replace": {
+        "separator": "",
+        "components": [
+          {
+            "key": "denominator",
+            "content": "[n] children/*[2]",
+            "grammar": "context=fraction"
+          },
+          {
+            "key": "separator",
+            "content": "[t] \"分の\""
+          },
+          {
+            "key": "numerator",
+            "content": "[n] children/*[1]",
+            "grammar": "context=fraction"
+          }
+        ]
+      }
+    },
+    {
+      "name": "fraction-with-operation",
+      "type": "Rule",
+      "match": "self::fraction",
+      "constraints": [
+        "children/*[1][self::plus or self::minus or self::times or self::divide]"
       ],
-      [
-        "Precondition",
-        "unit-square",
-        "default", 
-        "self::superscript[@role=\"unit\"]",
-        "children/*[2][text()=2]",
-        "name(children/*[1])=\"identifier\"",
-        "children/*[1][@category=\"unit:length\"]"
-      ],
-      [
-        "Precondition",
-        "unit-cubic",
-        "default",
-        "self::superscript[@role=\"unit\"]", 
-        "children/*[2][text()=3]",
-        "name(children/*[1])=\"identifier\"",
-        "children/*[1][@category=\"unit:length\"]"
-      ],
-      [
-        "Rule",
-        "caley-table",
-        "default",
-        "[p] (pause:short); [t] \"ケーリー表で\"; [t] count(children/*)-1; [t] \"個の要素があります\"; [n] . (grammar:?layoutSummary)",
-        "self::table[@role=\"cayley\"]",
-        "not(contains(@grammar, \"layoutSummary\"))"
-      ],
-      [
-        "Rule", 
-        "caley-table-operator",
-        "default",
-        "[p] (pause:short); [t] \"演算子\"; [n] children/*[1]/children/*[1]/children/*[1]; [t] \"のケーリー表で\"; [t] count(children/*)-1; [t] \"個の要素があります\"; [n] . (grammar:?layoutSummary)",
-        "self::table[@role=\"cayley\"]",
-        "name(children/*[1]/children/*[1]/children/*[1])=\"operator\"",
-        "not(contains(@grammar, \"layoutSummary\"))"
-      ]
-
-    ]
+      "replace": {
+        "separator": "",
+        "components": [
+          {
+            "key": "denominator",
+            "content": "[n] children/*[2]",
+            "grammar": "context=fraction"
+          },
+          {
+            "key": "separator",
+            "content": "[t] \"分の\""
+          },
+          {
+            "key": "open",
+            "content": "[t] \"(\""
+          },
+          {
+            "key": "numerator",
+            "content": "[n] children/*[1]",
+            "grammar": "context=fraction"
+          },
+          {
+            "key": "close",
+            "content": "[t] \")\""
+          }
+        ]
+      }
+    },
+    {
+      "name": "number-in-fraction",
+      "type": "Rule",
+      "match": "self::number and ancestor::fraction",
+      "replace": {
+        "grammar": "context=fraction",
+        "content": "[n] ."
+      }
+    },
+    {
+      "name": "ordinal",
+      "type": "Rule",
+      "match": "self::number[@role=\"ordinal\"] and not(ancestor::fraction)",
+      "replace": "[n] . (grammar:ordinal)"
+    },
+    {
+      "name": "number",
+      "type": "Rule",
+      "match": "self::number and not(@role=\"ordinal\") and not(ancestor::fraction)",
+      "replace": "[n] ."
+    },
+    {
+      "name": "plus",
+      "type": "Rule",
+      "match": "self::plus",
+      "replace": "[t] \"プラス\""
+    },
+    {
+      "name": "equals",
+      "type": "Rule",
+      "match": "self::equals",
+      "replace": "[t] \"イコール\""
+    }
+  ]
 }
